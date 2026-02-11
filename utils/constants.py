@@ -1,0 +1,54 @@
+import os
+
+DELIMITER = "################"
+
+T_LIST = 1
+T_ARRT = 2
+T_SEMI = 3
+T_MIX = 4
+T_OTHER = -1
+
+SMALL_TABLE_ROWS = 3
+SMALL_TABLE_COLUMNS = 3
+BIG_TABLE_ROWS = 8
+BIG_TABLE_COLUMNS = 8
+
+DEFAULT_TABLE_NAME = "table"
+DEFAULT_SUBTABLE_NAME = "subtable"
+DEFAULT_SUBVALUE_NAME = "subvalue"
+DEFAULT_SPLIT_SIG = "-"
+
+DIRECTION_KEY = "direction_key"
+SCHEMA_TOP = True
+SCHEMA_LEFT = False
+SCHEMA_FAIL = -1
+
+STATUS_END = 1
+STATUS_RETRIEVE = 2
+STATUS_AGG = 3
+STATUS_SPLIT = 4
+
+TAG_DISCRETE = 1
+TAG_CONTINUOUS = 2
+TAG_TEXT = 3
+
+MAX_ITER_META_INFORMATION_DETECTION = 5
+MAX_ITER_PRIMITIVE = 5
+MAX_RETRY_HOTREE = 3
+MAX_RETRY_PRIMITIVE = 5
+
+#################### Directory Paths ####################
+BASE_DIR = ''
+CACHE_DIR = os.path.join(BASE_DIR, 'cache')
+LOG_DIR = os.path.join(BASE_DIR, 'log')
+
+#################### Model Configuration ####################
+LLM_API_URL = ""
+LLM_API_KEY = ""
+LLM_MODEL_TYPE = ""
+
+EMBEDDING_TYPE = "api"  # "api" or "local"
+EMBEDDING_MODE_PATH = "YOUR_PATH_TO_MULTILINGULE_E5"
+EMBEDDING_API_URL = ""
+EMBEDDING_API_KEY = ""
+EMBEDDING_MODEL_TYPE = ""

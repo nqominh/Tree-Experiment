@@ -1,0 +1,535 @@
+[COLUMN STRUCTURE]
+Occupation
+Total unemployed
+  2022
+  2023
+Unemployment rates
+  Total
+  Total
+  Men
+  Men
+  Women
+  Women
+
+[ROW STRUCTURE]
+Occupation
+Total, 16 years and over(1)
+Management, professional, and related occupations
+Management, business, and financial operations occupations
+Management occupations
+Business and financial operations occupations
+Professional and related occupations
+Computer and mathematical occupations
+Architecture and engineering occupations
+Life, physical, and social science occupations
+Community and social service occupations
+Legal occupations
+Education, training, and library occupations
+Arts, design, entertainment, sports, and media occupations
+Healthcare practitioners and technical occupations
+Service occupations
+Healthcare support occupations
+Protective service occupations
+Food preparation and serving related occupations
+Building and grounds cleaning and maintenance occupations
+Personal care and service occupations
+Sales and office occupations
+Sales and related occupations
+Office and administrative support occupations
+Natural resources, construction, and maintenance occupations
+Farming, fishing, and forestry occupations
+Construction and extraction occupations
+Installation, maintenance, and repair occupations
+Production, transportation, and material moving occupations
+Production occupations
+Transportation and material moving occupations
+No previous work experience
+16 to 19 years
+20 to 24 years
+25 years and over
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style0 s style0" rowspan="3">Occupation</td>
+<td class="column1 style0 s style0" colspan="2">Total unemployed</td>
+<td class="column3 style0 s style0" colspan="6">Unemployment rates</td>
+</tr>
+<tr class="row1">
+<td class="column1 style0 n style0" rowspan="2">2022</td>
+<td class="column2 style0 n style0" rowspan="2">2023</td>
+<td class="column3 style0 s style0" colspan="2">Total</td>
+<td class="column5 style0 s style0" colspan="2">Men</td>
+<td class="column7 style0 s style0" colspan="2">Women</td>
+</tr>
+<tr class="row2">
+<td class="column3 style0 n">2022</td>
+<td class="column4 style0 n">2023</td>
+<td class="column5 style0 n">2022</td>
+<td class="column6 style0 n">2023</td>
+<td class="column7 style0 n">2022</td>
+<td class="column8 style0 n">2023</td>
+</tr>
+<tr class="row3">
+<td class="column0 style0 s"></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style0 s">Total, 16 years and over(1)</td>
+<td class="column1 style0 n">5996</td>
+<td class="column2 style0 n">6080</td>
+<td class="column3 style0 n">3.6</td>
+<td class="column4 style0 n">3.6</td>
+<td class="column5 style0 n">3.7</td>
+<td class="column6 style0 n">3.8</td>
+<td class="column7 style0 n">3.6</td>
+<td class="column8 style0 n">3.5</td>
+</tr>
+<tr class="row5">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style0 s">Management, professional, and related occupations</td>
+<td class="column1 style0 n">1355</td>
+<td class="column2 style0 n">1432</td>
+<td class="column3 style0 n">2</td>
+<td class="column4 style0 n">2</td>
+<td class="column5 style0 n">1.8</td>
+<td class="column6 style0 n">2</td>
+<td class="column7 style0 n">2.1</td>
+<td class="column8 style0 n">2</td>
+</tr>
+<tr class="row7">
+<td class="column0 style0 s">Management, business, and financial operations occupations</td>
+<td class="column1 style0 n">530</td>
+<td class="column2 style0 n">604</td>
+<td class="column3 style0 n">1.8</td>
+<td class="column4 style0 n">1.9</td>
+<td class="column5 style0 n">1.6</td>
+<td class="column6 style0 n">1.9</td>
+<td class="column7 style0 n">2</td>
+<td class="column8 style0 n">2</td>
+</tr>
+<tr class="row8">
+<td class="column0 style0 s">Management occupations</td>
+<td class="column1 style0 n">330</td>
+<td class="column2 style0 n">361</td>
+<td class="column3 style0 n">1.6</td>
+<td class="column4 style0 n">1.7</td>
+<td class="column5 style0 n">1.5</td>
+<td class="column6 style0 n">1.7</td>
+<td class="column7 style0 n">1.7</td>
+<td class="column8 style0 n">1.7</td>
+</tr>
+<tr class="row9">
+<td class="column0 style0 s">Business and financial operations occupations</td>
+<td class="column1 style0 n">200</td>
+<td class="column2 style0 n">243</td>
+<td class="column3 style0 n">2.1</td>
+<td class="column4 style0 n">2.5</td>
+<td class="column5 style0 n">1.9</td>
+<td class="column6 style0 n">2.5</td>
+<td class="column7 style0 n">2.4</td>
+<td class="column8 style0 n">2.4</td>
+</tr>
+<tr class="row10">
+<td class="column0 style0 s">Professional and related occupations</td>
+<td class="column1 style0 n">825</td>
+<td class="column2 style0 n">828</td>
+<td class="column3 style0 n">2.1</td>
+<td class="column4 style0 n">2</td>
+<td class="column5 style0 n">2</td>
+<td class="column6 style0 n">2.1</td>
+<td class="column7 style0 n">2.2</td>
+<td class="column8 style0 n">2</td>
+</tr>
+<tr class="row11">
+<td class="column0 style0 s">Computer and mathematical occupations</td>
+<td class="column1 style0 n">118</td>
+<td class="column2 style0 n">138</td>
+<td class="column3 style0 n">1.9</td>
+<td class="column4 style0 n">2.1</td>
+<td class="column5 style0 n">1.8</td>
+<td class="column6 style0 n">2</td>
+<td class="column7 style0 n">2</td>
+<td class="column8 style0 n">2.1</td>
+</tr>
+<tr class="row12">
+<td class="column0 style0 s">Architecture and engineering occupations</td>
+<td class="column1 style0 n">52</td>
+<td class="column2 style0 n">64</td>
+<td class="column3 style0 n">1.5</td>
+<td class="column4 style0 n">1.8</td>
+<td class="column5 style0 n">1.4</td>
+<td class="column6 style0 n">1.5</td>
+<td class="column7 style0 n">2.2</td>
+<td class="column8 style0 n">3.1</td>
+</tr>
+<tr class="row13">
+<td class="column0 style0 s">Life, physical, and social science occupations</td>
+<td class="column1 style0 n">26</td>
+<td class="column2 style0 n">32</td>
+<td class="column3 style0 n">1.4</td>
+<td class="column4 style0 n">1.7</td>
+<td class="column5 style0 n">1.7</td>
+<td class="column6 style0 n">1.8</td>
+<td class="column7 style0 n">1</td>
+<td class="column8 style0 n">1.5</td>
+</tr>
+<tr class="row14">
+<td class="column0 style0 s">Community and social service occupations</td>
+<td class="column1 style0 n">54</td>
+<td class="column2 style0 n">66</td>
+<td class="column3 style0 n">1.8</td>
+<td class="column4 style0 n">2.3</td>
+<td class="column5 style0 n">1.9</td>
+<td class="column6 style0 n">2.7</td>
+<td class="column7 style0 n">1.8</td>
+<td class="column8 style0 n">2.1</td>
+</tr>
+<tr class="row15">
+<td class="column0 style0 s">Legal occupations</td>
+<td class="column1 style0 n">26</td>
+<td class="column2 style0 n">19</td>
+<td class="column3 style0 n">1.4</td>
+<td class="column4 style0 n">1</td>
+<td class="column5 style0 n">0.9</td>
+<td class="column6 style0 n">0.5</td>
+<td class="column7 style0 n">1.8</td>
+<td class="column8 style0 n">1.4</td>
+</tr>
+<tr class="row16">
+<td class="column0 style0 s">Education, training, and library occupations</td>
+<td class="column1 style0 n">254</td>
+<td class="column2 style0 n">243</td>
+<td class="column3 style0 n">2.7</td>
+<td class="column4 style0 n">2.5</td>
+<td class="column5 style0 n">2.8</td>
+<td class="column6 style0 n">3</td>
+<td class="column7 style0 n">2.6</td>
+<td class="column8 style0 n">2.3</td>
+</tr>
+<tr class="row17">
+<td class="column0 style0 s">Arts, design, entertainment, sports, and media occupations</td>
+<td class="column1 style0 n">144</td>
+<td class="column2 style0 n">130</td>
+<td class="column3 style0 n">4</td>
+<td class="column4 style0 n">3.6</td>
+<td class="column5 style0 n">4</td>
+<td class="column6 style0 n">3.6</td>
+<td class="column7 style0 n">4</td>
+<td class="column8 style0 n">3.6</td>
+</tr>
+<tr class="row18">
+<td class="column0 style0 s">Healthcare practitioners and technical occupations</td>
+<td class="column1 style0 n">152</td>
+<td class="column2 style0 n">137</td>
+<td class="column3 style0 n">1.5</td>
+<td class="column4 style0 n">1.3</td>
+<td class="column5 style0 n">1.1</td>
+<td class="column6 style0 n">1.2</td>
+<td class="column7 style0 n">1.6</td>
+<td class="column8 style0 n">1.4</td>
+</tr>
+<tr class="row19">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style0 s">Service occupations</td>
+<td class="column1 style0 n">1281</td>
+<td class="column2 style0 n">1240</td>
+<td class="column3 style0 n">4.8</td>
+<td class="column4 style0 n">4.5</td>
+<td class="column5 style0 n">4.8</td>
+<td class="column6 style0 n">4.7</td>
+<td class="column7 style0 n">4.8</td>
+<td class="column8 style0 n">4.4</td>
+</tr>
+<tr class="row21">
+<td class="column0 style0 s">Healthcare support occupations</td>
+<td class="column1 style0 n">203</td>
+<td class="column2 style0 n">187</td>
+<td class="column3 style0 n">3.9</td>
+<td class="column4 style0 n">3.5</td>
+<td class="column5 style0 n">3.3</td>
+<td class="column6 style0 n">3.4</td>
+<td class="column7 style0 n">4.1</td>
+<td class="column8 style0 n">3.5</td>
+</tr>
+<tr class="row22">
+<td class="column0 style0 s">Protective service occupations</td>
+<td class="column1 style0 n">108</td>
+<td class="column2 style0 n">93</td>
+<td class="column3 style0 n">3.4</td>
+<td class="column4 style0 n">2.9</td>
+<td class="column5 style0 n">3</td>
+<td class="column6 style0 n">2.6</td>
+<td class="column7 style0 n">4.6</td>
+<td class="column8 style0 n">4</td>
+</tr>
+<tr class="row23">
+<td class="column0 style0 s">Food preparation and serving related occupations</td>
+<td class="column1 style0 n">480</td>
+<td class="column2 style0 n">493</td>
+<td class="column3 style0 n">5.7</td>
+<td class="column4 style0 n">5.7</td>
+<td class="column5 style0 n">5.6</td>
+<td class="column6 style0 n">5.8</td>
+<td class="column7 style0 n">5.8</td>
+<td class="column8 style0 n">5.6</td>
+</tr>
+<tr class="row24">
+<td class="column0 style0 s">Building and grounds cleaning and maintenance occupations</td>
+<td class="column1 style0 n">319</td>
+<td class="column2 style0 n">306</td>
+<td class="column3 style0 n">5.4</td>
+<td class="column4 style0 n">5.2</td>
+<td class="column5 style0 n">5</td>
+<td class="column6 style0 n">5.4</td>
+<td class="column7 style0 n">5.9</td>
+<td class="column8 style0 n">5.1</td>
+</tr>
+<tr class="row25">
+<td class="column0 style0 s">Personal care and service occupations</td>
+<td class="column1 style0 n">170</td>
+<td class="column2 style0 n">161</td>
+<td class="column3 style0 n">4.1</td>
+<td class="column4 style0 n">3.7</td>
+<td class="column5 style0 n">5.6</td>
+<td class="column6 style0 n">3.9</td>
+<td class="column7 style0 n">3.7</td>
+<td class="column8 style0 n">3.6</td>
+</tr>
+<tr class="row26">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style0 s">Sales and office occupations</td>
+<td class="column1 style0 n">1176</td>
+<td class="column2 style0 n">1146</td>
+<td class="column3 style0 n">3.7</td>
+<td class="column4 style0 n">3.6</td>
+<td class="column5 style0 n">3.6</td>
+<td class="column6 style0 n">3.7</td>
+<td class="column7 style0 n">3.8</td>
+<td class="column8 style0 n">3.6</td>
+</tr>
+<tr class="row28">
+<td class="column0 style0 s">Sales and related occupations</td>
+<td class="column1 style0 n">579</td>
+<td class="column2 style0 n">581</td>
+<td class="column3 style0 n">3.9</td>
+<td class="column4 style0 n">3.9</td>
+<td class="column5 style0 n">3.2</td>
+<td class="column6 style0 n">3.4</td>
+<td class="column7 style0 n">4.5</td>
+<td class="column8 style0 n">4.4</td>
+</tr>
+<tr class="row29">
+<td class="column0 style0 s">Office and administrative support occupations</td>
+<td class="column1 style0 n">598</td>
+<td class="column2 style0 n">565</td>
+<td class="column3 style0 n">3.6</td>
+<td class="column4 style0 n">3.4</td>
+<td class="column5 style0 n">4.2</td>
+<td class="column6 style0 n">4.3</td>
+<td class="column7 style0 n">3.3</td>
+<td class="column8 style0 n">3.1</td>
+</tr>
+<tr class="row30">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style0 s">Natural resources, construction, and maintenance occupations</td>
+<td class="column1 style0 n">658</td>
+<td class="column2 style0 n">659</td>
+<td class="column3 style0 n">4.4</td>
+<td class="column4 style0 n">4.4</td>
+<td class="column5 style0 n">4.3</td>
+<td class="column6 style0 n">4.3</td>
+<td class="column7 style0 n">6</td>
+<td class="column8 style0 n">6.1</td>
+</tr>
+<tr class="row32">
+<td class="column0 style0 s">Farming, fishing, and forestry occupations</td>
+<td class="column1 style0 n">71</td>
+<td class="column2 style0 n">74</td>
+<td class="column3 style0 n">6.8</td>
+<td class="column4 style0 n">7</td>
+<td class="column5 style0 n">6.3</td>
+<td class="column6 style0 n">6.8</td>
+<td class="column7 style0 n">7.9</td>
+<td class="column8 style0 n">7.4</td>
+</tr>
+<tr class="row33">
+<td class="column0 style0 s">Construction and extraction occupations</td>
+<td class="column1 style0 n">477</td>
+<td class="column2 style0 n">480</td>
+<td class="column3 style0 n">5.4</td>
+<td class="column4 style0 n">5.4</td>
+<td class="column5 style0 n">5.4</td>
+<td class="column6 style0 n">5.3</td>
+<td class="column7 style0 n">5.5</td>
+<td class="column8 style0 n">7.1</td>
+</tr>
+<tr class="row34">
+<td class="column0 style0 s">Installation, maintenance, and repair occupations</td>
+<td class="column1 style0 n">110</td>
+<td class="column2 style0 n">105</td>
+<td class="column3 style0 n">2.2</td>
+<td class="column4 style0 n">2.1</td>
+<td class="column5 style0 n">2.1</td>
+<td class="column6 style0 n">2.1</td>
+<td class="column7 style0 n">4.5</td>
+<td class="column8 style0 n">2.5</td>
+</tr>
+<tr class="row35">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style0 s">Production, transportation, and material moving occupations</td>
+<td class="column1 style0 n">1027</td>
+<td class="column2 style0 n">1030</td>
+<td class="column3 style0 n">4.9</td>
+<td class="column4 style0 n">4.9</td>
+<td class="column5 style0 n">4.7</td>
+<td class="column6 style0 n">4.7</td>
+<td class="column7 style0 n">5.4</td>
+<td class="column8 style0 n">5.4</td>
+</tr>
+<tr class="row37">
+<td class="column0 style0 s">Production occupations</td>
+<td class="column1 style0 n">332</td>
+<td class="column2 style0 n">328</td>
+<td class="column3 style0 n">3.9</td>
+<td class="column4 style0 n">3.8</td>
+<td class="column5 style0 n">3.6</td>
+<td class="column6 style0 n">3.5</td>
+<td class="column7 style0 n">4.6</td>
+<td class="column8 style0 n">4.6</td>
+</tr>
+<tr class="row38">
+<td class="column0 style0 s">Transportation and material moving occupations</td>
+<td class="column1 style0 n">695</td>
+<td class="column2 style0 n">702</td>
+<td class="column3 style0 n">5.5</td>
+<td class="column4 style0 n">5.7</td>
+<td class="column5 style0 n">5.4</td>
+<td class="column6 style0 n">5.5</td>
+<td class="column7 style0 n">6.1</td>
+<td class="column8 style0 n">6.2</td>
+</tr>
+<tr class="row39">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style0 s">No previous work experience</td>
+<td class="column1 style0 n">482</td>
+<td class="column2 style0 n">556</td>
+<td class="column3 style0 s">–</td>
+<td class="column4 style0 s">–</td>
+<td class="column5 style0 s">–</td>
+<td class="column6 style0 s">–</td>
+<td class="column7 style0 s">–</td>
+<td class="column8 style0 s">–</td>
+</tr>
+<tr class="row41">
+<td class="column0 style0 s">16 to 19 years</td>
+<td class="column1 style0 n">265</td>
+<td class="column2 style0 n">294</td>
+<td class="column3 style0 s">–</td>
+<td class="column4 style0 s">–</td>
+<td class="column5 style0 s">–</td>
+<td class="column6 style0 s">–</td>
+<td class="column7 style0 s">–</td>
+<td class="column8 style0 s">–</td>
+</tr>
+<tr class="row42">
+<td class="column0 style0 s">20 to 24 years</td>
+<td class="column1 style0 n">127</td>
+<td class="column2 style0 n">150</td>
+<td class="column3 style0 s">–</td>
+<td class="column4 style0 s">–</td>
+<td class="column5 style0 s">–</td>
+<td class="column6 style0 s">–</td>
+<td class="column7 style0 s">–</td>
+<td class="column8 style0 s">–</td>
+</tr>
+<tr class="row43">
+<td class="column0 style0 s">25 years and over</td>
+<td class="column1 style0 n">90</td>
+<td class="column2 style0 n">111</td>
+<td class="column3 style0 s">–</td>
+<td class="column4 style0 s">–</td>
+<td class="column5 style0 s">–</td>
+<td class="column6 style0 s">–</td>
+<td class="column7 style0 s">–</td>
+<td class="column8 style0 s">–</td>
+</tr>
+</tbody>
+</table>

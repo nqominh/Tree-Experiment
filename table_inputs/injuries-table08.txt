@@ -1,0 +1,217 @@
+[COLUMN STRUCTURE]
+TABLE SNR02. Highest incidence rates1 of nonfatal occupational injury and illness cases with days away from work, restricted work activity, or job transfer, 2023
+  Industry2
+NAICS Code3
+Incidence Rate
+
+[ROW STRUCTURE]
+(none)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style5 s"><span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt">TABLE SNR02. Highest incidence rates</span><span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"><sup>1</sup></span><span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"> of nonfatal occupational injury and illness cases with days away from work, restricted work activity, or job transfer, 2023                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style11 s">Industry<span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"><sup>2</sup></span><span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"> </span></td>
+<td class="column1 style12 s">NAICS Code<span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"><sup>3</sup></span><span style="font-weight:bold; color:#000000; font-family:'Helvetica'; font-size:12pt"> </span></td>
+<td class="column2 style13 s">Incidence Rate</td>
+</tr>
+<tr class="row2">
+<td class="column0 style6 s">Performing arts companies (Private Industry)</td>
+<td class="column1 style2 s">7111</td>
+<td class="column2 style8 n">009.0</td>
+</tr>
+<tr class="row3">
+<td class="column0 style7 s">Couriers and express delivery services (Private Industry)</td>
+<td class="column1 style4 s">4921</td>
+<td class="column2 style9 n">008.0</td>
+</tr>
+<tr class="row4">
+<td class="column0 style6 s">Nursing and residential care facilities (State Government)</td>
+<td class="column1 style2 s">623</td>
+<td class="column2 style8 n">007.5</td>
+</tr>
+<tr class="row5">
+<td class="column0 style7 s">Scheduled passenger air transportation (Private Industry)</td>
+<td class="column1 style4 s">481111</td>
+<td class="column2 style9 n">006.2</td>
+</tr>
+<tr class="row6">
+<td class="column0 style6 s">Spectator sports (Private Industry)</td>
+<td class="column1 style2 s">71121</td>
+<td class="column2 style8 n">006.2</td>
+</tr>
+<tr class="row7">
+<td class="column0 style7 s">Skiing facilities (Private Industry)</td>
+<td class="column1 style4 s">71392</td>
+<td class="column2 style9 n">006.2</td>
+</tr>
+<tr class="row8">
+<td class="column0 style6 s">Local messengers and local delivery (Private Industry)</td>
+<td class="column1 style2 s">4922</td>
+<td class="column2 style8 n">005.7</td>
+</tr>
+<tr class="row9">
+<td class="column0 style7 s">Hog and pig farming (Private Industry)<span style="color:#000000; font-family:'Helvetica'; font-size:12pt"><sup>4</sup></span></td>
+<td class="column1 style4 s">1122</td>
+<td class="column2 style9 n">005.3</td>
+</tr>
+<tr class="row10">
+<td class="column0 style6 s">Nursing care facilities (skilled nursing facilities) (Private Industry)</td>
+<td class="column1 style2 s">6231</td>
+<td class="column2 style8 n">005.2</td>
+</tr>
+<tr class="row11">
+<td class="column0 style7 s">Siding contractors (Private Industry)</td>
+<td class="column1 style4 s">23817</td>
+<td class="column2 style9 n">005.0</td>
+</tr>
+<tr class="row12">
+<td class="column0 style6 s">Used household and office goods moving (Private Industry)</td>
+<td class="column1 style2 s">48421</td>
+<td class="column2 style8 n">005.0</td>
+</tr>
+<tr class="row13">
+<td class="column0 style7 s">Urban transit systems (Private Industry)</td>
+<td class="column1 style4 s">4851</td>
+<td class="column2 style9 n">004.9</td>
+</tr>
+<tr class="row14">
+<td class="column0 style6 s">Continuing care retirement communities and assisted living facilities for the elderly (Private Industry)</td>
+<td class="column1 style2 s">6233</td>
+<td class="column2 style8 n">004.6</td>
+</tr>
+<tr class="row15">
+<td class="column0 style7 s">Fluid milk manufacturing (Private Industry)</td>
+<td class="column1 style4 s">311511</td>
+<td class="column2 style9 n">004.5</td>
+</tr>
+<tr class="row16">
+<td class="column0 style6 s">Truss manufacturing (Private Industry)</td>
+<td class="column1 style2 s">321214</td>
+<td class="column2 style8 n">004.5</td>
+</tr>
+<tr class="row17">
+<td class="column0 style7 s">Automobile manufacturing (Private Industry)</td>
+<td class="column1 style4 s">336111</td>
+<td class="column2 style9 n">004.5</td>
+</tr>
+<tr class="row18">
+<td class="column0 style6 s">Ambulance services (Private Industry)</td>
+<td class="column1 style2 s">62191</td>
+<td class="column2 style8 n">004.4</td>
+</tr>
+<tr class="row19">
+<td class="column0 style7 s">Correctional institutions (State Government)</td>
+<td class="column1 style4 s">92214</td>
+<td class="column2 style9 n">004.4</td>
+</tr>
+<tr class="row20">
+<td class="column0 style6 s">Farm product warehousing and storage (Private Industry)</td>
+<td class="column1 style2 s">49313</td>
+<td class="column2 style8 n">004.3</td>
+</tr>
+<tr class="row21">
+<td class="column0 style7 s">Cut stone and stone product manufacturing (Private Industry)</td>
+<td class="column1 style4 s">327991</td>
+<td class="column2 style9 n">004.2</td>
+</tr>
+<tr class="row22">
+<td class="column0 style6 s">General warehousing and storage (Private Industry)</td>
+<td class="column1 style2 s">49311</td>
+<td class="column2 style8 n">004.2</td>
+</tr>
+<tr class="row23">
+<td class="column0 style7 s">Hospitals (State Government)</td>
+<td class="column1 style4 s">622</td>
+<td class="column2 style9 n">004.2</td>
+</tr>
+<tr class="row24">
+<td class="column0 style6 s">Farm management services (Private Industry)</td>
+<td class="column1 style2 s">115116</td>
+<td class="column2 style8 n">004.1</td>
+</tr>
+<tr class="row25">
+<td class="column0 style7 s">Light truck and utility vehicle manufacturing (Private Industry)</td>
+<td class="column1 style4 s">336112</td>
+<td class="column2 style9 n">004.1</td>
+</tr>
+<tr class="row26">
+<td class="column0 style6 s">Seafood product preparation and packaging (Private Industry)</td>
+<td class="column1 style2 s">3117</td>
+<td class="column2 style8 n">004.0</td>
+</tr>
+<tr class="row27">
+<td class="column0 style7 s">Wood preservation (Private Industry)</td>
+<td class="column1 style4 s">321114</td>
+<td class="column2 style9 n">004.0</td>
+</tr>
+<tr class="row28">
+<td class="column0 style6 s">Aluminum foundries (except die-casting) (Private Industry)</td>
+<td class="column1 style2 s">331524</td>
+<td class="column2 style8 n">004.0</td>
+</tr>
+<tr class="row29">
+<td class="column0 style7 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style10 null"></td>
+</tr>
+<tr class="row30">
+<td class="column0 style14 s">All Ownerships Combined</td>
+<td class="column1 style15 null"></td>
+<td class="column2 style16 n">001.5</td>
+</tr>
+<tr class="row31">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style1 s"><span style="color:#112277; font-family:'Albany AMT'; font-size:9.5pt"><sup>1</sup></span><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">The incidence rates represent the number of injuries and illnesses per 100 full-time equivalent workers and were calculated as: (N/EH) x 200,000, where </span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style1 s"><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">     N = number of injuries and illnesses</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style1 s"><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">     EH = total hours worked by all employees during the calendar year</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style1 s"><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">     200,000 = base for 100 full-time equivalent workers (working 40 hours per week, 50 weeks per year)</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style1 s"><span style="color:#112277; font-family:'Albany AMT'; font-size:9.5pt"><sup>2</sup></span><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">High rate industries were those having the highest incidence rate of injury and illness cases with days away from work, restricted work activity, or job transfer and at least 500 total recordable cases at the most detailed level of publication, based on the </span><span style="font-style:italic; color:#000000; font-family:'Albany AMT'; font-size:9.5pt">North American Industry Classification System</span><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt"> -- United States, 2017.</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style1 s"><span style="color:#112277; font-family:'Albany AMT'; font-size:9.5pt"><sup>3</sup></span><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">North American Industry Classification System -- United States, 2017</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style1 s"><span style="color:#112277; font-family:'Albany AMT'; font-size:9.5pt"><sup>4</sup></span><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">Excludes farms with fewer than 11 employees.</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style1 s"><span style="color:#000000; font-family:'Albany AMT'; font-size:9.5pt">SOURCE: U.S. Bureau of Labor Statistics, U.S. Department of Labor</span></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+</tbody>
+</table>

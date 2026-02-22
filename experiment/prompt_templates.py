@@ -46,12 +46,14 @@ def build_hotree_prompt_schema(
     html: str,
     question: str,
     schema: list | None = None,
+    row_schema: list | None = None,
 ) -> str:
     """
-    Template A: column paths + parent-child relationship notes.
+    Template A: column paths + row paths + parent-child relationship notes.
 
     Args:
         schema: list of flattened column paths from tree_to_schema().
+        row_schema: list of flattened row-header paths from tree_to_row_schema().
     """
     parts = [
         "You are an expert in analyzing hierarchical tables.",
@@ -70,6 +72,18 @@ def build_hotree_prompt_schema(
             parts.append(
                 f'Note: {", ".join(children)} are sub-columns under parent "{parent}"'
             )
+    if row_schema:
+        parts.append("")
+        parts.append(f"Row headers: {', '.join(row_schema[:50])}")
+        row_parents: dict[str, list[str]] = {}
+        for s in row_schema:
+            if "-" in s:
+                parent, child = s.rsplit("-", 1)
+                row_parents.setdefault(parent, []).append(child)
+        for parent, children in row_parents.items():
+            parts.append(
+                f'Note: {", ".join(children)} are sub-rows under parent "{parent}"'
+            )
     parts.extend(
         [
             "",
@@ -82,7 +96,7 @@ def build_hotree_prompt_schema(
             question,
             "",
             "Think step by step:",
-            "1. Identify relevant columns using the structure above.",
+            "1. Identify relevant columns and rows using the structure above.",
             "2. Locate the correct data cells.",
             "3. Perform any calculations.",
             "",

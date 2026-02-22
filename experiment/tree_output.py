@@ -40,10 +40,33 @@ def tree_to_schema(tree: FeatureTree) -> list:
 
 
 def tree_to_json(tree: FeatureTree) -> dict:
-    """Nested JSON dict representation."""
+    """Nested JSON dict representation (new addressed-cell format if row_index_tree exists)."""
     if tree is None:
         return {}
     try:
         return tree.__json__()
     except Exception:
         return {}
+
+
+def tree_to_json_legacy(tree: FeatureTree) -> dict:
+    """Legacy JSON format: {"table": [{col: val, ...}]}."""
+    if tree is None:
+        return {}
+    try:
+        return tree.__json_legacy__()
+    except Exception:
+        return {}
+
+
+def tree_to_row_schema(tree: FeatureTree) -> list:
+    """Flattened row-header paths, e.g. ['Total', 'Northeast-Urban', 'Northeast-Suburban']."""
+    if tree is None:
+        return []
+    try:
+        if tree.row_index_tree is not None:
+            return tree.row_index_tree.get_flatten_row_schema()
+        return []
+    except Exception:
+        return []
+

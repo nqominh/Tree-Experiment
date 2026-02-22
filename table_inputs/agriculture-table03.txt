@@ -1,0 +1,94 @@
+[COLUMN STRUCTURE]
+Cherries—Average retail price per pound and per cup equivalent, 2022
+  Form
+Average retail price
+Preparation yield factor
+Size of a cup equivalent
+Average price per cup equivalent
+
+[ROW STRUCTURE]
+(none)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s">Cherries—Average retail price per pound and per cup equivalent, 2022</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">Form</td>
+<td class="column1 style4 s"><span style="color:#000000; font-family:'Arial'; font-size:12pt">Average retail price</span><span style="color:#000000; font-family:'Arial'; font-size:12pt"><sup> </sup></span></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style6 s">Preparation yield factor</td>
+<td class="column4 style4 s">Size of a cup equivalent </td>
+<td class="column5 style19 null"></td>
+<td class="column6 style20 s">Average price per cup equivalent</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 s"><span style="color:#000000; font-family:'Arial'; font-size:12pt">Fresh</span><span style="color:#000000; font-family:'Arial'; font-size:12pt"><sup>1</sup></span></td>
+<td class="column1 style8 n">$4.66</td>
+<td class="column2 style9 s"> per pound</td>
+<td class="column3 style10 n">0.92</td>
+<td class="column4 style21 f">0.342</td>
+<td class="column5 style10 s">Pounds</td>
+<td class="column6 style8 f">$1.73</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style11 s"><span style="color:#000000; font-family:'Arial'; font-size:12pt">Canned, packed in syrup or water</span><span style="color:#000000; font-family:'Arial'; font-size:12pt"><sup>2</sup></span></td>
+<td class="column1 style12 n">$5.24</td>
+<td class="column2 style13 s"> per pound</td>
+<td class="column3 style14 n">0.65</td>
+<td class="column4 style22 f">0.441</td>
+<td class="column5 style23 s">Pounds</td>
+<td class="column6 style12 f">$3.56</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style15 s"><span style="color:#000000; font-family:'Arial'; font-size:12pt"><sup>1</sup></span><span style="color:#000000; font-family:'Arial'; font-size:12pt">Includes various types of cherries like Bing and Rainer. USDA, Agricultural Research Service’s (ARS) National Nutrient Database for Standard Reference (SR) reports that inedible pits and stems account for 8 percent of the fruit's weight, implying a preparation yield of 92 percent, when the fruit is eaten raw.</span></td>
+<td class="column1 style16 null"></td>
+<td class="column2 style16 null"></td>
+<td class="column3 style16 null"></td>
+<td class="column4 style16 null"></td>
+<td class="column5 style16 null"></td>
+<td class="column6 style16 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style17 s"><span style="color:#000000; font-family:'Arial'; font-size:12pt"><sup>2</sup></span><span style="color:#000000; font-family:'Arial'; font-size:12pt">Excludes Maraschino cherries, pie and pastry filling, and cherries with pits. The syrup (or water) is discarded prior to consumption. Based on USDA, ARS’ Food Patterns Equivalents Database (FPED), USDA, ERS assumes that 65 percent of the can's gross weight is solid and 35 percent is syrup or water. The FPED cup-equivalent weight for canned fruit is the weight of the solids and not of the liquid medium in which it is packed. The preparation yield factor for canned cherries in the above table does not account for any further preparation that occurs prior to consumption. </span></td>
+<td class="column1 style17 null"></td>
+<td class="column2 style17 null"></td>
+<td class="column3 style17 null"></td>
+<td class="column4 style17 null"></td>
+<td class="column5 style17 null"></td>
+<td class="column6 style17 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style18 s">Source: USDA, Economic Research Service (ERS) calculations from 2022 Circana (formerly Information Resources, Inc. (IRI)) OmniMarket Core Outlets (formerly InfoScan) data; and USDA, ARS, National Nutrient Database for Standard Reference (SR), Legacy Release, Food Patterns Equivalents Database (FPED) 2017–18, and the FPED's accompanying Methodology and User Guide. </td>
+<td class="column1 style18 null"></td>
+<td class="column2 style18 null"></td>
+<td class="column3 style18 null"></td>
+<td class="column4 style18 null"></td>
+<td class="column5 style18 null"></td>
+<td class="column6 style18 null"></td>
+<td class="column7"> </td>
+</tr>
+</tbody>
+</table>

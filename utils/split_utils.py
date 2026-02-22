@@ -135,3 +135,64 @@ def split_schema_row(sheet):
         get_sub_sheet(sheet, 1, 1, height, ncols),
         get_sub_sheet(sheet, height + 1, 1, nrows, ncols) if height < nrows else None,
     )
+
+
+def _is_numeric_column(sheet, col, start_row, end_row):
+    """Check if a column is predominantly numeric (data column)."""
+    numeric_count = 0
+    non_empty_count = 0
+    for row in range(start_row, end_row + 1):
+        val = sheet.cell(row=row, column=col).value
+        if val is not None and str(val).strip() not in ('', 'None'):
+            non_empty_count += 1
+            try:
+                float(str(val).replace(',', '').replace('%', '').strip())
+                numeric_count += 1
+            except (ValueError, TypeError):
+                pass
+    return non_empty_count > 0 and numeric_count >= non_empty_count * 0.5
+
+
+def _find_schema_width_by_content(sheet, nrows, ncols):
+    """Find row-schema width by detecting where text label columns end and data columns begin."""
+    # Scan columns left to right; first numeric-majority column marks the boundary
+    data_start_row = 2  # skip header row(s)
+    for col in range(1, ncols + 1):
+        if _is_numeric_column(sheet, col, data_start_row, min(nrows, 20)):
+            return max(1, col - 1)
+    return 1  # default: only column 1 is the row schema
+
+
+def split_schema_column(sheet):
+    """Split sheet into (row_schema_sub_sheet, data_sub_sheet) by columns.
+
+    Mirrors split_schema_row() for the left axis (row headers).
+    Returns the left-column schema and the remaining data region.
+    """
+    nrows = sheet.max_row
+    ncols = sheet.max_column
+
+    if nrows == 0 or ncols == 0:
+        return (None, None)
+
+    # Merge-based detection: check first column for rowspan merges
+    width = 1
+    has_merges = False
+    for row in range(1, nrows + 1):
+        cell = sheet.cell(row=row, column=1)
+        x1, y1, x2, y2 = get_merge_cell_size(sheet, cell.coordinate)
+        if x2 > x1 or y2 > y1:
+            has_merges = True
+        width = max(width, y2)
+
+    # Fallback to content-based detection
+    if not has_merges or width <= 1:
+        width = _find_schema_width_by_content(sheet, nrows, ncols)
+
+    width = min(width, ncols)
+
+    return (
+        get_sub_sheet(sheet, 1, 1, nrows, width),
+        get_sub_sheet(sheet, 1, width + 1, nrows, ncols) if width < ncols else None,
+    )
+

@@ -48,6 +48,10 @@ def html2workbook(html_content):
     wb = openpyxl.Workbook()
     ws = wb.active
 
+    # Track which cells came from <th> tags (semantic header annotation)
+    th_map = {}
+    ws._th_map = th_map
+
     # Build occupation grid for correct cell mapping with spans
     occupied = set()
     rows = table.find_all('tr')
@@ -59,6 +63,8 @@ def html2workbook(html_content):
             # Skip columns already occupied by a previous rowspan/colspan
             while (excel_row, excel_col) in occupied:
                 excel_col += 1
+
+            is_header = (cell.name == 'th')
 
             # Get text preserving leading whitespace (for indentation detection)
             cell_text = cell.get_text()
@@ -79,6 +85,7 @@ def html2workbook(html_content):
             for dr in range(rowspan):
                 for dc in range(colspan):
                     occupied.add((excel_row + dr, excel_col + dc))
+                    th_map[(excel_row + dr, excel_col + dc)] = is_header
 
             excel_col += colspan
         excel_row += 1

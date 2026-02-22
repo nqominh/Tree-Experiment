@@ -1,0 +1,368 @@
+[COLUMN STRUCTURE]
+(none)
+
+[ROW STRUCTURE]
+Civilian workers
+All workers(1)
+Private industry workers
+All workers
+Occupational group
+Management, professional, and related
+Sales and office
+Natural resources, construction, and maintenance
+Production, transportation, and material moving
+Service occupations
+Industry
+Goods-producing industries(2)
+Manufacturing
+Aircraft manufacturing
+Service-providing industries(3)
+Bargaining status
+Union
+Nonunion
+State and local government workers
+All workers
+Footnotes:
+(1) Includes workers in the private nonfarm economy except those in private households, and workers in the public sector, except the federal government.
+(2) Includes mining, construction, and manufacturing.
+(3) Includes the following industries: wholesale trade; retail trade; transportation and warehousing; utilities; information; finance and insurance; real estate and rental and leasing; professional and technical services; management of companies and enterprises; administrative and waste services; educational services; health care and social assistance; arts, entertainment and recreation; accommodation and food services; and other services, except public administration.
+SOURCE: U.S. Bureau of Labor Statistics, National Compensation Survey
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style0 inlineStr style0" colspan="10">Table 12. Employment Cost Index for benefits, by occupational group, industry, and bargaining status</td>
+</tr>
+<tr class="row1">
+<td class="column0 style0 inlineStr style0" colspan="10">[Not seasonally adjusted]</td>
+</tr>
+<tr class="row2">
+<td class="column0 style0 inlineStr style0" colspan="10"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style0 inlineStr style0" rowspan="3">Occupational group, industry, and bargaining status</td>
+<td class="column1 style0 inlineStr style0" colspan="3">Indexes (Dec. 2005=100)</td>
+<td class="column4 style0 inlineStr style0" colspan="6">Percent changes for</td>
+</tr>
+<tr class="row4">
+<td class="column1 style0 inlineStr style0" rowspan="2">Sep.<br/>
+2023</td>
+<td class="column2 style0 inlineStr style0" rowspan="2">Jun.<br/>
+2024</td>
+<td class="column3 style0 inlineStr style0" rowspan="2">Sep.<br/>
+2024</td>
+<td class="column4 style0 inlineStr style0" colspan="3">3-months ended-</td>
+<td class="column7 style0 inlineStr style0" colspan="3">12-months ended-</td>
+</tr>
+<tr class="row5">
+<td class="column4 style0 inlineStr">Sep.<br/>
+2023</td>
+<td class="column5 style0 inlineStr">Jun.<br/>
+2024</td>
+<td class="column6 style0 inlineStr">Sep.<br/>
+2024</td>
+<td class="column7 style0 inlineStr">Sep.<br/>
+2023</td>
+<td class="column8 style0 inlineStr">Jun.<br/>
+2024</td>
+<td class="column9 style0 inlineStr">Sep.<br/>
+2024</td>
+</tr>
+<tr class="row6">
+<td class="column0 style0 inlineStr style0" colspan="10"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style0 inlineStr">Civilian workers</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style0 inlineStr">All workers(1)</td>
+<td class="column1 style0 n">161.1</td>
+<td class="column2 style0 n">165.8</td>
+<td class="column3 style0 n">167</td>
+<td class="column4 style0 n">0.9</td>
+<td class="column5 style0 n">1</td>
+<td class="column6 style0 n">0.7</td>
+<td class="column7 style0 n">4.1</td>
+<td class="column8 style0 n">3.8</td>
+<td class="column9 style0 n">3.7</td>
+</tr>
+<tr class="row9">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style0 inlineStr">Private industry workers</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style0 inlineStr">All workers</td>
+<td class="column1 style0 n">155</td>
+<td class="column2 style0 n">159.4</td>
+<td class="column3 style0 n">160.1</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">0.9</td>
+<td class="column6 style0 n">0.4</td>
+<td class="column7 style0 n">3.9</td>
+<td class="column8 style0 n">3.5</td>
+<td class="column9 style0 n">3.3</td>
+</tr>
+<tr class="row12">
+<td class="column0 style0 inlineStr">Occupational group</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style0 inlineStr">Management, professional, and related</td>
+<td class="column1 style0 n">153.1</td>
+<td class="column2 style0 n">157.4</td>
+<td class="column3 style0 n">158</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">0.8</td>
+<td class="column6 style0 n">0.4</td>
+<td class="column7 style0 n">4.2</td>
+<td class="column8 style0 n">3.4</td>
+<td class="column9 style0 n">3.2</td>
+</tr>
+<tr class="row14">
+<td class="column0 style0 inlineStr">Sales and office</td>
+<td class="column1 style0 n">158</td>
+<td class="column2 style0 n">161.7</td>
+<td class="column3 style0 n">162.3</td>
+<td class="column4 style0 n">0.4</td>
+<td class="column5 style0 n">0.6</td>
+<td class="column6 style0 n">0.4</td>
+<td class="column7 style0 n">3.8</td>
+<td class="column8 style0 n">2.7</td>
+<td class="column9 style0 n">2.7</td>
+</tr>
+<tr class="row15">
+<td class="column0 style0 inlineStr">Natural resources, construction, and maintenance</td>
+<td class="column1 style0 n">154.9</td>
+<td class="column2 style0 n">158.1</td>
+<td class="column3 style0 n">159</td>
+<td class="column4 style0 n">0.9</td>
+<td class="column5 style0 n">0.5</td>
+<td class="column6 style0 n">0.6</td>
+<td class="column7 style0 n">3.3</td>
+<td class="column8 style0 n">3</td>
+<td class="column9 style0 n">2.6</td>
+</tr>
+<tr class="row16">
+<td class="column0 style0 inlineStr">Production, transportation, and material moving</td>
+<td class="column1 style0 n">154.9</td>
+<td class="column2 style0 n">161.7</td>
+<td class="column3 style0 n">162.4</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">2.1</td>
+<td class="column6 style0 n">0.4</td>
+<td class="column7 style0 n">3.4</td>
+<td class="column8 style0 n">5</td>
+<td class="column9 style0 n">4.8</td>
+</tr>
+<tr class="row17">
+<td class="column0 style0 inlineStr">Service occupations</td>
+<td class="column1 style0 n">156.5</td>
+<td class="column2 style0 n">160.8</td>
+<td class="column3 style0 n">162</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">1.3</td>
+<td class="column6 style0 n">0.7</td>
+<td class="column7 style0 n">3.4</td>
+<td class="column8 style0 n">3.4</td>
+<td class="column9 style0 n">3.5</td>
+</tr>
+<tr class="row18">
+<td class="column0 style0 inlineStr">Industry</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style0 inlineStr">Goods-producing industries(2)</td>
+<td class="column1 style0 n">147.9</td>
+<td class="column2 style0 n">151.9</td>
+<td class="column3 style0 n">152.4</td>
+<td class="column4 style0 n">0.7</td>
+<td class="column5 style0 n">1.1</td>
+<td class="column6 style0 n">0.3</td>
+<td class="column7 style0 n">3.2</td>
+<td class="column8 style0 n">3.4</td>
+<td class="column9 style0 n">3</td>
+</tr>
+<tr class="row20">
+<td class="column0 style0 inlineStr">Manufacturing</td>
+<td class="column1 style0 n">147.4</td>
+<td class="column2 style0 n">151.9</td>
+<td class="column3 style0 n">152.3</td>
+<td class="column4 style0 n">0.5</td>
+<td class="column5 style0 n">1.2</td>
+<td class="column6 style0 n">0.3</td>
+<td class="column7 style0 n">3.2</td>
+<td class="column8 style0 n">3.6</td>
+<td class="column9 style0 n">3.3</td>
+</tr>
+<tr class="row21">
+<td class="column0 style0 inlineStr">Aircraft manufacturing</td>
+<td class="column1 style0 n">107.7</td>
+<td class="column2 style0 n">108.4</td>
+<td class="column3 style0 n">108.2</td>
+<td class="column4 style0 n">-0.1</td>
+<td class="column5 style0 n">-0.9</td>
+<td class="column6 style0 n">-0.2</td>
+<td class="column7 style0 n">2.9</td>
+<td class="column8 style0 n">0.6</td>
+<td class="column9 style0 n">0.5</td>
+</tr>
+<tr class="row22">
+<td class="column0 style0 inlineStr">Service-providing industries(3)</td>
+<td class="column1 style0 n">157.4</td>
+<td class="column2 style0 n">161.9</td>
+<td class="column3 style0 n">162.7</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">0.9</td>
+<td class="column6 style0 n">0.5</td>
+<td class="column7 style0 n">4</td>
+<td class="column8 style0 n">3.5</td>
+<td class="column9 style0 n">3.4</td>
+</tr>
+<tr class="row23">
+<td class="column0 style0 inlineStr">Bargaining status</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style0 inlineStr">Union</td>
+<td class="column1 style0 n">163.8</td>
+<td class="column2 style0 n">171.1</td>
+<td class="column3 style0 n">171.9</td>
+<td class="column4 style0 n">0.7</td>
+<td class="column5 style0 n">2</td>
+<td class="column6 style0 n">0.5</td>
+<td class="column7 style0 n">2.9</td>
+<td class="column8 style0 n">5.2</td>
+<td class="column9 style0 n">4.9</td>
+</tr>
+<tr class="row25">
+<td class="column0 style0 inlineStr">Nonunion</td>
+<td class="column1 style0 n">153</td>
+<td class="column2 style0 n">157</td>
+<td class="column3 style0 n">157.7</td>
+<td class="column4 style0 n">0.6</td>
+<td class="column5 style0 n">0.8</td>
+<td class="column6 style0 n">0.4</td>
+<td class="column7 style0 n">4</td>
+<td class="column8 style0 n">3.2</td>
+<td class="column9 style0 n">3.1</td>
+</tr>
+<tr class="row26">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style0 inlineStr">State and local government workers</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style0 inlineStr">All workers</td>
+<td class="column1 style0 n">183.7</td>
+<td class="column2 style0 n">189.2</td>
+<td class="column3 style0 n">192.6</td>
+<td class="column4 style0 n">1.8</td>
+<td class="column5 style0 n">0.9</td>
+<td class="column6 style0 n">1.8</td>
+<td class="column7 style0 n">4.7</td>
+<td class="column8 style0 n">4.8</td>
+<td class="column9 style0 n">4.8</td>
+</tr>
+<tr class="row29">
+<td class="column0 style0 inlineStr style0" colspan="10"></td>
+</tr>
+<tr class="row30">
+<td class="column0 style0 inlineStr style0" colspan="10">Footnotes:</td>
+</tr>
+<tr class="row31">
+<td class="column0 style0 inlineStr style0" colspan="10">(1) Includes workers in the private nonfarm economy except those in private households, and workers in the public sector, except the federal government.</td>
+</tr>
+<tr class="row32">
+<td class="column0 style0 inlineStr style0" colspan="10">(2) Includes mining, construction, and manufacturing.</td>
+</tr>
+<tr class="row33">
+<td class="column0 style0 inlineStr style0" colspan="10">(3) Includes the following industries: wholesale trade; retail trade; transportation and warehousing; utilities; information; finance and insurance; real estate and rental and leasing; professional and technical services; management of companies and enterprises; administrative and waste services; educational services; health care and social assistance; arts, entertainment and recreation; accommodation and food services; and other services, except public administration.</td>
+</tr>
+<tr class="row34">
+<td class="column0 style0 inlineStr style0" colspan="10">SOURCE: U.S. Bureau of Labor Statistics, National Compensation Survey</td>
+</tr>
+</tbody>
+</table>

@@ -28,6 +28,8 @@ from experiment.tree_output import (
     tree_to_hierarchical_string,
     tree_to_schema,
     tree_to_json,
+    tree_to_json_legacy,
+    tree_to_row_schema,
 )
 from experiment.prompt_templates import (
     build_baseline_prompt,
@@ -267,6 +269,107 @@ class TestRealHiTBenchIntegration(unittest.TestCase):
         self.assertGreaterEqual(
             rate, 80, f"Only {successes}/{len(tables)} tables succeeded ({rate:.0f}%)"
         )
+
+
+# ---------------------------------------------------------------------------
+# 7. Bidirectional Hierarchy Tests
+# ---------------------------------------------------------------------------
+
+class TestBidirectionalHierarchy(unittest.TestCase):
+    """Tests for the new row-index-tree and addressed-cell JSON format."""
+
+    ACTIVITYTIME_PATH = os.path.join(
+        PROJECT_ROOT, "RealHiTBench", "html", "activitytime-table01.html"
+    )
+
+    @unittest.skipUnless(
+        os.path.exists(os.path.join(PROJECT_ROOT, "RealHiTBench", "html", "activitytime-table01.html")),
+        "activitytime-table01.html not found"
+    )
+    def test_indentation_row_tree(self):
+        """Row tree built from activitytime's indentation hierarchy."""
+        with open(self.ACTIVITYTIME_PATH, encoding="utf-8") as f:
+            html = f.read()
+        tree, strategy = html_to_tree(html)
+        self.assertIsNotNone(tree, "Tree construction failed")
+        self.assertIsNotNone(tree.row_index_tree, "row_index_tree should be populated")
+        # Should have leaf nodes from indented row headers
+        leaves = tree.row_index_tree.leaf_nodes
+        self.assertGreater(len(leaves), 0, "Row tree should have leaves")
+        # Check some expected labels exist
+        leaf_values = [str(n.value) for n in leaves]
+        # "Sleeping" should be a leaf (indented under Personal care)
+        self.assertTrue(
+            any("Sleeping" in v for v in leaf_values),
+            f"Expected 'Sleeping' in row leaves, got: {leaf_values[:10]}"
+        )
+
+    @unittest.skipUnless(
+        os.path.exists(os.path.join(PROJECT_ROOT, "RealHiTBench", "html", "activitytime-table01.html")),
+        "activitytime-table01.html not found"
+    )
+    def test_new_json_format(self):
+        """New __json__() returns col_tree, row_tree, cells."""
+        with open(self.ACTIVITYTIME_PATH, encoding="utf-8") as f:
+            html = f.read()
+        tree, _ = html_to_tree(html)
+        self.assertIsNotNone(tree)
+        j = tree_to_json(tree)
+        self.assertIn("col_tree", j, "Missing col_tree key")
+        self.assertIn("row_tree", j, "Missing row_tree key")
+        self.assertIn("cells", j, "Missing cells key")
+        self.assertIsInstance(j["cells"], list)
+        self.assertGreater(len(j["cells"]), 0, "Should have some cells")
+        # Each cell should have row_path, col_path, value
+        cell = j["cells"][0]
+        self.assertIn("row_path", cell)
+        self.assertIn("col_path", cell)
+        self.assertIn("value", cell)
+
+    @unittest.skipUnless(
+        os.path.exists(os.path.join(PROJECT_ROOT, "RealHiTBench", "html", "activitytime-table01.html")),
+        "activitytime-table01.html not found"
+    )
+    def test_row_schema_output(self):
+        """tree_to_row_schema() returns non-empty list."""
+        with open(self.ACTIVITYTIME_PATH, encoding="utf-8") as f:
+            html = f.read()
+        tree, _ = html_to_tree(html)
+        self.assertIsNotNone(tree)
+        row_schema = tree_to_row_schema(tree)
+        self.assertIsInstance(row_schema, list)
+        self.assertGreater(len(row_schema), 0, "Row schema should not be empty")
+
+    @unittest.skipUnless(
+        os.path.exists(os.path.join(PROJECT_ROOT, "RealHiTBench", "html", "activitytime-table01.html")),
+        "activitytime-table01.html not found"
+    )
+    def test_legacy_json_compat(self):
+        """__json_legacy__() still produces the old format."""
+        with open(self.ACTIVITYTIME_PATH, encoding="utf-8") as f:
+            html = f.read()
+        tree, _ = html_to_tree(html)
+        self.assertIsNotNone(tree)
+        j = tree_to_json_legacy(tree)
+        self.assertIsInstance(j, dict)
+        # Legacy format should have "table" key or be a flat dict
+        # Should NOT have col_tree/row_tree
+        self.assertNotIn("col_tree", j, "Legacy format should not have col_tree")
+
+    def test_th_map_annotation(self):
+        """html2workbook() should set _th_map on the worksheet."""
+        from utils.sheet_utils import html2workbook
+        html = """<table>
+            <tr><th>H1</th><th>H2</th></tr>
+            <tr><td>A</td><td>B</td></tr>
+        </table>"""
+        wb = html2workbook(html)
+        ws = wb.active
+        self.assertTrue(hasattr(ws, '_th_map'), "ws should have _th_map attribute")
+        self.assertTrue(ws._th_map.get((1, 1), False), "H1 at (1,1) should be th")
+        self.assertTrue(ws._th_map.get((1, 2), False), "H2 at (1,2) should be th")
+        self.assertFalse(ws._th_map.get((2, 1), False), "A at (2,1) should not be th")
+        self.assertFalse(ws._th_map.get((2, 2), False), "B at (2,2) should not be th")
 
 
 if __name__ == "__main__":

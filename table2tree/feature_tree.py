@@ -136,6 +136,10 @@ class IndexTree:
         dfs(self.root, [])
         return schema_list
 
+    def get_flatten_row_schema(self):
+        """Return leaf paths for row headers (same format as get_flatten_schema)."""
+        return self.get_flatten_schema()
+
 
 class BodyTree:
 
@@ -163,11 +167,45 @@ class BodyTree:
         return res_list
 
 
+# ---------------------------------------------------------------------------
+# JSON serialization helpers for addressed-cell format
+# ---------------------------------------------------------------------------
+
+def _serialize_index_tree(index_tree: IndexTree):
+    """Convert an IndexTree to a nested list of dicts with 'label' and 'children' keys."""
+    def _serialize_node(node: IndexNode):
+        d = {"label": str(node.value) if node.value is not None else None}
+        if node.children:
+            d["children"] = [_serialize_node(c) for c in node.children]
+        return d
+
+    return [_serialize_node(c) for c in index_tree.root.children]
+
+
+def _get_leaf_paths(index_tree: IndexTree):
+    """Return a list of root-to-leaf path lists (one per leaf node)."""
+    paths = []
+
+    def dfs(node: IndexNode, path: list):
+        if node != index_tree.root and node.value is not None:
+            path = path + [str(node.value)]
+        if not node.children:
+            paths.append(path)
+        else:
+            for child in node.children:
+                dfs(child, path)
+
+    dfs(index_tree.root, [])
+    return paths
+
+
 class FeatureTree:
 
-    def __init__(self, index_tree: IndexTree = None, body_tree: BodyTree = None):
+    def __init__(self, index_tree: IndexTree = None, body_tree: BodyTree = None,
+                 row_index_tree: IndexTree = None):
         self.index_tree = index_tree
         self.body_tree = body_tree
+        self.row_index_tree = row_index_tree
 
     def load_from_pkl(self, pkl_file):
         try:
@@ -283,8 +321,8 @@ class FeatureTree:
             json_dict[DEFAULT_TABLE_NAME] = schema
         return json_dict
 
-    def __json__(self):
-        """Serialize the tree to a JSON-compatible dict."""
+    def __json_legacy__(self):
+        """Legacy JSON format: {"table": [{col: val, ...}]}."""
         json_dict = {}
         flag = False
         for index_node in self.index_tree.leaf_nodes:
@@ -298,7 +336,7 @@ class FeatureTree:
             for index_node in self.index_tree.leaf_nodes:
                 if len(index_node.body) >= 1:
                     if type(index_node.body[0].value) == FeatureTree:
-                        res = index_node.body[0].value.__json__()
+                        res = index_node.body[0].value.__json_legacy__()
                         if DEFAULT_TABLE_NAME in res:
                             json_dict[index_node.value] = res[DEFAULT_TABLE_NAME]
                         else:
@@ -352,6 +390,37 @@ class FeatureTree:
             
             json_dict = delete_dict_none_none(json_dict)
         return json_dict
+
+    def __json__(self):
+        """New addressed-cell JSON format with col_tree, row_tree, and cells."""
+        # Fall back to legacy if no row_index_tree
+        if self.row_index_tree is None:
+            return self.__json_legacy__()
+
+        result = {
+            "col_tree": _serialize_index_tree(self.index_tree),
+            "row_tree": _serialize_index_tree(self.row_index_tree),
+            "cells": [],
+        }
+
+        # Get leaf paths for both dimensions
+        col_paths = _get_leaf_paths(self.index_tree)
+        row_paths = _get_leaf_paths(self.row_index_tree)
+
+        # Build cells: iterate over each column leaf and its body nodes
+        for col_idx, col_leaf in enumerate(self.index_tree.leaf_nodes):
+            col_path = col_paths[col_idx] if col_idx < len(col_paths) else []
+            for row_idx, body_node in enumerate(col_leaf.body):
+                row_path = row_paths[row_idx] if row_idx < len(row_paths) else []
+                val = body_node.value
+                if val is not None and str(val).strip() not in ('', 'None'):
+                    result["cells"].append({
+                        "row_path": row_path,
+                        "col_path": col_path,
+                        "value": str(val),
+                    })
+
+        return result
 
     def __str__(self, level_list=[1]):
         s = ""
@@ -545,6 +614,153 @@ def construct_index_tree_smart(schema_sheet):
         return construct_index_tree_flattened(schema_sheet)
 
 
+# ---------------------------------------------------------------------------
+# Row Index Tree Construction (dual strategy)
+# ---------------------------------------------------------------------------
+
+def _has_row_merges(row_schema_sheet):
+    """Check if the row-schema sheet has any rowspan merges (vertical spans)."""
+    for merged_range in row_schema_sheet.merged_cells.ranges:
+        min_col, min_row, max_col, max_row = merged_range.bounds
+        if max_row > min_row:  # vertical span = rowspan
+            return True
+    return False
+
+
+def _construct_row_tree_from_merges(row_schema_sheet):
+    """Build row index tree from merge info — mirror of construct_index_tree() but row-first.
+
+    Traverses rows top→down instead of columns left→right.
+    """
+    from utils.sheet_utils import get_merge_cell_size, single_cell, get_sub_sheet
+
+    nrows = row_schema_sheet.max_row
+    ncols = row_schema_sheet.max_column
+
+    index_tree = IndexTree()
+
+    row = 1
+    while row <= nrows:
+        cell = row_schema_sheet.cell(row=row, column=1)
+        x1, y1, x2, y2 = get_merge_cell_size(row_schema_sheet, cell.coordinate)
+
+        # Check if this cell spans fewer rows than the full height → has sub-rows
+        if not single_cell(row_schema_sheet, x1, y1, x2, ncols):
+            sub_sheet = get_sub_sheet(row_schema_sheet, x1, y2 + 1, x2, ncols)
+            if sub_sheet is not None:
+                sub_tree = _construct_row_tree_from_merges(sub_sheet)
+                index_node = sub_tree.root
+            else:
+                # No sub-sheet (single column) — try vertical sub-rows
+                sub_sheet = get_sub_sheet(row_schema_sheet, x2 + 1, y1, nrows, ncols)
+                if sub_sheet is not None and sub_sheet.max_row > 0:
+                    sub_tree = _construct_row_tree_from_merges(sub_sheet)
+                    index_node = sub_tree.root
+                else:
+                    index_node = IndexNode()
+            index_node.value = row_schema_sheet.cell(row=x1, column=y1).value
+        else:
+            index_node = IndexNode(row_schema_sheet.cell(row=x1, column=y1).value)
+        index_tree.add_index(index_node)
+
+        row = x2 + 1
+
+    return index_tree
+
+
+def _get_indent_depth(text):
+    """Get indentation depth from leading whitespace count."""
+    if text is None:
+        return 0
+    s = str(text)
+    stripped = s.lstrip()
+    if not stripped:
+        return 0
+    return len(s) - len(stripped)
+
+
+def _construct_row_tree_from_indentation(row_schema_sheet):
+    """Build row index tree from leading whitespace indentation.
+
+    Parses &nbsp;/space indentation in column 1 to determine parent-child
+    relationships. Indent → push child, dedent → pop to ancestor.
+    """
+    nrows = row_schema_sheet.max_row
+
+    # Collect all row labels and their indent depths
+    rows_info = []
+    for r in range(1, nrows + 1):
+        val = row_schema_sheet.cell(row=r, column=1).value
+        text = str(val).rstrip() if val is not None else ''
+        stripped = text.lstrip()
+        depth = len(text) - len(stripped) if stripped else -1
+        rows_info.append((r, stripped, depth))
+
+    # Filter out empty rows
+    rows_info = [(r, label, d) for r, label, d in rows_info if d >= 0 and label]
+
+    if not rows_info:
+        return IndexTree()
+
+    # Normalize depths: map raw indent counts to levels 0, 1, 2, ...
+    unique_depths = sorted(set(d for _, _, d in rows_info))
+    depth_to_level = {d: i for i, d in enumerate(unique_depths)}
+
+    # Build tree using a stack: stack[i] = current node at level i
+    index_tree = IndexTree()
+    root = index_tree.root
+
+    # Stack tracks the node at each level: stack[0] = root, stack[1] = level-0 node, etc.
+    stack = [root]
+
+    for r, label, raw_depth in rows_info:
+        level = depth_to_level[raw_depth]
+
+        node = IndexNode(label)
+
+        # The parent is the last node at (level) in the stack
+        # Parent index in stack = level (since stack[0] = root, stack[1] = level-0 node)
+        parent_idx = level  # 0-based level → parent is at stack[level]
+
+        if parent_idx >= len(stack):
+            # Indent jumped too far — attach to deepest available parent
+            parent_idx = len(stack) - 1
+
+        parent = stack[parent_idx]
+        node.father = parent
+        parent.add_child(node)
+
+        # Update leaf_nodes (only leaf nodes matter for body attachment)
+        # We'll rebuild leaf_nodes at the end
+
+        # Trim stack to parent level + 1, then push this node
+        stack = stack[:parent_idx + 1]
+        stack.append(node)
+
+    # Rebuild leaf_nodes from the constructed tree
+    index_tree.leaf_nodes = get_leaf_nodes(root)
+
+    return index_tree
+
+
+def construct_row_index_tree(row_schema_sheet):
+    """Dual-strategy row index tree construction.
+
+    Strategy A (primary): When rowspan merges exist → traverse merge bounding
+    boxes, mirroring construct_index_tree() but row-first.
+
+    Strategy B (fallback): When no merges → parse leading whitespace/&nbsp;
+    indentation to determine depth, build tree from depth changes.
+    """
+    if row_schema_sheet is None:
+        return IndexTree()
+
+    if _has_row_merges(row_schema_sheet):
+        return _construct_row_tree_from_merges(row_schema_sheet)
+    else:
+        return _construct_row_tree_from_indentation(row_schema_sheet)
+
+
 def construct_body_tree_dfs(index_tree: IndexTree, data_sheet, x, y, depth):
     from utils.sheet_utils import (
         get_merge_cell_size,
@@ -626,7 +842,7 @@ def construct_body_tree(index_tree: IndexTree, data_sheet):
 
 
 def construct_sheet(sheet):
-    from utils.split_utils import split_schema_row
+    from utils.split_utils import split_schema_row, split_schema_column
 
     schame_sheet, data_sheet = split_schema_row(sheet)
 
@@ -635,7 +851,14 @@ def construct_sheet(sheet):
 
     body_tree, _ = construct_body_tree(index_tree, data_sheet)
 
-    return FeatureTree(index_tree=index_tree, body_tree=body_tree)
+    # Build row index tree from the data sheet's left columns
+    row_index_tree = None
+    if data_sheet is not None:
+        row_schema_sheet, _ = split_schema_column(data_sheet)
+        row_index_tree = construct_row_index_tree(row_schema_sheet)
+
+    return FeatureTree(index_tree=index_tree, body_tree=body_tree,
+                       row_index_tree=row_index_tree)
 
 
 def construct_feature_tree(tree_dict):

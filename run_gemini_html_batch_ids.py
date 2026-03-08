@@ -25,7 +25,6 @@ RUN_IDS: List[int] = [
 # Gemini API (can be overridden via GEMINI_API_KEY env var)
 GEMINI_API_KEY = os.environ.get(
     "GEMINI_API_KEY",
-    "AIzaSyCRqs8qpqx-svRyWDFg8eHOXB73LShusG4",
 )
 GEMINI_MODEL_NAME = "gemini-3-pro-preview"  # model name for API (see ai.google.dev/gemini-api/docs/models)
 RPM_LIMIT = 25  # requests per minute (to stay within quota)

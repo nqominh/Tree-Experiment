@@ -37,3 +37,37 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
+
+# Result CSVs and data dumps
+*.csv
+gemini_html_batch_results*.jsonl
+*.tsv
+
+# Generated table inputs (regenerate with prepare_tables.py)
+table_inputs/
+trees_json/
+
+# Raw dataset (shared separately)
+RealHiTBench/
+
+# Inspect/debug outputs
+inspect_output.md
+inspect_output.txt
+
+# One-off helper/debug scripts
+_dump_prompt.py
+_test_prompt.py
+_rebuild_csv.py
+list_models.py
+
+# HTML research notes
+Table QA prompt design for LLM reasoning - Claude.html
+Table QA prompt design for LLM reasoning - Claude_files/
+example_prompt_id36.md
+CHANGES_SUMMARY.md
+gemini_results_regraded.html
+gemini_results_viewer.html
+
+# Score result files
+score/*.csv
+score/results.json

@@ -13,6 +13,7 @@ Usage:
     python prepare_tables.py
 """
 
+import argparse
 import json
 import sys
 from pathlib import Path
@@ -188,4 +189,9 @@ def main():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Stage 1: Build table input files")
+    parser.add_argument("--questions", type=str, default=str(QUESTIONS_PATH),
+                        help="Path to questions JSONL file")
+    args = parser.parse_args()
+    QUESTIONS_PATH = Path(args.questions)
     main()

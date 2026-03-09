@@ -25,6 +25,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 from experiment.tree_builder import html_to_tree
 from experiment.tree_output import tree_to_schema, tree_to_row_schema
+from experiment.schema_validator import validate_schema
 from table2tree.feature_tree import IndexTree, IndexNode
 
 QUESTIONS_PATH = PROJECT_ROOT / "tests" / "questions.jsonl"
@@ -142,6 +143,8 @@ def main():
 
     ok, failed = 0, 0
     total_saved = 0
+    schema_mismatches = 0
+    table_metadata = {}
 
     for i, tid in enumerate(table_ids, 1):
         html_path = HTML_DIR / f"{tid}.html"
@@ -162,6 +165,12 @@ def main():
             if tree is None:
                 raise RuntimeError("All strategies failed")
 
+            # Validate schema against HTML
+            validation = validate_schema(tree, raw_html)
+            schema_ok = validation["match"]
+            if not schema_ok:
+                schema_mismatches += 1
+
             content = build_table_txt(tid, raw_html, tree)
             out_path.write_text(content, encoding="utf-8")
 
@@ -173,18 +182,37 @@ def main():
             row_schema = tree_to_row_schema(tree)
             total_saved += len(raw_html) - len(content)
 
-            print(f"OK  ({strategy}) "
+            # Record metadata for downstream use
+            table_metadata[tid] = {
+                "strategy": strategy,
+                "extracted_cols": validation["extracted_cols"],
+                "expected_cols": validation["expected_cols"],
+                "schema_match": schema_ok,
+            }
+
+            status = "OK" if schema_ok else "OK (SCHEMA MISMATCH)"
+            print(f"{status}  ({strategy}) "
                   f"{len(col_schema)} cols, {len(row_schema)} rows  "
                   f"{original_kb:.0f}KB -> {cleaned_kb:.0f}KB ({savings_pct:.0f}% smaller)")
+            if not schema_ok:
+                print(f"    WARN: expected {validation['expected_cols']} cols, "
+                      f"extracted {validation['extracted_cols']}")
             ok += 1
 
         except Exception as e:
             print(f"FAIL  {e}")
             failed += 1
 
+    # Write table metadata for run_experiment_csv.py
+    metadata_path = OUTPUT_DIR / "table_metadata.json"
+    with open(metadata_path, "w", encoding="utf-8") as f:
+        json.dump(table_metadata, f, indent=2)
+
     print(f"\n{'='*60}")
     print(f"DONE: {ok} tables prepared, {failed} failed")
+    print(f"Schema mismatches: {schema_mismatches}/{ok}")
     print(f"Total size saved by cleaning HTML: {total_saved/1024:.0f} KB")
+    print(f"Metadata saved to: {metadata_path}")
     print(f"Files saved to: {OUTPUT_DIR}/")
 
 

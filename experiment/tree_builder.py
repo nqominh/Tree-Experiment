@@ -14,6 +14,7 @@ Usage:
     tree, strategy = html_to_tree(html_string)
 """
 
+import os
 import tempfile
 import openpyxl
 
@@ -38,9 +39,14 @@ from table2tree.extract_excel import get_structured_xlsx_sheet
 # ---------------------------------------------------------------------------
 
 def _html_to_workbook_sheet(html_content: str):
-    """HTML string → expanded openpyxl sheet (merged cells resolved)."""
+    """HTML string → expanded openpyxl sheet (merged cells resolved).
+
+    Returns (sheet, temp_path). Caller MUST call os.unlink(temp_path)
+    when done to avoid leaking temp files.
+    """
     wb = html2workbook(html_content)
-    temp_path = tempfile.mktemp(suffix=".xlsx")
+    with tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False) as tmp:
+        temp_path = tmp.name
     wb.save(temp_path)
     sheet = get_structured_xlsx_sheet(temp_path)
     return sheet, temp_path
@@ -56,12 +62,15 @@ def html_to_tree_direct(html_content: str) -> FeatureTree:
     Uses ST-Raptor's split_schema_row() to auto-detect header rows.
     """
     wb = html2workbook(html_content)
-    temp_path = tempfile.mktemp(suffix=".xlsx")
-    wb.save(temp_path)
-
-    wb2 = openpyxl.load_workbook(temp_path, data_only=True)
-    sheet = sheet2structure(wb2.active)
-    return construct_sheet(sheet)
+    with tempfile.NamedTemporaryFile(suffix=".xlsx", delete=False) as tmp:
+        temp_path = tmp.name
+    try:
+        wb.save(temp_path)
+        wb2 = openpyxl.load_workbook(temp_path, data_only=True)
+        sheet = sheet2structure(wb2.active)
+        return construct_sheet(sheet)
+    finally:
+        os.unlink(temp_path)
 
 
 # ---------------------------------------------------------------------------
@@ -73,29 +82,32 @@ def html_to_tree_fixed(html_content: str, max_header_rows: int = 2) -> FeatureTr
     Manually split first `max_header_rows` rows as schema, remainder as data.
     More robust when auto-detection fails.
     """
-    sheet, _ = _html_to_workbook_sheet(html_content)
-    nrows = sheet.max_row
-    ncols = sheet.max_column
+    sheet, temp_path = _html_to_workbook_sheet(html_content)
+    try:
+        nrows = sheet.max_row
+        ncols = sheet.max_column
 
-    # Schema sheet
-    schema_wb = openpyxl.Workbook()
-    schema_sheet = schema_wb.active
-    for r in range(1, min(max_header_rows + 1, nrows + 1)):
-        for c in range(1, ncols + 1):
-            schema_sheet.cell(row=r, column=c).value = sheet.cell(row=r, column=c).value
+        # Schema sheet
+        schema_wb = openpyxl.Workbook()
+        schema_sheet = schema_wb.active
+        for r in range(1, min(max_header_rows + 1, nrows + 1)):
+            for c in range(1, ncols + 1):
+                schema_sheet.cell(row=r, column=c).value = sheet.cell(row=r, column=c).value
 
-    # Data sheet
-    data_wb = openpyxl.Workbook()
-    data_sheet = data_wb.active
-    for r in range(max_header_rows + 1, nrows + 1):
-        for c in range(1, ncols + 1):
-            data_sheet.cell(row=r - max_header_rows, column=c).value = sheet.cell(
-                row=r, column=c
-            ).value
+        # Data sheet
+        data_wb = openpyxl.Workbook()
+        data_sheet = data_wb.active
+        for r in range(max_header_rows + 1, nrows + 1):
+            for c in range(1, ncols + 1):
+                data_sheet.cell(row=r - max_header_rows, column=c).value = sheet.cell(
+                    row=r, column=c
+                ).value
 
-    index_tree = construct_index_tree(schema_sheet)
-    body_tree, _ = construct_body_tree(index_tree, data_sheet)
-    return FeatureTree(index_tree=index_tree, body_tree=body_tree)
+        index_tree = construct_index_tree(schema_sheet)
+        body_tree, _ = construct_body_tree(index_tree, data_sheet)
+        return FeatureTree(index_tree=index_tree, body_tree=body_tree)
+    finally:
+        os.unlink(temp_path)
 
 
 # ---------------------------------------------------------------------------
@@ -104,9 +116,12 @@ def html_to_tree_fixed(html_content: str, max_header_rows: int = 2) -> FeatureTr
 
 def html_to_tree_structured(html_content: str) -> FeatureTree:
     """Treat full expanded sheet as structured data — last-resort fallback."""
-    sheet, _ = _html_to_workbook_sheet(html_content)
-    tree_dict = {DEFAULT_TABLE_NAME: sheet}
-    return construct_feature_tree(tree_dict)
+    sheet, temp_path = _html_to_workbook_sheet(html_content)
+    try:
+        tree_dict = {DEFAULT_TABLE_NAME: sheet}
+        return construct_feature_tree(tree_dict)
+    finally:
+        os.unlink(temp_path)
 
 
 # ---------------------------------------------------------------------------
@@ -136,3 +151,4 @@ def html_to_tree(html_content: str, max_header_rows: int = 2):
         except Exception:
             pass
     return None, "failed"
+

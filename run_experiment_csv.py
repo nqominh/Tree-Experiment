@@ -49,7 +49,8 @@ OUTPUT_CSV     = PROJECT_ROOT / "experiment_results.csv"
 DEFAULT_PROMPT = PROJECT_ROOT / "EVIDENCE_PROMPT.md"
 
 CSV_COLUMNS = ["id", "question", "correct_answer", "model_answer",
-               "full_response", "full_prompt", "filename", "sub_type", "EM"]
+               "full_response", "full_prompt", "filename", "sub_type", "EM",
+               "strategy", "prompt_tokens", "schema_match"]
 
 
 # ---------------------------------------------------------------------------
@@ -223,9 +224,13 @@ def extract_answer(response: str) -> str:
 
 
 def _process_decimal(s: str) -> str:
-    """Round to 2 decimals if the string looks like a number."""
+    """Normalize number format without forced rounding."""
     try:
-        return str(round(float(s), 2))
+        f = float(s)
+        # Normalize: if it's a whole number, drop the decimal
+        if f == int(f):
+            return str(int(f))
+        return str(f)
     except (ValueError, OverflowError):
         return s
 
@@ -242,14 +247,18 @@ def normalize(s: str) -> str:
 
 
 def exact_match(predicted: str, label: str) -> int:
-    """Strict EM: 1 if normalized strings are equal, else 0.
+    """EM: try raw match first, then normalized match.
 
-    Returns 0 immediately if prediction is empty (model produced nothing).
+    Returns 0 immediately if prediction is empty.
     """
+    if not predicted.strip():
+        return 0
+    # Try exact raw match (case-insensitive, stripped)
+    if predicted.strip().lower() == label.strip().lower():
+        return 1
+    # Fall back to normalized match
     np = normalize(predicted)
     nl = normalize(label)
-    if not np:
-        return 0
     return 1 if np == nl else 0
 
 
@@ -278,6 +287,13 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
         questions = [q for q in questions if str(q["id"]) in qid_set]
     elif limit:
         questions = questions[:limit]
+
+    # Load table metadata (strategy, schema_match) from prepare_tables.py output
+    table_meta = {}
+    metadata_path = TABLE_INPUTS / "table_metadata.json"
+    if metadata_path.exists():
+        with open(metadata_path, encoding="utf-8") as f:
+            table_meta = json.load(f)
 
     # --demo: render the first prompt and exit (no API call)
     if demo:
@@ -402,6 +418,9 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
                 "filename":       filename,
                 "sub_type":       q.get("sub_type", ""),
                 "EM":             em,
+                "strategy":       table_meta.get(q["table_id"], {}).get("strategy", ""),
+                "prompt_tokens":  len(full_prompt) // 4,
+                "schema_match":   table_meta.get(q["table_id"], {}).get("schema_match", ""),
             })
             csvfile.flush()
 

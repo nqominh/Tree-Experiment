@@ -41,6 +41,11 @@ from pathlib import Path
 
 import requests
 
+from utils.answer_normalization import exact_match_with_normalization
+
+# Raise CSV field size limit — C5's 6-step responses can exceed the 131 KB default
+csv.field_size_limit(sys.maxsize)
+
 PROJECT_ROOT   = Path(__file__).resolve().parent
 QUESTIONS_PATH = PROJECT_ROOT / "tests" / "questions.jsonl"
 TABLE_INPUTS   = PROJECT_ROOT / "table_inputs"
@@ -178,6 +183,14 @@ _FINAL_ANSWER_RE = re.compile(
     r'(?:\*?\*?\[?\s*Final\s+Answer\s*\]?\*?\*?\s*[:\-]\s*)(.*)',
     re.IGNORECASE,
 )
+_OUTPUT_RE = re.compile(
+    r'(?:\*?\*?\#?\s*Output\s*\*?\*?\s*[:\-]\s*)(.*)',
+    re.IGNORECASE,
+)
+_SECTION_HEADER_RE = re.compile(
+    r'^\s*(?:\*\*\s*)?\[?\s*(?:step\s*\d+|reasoning|analysis|explanation|notes?|confidence|final\s+answer|output)\b.*$',
+    re.IGNORECASE,
+)
 
 
 def _strip_code_fences(text: str) -> str:
@@ -190,76 +203,61 @@ def _strip_code_fences(text: str) -> str:
     return text.strip()
 
 
-def extract_answer(response: str) -> str:
-    """Extract the text following the *last* [Final Answer]: marker.
+def _collect_section(lines: list[str], start_idx: int, first_part: str) -> str:
+    collected = [first_part] if first_part else []
+    for subsequent in lines[start_idx + 1:]:
+        if _SECTION_HEADER_RE.match(subsequent):
+            break
+        collected.append(subsequent.rstrip())
+    return _strip_code_fences("\n".join(collected).strip())
 
-    Handles multi-line answers (collects until the next section header or end).
-    Falls back to the last non-empty line if no marker is found.
+
+def _find_last_marker(lines: list[str], pattern: re.Pattern[str]) -> int:
+    best_idx = -1
+    for i, line in enumerate(lines):
+        if pattern.search(line):
+            best_idx = i
+    return best_idx
+
+
+def _is_meaningful_answer(text: str) -> bool:
+    """Require at least one alphanumeric character to avoid punctuation noise."""
+    return bool(re.search(r"[A-Za-z0-9]", text or ""))
+
+
+def extract_answer(response: str) -> str:
+    """Extract answer text from full model response.
+
+    Priority:
+      1) Last [Final Answer]: section
+      2) Last Output: section
+      3) Last non-empty line fallback
+
+    Multi-line answers are preserved until a known section header appears.
     """
     lines = response.strip().splitlines()
-    best_start = -1
-    # find the LAST occurrence of the marker
-    for i, line in enumerate(lines):
-        if _FINAL_ANSWER_RE.search(line):
-            best_start = i
 
-    if best_start >= 0:
-        m = _FINAL_ANSWER_RE.search(lines[best_start])
-        first_part = m.group(1).strip() if m else ""
-        collected = [first_part] if first_part else []
-        for subsequent in lines[best_start + 1:]:
-            # stop at next section header like [Step ...] or **Step ...**
-            if re.match(r'^\s*(\[|\*\*\s*Step)', subsequent):
-                break
-            collected.append(subsequent.strip())
-        answer = "\n".join(collected).strip()
-        answer = _strip_code_fences(answer)
-        return answer if answer else first_part
+    final_idx = _find_last_marker(lines, _FINAL_ANSWER_RE)
+    if final_idx >= 0:
+        match = _FINAL_ANSWER_RE.search(lines[final_idx])
+        first_part = match.group(1).strip() if match else ""
+        answer = _collect_section(lines, final_idx, first_part)
+        if answer and _is_meaningful_answer(answer):
+            return answer
+
+    output_idx = _find_last_marker(lines, _OUTPUT_RE)
+    if output_idx >= 0:
+        match = _OUTPUT_RE.search(lines[output_idx])
+        first_part = match.group(1).strip() if match else ""
+        answer = _collect_section(lines, output_idx, first_part)
+        if answer and _is_meaningful_answer(answer):
+            return answer
 
     # fallback: last non-empty line
     for line in reversed(lines):
-        if line.strip():
+        if line.strip() and _is_meaningful_answer(line.strip()):
             return line.strip()
     return ""
-
-
-def _process_decimal(s: str) -> str:
-    """Normalize number format without forced rounding."""
-    try:
-        f = float(s)
-        # Normalize: if it's a whole number, drop the decimal
-        if f == int(f):
-            return str(int(f))
-        return str(f)
-    except (ValueError, OverflowError):
-        return s
-
-
-def normalize(s: str) -> str:
-    s = s.strip().strip('"').strip("'").rstrip(".").strip()
-    s = s.replace("$", "").replace("%", "").replace(",", "")
-    # Remove articles
-    s = re.sub(r'\b(a|an|the)\b', ' ', s, flags=re.IGNORECASE)
-    # Remove all punctuation
-    s = re.sub(r'[^\w\s]', ' ', s)
-    s = " ".join(s.lower().split())
-    return _process_decimal(s)
-
-
-def exact_match(predicted: str, label: str) -> int:
-    """EM: try raw match first, then normalized match.
-
-    Returns 0 immediately if prediction is empty.
-    """
-    if not predicted.strip():
-        return 0
-    # Try exact raw match (case-insensitive, stripped)
-    if predicted.strip().lower() == label.strip().lower():
-        return 1
-    # Fall back to normalized match
-    np = normalize(predicted)
-    nl = normalize(label)
-    return 1 if np == nl else 0
 
 
 # ---------------------------------------------------------------------------
@@ -395,7 +393,7 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
                 full_response = call_gemini(full_prompt, api_key, model=model)
                 elapsed       = time.perf_counter() - t0
                 model_answer  = extract_answer(full_response)
-                em            = exact_match(model_answer, q["label"])
+                em            = exact_match_with_normalization(model_answer, q["label"])
                 em_hits      += em
                 done_so_far   = i - errors
                 pct           = em_hits / done_so_far * 100 if done_so_far else 0
@@ -440,7 +438,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Gemini Table QA — CSV output")
     parser.add_argument("--questions", default=str(QUESTIONS_PATH))
     parser.add_argument("--output",    default=str(OUTPUT_CSV))
-    parser.add_argument("--model",     default="gemini-3.1-pro-preview")
+    parser.add_argument("--model",     default="gemini-2.5-pro")
     parser.add_argument("--limit",     type=int, default=0,
                         help="0 = all questions")
     parser.add_argument("--qid",       type=str, default="",

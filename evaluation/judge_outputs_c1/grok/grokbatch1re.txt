@@ -1,0 +1,61 @@
+item_id,question,gold_answer,model_answer,judgement
+380,"If the participation in “Private Sector Public Funded” increased by 15% in the following year, what would the new total participation figure of “Private Sector Public Funded” be?",505919.50,505919.5,CORRECT
+424,"Compare the unemployment rates in the “Business, Administration, and Law” field between Austria and Belgium. Which country has a higher rate, and by how much?","austria, 0.9","Austria, by 0.9",CORRECT
+434,How many regions have more than 2000 births in the Sport sector in 2009?,1,0,INCORRECT
+435,Which region had the highest value of new business births in the Creative sector in 2009?,England,London,INCORRECT
+453,What was the turnover per head for Sports Activities in the London region in 2005 and 2009? Provide both values.,"78, 92","2005: £78, 2009: £92",CORRECT
+463,"Determine the total cost of “Total Procurement Spend (£million)” and “Total 3rd Party ICT Cost (£million)” for Q2 2011-12.",834.90,834.9,CORRECT
+481,"For Chile, what was the average hospital employment from 2015 to 2023?",134017.89,134018,INCORRECT
+490,"Rank the top three reference areas by the total number of female physicians in 2023.","United Kingdom, Chile, Austria","1. United Kingdom, 2. Chile, 3. Austria",CORRECT
+491,"Compare the number of female physicians in 2019 between Australia and Austria. Which area had more, and by how many?","Australia, 18611","Australia had 18,611 more female physicians than Austria.",CORRECT
+529,"Compare the number of dwellings in the “50 or less” category between 2006 and 2007. Which year had more dwellings, and by how much?","2007, 6720","2007 had more dwellings by 6,720.",CORRECT
+534,Compare the gas consumption for dwellings with 4 bedrooms between 2005 and 2009. By how much did it change?,44620,Not answerable,INCORRECT
+540,"Rank the years 1970 to 1973 based on the total expenditure on fuel, light, and power (£) in 2009 prices. What is the rank of the year with the highest expenditure?",1970,1,INCORRECT
+548,What was the total number of businesses in the “Advertising” sub-sector for all regions in 2009?,25900,12950,INCORRECT
+562,"What was the total energy demand (in TWh) for all fuels in 1970 and 1973, and by how much did it increase over this period?","409.20, 416.90, 7.70","The total energy demand for all fuels was 409.2 in 1970 and 416.9 in 1973, an increase of 7.7.",CORRECT
+564,"Compare the energy demand for “Gas” in 1972 and 1974. Which year had a higher demand, and by how much?","1974, 25.90",1974 had a higher demand by 25.9.,CORRECT
+589,Identify the total number of categories where scores improved from 2011-12 to 2012-13.,2,3,INCORRECT
+597,"If one more tower adds an ""Outdoor BBQ area,"" what will the new percentage of towers equipped with this amenity be?",0.89,89%,CORRECT
+599,"Compare the availability of the ""pet spa"" and the ""sky lounge"" in towers. Which has more towers equipped with it, and by how many?","pet spa, 2","pet spa, by 2",CORRECT
+619,Compare the total goals scored by Norwich in away matches to their home matches. Which one is higher?,Away,Not answerable,INCORRECT
+643,"Compare the values of entries ""A01101"" and ""A01202."" Which entry has the higher value?",A01202,Not answerable,INCORRECT
+651,"Rank the companies based on the number of attendees listed for each, starting from the highest. Provide the top two companies.","Staff, Roshgold","1. Staff
+2. Roshgold",CORRECT
+672,"Rank the products by their Actual values for February, from highest to lowest.",2-8-10-4-6-7-5,"Product 2, Product 8, Product 10, Product 4, Product 9, Product 6, Product 7, Product 5",INCORRECT
+689,"Analyze the total goals scored across Saturday matches and Sunday matches. Which day had more goals, and by how many?","saturday, 2",Saturday had 2 more goals than Sunday.,CORRECT
+705,"Rank the products by their ""CostMaterial"" under the ""Galvalume"" material in descending order and identify the top three.","Ridge Cap, 23.10, Deluxe Ridge Cap, 16.75, 17.25 Cap, 11.78","Ridge Cap, Deluxe Ridge Cap, 17.25 Cap",INCORRECT
+709,"What is the total amount paid across all entries for ""Videography"" services?",1267.50,1267.5,CORRECT
+725,What is the average number of regular hours worked per day over the recorded period?,3.79,3.43,INCORRECT
+729,Compare the profit of Product 3 in January to the profit of Product 1 in April. Which is higher?,Product 3,Product 3 in January,CORRECT
+744,"Rank the items based on their total price including VAT, and identify the top two most expensive items.","Xerox Printer, Dell Laptop","1. Xerox Printer (R 33,777.06)
+2. Dell Laptop (R 18,810.00)",CORRECT
+764,"How many models have an incentive on orders greater than 5,000 during the period 1st Dec'16 to 29th Dec'16?",6,8,INCORRECT
+784,"On which date was the actual production total for U42 the highest, and what was its value?","2017-02-06, 25.62","2/6/2017, 25.62",CORRECT
+794,"Rank the survey questions based on the number of ‘Yes' responses, listing the top three questions with the highest counts.","1. Strategic Management: “Does your organisation have a Knowledge and Information Management (KIM) strategy?”
+ 2. Business Objectives: “Are there performance measures for KIM?”
+ 3. Business Objectives: “If so, has business critical information been included in a business continuity plan?”","1. Does your organisation have a Knowledge and Information Management (KIM) strategy? (40)
+2. Are there performance measures for KIM? (40)
+3. If so, has business critical information been included in a business continuity plan? (40)",CORRECT
+818,"Rank all the categories by their total inventory across all sizes on February 5, 2016.","Polo Shirts, Fleece, Safety Shoes, Safety Boots","1. Polo Shirts (28)
+2. Fleece (20)
+3. Safety Shoes (12)
+4. Safety Boots (8)",CORRECT
+824,Rank all streets by their total “OWE” values and provide the top two streets.,"BEXHILL, COLWYN","COLWYN, BEXHILL",INCORRECT
+839,Compare the “Overtime Hours” of Monday in Week 1 and Monday in Week 2. Which one is greater?,Week 1,Monday in Week 1,CORRECT
+844,Compare the total bookings for the 12.15pm time slot across all days. Which day had the most bookings for this slot?,"Thursday, 6",Thursday,CORRECT
+848,How many shifts across the week for GV12 exceeded the “Target” percentage of 61.30%?,2,7,INCORRECT
+859,"Calculate the total number of shifts assigned to Crew A and Crew C during the first two weeks, and compare which crew has more shifts.",Crew C,"Crew A has a total of 6 shifts, and Crew C has a total of 8 shifts. Therefore, Crew C has more shifts in the first two weeks.",CORRECT
+869,Rank the top three ingredients with the highest quantities in the Baked Caprese Chicken recipe.,"basil, butter, mozzarella",Not answerable,INCORRECT
+884,Compare the “6 Month” value for “Black” and “Safety Green.” Which item has a higher value?,"Black, 504.00",Black,CORRECT
+894,Compare the “Utilization %” between “FC Followup Week 1” and “Outbond Week 2.” Which has a higher value?,"Outbond Week 2, 0.47",Outbond Week 2,CORRECT
+903,Rank the companies by their total “Quantity (bbls)” from highest to lowest for transactions recorded between 2015-02-01 and 2015-02-07.,"Wild, Mongoose","1. Wild
+2. Mongoose",CORRECT
+904,What is the total “Amount Billed” for all transactions involving “Truck Number DRL11” during the date range 2015-02-01 to 2015-02-05?,4327.50,4327.5,CORRECT
+925,Rank all employees based on the number of tasks marked as “Done” in the “E-Learning” section. Who is ranked first?,"charlie cadsworth,david donesbury,edward edwins","Charlie Cadsworth, David Donesbury, Edward Edwins",CORRECT
+929,Identify the month with the highest revenue for “3-month” memberships across 2013 and 2014.,OCT 2014,OCT,CORRECT
+931,Calculate the average revenue per month for “12-month” memberships across 2014.,184.67,153.89,INCORRECT
+942,Rank all components based on the “Pending” column in descending order. Which component ranks first?,b,bb,INCORRECT
+952,"How many unique branches are listed in the table, and what are their names?","4, CENTERAL BRANCH O, LOWER BRANCH I, GROUND BRANCH H, INTER BRANCH A","There are 4 unique branches: CENTERAL BRANCH O, LOWER BRANCH I, GROUND BRANCH H, INTER BRANCH A.",CORRECT
+957,What is the total cost of all events held at “Sherbourne Common”?,139.07,139.08,INCORRECT
+959,Compare the average cost of events held in August 2014 and September 2014 and identify the month with the higher average.,August 2014,August,CORRECT
+987,Compare the local price of a 3-Month Premium Subscription in Canada to that in Japan. Which country has a higher price?,Canada,Not answerable,INCORRECT

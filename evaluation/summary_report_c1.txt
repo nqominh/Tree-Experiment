@@ -1,0 +1,22 @@
+=== EVALUATION SUMMARY ===
+
+Total EM==0 items evaluated:   83
+
+Judge parsing:
+  Claude Sonnet 4.6 parsed:    83 items  (0 missing -> HUMAN_REVIEW)
+  GPT 5.4 Thinking parsed:    83 items  (0 missing -> HUMAN_REVIEW)
+  Grok Expert parsed:    83 items  (0 missing -> HUMAN_REVIEW)
+
+Agreement breakdown (3-judge majority):
+  CORRECT by majority:         52
+  INCORRECT by majority:       31
+  No majority / uncertain:     0  -> HUMAN_REVIEW
+
+Final labels:
+  CORRECT  (majority vote):    52  (62.7%)
+  INCORRECT (majority vote):   31  (37.3%)
+  HUMAN_REVIEW:                0  (0.0%)
+
+Human review list saved to: evaluation\human_review_list_c1.csv
+Final results saved to:     evaluation\final_results_c1.csv
+Master write target:        evaluation\evaluation_master_c1.csv

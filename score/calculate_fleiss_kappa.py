@@ -11,9 +11,42 @@ import pandas as pd
 
 # Keep same normalization semantics as calculate_kappa.py
 
+
+def map_common_judge_label(ans_lower: str):
+    """Map both legacy and new judge labels to Fleiss classes.
+
+    Supports:
+    - Legacy markers: x/match/wrong table/no info
+    - New labels: CORRECT/INCORRECT/UNCERTAIN
+    """
+    if ans_lower in ["x", "match", "correct", "true", "right"]:
+        return "__MATCH__"
+
+    if ans_lower in ["incorrect", "wrong", "false"]:
+        return "__CORRECTION__"
+
+    if ans_lower in [
+        "",
+        "nan",
+        "none",
+        "no info",
+        "no_info",
+        "wrong table",
+        "uncertain",
+        "human_review",
+        "review",
+    ]:
+        return "__NO_INFO__"
+
+    return None
+
 def normalize_reviewer1(ans):
     ans = str(ans).strip()
     ans_lower = ans.lower()
+
+    mapped = map_common_judge_label(ans_lower)
+    if mapped is not None:
+        return mapped
 
     # Reviewer 1 uses "x" to indicate match.
     if ans_lower == "x":
@@ -30,6 +63,10 @@ def normalize_reviewer1(ans):
 def normalize_reviewer2(ans):
     ans = str(ans).strip()
     ans_lower = ans.lower()
+
+    mapped = map_common_judge_label(ans_lower)
+    if mapped is not None:
+        return mapped
 
     # Reviewer 2 uses "match".
     if ans_lower == "match":

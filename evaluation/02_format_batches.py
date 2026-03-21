@@ -3,7 +3,7 @@
 Script 2: Format evaluation_master.csv into chat-ready batch CSV files.
 
 Usage:
-  python 02_format_batches.py --input evaluation_master.csv --batch-size 50 --output-dir batches/
+    python 02_format_batches.py --input evaluation_master.csv --batch-size 55 --output-dir batches/
 """
 
 from __future__ import annotations
@@ -25,7 +25,7 @@ MASTER_REQUIRED_COLUMNS = [
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Create judge prompt batch files")
     parser.add_argument("--input", default="evaluation_master.csv", help="Input master CSV")
-    parser.add_argument("--batch-size", type=int, default=50, help="Items per batch (default: 50)")
+    parser.add_argument("--batch-size", type=int, default=55, help="Items per batch (default: 55)")
     parser.add_argument("--output-dir", default="batches", help="Output directory for batch txt files")
     return parser.parse_args()
 

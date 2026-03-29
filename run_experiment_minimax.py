@@ -10,7 +10,6 @@ Usage (PowerShell):
   $env:ANTHROPIC_API_KEY="your_key"
   .venv\\Scripts\\python.exe run_experiment_minimax.py \
     --questions "tests/questions_clean_audit copy.jsonl" \
-    --prompt-file prompts/C3_SchemaOnly.md \
     --output score/C3_schema_only_minimax.csv \
     --model MiniMax-M2.7 \
     --delay 2
@@ -114,15 +113,27 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--temperature", type=float, default=1.0)
     parser.add_argument("--max-tokens", type=int, default=32000)
 
-    parser.add_argument("--prompt-file", type=str, default=str(base.DEFAULT_PROMPT))
+    parser.add_argument(
+        "--prompt-file",
+        type=str,
+        default=str(base.DEFAULT_PROMPT),
+        help="Path to baseline prompt template .md file; ignored for execution when --enable-intent-routing is active (without --shadow-mode)",
+    )
     parser.add_argument("--csv-dir", type=str, default="")
     parser.add_argument("--json-dir", type=str, default="")
     parser.add_argument("--html-dir", type=str, default="")
     parser.add_argument("--demo", action="store_true")
+    parser.add_argument("--enable-intent-routing", action="store_true")
+    parser.add_argument("--mh-conf-threshold", type=float, default=0.55)
+    parser.add_argument("--route-policy-version", type=str, default="router_v1_2026_03_29")
+    parser.add_argument("--shadow-mode", action="store_true", help="Compute/log routes but execute baseline CLI profile")
+    parser.add_argument("--c1-model", type=str, default="", help="DEPRECATED: accepted for backward compatibility, ignored")
+    parser.add_argument("--c3-model", type=str, default="", help="DEPRECATED: accepted for backward compatibility, ignored")
     return parser.parse_args()
 
 
 def main() -> None:
+    base.load_local_env_files(extra_files=(".env.minimax",))
     args = parse_args()
 
     api_key = args.api_key or os.environ.get(args.api_key_env)
@@ -132,8 +143,18 @@ def main() -> None:
         )
 
     prompt_path = Path(args.prompt_file)
-    if not prompt_path.exists():
-        raise SystemExit(f"ERROR: Prompt file not found: {prompt_path}")
+    prompt_template = ""
+    if args.enable_intent_routing and not args.shadow_mode:
+        if prompt_path.exists():
+            prompt_template = base.load_prompt_template(prompt_path)
+            print(f"Prompt template (baseline; ignored in active profile routing): {prompt_path.name}")
+        else:
+            print("Prompt template: (ignored in active profile routing)")
+    else:
+        if not prompt_path.exists():
+            raise SystemExit(f"ERROR: Prompt file not found: {prompt_path}")
+        prompt_template = base.load_prompt_template(prompt_path)
+        print(f"Prompt template: {prompt_path.name}")
 
     # Monkey-patch the runner's model call so base.run uses MiniMax.
     base.call_gemini = lambda prompt, api_key, model, temperature=1.0, max_tokens=32000: call_minimax(
@@ -145,10 +166,8 @@ def main() -> None:
         max_tokens=args.max_tokens,
     )
 
-    prompt_template = base.load_prompt_template(prompt_path)
     qids = [q.strip() for q in args.qid.split(",") if q.strip()] if args.qid else None
 
-    print(f"Prompt template: {prompt_path.name}")
     print(f"Provider: MiniMax via Anthropic-compatible API  |  Base URL: {args.base_url}")
 
     base.run(
@@ -164,6 +183,13 @@ def main() -> None:
         json_dir=args.json_dir,
         html_dir=args.html_dir,
         demo=args.demo,
+        enable_intent_routing=args.enable_intent_routing,
+        mh_conf_threshold=args.mh_conf_threshold,
+        route_policy_version=args.route_policy_version,
+        shadow_mode=args.shadow_mode,
+        c1_model=args.c1_model,
+        c3_model=args.c3_model,
+        prompt_template_path=prompt_path,
     )
 
 

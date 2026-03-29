@@ -37,7 +37,7 @@ $env:GEMINI_API_KEY="your_gemini_api_key"
 | `RealHiTBench/html/` | Raw HTML table files |
 | `score/mcnemar_simple.py` | McNemar's test for comparing two result CSVs |
 | `prepare_tables.py` | Generate `table_inputs/` from RealHiTBench |
-| `inspect_tokens.py` | Estimate prompt token counts per question |
+| `scripts/utility/inspect_tokens.py` | Estimate prompt token counts per question |
 | `eda_numerical_reasoning.py` | Sub-type distribution analysis |
 
 ## Experiment Commands

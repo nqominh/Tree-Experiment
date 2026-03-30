@@ -124,7 +124,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--html-dir", type=str, default="")
     parser.add_argument("--demo", action="store_true")
     parser.add_argument("--enable-intent-routing", action="store_true")
-    parser.add_argument("--mh-conf-threshold", type=float, default=0.55)
+    parser.add_argument("--mh-conf-threshold", type=float, default=0.45)
     parser.add_argument("--route-policy-version", type=str, default="router_v1_2026_03_29")
     parser.add_argument("--shadow-mode", action="store_true", help="Compute/log routes but execute baseline CLI profile")
     parser.add_argument("--c1-model", type=str, default="", help="DEPRECATED: accepted for backward compatibility, ignored")

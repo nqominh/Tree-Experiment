@@ -73,6 +73,14 @@ MULTI_HOP_TRIGGERS: list[str] = [
     "if", "if then", "conditional", "suppose", "assume",
     "what would", "under condition", "given that", "then what",
     "after", "then",
+    "combined", "combined with", "across", "would be", "would have", "total of",
+]
+
+RANKING_OVERRIDE_TRIGGERS: list[str] = [
+    "rank", "ranking", "ranked",
+    "from highest to lowest", "from lowest to highest",
+    "in descending order", "in ascending order",
+    "sorted by", "order by",
 ]
 
 # ---------------------------------------------------------------------------
@@ -86,7 +94,7 @@ CONSTRAINT_MARKERS: list[str] = [
 
 OPERATOR_GROUPS: dict[str, list[str]] = {
     "filter": ["where", "excluding", "only", "except", "not", "but not", "without"],
-    "aggregate": ["sum", "total", "average", "mean", "count", "how many"],
+    "aggregate": ["sum", "total", "total of", "combined", "average", "mean", "count", "how many"],
     "compare": ["larger", "smaller", "greater", "less", "more", "fewer", "higher", "lower", "than"],
     "rank": ["rank", "top", "bottom", "highest", "lowest", "most", "least"],
     "arithmetic": ["difference", "minus", "plus", "ratio", "multiply", "divide", "subtract", "add", "percent"],
@@ -159,6 +167,19 @@ def _count_triggers(q_norm: str, tokens: list[str], triggers: list[str]) -> int:
     return count
 
 
+def _collect_matched_triggers(q_norm: str, tokens: list[str], triggers: list[str]) -> list[str]:
+    """Return matched triggers preserving trigger list order."""
+    matched: list[str] = []
+    for trigger in triggers:
+        if " " in trigger:
+            if trigger in q_norm:
+                matched.append(trigger)
+        else:
+            if trigger in tokens:
+                matched.append(trigger)
+    return matched
+
+
 # ---------------------------------------------------------------------------
 # Multi-hop confidence scoring
 # ---------------------------------------------------------------------------
@@ -224,7 +245,7 @@ def _compute_multihop_confidence(q_norm: str, tokens: list[str]) -> tuple[float,
 def route_question(
     question_text: str,
     policy_version: str = "router_v1_2026_03_29",
-    mh_conf_threshold: float = 0.55,
+    mh_conf_threshold: float = 0.45,
     subqtype_hint: str = "",
 ) -> RouteDecision:
     """Classify a question and return the routing decision.
@@ -247,6 +268,26 @@ def route_question(
     """
     q_norm = _normalize_question(question_text)
     tokens = _tokenize(q_norm)
+
+    # Ranking-first hard override to avoid COUNTING precedence hijacking
+    override_cues = _collect_matched_triggers(q_norm, tokens, RANKING_OVERRIDE_TRIGGERS)
+    if override_cues:
+        counts = {
+            INTENT_COUNTING: _count_triggers(q_norm, tokens, COUNTING_TRIGGERS),
+            INTENT_RANKING: _count_triggers(q_norm, tokens, RANKING_TRIGGERS),
+            INTENT_COMPARISON: _count_triggers(q_norm, tokens, COMPARISON_TRIGGERS),
+            INTENT_MULTI_HOP: _count_triggers(q_norm, tokens, MULTI_HOP_TRIGGERS),
+            INTENT_CALCULATION: _count_triggers(q_norm, tokens, CALCULATION_TRIGGERS),
+        }
+        return RouteDecision(
+            intent=INTENT_RANKING,
+            route_model=ROUTE_C3,
+            confidence=1.0,
+            reason=f"RANK_OVERRIDE cues: {override_cues}",
+            policy_version=policy_version,
+            match_counts=counts,
+            mh_features={},
+        )
 
     # Count triggers per intent
     counts = {
@@ -278,53 +319,32 @@ def route_question(
             else:
                 trigger_list = []
 
-            for t in trigger_list:
-                if " " in t:
-                    if t in q_norm:
-                        matched_cues.append(t)
-                else:
-                    if t in tokens:
-                        matched_cues.append(t)
+            matched_cues = _collect_matched_triggers(q_norm, tokens, trigger_list)
             break
 
-    # Determine route and confidence
+    # Stage 2: evaluate multi-hop confidence regardless of base intent.
+    conf_mh, mh_features = _compute_multihop_confidence(q_norm, tokens)
+
+    # Stage 3: apply routing decision with explicit reason labels.
     if route_intent == INTENT_RANKING:
         route_model = ROUTE_C3
         confidence = 1.0
-        reason = f"RANKING detected, cues: {matched_cues}"
-
-    elif route_intent == INTENT_MULTI_HOP:
-        conf_mh, mh_features = _compute_multihop_confidence(q_norm, tokens)
-        if conf_mh >= mh_conf_threshold:
-            route_model = ROUTE_C3
-            confidence = conf_mh
-            reason = f"MULTI_HOP high-confidence ({conf_mh:.2f} >= {mh_conf_threshold}), cues: {matched_cues}"
-        else:
-            route_model = ROUTE_C1
-            confidence = conf_mh
-            reason = f"MULTI_HOP low-confidence ({conf_mh:.2f} < {mh_conf_threshold}), fallback C1, cues: {matched_cues}"
-
-        return RouteDecision(
-            intent=route_intent,
-            route_model=route_model,
-            confidence=round(confidence, 3),
-            reason=reason,
-            policy_version=policy_version,
-            match_counts=counts,
-            mh_features=mh_features,
+        reason = f"BASE_INTENT_RANKING cues: {matched_cues}"
+    elif conf_mh >= mh_conf_threshold:
+        route_model = ROUTE_C3
+        confidence = conf_mh
+        reason = (
+            f"MH_PROMOTION(conf={conf_mh:.2f}, threshold={mh_conf_threshold:.2f}, "
+            f"base_intent={route_intent}, cues={matched_cues})"
         )
-
-    elif route_intent in (INTENT_COUNTING, INTENT_CALCULATION, INTENT_COMPARISON):
+    elif route_intent in (INTENT_COUNTING, INTENT_CALCULATION, INTENT_COMPARISON, INTENT_MULTI_HOP):
         route_model = ROUTE_C1
-        confidence = 1.0
-        if not matched_cues:
-            reason = "No specific triggers matched, defaulting to CALCULATION and C1"
-        else:
-            reason = f"{route_intent} detected, cues: {matched_cues}"
+        confidence = conf_mh
+        reason = f"BASE_INTENT_{route_intent} cues: {matched_cues}"
     else:
         route_model = ROUTE_C1
-        confidence = 1.0
-        reason = "Fallback to C1"
+        confidence = conf_mh
+        reason = "BASE_INTENT_FALLBACK"
 
     return RouteDecision(
         intent=route_intent,
@@ -333,4 +353,5 @@ def route_question(
         reason=reason,
         policy_version=policy_version,
         match_counts=counts,
+        mh_features=mh_features,
     )

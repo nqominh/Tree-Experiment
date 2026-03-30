@@ -374,7 +374,7 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
         prompt_template: str = "", csv_dir: str = "",
     json_dir: str = "", html_dir: str = "", demo: bool = False,
     enable_intent_routing: bool = False,
-    mh_conf_threshold: float = 0.55,
+    mh_conf_threshold: float = 0.45,
     route_policy_version: str = "router_v1_2026_03_29",
     shadow_mode: bool = False,
     c1_model: str = "",
@@ -673,7 +673,7 @@ if __name__ == "__main__":
                         help="Print one fully-rendered prompt and exit (no API call)")
     parser.add_argument("--enable-intent-routing", action="store_true",
                         help="Enable deterministic intent routing policy")
-    parser.add_argument("--mh-conf-threshold", type=float, default=0.55,
+    parser.add_argument("--mh-conf-threshold", type=float, default=0.45,
                         help="Confidence threshold for MULTI_HOP routing to C3")
     parser.add_argument("--route-policy-version", type=str, default="router_v1_2026_03_29",
                         help="Version tag written to route_policy_version")

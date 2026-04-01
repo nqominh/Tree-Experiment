@@ -49,6 +49,7 @@ trees_json/
 
 # Raw dataset (shared separately)
 RealHiTBench/
+llm_score/RealHiTBench/
 
 # Inspect/debug outputs
 inspect_output.md
@@ -70,4 +71,6 @@ gemini_results_viewer.html
 
 # Score result files
 score/*.csv
+score/**/*.xlsx
+table_inputs/**/*.xlsx
 score/results.json

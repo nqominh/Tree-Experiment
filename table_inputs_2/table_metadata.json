@@ -1,0 +1,278 @@
+{
+  "employment-table03": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table04": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table06": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table07": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table09": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "employment-table14": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table16": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "employment-table18": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "employment-table22": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "employment-table21": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "employment-table23": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table25": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "employment-table27": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "economy-table132": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "injuries-table04": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "injuries-table06": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "injuries-table08": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "injuries-table10": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "activitytime-table01": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "activitytime-table02": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "activitytime-table05": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "activitytime-table04": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "welfare-table02": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "welfare-table04": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "welfare-table05": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "welfare-table07": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "welfare-table09": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "agriculture-table01": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table01": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "agriculture-table02": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 12,
+    "schema_match": false
+  },
+  "economy-table02": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 12,
+    "schema_match": false
+  },
+  "health-table01": {
+    "strategy": "direct",
+    "extracted_cols": 23,
+    "expected_cols": 23,
+    "schema_match": true
+  },
+  "agriculture-table03": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "environment-table02": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "science-table01": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "agriculture-table04": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "geography-table01": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 9,
+    "schema_match": false
+  },
+  "education-table01": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 18,
+    "schema_match": true
+  },
+  "biology-table01": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "society-table83": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "biology-table02": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "society-table84": {
+    "strategy": "fixed",
+    "extracted_cols": 24,
+    "expected_cols": 24,
+    "schema_match": true
+  },
+  "education-table03": {
+    "strategy": "direct",
+    "extracted_cols": 106,
+    "expected_cols": 106,
+    "schema_match": true
+  },
+  "education-table04": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "education-table05": {
+    "strategy": "direct",
+    "extracted_cols": 106,
+    "expected_cols": 106,
+    "schema_match": true
+  },
+  "education-table06": {
+    "strategy": "direct",
+    "extracted_cols": 255,
+    "expected_cols": 256,
+    "schema_match": false
+  }
+}

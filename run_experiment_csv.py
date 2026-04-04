@@ -49,7 +49,7 @@ csv.field_size_limit(sys.maxsize)
 
 PROJECT_ROOT   = Path(__file__).resolve().parent
 QUESTIONS_PATH = PROJECT_ROOT / "tests" / "questions_clean_audit copy.jsonl"
-TABLE_INPUTS   = PROJECT_ROOT / "table_inputs"
+TABLE_INPUTS   = PROJECT_ROOT / "table_inputs_2"
 TREES_JSON     = PROJECT_ROOT / "trees_json"
 OUTPUT_CSV     = PROJECT_ROOT / "experiment_results.csv"
 DEFAULT_PROMPT = PROJECT_ROOT / "EVIDENCE_PROMPT.md"
@@ -160,6 +160,7 @@ def clean_html(raw_html: str) -> str:
     """Extract only <table> and any sibling <caption> from an HTML document.
 
     Strips <head>, <style>, <meta>, scripts, and all body content outside the table.
+    Removes inline style attributes from retained elements.
     """
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(raw_html, "html.parser")
@@ -167,6 +168,19 @@ def clean_html(raw_html: str) -> str:
     if table is None:
         return raw_html  # fallback: return as-is
     caption = soup.find("caption")
+
+    def _strip_inline_styles(tag):
+        if tag is None:
+            return
+        if hasattr(tag, "attrs"):
+            tag.attrs.pop("style", None)
+        for child in tag.find_all(True):
+            child.attrs.pop("style", None)
+
+    _strip_inline_styles(table)
+    if caption and caption.find_parent("table") is None:
+        _strip_inline_styles(caption)
+
     parts = []
     if caption and caption.find_parent("table") is None:
         parts.append(str(caption))

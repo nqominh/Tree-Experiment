@@ -19,19 +19,14 @@ import tempfile
 import openpyxl
 
 from utils.sheet_utils import html2workbook, sheet2structure
-from utils.constants import DEFAULT_TABLE_NAME
 from table2tree.feature_tree import (
     FeatureTree,
-    IndexTree,
-    BodyTree,
-    IndexNode,
-    BodyNode,
-    construct_index_tree,
-    construct_body_tree,
+    construct_index_tree_smart,
+    construct_row_index_tree,
     construct_sheet,
-    construct_feature_tree,
 )
 from table2tree.extract_excel import get_structured_xlsx_sheet
+from utils.split_utils import split_schema_column
 
 
 # ---------------------------------------------------------------------------
@@ -103,9 +98,14 @@ def html_to_tree_fixed(html_content: str, max_header_rows: int = 2) -> FeatureTr
                     row=r, column=c
                 ).value
 
-        index_tree = construct_index_tree(schema_sheet)
-        body_tree, _ = construct_body_tree(index_tree, data_sheet)
-        return FeatureTree(index_tree=index_tree, body_tree=body_tree)
+        index_tree = construct_index_tree_smart(schema_sheet)
+
+        row_index_tree = None
+        if data_sheet.max_row > 0 and data_sheet.max_column > 0:
+            row_schema_sheet, _ = split_schema_column(data_sheet)
+            row_index_tree = construct_row_index_tree(row_schema_sheet)
+
+        return FeatureTree(index_tree=index_tree, row_index_tree=row_index_tree)
     finally:
         os.unlink(temp_path)
 
@@ -118,8 +118,7 @@ def html_to_tree_structured(html_content: str) -> FeatureTree:
     """Treat full expanded sheet as structured data — last-resort fallback."""
     sheet, temp_path = _html_to_workbook_sheet(html_content)
     try:
-        tree_dict = {DEFAULT_TABLE_NAME: sheet}
-        return construct_feature_tree(tree_dict)
+        return construct_sheet(sheet)
     finally:
         os.unlink(temp_path)
 

@@ -1,5 +1,5 @@
-"""
-batch_runner.py — Batch HO-Tree Builder
+﻿"""
+batch_runner.py â€” Batch HO-Tree Builder
 
 Process multiple HTML tables through tree building and save results
 in txt or JSON format.
@@ -47,14 +47,14 @@ def process_tables(tables: dict, max_header_rows: int = 2):
                 result["schema"] = tree_to_schema(tree)
                 result["hierarchical"] = tree_to_hierarchical_string(tree)
                 result["json"] = tree_to_json(tree)
-                print(f"  ✅ Success — {strategy} — {result['cols']} cols × {result['rows']} rows")
+                print(f"  SUCCESS - {strategy} - {result['cols']} cols x {result['rows']} rows")
             else:
                 result["error"] = "All strategies failed"
-                print(f"  ❌ Failed")
+                print("  FAILED")
 
         except Exception as e:
             result["error"] = str(e)
-            print(f"  ❌ Error: {e}")
+            print(f"  ERROR: {e}")
 
         results.append(result)
 
@@ -65,7 +65,7 @@ def save_results_txt(results: list, output_file: str):
     """Save results in readable text format."""
     with open(output_file, "w", encoding="utf-8") as f:
         f.write("=" * 80 + "\n")
-        f.write(f"HO-Tree Batch Results — {len(results)} tables\n")
+        f.write(f"HO-Tree Batch Results â€” {len(results)} tables\n")
         f.write("=" * 80 + "\n\n")
 
         for i, r in enumerate(results, 1):
@@ -77,7 +77,7 @@ def save_results_txt(results: list, output_file: str):
             f.write(f"Strategy: {r['strategy']}\n")
 
             if r["tree_success"]:
-                f.write(f"Dimensions: {r['cols']} cols × {r['rows']} rows\n")
+                f.write(f"Dimensions: {r['cols']} cols Ã— {r['rows']} rows\n")
                 f.write(f"\nSchema:\n")
                 for col in r["schema"]:
                     f.write(f"  - {col}\n")
@@ -130,8 +130,9 @@ def main():
     print(f"Total tables: {len(results)}")
     print(f"Successful: {success_count} ({success_count / len(results) * 100:.1f}%)")
     print(f"Failed: {len(results) - success_count}")
-    print(f"\n✅ Results saved to: {args.output}")
+    print(f"\nResults saved to: {args.output}")
 
 
 if __name__ == "__main__":
     main()
+

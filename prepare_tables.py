@@ -30,7 +30,7 @@ from table2tree.feature_tree import IndexTree, IndexNode
 
 QUESTIONS_PATH = PROJECT_ROOT / "tests" / "questions.jsonl"
 HTML_DIR       = PROJECT_ROOT / "RealHiTBench" / "html"
-OUTPUT_DIR     = PROJECT_ROOT / "table_inputs"
+OUTPUT_DIR     = PROJECT_ROOT / "table_inputs_new"
 INDENT         = "  "  # 2-space indent per level
 
 
@@ -74,6 +74,7 @@ def clean_html(raw_html: str) -> str:
     """Extract only <table> and <caption> from an HTML document.
 
     Strips <head>, <style>, <meta>, and all body content outside the table.
+    Removes inline style attributes from retained elements.
     """
     soup = BeautifulSoup(raw_html, "html.parser")
 
@@ -83,6 +84,18 @@ def clean_html(raw_html: str) -> str:
 
     # Also capture any <caption> that may be a sibling
     caption = soup.find("caption")
+
+    def _strip_inline_styles(tag):
+        if tag is None:
+            return
+        if hasattr(tag, "attrs"):
+            tag.attrs.pop("style", None)
+        for child in tag.find_all(True):
+            child.attrs.pop("style", None)
+
+    _strip_inline_styles(table)
+    if caption and caption.find_parent("table") is None:
+        _strip_inline_styles(caption)
 
     parts = []
     if caption and caption.find_parent("table") is None:

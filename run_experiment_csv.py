@@ -42,7 +42,6 @@ from pathlib import Path
 import requests
 
 from utils.answer_normalization import exact_match_with_normalization
-from utils.intent_router import route_question
 
 # Raise CSV field size limit — C5's 6-step responses can exceed the 131 KB default
 csv.field_size_limit(sys.maxsize)
@@ -57,35 +56,6 @@ DEFAULT_PROMPT = PROJECT_ROOT / "EVIDENCE_PROMPT.md"
 BASE_CSV_COLUMNS = ["id", "question", "correct_answer", "model_answer",
                     "full_response", "full_prompt", "filename", "sub_type", "EM",
                     "strategy", "prompt_tokens", "schema_match"]
-
-ROUTER_CSV_COLUMNS = [
-    "route_intent",
-    "route_model",
-    "route_confidence",
-    "route_reason",
-    "route_policy_version",
-    "shadow_mode",
-    "profile_selected",
-    "profile_executed",
-    "profile_fallback_applied",
-    "profile_fallback_reason",
-    "prompt_template_used",
-    "input_mode_used",
-    "executed_model",
-]
-
-PROFILE_C1 = "C1"
-PROFILE_C3 = "C3"
-PROFILE_BASELINE = "BASELINE"
-
-PROFILE_C1_HTML_DIR = PROJECT_ROOT / "RealHiTBench" / "html"
-PROFILE_C1_PROMPT_FILE = PROJECT_ROOT / "run_doc" / "prompts" / "C1_Vanilla.md"
-PROFILE_C3_TABLE_DIR = TABLE_INPUTS
-PROFILE_C3_PROMPT_FILE = PROJECT_ROOT / "run_doc" / "prompts" / "C3_SchemaOnly.md"
-
-
-def get_csv_columns(enable_intent_routing: bool) -> list[str]:
-    return BASE_CSV_COLUMNS + ROUTER_CSV_COLUMNS if enable_intent_routing else BASE_CSV_COLUMNS
 
 
 def load_local_env_files(extra_files: tuple[str, ...] = ()) -> None:
@@ -386,14 +356,7 @@ def load_questions(path: Path) -> list[dict]:
 def run(questions_path: Path, output_csv: Path, api_key: str,
         model: str, limit: int, delay: float, qids: list[str] = None,
         prompt_template: str = "", csv_dir: str = "",
-    json_dir: str = "", html_dir: str = "", demo: bool = False,
-    enable_intent_routing: bool = False,
-    mh_conf_threshold: float = 0.45,
-    route_policy_version: str = "router_v1_2026_03_29",
-    shadow_mode: bool = False,
-    c1_model: str = "",
-    c3_model: str = "",
-    prompt_template_path: Path | None = None):
+    json_dir: str = "", html_dir: str = "", demo: bool = False):
 
     questions = load_questions(questions_path)
     if qids:
@@ -408,39 +371,6 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
     if metadata_path.exists():
         with open(metadata_path, encoding="utf-8") as f:
             table_meta = json.load(f)
-
-    routing_active = enable_intent_routing and not shadow_mode
-    baseline_prompt_label = str(prompt_template_path) if prompt_template_path else "(inline)"
-
-    if c1_model or c3_model:
-        print(
-            "WARNING: --c1-model/--c3-model are deprecated and ignored. "
-            "Execution always uses fixed --model; routing controls profile only."
-        )
-
-    profile_templates: dict[str, str] = {}
-    if routing_active:
-        if not demo:
-            if html_dir or json_dir or csv_dir:
-                print(
-                    "INFO: Active profile routing ignores --html-dir/--json-dir/--csv-dir "
-                    "and uses canonical C1/C3 profile inputs."
-                )
-            if prompt_template_path is not None:
-                print(
-                    "INFO: Active profile routing ignores --prompt-file for execution. "
-                    f"Canonical prompts: {PROFILE_C1_PROMPT_FILE} and {PROFILE_C3_PROMPT_FILE}"
-                )
-
-        if not PROFILE_C1_PROMPT_FILE.exists():
-            raise RuntimeError(f"Missing canonical C1 prompt file: {PROFILE_C1_PROMPT_FILE}")
-        if not PROFILE_C3_PROMPT_FILE.exists():
-            raise RuntimeError(f"Missing canonical C3 prompt file: {PROFILE_C3_PROMPT_FILE}")
-
-        profile_templates = {
-            PROFILE_C1: load_prompt_template(PROFILE_C1_PROMPT_FILE),
-            PROFILE_C3: load_prompt_template(PROFILE_C3_PROMPT_FILE),
-        }
 
     # --demo: render the first prompt and exit (no API call)
     if demo:
@@ -483,20 +413,18 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
     already_done = set()
     write_header = True
 
-    csv_columns = get_csv_columns(enable_intent_routing)
+    csv_columns = BASE_CSV_COLUMNS
 
     if output_csv.exists():
         with open(output_csv, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             existing_cols = reader.fieldnames or []
-            if enable_intent_routing:
-                missing_cols = [c for c in ROUTER_CSV_COLUMNS if c not in existing_cols]
-                if missing_cols:
-                    raise RuntimeError(
-                        "Routing is enabled but output CSV uses old schema without route columns. "
-                        "Use a new --output file for routed runs. "
-                        f"Missing columns: {missing_cols}"
-                    )
+            if existing_cols and existing_cols != csv_columns:
+                raise RuntimeError(
+                    "Output CSV schema mismatch. "
+                    "Use a new --output file for this non-routing pipeline. "
+                    f"Expected columns: {csv_columns} | Found: {existing_cols}"
+                )
             for row in reader:
                 already_done.add(row["id"])
         write_header = False
@@ -514,83 +442,17 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
                 continue
 
             tid = q["table_id"]
-            route_decision = None
-            profile_selected = ""
-            profile_executed = ""
-            profile_fallback_applied = 0
-            profile_fallback_reason = ""
-            prompt_template_used = baseline_prompt_label
-            input_mode_used = ""
-            routed_model = model
-
-            if enable_intent_routing:
-                route_decision = route_question(
-                    question_text=q["query"],
-                    policy_version=route_policy_version,
-                    mh_conf_threshold=mh_conf_threshold,
-                    subqtype_hint=str(q.get("SubQType") or q.get("sub_type") or ""),
-                )
-                profile_selected = route_decision.route_model
-
-            if routing_active and profile_selected:
-                if profile_selected == PROFILE_C1:
-                    profile_executed = PROFILE_C1
-                    input_mode_used = "html"
-                    tbl_path = PROFILE_C1_HTML_DIR / f"{tid}.html"
-                    active_template = profile_templates[PROFILE_C1]
-                    prompt_template_used = str(PROFILE_C1_PROMPT_FILE)
-                else:
-                    profile_executed = PROFILE_C3
-                    input_mode_used = "txt"
-                    tbl_path = PROFILE_C3_TABLE_DIR / f"{tid}.txt"
-                    active_template = profile_templates[PROFILE_C3]
-                    prompt_template_used = str(PROFILE_C3_PROMPT_FILE)
-
-                if not tbl_path.exists():
-                    fallback_profile = PROFILE_C3 if profile_executed == PROFILE_C1 else PROFILE_C1
-                    profile_fallback_applied = 1
-                    profile_fallback_reason = (
-                        f"Selected profile input missing: {tbl_path}. "
-                        f"Falling back to {fallback_profile}."
-                    )
-                    if fallback_profile == PROFILE_C1:
-                        profile_executed = PROFILE_C1
-                        input_mode_used = "html"
-                        tbl_path = PROFILE_C1_HTML_DIR / f"{tid}.html"
-                        active_template = profile_templates[PROFILE_C1]
-                        prompt_template_used = str(PROFILE_C1_PROMPT_FILE)
-                    else:
-                        profile_executed = PROFILE_C3
-                        input_mode_used = "txt"
-                        tbl_path = PROFILE_C3_TABLE_DIR / f"{tid}.txt"
-                        active_template = profile_templates[PROFILE_C3]
-                        prompt_template_used = str(PROFILE_C3_PROMPT_FILE)
-
-                if not tbl_path.exists():
-                    print(
-                        f"[{i:3d}/{total}] Q{qid} ({tid}) ... "
-                        "SKIP (routed profile inputs missing for both C1 and C3)"
-                    )
-                    errors += 1
-                    continue
-
-                filename = _filename_for_path(tbl_path, input_mode_used)
-                full_prompt = _build_prompt_for_mode(input_mode_used, tbl_path, q["query"], active_template)
-            else:
-                input_mode_used, tbl_path = _resolve_baseline_input(tid, csv_dir, json_dir, html_dir)
-                if enable_intent_routing:
-                    profile_executed = PROFILE_BASELINE
-                filename = _filename_for_path(tbl_path, input_mode_used)
-                if not tbl_path.exists():
-                    print(f"[{i:3d}/{total}] Q{qid} ({tid}) ... SKIP (table file missing)")
-                    errors += 1
-                    continue
-                full_prompt = _build_prompt_for_mode(input_mode_used, tbl_path, q["query"], prompt_template)
+            input_mode_used, tbl_path = _resolve_baseline_input(tid, csv_dir, json_dir, html_dir)
+            filename = _filename_for_path(tbl_path, input_mode_used)
+            if not tbl_path.exists():
+                print(f"[{i:3d}/{total}] Q{qid} ({tid}) ... SKIP (table file missing)")
+                errors += 1
+                continue
+            full_prompt = _build_prompt_for_mode(input_mode_used, tbl_path, q["query"], prompt_template)
 
             print(
                 f"[{i:3d}/{total}] Q{qid} ({tid}) ... "
-                f"route={profile_selected or '-'} exec_profile={profile_executed or '-'} "
-                f"input={input_mode_used} model={routed_model} ",
+                f"input={input_mode_used} model={model} ",
                 end="",
                 flush=True,
             )
@@ -598,7 +460,7 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
             # Call API
             t0 = time.perf_counter()
             try:
-                full_response = call_gemini(full_prompt, api_key, model=routed_model)
+                full_response = call_gemini(full_prompt, api_key, model=model)
                 elapsed       = time.perf_counter() - t0
                 model_answer  = extract_answer(full_response)
                 em            = exact_match_with_normalization(model_answer, q["label"])
@@ -628,23 +490,6 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
                 "prompt_tokens":  len(full_prompt) // 4,
                 "schema_match":   table_meta.get(q["table_id"], {}).get("schema_match", ""),
             }
-
-            if enable_intent_routing and route_decision is not None:
-                row.update({
-                    "route_intent": route_decision.intent,
-                    "route_model": route_decision.route_model,
-                    "route_confidence": route_decision.confidence,
-                    "route_reason": route_decision.reason,
-                    "route_policy_version": route_decision.policy_version,
-                    "shadow_mode": int(shadow_mode),
-                    "profile_selected": profile_selected,
-                    "profile_executed": profile_executed,
-                    "profile_fallback_applied": int(profile_fallback_applied),
-                    "profile_fallback_reason": profile_fallback_reason,
-                    "prompt_template_used": prompt_template_used,
-                    "input_mode_used": input_mode_used,
-                    "executed_model": routed_model,
-                })
 
             writer.writerow(row)
             csvfile.flush()
@@ -676,7 +521,7 @@ if __name__ == "__main__":
                         help="Seconds between API calls")
     parser.add_argument("--api-key",   default=None)
     parser.add_argument("--prompt-file", type=str, default=str(DEFAULT_PROMPT),
-                        help="Path to baseline prompt template .md file; ignored for execution when --enable-intent-routing is active (without --shadow-mode)")
+                        help="Path to prompt template .md file")
     parser.add_argument("--csv-dir", type=str, default="",
                         help="If set, load <tid>.csv from this dir instead of HO-Tree txts")
     parser.add_argument("--json-dir", type=str, default="",
@@ -685,18 +530,6 @@ if __name__ == "__main__":
                         help="If set, load <tid>.html from this dir (raw HTML, use with EVIDENCE_PROMPT_HTML.md)")
     parser.add_argument("--demo", action="store_true",
                         help="Print one fully-rendered prompt and exit (no API call)")
-    parser.add_argument("--enable-intent-routing", action="store_true",
-                        help="Enable deterministic intent routing policy")
-    parser.add_argument("--mh-conf-threshold", type=float, default=0.45,
-                        help="Confidence threshold for MULTI_HOP routing to C3")
-    parser.add_argument("--route-policy-version", type=str, default="router_v1_2026_03_29",
-                        help="Version tag written to route_policy_version")
-    parser.add_argument("--shadow-mode", action="store_true",
-                        help="Compute and log routes, but execute baseline CLI profile only (log-only routing)")
-    parser.add_argument("--c1-model", type=str, default="",
-                        help="DEPRECATED: accepted for backward compatibility, ignored")
-    parser.add_argument("--c3-model", type=str, default="",
-                        help="DEPRECATED: accepted for backward compatibility, ignored")
     args = parser.parse_args()
 
     api_key = args.api_key or os.environ.get("GEMINI_API_KEY")
@@ -708,19 +541,11 @@ if __name__ == "__main__":
     qids = [q.strip() for q in args.qid.split(",") if q.strip()] if args.qid else None
 
     prompt_path = Path(args.prompt_file)
-    prompt_template = ""
-    if args.enable_intent_routing and not args.shadow_mode:
-        if prompt_path.exists():
-            prompt_template = load_prompt_template(prompt_path)
-            print(f"Prompt template (baseline; ignored in active profile routing): {prompt_path.name}")
-        else:
-            print("Prompt template: (ignored in active profile routing)")
-    else:
-        if not prompt_path.exists():
-            print(f"ERROR: Prompt file not found: {prompt_path}")
-            sys.exit(1)
-        prompt_template = load_prompt_template(prompt_path)
-        print(f"Prompt template: {prompt_path.name}")
+    if not prompt_path.exists():
+        print(f"ERROR: Prompt file not found: {prompt_path}")
+        sys.exit(1)
+    prompt_template = load_prompt_template(prompt_path)
+    print(f"Prompt template: {prompt_path.name}")
 
     run(
         questions_path   = Path(args.questions),
@@ -735,11 +560,4 @@ if __name__ == "__main__":
         json_dir         = args.json_dir,
         html_dir         = args.html_dir,
         demo             = args.demo,
-        enable_intent_routing = args.enable_intent_routing,
-        mh_conf_threshold = args.mh_conf_threshold,
-        route_policy_version = args.route_policy_version,
-        shadow_mode = args.shadow_mode,
-        c1_model = args.c1_model,
-        c3_model = args.c3_model,
-        prompt_template_path = prompt_path,
     )

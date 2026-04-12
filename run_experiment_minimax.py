@@ -117,18 +117,12 @@ def parse_args() -> argparse.Namespace:
         "--prompt-file",
         type=str,
         default=str(base.DEFAULT_PROMPT),
-        help="Path to baseline prompt template .md file; ignored for execution when --enable-intent-routing is active (without --shadow-mode)",
+        help="Path to prompt template .md file",
     )
     parser.add_argument("--csv-dir", type=str, default="")
     parser.add_argument("--json-dir", type=str, default="")
     parser.add_argument("--html-dir", type=str, default="")
     parser.add_argument("--demo", action="store_true")
-    parser.add_argument("--enable-intent-routing", action="store_true")
-    parser.add_argument("--mh-conf-threshold", type=float, default=0.45)
-    parser.add_argument("--route-policy-version", type=str, default="router_v1_2026_03_29")
-    parser.add_argument("--shadow-mode", action="store_true", help="Compute/log routes but execute baseline CLI profile")
-    parser.add_argument("--c1-model", type=str, default="", help="DEPRECATED: accepted for backward compatibility, ignored")
-    parser.add_argument("--c3-model", type=str, default="", help="DEPRECATED: accepted for backward compatibility, ignored")
     return parser.parse_args()
 
 
@@ -143,18 +137,10 @@ def main() -> None:
         )
 
     prompt_path = Path(args.prompt_file)
-    prompt_template = ""
-    if args.enable_intent_routing and not args.shadow_mode:
-        if prompt_path.exists():
-            prompt_template = base.load_prompt_template(prompt_path)
-            print(f"Prompt template (baseline; ignored in active profile routing): {prompt_path.name}")
-        else:
-            print("Prompt template: (ignored in active profile routing)")
-    else:
-        if not prompt_path.exists():
-            raise SystemExit(f"ERROR: Prompt file not found: {prompt_path}")
-        prompt_template = base.load_prompt_template(prompt_path)
-        print(f"Prompt template: {prompt_path.name}")
+    if not prompt_path.exists():
+        raise SystemExit(f"ERROR: Prompt file not found: {prompt_path}")
+    prompt_template = base.load_prompt_template(prompt_path)
+    print(f"Prompt template: {prompt_path.name}")
 
     # Monkey-patch the runner's model call so base.run uses MiniMax.
     base.call_gemini = lambda prompt, api_key, model, temperature=1.0, max_tokens=32000: call_minimax(
@@ -183,13 +169,6 @@ def main() -> None:
         json_dir=args.json_dir,
         html_dir=args.html_dir,
         demo=args.demo,
-        enable_intent_routing=args.enable_intent_routing,
-        mh_conf_threshold=args.mh_conf_threshold,
-        route_policy_version=args.route_policy_version,
-        shadow_mode=args.shadow_mode,
-        c1_model=args.c1_model,
-        c3_model=args.c3_model,
-        prompt_template_path=prompt_path,
     )
 
 

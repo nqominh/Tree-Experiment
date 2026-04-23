@@ -1,0 +1,164 @@
+"""
+run_experiment_deepinfra.py -- DeepInfra adapter runner for the existing CSV pipeline.
+
+This script reuses the core workflow from run_experiment_csv.py and only swaps
+out the model-call function so you can run the same experiments with DeepInfra
+via its OpenAI-compatible API.
+
+Usage (PowerShell):
+  $env:DEEPINFRA_API_KEY="your_key"
+  .venv\\Scripts\\python.exe run_experiment_deepinfra.py \
+    --questions "tests/questions_clean_audit copy.jsonl" \
+    --prompt-file "run_doc/prompts/C1_Vanilla.md" \
+    --html-dir "RealHiTBench/html" \
+    --output "score/deepinfra/c1_vanilla_llama31_8b_smoke.csv" \
+    --model "meta-llama/Meta-Llama-3.1-8B-Instruct" \
+    --limit 5 \
+    --delay 1.5
+"""
+
+from __future__ import annotations
+
+import argparse
+import os
+import time
+from pathlib import Path
+
+from openai import APIConnectionError, APIStatusError, APITimeoutError, OpenAI
+
+import run_experiment_csv as base
+
+RETRYABLE_STATUS_CODES = {429, 500, 502, 503, 504}
+DEFAULT_BASE_URL = "https://api.deepinfra.com/v1/openai"
+DEFAULT_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+MAX_RETRIES = 3
+RETRY_WAIT = 30
+
+
+def call_deepinfra(
+    prompt: str,
+    api_key: str,
+    model: str,
+    base_url: str,
+    temperature: float,
+    max_tokens: int,
+) -> str:
+    """Call DeepInfra OpenAI-compatible endpoint with retry behavior."""
+    client = OpenAI(api_key=api_key, base_url=base_url)
+
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                temperature=temperature,
+                max_tokens=max_tokens,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            text = response.choices[0].message.content
+            if isinstance(text, str) and text.strip():
+                return text
+            raise RuntimeError(f"Unexpected response shape: {response.model_dump_json()[:300]}")
+        except APIStatusError as e:
+            status_code = getattr(e, "status_code", None)
+            body = str(e)[:300]
+            if status_code in RETRYABLE_STATUS_CODES:
+                last_error = f"HTTP {status_code}: {body}"
+                print(
+                    f"  [retry {attempt}/{MAX_RETRIES}] {last_error[:80]}... waiting {RETRY_WAIT}s"
+                )
+                time.sleep(RETRY_WAIT)
+                continue
+            raise RuntimeError(f"HTTP {status_code}: {body}") from e
+        except (APIConnectionError, APITimeoutError) as e:
+            last_error = str(e)
+            print(
+                f"  [retry {attempt}/{MAX_RETRIES}] {type(e).__name__}: {str(e)[:80]}... waiting {RETRY_WAIT}s"
+            )
+            time.sleep(RETRY_WAIT)
+
+    raise RuntimeError(f"Failed after {MAX_RETRIES} retries. Last error: {last_error}")
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="DeepInfra Table QA - CSV output")
+    parser.add_argument("--questions", default=str(base.QUESTIONS_PATH))
+    parser.add_argument("--output", default="score/deepinfra_results.csv")
+    parser.add_argument("--model", default=DEFAULT_MODEL)
+    parser.add_argument("--limit", type=int, default=0, help="0 = all questions")
+    parser.add_argument("--qid", type=str, default="", help="Comma-separated IDs")
+    parser.add_argument("--delay", type=float, default=1.0, help="Seconds between API calls")
+
+    parser.add_argument("--api-key", default=None)
+    parser.add_argument("--api-key-env", default="DEEPINFRA_API_KEY")
+    parser.add_argument(
+        "--base-url",
+        default=os.environ.get("DEEPINFRA_BASE_URL", DEFAULT_BASE_URL),
+    )
+
+    parser.add_argument("--temperature", type=float, default=1.0)
+    parser.add_argument("--max-tokens", type=int, default=1024)
+
+    parser.add_argument(
+        "--prompt-file",
+        type=str,
+        default=str(base.DEFAULT_PROMPT),
+        help="Path to prompt template .md file",
+    )
+    parser.add_argument("--csv-dir", type=str, default="")
+    parser.add_argument("--json-dir", type=str, default="")
+    parser.add_argument("--html-dir", type=str, default="")
+    parser.add_argument("--demo", action="store_true")
+    return parser.parse_args()
+
+
+def main() -> None:
+    base.load_local_env_files(extra_files=(".env.deepinfra",))
+    args = parse_args()
+
+    api_key = args.api_key or os.environ.get(args.api_key_env)
+    if not api_key and not args.demo:
+        raise SystemExit(
+            f"ERROR: Set {args.api_key_env} env var or pass --api-key"
+        )
+
+    prompt_path = Path(args.prompt_file)
+    if not prompt_path.exists():
+        raise SystemExit(f"ERROR: Prompt file not found: {prompt_path}")
+    prompt_template = base.load_prompt_template(prompt_path)
+    print(f"Prompt template: {prompt_path.name}")
+
+    # Monkey-patch the runner's model call so base.run uses DeepInfra.
+    base.call_gemini = lambda prompt, api_key, model, temperature=1.0, max_tokens=32000: call_deepinfra(
+        prompt=prompt,
+        api_key=api_key,
+        model=model,
+        base_url=args.base_url,
+        temperature=args.temperature,
+        max_tokens=args.max_tokens,
+    )
+
+    qids = [q.strip() for q in args.qid.split(",") if q.strip()] if args.qid else None
+
+    print(f"Provider: DeepInfra via OpenAI-compatible API  |  Base URL: {args.base_url}")
+    output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    base.run(
+        questions_path=Path(args.questions),
+        output_csv=output_path,
+        api_key=api_key or "",
+        model=args.model,
+        limit=args.limit,
+        delay=args.delay,
+        qids=qids,
+        prompt_template=prompt_template,
+        csv_dir=args.csv_dir,
+        json_dir=args.json_dir,
+        html_dir=args.html_dir,
+        demo=args.demo,
+    )
+
+
+if __name__ == "__main__":
+    main()

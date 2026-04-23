@@ -24,6 +24,9 @@ Usage:
   # Raw HTML input (cleaned automatically):
   python run_experiment_csv.py --html-dir RealHiTBench/html --prompt-file EVIDENCE_PROMPT_HTML.md
 
+    # Raw HTML input (no cleaning, pass full table document):
+    python run_experiment_csv.py --html-dir RealHiTBench/html --prompt-file run_doc/prompts/C1_Vanilla.md --no-html-clean
+
   # Preview a fully-rendered prompt (no API call):
   python run_experiment_csv.py --demo
   python run_experiment_csv.py --json-dir trees_json --prompt-file EVIDENCE_PROMPT_JSON.md --demo
@@ -158,11 +161,11 @@ def clean_html(raw_html: str) -> str:
     return "\n".join(parts)
 
 
-def build_prompt_html(html_path: Path, question: str, template: str) -> str:
-    """Load raw HTML, clean it, and inject into the prompt template."""
+def build_prompt_html(html_path: Path, question: str, template: str, do_clean: bool = True) -> str:
+    """Load raw HTML, optionally clean it, and inject into the prompt template."""
     raw = html_path.read_text(encoding="utf-8", errors="ignore")
-    cleaned = clean_html(raw)
-    html_section = "[TABLE HTML]\n" + cleaned
+    html_payload = clean_html(raw) if do_clean else raw
+    html_section = "[TABLE HTML]\n" + html_payload
     return template.format(
         col_structure_section="",
         row_structure_section="",
@@ -192,10 +195,16 @@ def _resolve_baseline_input(tid: str, csv_dir: str, json_dir: str, html_dir: str
     return "txt", TABLE_INPUTS / f"{tid}.txt"
 
 
-def _build_prompt_for_mode(input_mode: str, table_path: Path, question: str, template: str) -> str:
+def _build_prompt_for_mode(
+    input_mode: str,
+    table_path: Path,
+    question: str,
+    template: str,
+    clean_html_input: bool = True,
+) -> str:
     """Build a prompt from table_path using the declared input mode."""
     if input_mode == "html":
-        return build_prompt_html(table_path, question, template)
+        return build_prompt_html(table_path, question, template, do_clean=clean_html_input)
     if input_mode == "json":
         return build_prompt_json(table_path, question, template)
 
@@ -356,7 +365,8 @@ def load_questions(path: Path) -> list[dict]:
 def run(questions_path: Path, output_csv: Path, api_key: str,
         model: str, limit: int, delay: float, qids: list[str] = None,
         prompt_template: str = "", csv_dir: str = "",
-    json_dir: str = "", html_dir: str = "", demo: bool = False):
+    json_dir: str = "", html_dir: str = "", demo: bool = False,
+    clean_html_input: bool = True):
 
     questions = load_questions(questions_path)
     if qids:
@@ -383,7 +393,12 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
         tid = q["table_id"]
         if html_dir:
             tpath = Path(html_dir) / f"{tid}.html"
-            full_prompt = build_prompt_html(tpath, q["query"], prompt_template)
+            full_prompt = build_prompt_html(
+                tpath,
+                q["query"],
+                prompt_template,
+                do_clean=clean_html_input,
+            )
         elif json_dir:
             tpath = Path(json_dir) / f"{tid}.json"
             full_prompt = build_prompt_json(tpath, q["query"], prompt_template)
@@ -448,7 +463,13 @@ def run(questions_path: Path, output_csv: Path, api_key: str,
                 print(f"[{i:3d}/{total}] Q{qid} ({tid}) ... SKIP (table file missing)")
                 errors += 1
                 continue
-            full_prompt = _build_prompt_for_mode(input_mode_used, tbl_path, q["query"], prompt_template)
+            full_prompt = _build_prompt_for_mode(
+                input_mode_used,
+                tbl_path,
+                q["query"],
+                prompt_template,
+                clean_html_input=clean_html_input,
+            )
 
             print(
                 f"[{i:3d}/{total}] Q{qid} ({tid}) ... "
@@ -528,6 +549,8 @@ if __name__ == "__main__":
                         help="If set, load <tid>.json from this dir (use with EVIDENCE_PROMPT_JSON.md)")
     parser.add_argument("--html-dir", type=str, default="",
                         help="If set, load <tid>.html from this dir (raw HTML, use with EVIDENCE_PROMPT_HTML.md)")
+    parser.add_argument("--no-html-clean", action="store_true",
+                        help="When using --html-dir, pass full raw HTML without table-only cleaning")
     parser.add_argument("--demo", action="store_true",
                         help="Print one fully-rendered prompt and exit (no API call)")
     args = parser.parse_args()
@@ -560,4 +583,5 @@ if __name__ == "__main__":
         json_dir         = args.json_dir,
         html_dir         = args.html_dir,
         demo             = args.demo,
+        clean_html_input = not args.no_html_clean,
     )

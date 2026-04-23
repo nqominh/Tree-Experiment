@@ -122,6 +122,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--csv-dir", type=str, default="")
     parser.add_argument("--json-dir", type=str, default="")
     parser.add_argument("--html-dir", type=str, default="")
+    parser.add_argument(
+        "--no-html-clean",
+        action="store_true",
+        help="When using --html-dir, pass full raw HTML without table-only cleaning",
+    )
     parser.add_argument("--demo", action="store_true")
     return parser.parse_args()
 
@@ -169,6 +174,7 @@ def main() -> None:
         json_dir=args.json_dir,
         html_dir=args.html_dir,
         demo=args.demo,
+        clean_html_input=not args.no_html_clean,
     )
 
 

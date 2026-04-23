@@ -1,0 +1,188 @@
+[COLUMN STRUCTURE]
+ACCOUNT #
+  942546
+FULL NAME
+  Big Joe
+Revenue
+  APR
+    3085605
+    Incline
+  MAY
+    2622764.25
+    Decline
+  JUN
+    2922700.25
+    Incline
+
+[ROW STRUCTURE]
+748448
+2087427
+2078869
+186563
+3374310
+3576420
+180431
+446076
+60609
+353666
+2503159
+87772
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" rowspan="2">ACCOUNT #</td>
+<td class="column1 style2 s style2" rowspan="2">FULL NAME</td>
+<td class="column2 style3 s">Revenue</td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+<td class="column6 style4 null"></td>
+<td class="column7 style4 null"></td>
+</tr>
+<tr class="row1">
+<td class="column2 style5 s style6" colspan="2">APR</td>
+<td class="column4 style15 s style16" colspan="2">MAY</td>
+<td class="column6 style15 s style16" colspan="2">JUN</td>
+</tr>
+<tr class="row3">
+<td class="column0 style9 n">942546</td>
+<td class="column1 style10 s">Big Joe</td>
+<td class="column2 style11 n">3085605</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">2622764.25</td>
+<td class="column5 style20 s">Decline</td>
+<td class="column6 style19 n">2922700.25</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row4">
+<td class="column0 style9 n">748448</td>
+<td class="column1 style13 s">Maria Calux</td>
+<td class="column2 style14 n">1212774.75</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">1140008.265</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">2963723.6025</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row5">
+<td class="column0 style9 n">2087427</td>
+<td class="column1 style13 s">Giorgio Armani</td>
+<td class="column2 style14 n">1017399.91</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">956355.9154</td>
+<td class="column5 style21 s">Incline</td>
+<td class="column6 style19 n">1311009.50475</td>
+<td class="column7 style21 s">Decline</td>
+</tr>
+<tr class="row6">
+<td class="column0 style9 n">2078869</td>
+<td class="column1 style13 s">Francois Chevalier</td>
+<td class="column2 style14 n">1002221.7</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">891977.313</td>
+<td class="column5 style21 s">Incline</td>
+<td class="column6 style19 n">860720.32386</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row7">
+<td class="column0 style9 n">186563</td>
+<td class="column1 style13 s">Mia Martina</td>
+<td class="column2 style14 n">876665</td>
+<td class="column3 style12 s">Decline</td>
+<td class="column4 style19 n">876665</td>
+<td class="column5 style21 s">Incline</td>
+<td class="column6 style19 n">874137.76674</td>
+<td class="column7 style21 s">Decline</td>
+</tr>
+<tr class="row8">
+<td class="column0 style9 n">3374310</td>
+<td class="column1 style13 s">Tia Carrera</td>
+<td class="column2 style14 n">852750.9</td>
+<td class="column3 style12 s">Decline</td>
+<td class="column4 style19 n">878333.427</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">841598.4</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row9">
+<td class="column0 style9 n">3576420</td>
+<td class="column1 style13 s">Feliciano Di Venturi</td>
+<td class="column2 style14 n">836054.42</td>
+<td class="column3 style12 s">Decline</td>
+<td class="column4 style19 n">953102.0388</td>
+<td class="column5 style21 s">Incline</td>
+<td class="column6 style19 n">895900.09554</td>
+<td class="column7 style21 s">Decline</td>
+</tr>
+<tr class="row10">
+<td class="column0 style9 n">180431</td>
+<td class="column1 style13 s">Global Bob</td>
+<td class="column2 style14 n">841162.76</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">731811.6012</td>
+<td class="column5 style21 s">Incline</td>
+<td class="column6 style19 n">1038881.222292</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row11">
+<td class="column0 style9 n">446076</td>
+<td class="column1 style13 s">Vincenzo Fertino</td>
+<td class="column2 style14 n">811131.4</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">697573.004</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">687902.905128</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row12">
+<td class="column0 style9 n">60609</td>
+<td class="column1 style13 s">Bob Bobitt</td>
+<td class="column2 style14 n">814087.15</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">919918.4795</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">746403.11428</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row13">
+<td class="column0 style9 n">353666</td>
+<td class="column1 style13 s">Ken Cascaval</td>
+<td class="column2 style14 n">792537.71</td>
+<td class="column3 style12 s">Incline</td>
+<td class="column4 style19 n">721209.3161</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">993511.95786</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+<tr class="row14">
+<td class="column0 style9 n">2503159</td>
+<td class="column1 style13 s">Billy Joe</td>
+<td class="column2 style14 n">766654.9</td>
+<td class="column3 style12 s">Decline</td>
+<td class="column4 style19 n">835653.841</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">735633.502422</td>
+<td class="column7 style21 s">Decline</td>
+</tr>
+<tr class="row15">
+<td class="column0 style9 n">87772</td>
+<td class="column1 style13 s">Giuseppe Von Firenze</td>
+<td class="column2 style14 n">744359.6</td>
+<td class="column3 style12 s">Decline</td>
+<td class="column4 style19 n">722028.812</td>
+<td class="column5 style21 s">Decline</td>
+<td class="column6 style19 n">852366.91782</td>
+<td class="column7 style21 s">Incline</td>
+</tr>
+</tbody>
+</table>

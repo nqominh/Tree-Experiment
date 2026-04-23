@@ -1,0 +1,347 @@
+[COLUMN STRUCTURE]
+Week 1
+Week 2
+Week 3
+Week 4
+Week 5
+Week 6
+
+[ROW STRUCTURE]
+Construction Team
+Bill
+  Smith
+Frankston
+Sold July
+$10,000
+Jones
+$8,000
+Bob
+  Bloggs
+    Holligan
+Melbourne
+  Myrtleford
+June
+  Sold Feb
+$15,000
+  $10,000
+John
+  Howard
+Sold April
+$12,900
+Total planned for week
+  $ 33,000
+    $ 22,900
+      $ 18,000
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="7">Planned production schedule</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 s">Week 1</td>
+<td class="column2 style2 s">Week 2</td>
+<td class="column3 style2 s">Week 3</td>
+<td class="column4 style2 s">Week 4</td>
+<td class="column5 style2 s">Week 5</td>
+<td class="column6 style2 s">Week 6</td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 s">Construction Team</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style5 s">Bill </td>
+<td class="column1 style6 s">Smith</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style6 s">Smith</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style6 s">Bloggs</td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">Frankston</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style6 s">Frankston</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style6 s">Melbourne</td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">Sold July</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style6 s">Sold July</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style6 s">June</td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 n">$10,000</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style7 n">$10,000</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style7 n">$15,000</td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 null"></td>
+<td class="column1 style8 s">Jones</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style8 s">Jones</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">Frankston</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style6 s">Frankston</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">Sold July</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style6 s">Sold July</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 n">$8,000</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style7 n">$8,000</td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style5 s">Bob</td>
+<td class="column1 style6 s">Bloggs</td>
+<td class="column2 style6 s">Holligan</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Holligan</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">Melbourne</td>
+<td class="column2 style6 s">Myrtleford</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Myrtleford</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style2 null"></td>
+<td class="column1 style6 s">June</td>
+<td class="column2 style6 s">Sold Feb</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Sold Feb</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 n">$15,000</td>
+<td class="column2 style7 n">$10,000</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style7 n">$10,000</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row23">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row24">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row25">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row26">
+<td class="column0 style5 s">John</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style6 s">Howard</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Howard</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row27">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style6 s">Frankston</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Frankston</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row28">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style6 s">Sold April</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style6 s">Sold April</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row29">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style7 n">$12,900</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style7 n">$12,900</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row30">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row31">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row32">
+<td class="column0 style4 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row33">
+<td class="column0 style9 s">Total planned for week</td>
+<td class="column1 style10 f"> $ 33,000 </td>
+<td class="column2 style10 f"> $ 22,900 </td>
+<td class="column3 style10 f"> $ 18,000 </td>
+<td class="column4 style10 f"> $ 22,900 </td>
+<td class="column5 style10 f"> $ 15,000 </td>
+<td class="column6 style10 f">0</td>
+</tr>
+</tbody>
+</table>

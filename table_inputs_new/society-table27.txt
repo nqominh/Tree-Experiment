@@ -1,0 +1,780 @@
+[COLUMN STRUCTURE]
+Selected
+Int#
+Int# in LiST
+Lives Saved through Mitigation Measures
+Lives Lost through Added COVID Infections
+Benefit-Risk Ratio
+
+[ROW STRUCTURE]
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1364">
+<col class="x71" mso-width="0" span="3" width="0"/>
+<col class="x71" width="239"/>
+<col class="x71" width="554"/>
+<col class="x71" span="2" width="111"/>
+<col class="x71" width="133"/>
+<col class="x71" width="129"/>
+<col class="x71" width="87"/>
+<tr class="x71" height="26">
+<td class="x72" colspan="3" height="26" width="0"></td>
+<td class="x73" width="239">Risk-Benefit Results</td>
+<td class="x71" colspan="6" width="1125"></td>
+</tr>
+<tr class="x71" height="18">
+<td align="center" class="x74" colspan="3" height="18">HIDDEN</td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr class="x71" height="50">
+<td class="x75" height="50">Selected</td>
+<td class="x75">Int#</td>
+<td class="x75">Int# in LiST</td>
+<td class="x76" colspan="4"></td>
+<td class="x77">Lives Saved through Mitigation Measures</td>
+<td class="x77">Lives Lost through Added COVID Infections</td>
+<td class="x77">Benefit-Risk Ratio</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16">x</td>
+<td align="right" class="x79">0</td>
+<td align="right" class="x79">0</td>
+<td class="x80">Family Planning</td>
+<td class="x81">Contraceptive Use</td>
+<td class="x82" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="7">7.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-6.35338058257318">(6.4)</td>
+<td class="x135" x:fmla='=IFERROR(H4/-I4,"NA")' x:num="1.10177564668492">1.1 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16">x</td>
+<td align="right" class="x85">9</td>
+<td align="right" class="x85">14</td>
+<td class="x86" height="232" rowspan="13">Antenatal Care</td>
+<td class="x87">Antenatal care (at least 1 visit)</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-2.2800157013136">(2.3)</td>
+<td class="x135" x:fmla='=IFERROR(H5/-I5,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16">x</td>
+<td align="right" class="x85">10</td>
+<td align="right" class="x85">15</td>
+<td class="x87">Antenatal care (at least 4 visits)</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-10.036240628467">(10.0)</td>
+<td class="x135" x:fmla='=IFERROR(H6/-I6,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">11</td>
+<td align="right" class="x85">16</td>
+<td class="x87">TT - Tetanus toxoid vaccination</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x90" x:fmla="=VLOOKUP(B7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="81">81.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-3.70335482961572">(3.7)</td>
+<td class="x135" x:fmla='=IFERROR(H7/-I7,"NA")' x:num="21.8720602606704">21.9 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">12</td>
+<td align="right" class="x85">17</td>
+<td class="x87">IPTp - Intermittent preventive treatment of malaria during pregnancy</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H8/-I8,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">13</td>
+<td align="right" class="x85">18</td>
+<td class="x87">Syphilis detection and treatment</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-1.07190815946173">(1.1)</td>
+<td class="x135" x:fmla='=IFERROR(H9/-I9,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x85">14</td>
+<td align="right" class="x85">19</td>
+<td class="x87">Calcium supplementation</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H10/-I10,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">15</td>
+<td align="right" class="x85">20</td>
+<td class="x87">Iron supplementation in pregnancy</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H11/-I11,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">16</td>
+<td align="right" class="x85">21</td>
+<td class="x87">Multiple micronutrient supplementation in pregnancy</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H12/-I12,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">17</td>
+<td align="right" class="x85">22</td>
+<td class="x87">Balanced energy supplementation</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H13/-I13,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">18</td>
+<td align="right" class="x85">23</td>
+<td class="x87">Hypertensive disorder case management</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="3">3.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0789726375461866">(0.1)</td>
+<td class="x135" x:fmla='=IFERROR(H14/-I14,"NA")' x:num="37.9878410195616">38.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">19</td>
+<td align="right" class="x85">24</td>
+<td class="x87">Diabetes case management</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0923530440387162">(0.1)</td>
+<td class="x135" x:fmla='=IFERROR(H15/-I15,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">20</td>
+<td align="right" class="x85">25</td>
+<td class="x87">Malaria case management</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="1">1.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0971032509471497">(0.1)</td>
+<td class="x135" x:fmla='=IFERROR(H16/-I16,"NA")' x:num="10.2983163822627">10.3 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">21</td>
+<td align="right" class="x85">26</td>
+<td class="x87">MgSO4 management of pre-eclampsia</td>
+<td class="x88" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="7">7.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.00672425527247072">(0.0)</td>
+<td class="x135" x:fmla='=IFERROR(H17/-I17,"NA")' x:num="1041.00747463562">1,041.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16">x</td>
+<td align="right" class="x91">22</td>
+<td align="right" class="x91">27</td>
+<td class="x92" height="305" rowspan="17">Delivery Care</td>
+<td class="x93">Health Facility Delivery</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-2.62036064919542">(2.6)</td>
+<td class="x135" x:fmla='=IFERROR(H18/-I18,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">23</td>
+<td class="x96">28</td>
+<td class="x98">Clean birth environment</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x90" x:fmla="=VLOOKUP(B19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="39">39.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0998727275391478">(0.1)</td>
+<td class="x135" x:fmla='=IFERROR(H19/-I19,"NA")' x:num="390.496995135263">390.5 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">24</td>
+<td class="x96">32</td>
+<td class="x98">Manual removal of placenta</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="2">2.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0186834983899851">(0.0)</td>
+<td class="x135" x:fmla='=IFERROR(H20/-I20,"NA")' x:num="107.046333521352">107.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">25</td>
+<td class="x96">33</td>
+<td class="x98">MgSO4 management of eclampsia</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0113076218915283">(0.0)</td>
+<td class="x135" x:fmla='=IFERROR(H21/-I21,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">26</td>
+<td class="x96">34</td>
+<td class="x98">Antibiotics for preterm or prolonged PROM</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="22">22.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.186001936825282">(0.2)</td>
+<td class="x135" x:fmla='=IFERROR(H22/-I22,"NA")' x:num="118.278338255506">118.3 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">27</td>
+<td class="x96">35</td>
+<td class="x98">Parenteral administration of antibiotics</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="24">24.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.474920119444189">(0.5)</td>
+<td class="x135" x:fmla='=IFERROR(H23/-I23,"NA")' x:num="50.5348142085195">50.5 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">28</td>
+<td class="x96">36</td>
+<td class="x98">Assisted vaginal delivery</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x90" x:fmla="=VLOOKUP(B24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="26">26.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.0700631189624443">(0.1)</td>
+<td class="x135" x:fmla='=IFERROR(H24/-I24,"NA")' x:num="371.093956207355">371.1 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16">x</td>
+<td class="x96">29</td>
+<td class="x96">38</td>
+<td class="x98">Active management of third stage of labor (AMTSL)</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x90" x:fmla="=VLOOKUP(B25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="27">27.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-1.22835940596864">(1.2)</td>
+<td class="x135" x:fmla='=IFERROR(H25/-I25,"NA")' x:num="21.9805375110949">22.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">30</td>
+<td class="x96">39</td>
+<td class="x98">Removal of retained products of conception</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="2">2.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.00934174919499257">(0.0)</td>
+<td class="x135" x:fmla='=IFERROR(H26/-I26,"NA")' x:num="214.092667042705">214.1 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">31</td>
+<td class="x96">40</td>
+<td class="x98">Induction of labor for pregnancies lasting 41+ weeks</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.00133275794377618">(0.0)</td>
+<td class="x135" x:fmla='=IFERROR(H27/-I27,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">32</td>
+<td class="x96">41</td>
+<td class="x98">Antenatal corticosteroids for preterm labor</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H28/-I28,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">33</td>
+<td class="x96">65</td>
+<td class="x98">Maternal sepsis case management</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H29/-I29,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x96">34</td>
+<td class="x96">10</td>
+<td class="x98">Safe abortion services</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="1">1.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H30/-I30,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x96">35</td>
+<td class="x96">11</td>
+<td class="x98">Post abortion case management</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H31/-I31,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">36</td>
+<td class="x96">42</td>
+<td class="x98">Cesarean delivery</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x90" x:fmla="=VLOOKUP(B32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="49">49.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.490128430753967">(0.5)</td>
+<td class="x135" x:fmla='=IFERROR(H32/-I32,"NA")' x:num="99.973796510076">100.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x96">37</td>
+<td class="x96">43</td>
+<td class="x98">Blood transfusion</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H33/-I33,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x96">38</td>
+<td class="x96">12</td>
+<td class="x98">Ectopic pregnancy case management</td>
+<td class="x94" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H34/-I34,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">39</td>
+<td align="right" class="x100">29</td>
+<td class="x80" height="196" rowspan="11">Newborn Care</td>
+<td class="x101">Immediate drying and additional stimulation</td>
+<td class="x102" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="209">209.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-4.41257430615443">(4.4)</td>
+<td class="x135" x:fmla='=IFERROR(H35/-I35,"NA")' x:num="47.3646414766314">47.4 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">40</td>
+<td align="right" class="x100">30</td>
+<td class="x101">Thermal protection</td>
+<td class="x102" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="350">350.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.311809319278579">(0.3)</td>
+<td class="x135" x:fmla='=IFERROR(H36/-I36,"NA")' x:num="1122.48088289914">1,122.5 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">41</td>
+<td align="right" class="x100">31</td>
+<td class="x101">Clean cord care</td>
+<td class="x102" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="290">290.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-2.30001771282997">(2.3)</td>
+<td class="x135" x:fmla='=IFERROR(H37/-I37,"NA")' x:num="126.085985504512">126.1 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">42</td>
+<td align="right" class="x100">37</td>
+<td class="x101">Neonatal resuscitation</td>
+<td class="x102" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="237">237.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H38/-I38,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x99">43/44</td>
+<td class="x99">66/67</td>
+<td class="x104">Case management of premature babies</td>
+<td class="x105" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=SUM(I40:I41)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H39/-I39,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B40,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">43</td>
+<td align="right" class="x99">66</td>
+<td class="x107">Kangaroo-Mother Care (KMC)</td>
+<td class="x108" colspan="2"></td>
+<td align="right" class="x84" x:num="0">0.0 </td>
+<td align="right" class="x84" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H40/-I40,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B41,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x99">44</td>
+<td align="right" class="x99">67</td>
+<td class="x107">Full supportive care of prematurity</td>
+<td class="x108" colspan="2"></td>
+<td align="right" class="x84" x:num="0">0.0 </td>
+<td align="right" class="x84" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H41/-I41,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x99">45/46/47</td>
+<td class="x99">68/69</td>
+<td class="x104">Case management of neonatal sepsis/pneumonia</td>
+<td class="x105" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="1220">1,220.0 </td>
+<td align="right" class="x84" x:fmla="=SUM(I43:I45)" x:num="-0.380578470468268">(0.4)</td>
+<td class="x135" x:fmla='=IFERROR(H42/-I42,"NA")' x:num="3205.64639008323">3,205.6 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B43,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">45</td>
+<td align="right" class="x99">68</td>
+<td class="x107">Oral antibiotics for neonatal sepsis</td>
+<td class="x108" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B43,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B43,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H43/-I43,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B44,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x99">46</td>
+<td align="right" class="x99">69</td>
+<td class="x107">Injectable antibiotics for neonatal sepsis</td>
+<td class="x108" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B44,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B44,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.380578470468268">(0.4)</td>
+<td class="x135" x:fmla='=IFERROR(H44/-I44,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B45,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x99">47</td>
+<td align="right" class="x99">70</td>
+<td class="x107">Full supportive care for neonatal sepsis/pneumonia</td>
+<td class="x108" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B45,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B45,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H45/-I45,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td align="right" class="x110">48</td>
+<td align="right" class="x110">44</td>
+<td class="x111" height="52" rowspan="3">Breastfeeding</td>
+<td class="x112">Breastfeeding</td>
+<td class="x113" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="419">419.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.39997291461564">(0.4)</td>
+<td class="x135" x:fmla='=IFERROR(H46/-I46,"NA")' x:num="1047.57093465352">1,047.6 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B47,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">49</td>
+<td align="right" class="x115">45</td>
+<td class="x116">Complementary feeding - Education only</td>
+<td class="x117" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B47,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="6">6.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B47,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-1.4822663568214">(1.5)</td>
+<td class="x135" x:fmla='=IFERROR(H47/-I47,"NA")' x:num="4.04785548318491">4.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B48,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">50</td>
+<td align="right" class="x115">46</td>
+<td class="x116">Complementary feeding - Supplementary feeding + Education</td>
+<td class="x117" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B48,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B48,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-3.26929775897055">(3.3)</td>
+<td class="x135" x:fmla='=IFERROR(H48/-I48,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td align="right" class="x119">51</td>
+<td align="right" class="x119">55</td>
+<td class="x120" height="196" rowspan="11">Vaccines</td>
+<td class="x121">BCG - Single dose</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-6.36951086569994">(6.4)</td>
+<td class="x135" x:fmla='=IFERROR(H49/-I49,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">52</td>
+<td align="right" class="x119">56</td>
+<td class="x121">Polio - Three doses</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-16.5316953493735">(16.5)</td>
+<td class="x135" x:fmla='=IFERROR(H50/-I50,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td class="x119"></td>
+<td class="x119"></td>
+<td class="x124">Pentavalent</td>
+<td class="x125" colspan="2"></td>
+<td class="x84"></td>
+<td class="x84"></td>
+<td class="x135"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">53</td>
+<td align="right" class="x119">57</td>
+<td class="x127">DPT - Three doses</td>
+<td class="x128" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="60">60.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-16.3380185837741">(16.3)</td>
+<td class="x135" x:fmla='=IFERROR(H52/-I52,"NA")' x:num="3.67241594764668">3.7 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">54</td>
+<td align="right" class="x119">58</td>
+<td class="x127">Hib - Three doses</td>
+<td class="x128" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="63">63.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-16.3380185837741">(16.3)</td>
+<td class="x135" x:fmla='=IFERROR(H53/-I53,"NA")' x:num="3.85603674502901">3.9 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">55</td>
+<td align="right" class="x119">59</td>
+<td class="x127">HepB - Three doses</td>
+<td class="x128" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-16.3380185837741">(16.3)</td>
+<td class="x135" x:fmla='=IFERROR(H54/-I54,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">56</td>
+<td align="right" class="x119">60</td>
+<td class="x121">Pneumococcal - Three doses</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="66">66.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-7.2006254638903">(7.2)</td>
+<td class="x135" x:fmla='=IFERROR(H55/-I55,"NA")' x:num="9.16587042764227">9.2 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">57</td>
+<td align="right" class="x119">61</td>
+<td class="x121">Rotavirus - Two doses</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="9">9.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-0.651088960472949">(0.7)</td>
+<td class="x135" x:fmla='=IFERROR(H56/-I56,"NA")' x:num="13.8229958521527">13.8 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">58</td>
+<td align="right" class="x119">62</td>
+<td class="x121">Meningococcal A - Single dose</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H57/-I57,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16"></td>
+<td align="right" class="x119">59</td>
+<td align="right" class="x119">63</td>
+<td class="x121">Malaria vaccine - Three doses</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H58/-I58,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x119">60</td>
+<td align="right" class="x119">64</td>
+<td class="x121">Measles - Single dose</td>
+<td class="x122" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="16">16.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-5.32911889126619">(5.3)</td>
+<td class="x135" x:fmla='=IFERROR(H59/-I59,"NA")' x:num="3.00237249842974">3.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">61</td>
+<td class="x130">47</td>
+<td class="x131" height="142" rowspan="8">Child Health</td>
+<td class="x132">Vitamin A supplementation</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H60/-I60,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">62</td>
+<td class="x130">48</td>
+<td class="x132">Zinc supplementation</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H61/-I61,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">63</td>
+<td class="x130">71</td>
+<td class="x132">ORS - Oral Rehydration Solution</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="9">9.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-66.1430901531015">(66.1)</td>
+<td class="x135" x:fmla='=IFERROR(H62/-I62,"NA")' x:num="0.136068635123755">0.1 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">64</td>
+<td class="x130">72</td>
+<td class="x132">Antibiotics for treatment of dysentery</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H63/-I63,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">65</td>
+<td class="x130">73</td>
+<td class="x132">Zinc for treatment of diarrhea</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-19.2715188101215">(19.3)</td>
+<td class="x135" x:fmla='=IFERROR(H64/-I64,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">66</td>
+<td class="x130">74</td>
+<td class="x132">Oral antibiotics for pneumonia</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="25">25.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-33.1531748245235">(33.2)</td>
+<td class="x135" x:fmla='=IFERROR(H65/-I65,"NA")' x:num="0.754075594036546">0.8 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">67</td>
+<td class="x130">75</td>
+<td class="x132">Vitamin A for treatment of measles</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H66/-I66,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x130">68</td>
+<td class="x130">76</td>
+<td class="x132">ACTs - Artemisinin compounds for treatment of malaria</td>
+<td class="x133" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="-49.7931347328513">(49.8)</td>
+<td class="x135" x:fmla='=IFERROR(H67/-I67,"NA")' x:num="0">0.0 </td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x136">69</td>
+<td class="x136">77</td>
+<td class="x137" height="34" rowspan="2">Malnutrition</td>
+<td class="x138">SAM - treatment for severe acute malnutrition</td>
+<td class="x139" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H68/-I68,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x136">70</td>
+<td class="x136">78</td>
+<td class="x138">MAM - treatment for moderate acute malnutrition</td>
+<td class="x139" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H69/-I69,"NA")'>NA</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x78" height="16" x:fmla="=IF(VLOOKUP(B70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x141">71</td>
+<td align="right" class="x142">54</td>
+<td class="x143"></td>
+<td class="x144">ITN/IRS - Households protected from malaria</td>
+<td class="x145" colspan="2"></td>
+<td align="right" class="x84" x:fmla="=VLOOKUP(B70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]6. Lives Saved with Mitigation'!$B$15:$I$81,8,FALSE)" x:num="0">0.0 </td>
+<td align="right" class="x84" x:fmla="=-VLOOKUP($B70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]Detailed COVID Calculations - 2'!$B$5:$AC$88,28,FALSE)" x:num="0">0.0 </td>
+<td class="x135" x:fmla='=IFERROR(H70/-I70,"NA")'>NA</td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="3" width="0"></td>
+<td width="239"></td>
+<td width="554"></td>
+<td colspan="2" width="222"></td>
+<td width="133"></td>
+<td width="129"></td>
+<td width="87"></td>
+</tr>
+<?endif?>
+</table>

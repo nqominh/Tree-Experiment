@@ -1,0 +1,830 @@
+[COLUMN STRUCTURE]
+Selected
+  x
+Int#
+  0
+    9
+      10
+        11
+          12
+            13
+              14
+                15
+                  16
+                    17
+                      18
+                        19
+LiST#
+  0
+    14
+      15
+        16
+          17
+            18
+              19
+                20
+                  21
+                    22
+                      23
+                        24
+  Family Planning
+    Antenatal Care
+  Contraceptive Use
+    Antenatal care (at least 1 visit)
+      Antenatal care (at least 4 visits)
+        TT - Tetanus toxoid vaccination
+          IPTp - Intermittent preventive treatment of malaria during pregnancy
+            Syphilis detection and treatment
+              Calcium supplementation
+                Iron supplementation in pregnancy
+                  Multiple micronutrient supplementation in pregnancy
+                    Balanced energy supplementation
+                      Hypertensive disorder case management
+                        Diabetes case management
+Newborn Lives Saved
+  3
+    --
+      80
+        --
+Child Lives Saved
+  3
+    --
+      80
+        --
+Maternal Lives Saved
+  4
+    --
+      1
+        --
+          3
+            --
+Total Lives Lost
+  7
+    --
+      81
+        --
+          3
+            --
+
+[ROW STRUCTURE]
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="947">
+<col class="x71" mso-width="0" span="3" width="0"/>
+<col class="x71" width="129"/>
+<col class="x71" width="554"/>
+<col class="x71" width="70"/>
+<col class="x71" width="64"/>
+<col class="x71" width="70"/>
+<col class="x71" width="60"/>
+<tr class="x71" height="26">
+<td class="x71" colspan="4" height="26" id="tc0" width="129"></td>
+<td class="x72" width="554">Lives Saved Due to Mitigation Measures</td>
+<td class="x71" colspan="4" width="264"></td>
+</tr>
+<tr class="x71" height="18">
+<td align="center" class="x73" colspan="3" height="18">HIDDEN</td>
+<td class="x71" colspan="6"></td>
+</tr>
+<tr class="x71" height="26">
+<td class="x75" height="24">Selected</td>
+<td class="x75">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x76"></td>
+<td class="x77"></td>
+<td class="x78">Newborn Lives Saved</td>
+<td class="x78">Child Lives Saved</td>
+<td class="x78">Maternal Lives Saved</td>
+<td class="x113">Total Lives Lost</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x80">0</td>
+<td align="right" class="x80">0</td>
+<td class="x81">Family Planning</td>
+<td class="x80">Contraceptive Use</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AH5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AH6,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AK5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AK6)">3</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AI5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AI6,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AL5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AL6)">3</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AJ5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AJ6,VLOOKUP($C4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AM5+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AM6)">4</td>
+<td align="right" class="x82" x:fmla="=SUM(G4:H4)">7</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x83">9</td>
+<td align="right" class="x83">14</td>
+<td class="x84" height="232" rowspan="13">Antenatal Care</td>
+<td class="x83">Antenatal care (at least 1 visit)</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G5:H5)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x83">10</td>
+<td align="right" class="x83">15</td>
+<td class="x83">Antenatal care (at least 4 visits)</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G6:H6)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">11</td>
+<td align="right" class="x83">16</td>
+<td class="x83">TT - Tetanus toxoid vaccination</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">80</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">80</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G7:H7)">81</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">12</td>
+<td align="right" class="x83">17</td>
+<td class="x83">IPTp - Intermittent preventive treatment of malaria during pregnancy</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G8:H8)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">13</td>
+<td align="right" class="x83">18</td>
+<td class="x83">Syphilis detection and treatment</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G9:H9)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x83">14</td>
+<td align="right" class="x83">19</td>
+<td class="x83">Calcium supplementation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G10:H10)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">15</td>
+<td align="right" class="x83">20</td>
+<td class="x83">Iron supplementation in pregnancy</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G11:H11)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">16</td>
+<td align="right" class="x83">21</td>
+<td class="x83">Multiple micronutrient supplementation in pregnancy</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C12,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G12:H12)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">17</td>
+<td align="right" class="x83">22</td>
+<td class="x83">Balanced energy supplementation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C13,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G13:H13)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">18</td>
+<td align="right" class="x83">23</td>
+<td class="x83">Hypertensive disorder case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">3</td>
+<td align="right" class="x82" x:fmla="=SUM(G14:H14)">3</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">19</td>
+<td align="right" class="x83">24</td>
+<td class="x83">Diabetes case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G15:H15)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">20</td>
+<td align="right" class="x83">25</td>
+<td class="x83">Malaria case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G16:H16)">1</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x83">21</td>
+<td align="right" class="x83">26</td>
+<td class="x83">MgSO4 management of pre-eclampsia</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">7</td>
+<td align="right" class="x82" x:fmla="=SUM(G17:H17)">7</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x85">22</td>
+<td align="right" class="x85">27</td>
+<td class="x86" height="305" rowspan="17">Delivery Care</td>
+<td class="x87">Health Facility Delivery</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G18:H18)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">23</td>
+<td align="right" class="x85">28</td>
+<td class="x87">Clean birth environment</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">38</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">38</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G19:H19)">39</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">24</td>
+<td align="right" class="x85">32</td>
+<td class="x87">Manual removal of placenta</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">2</td>
+<td align="right" class="x82" x:fmla="=SUM(G20:H20)">2</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">25</td>
+<td align="right" class="x85">33</td>
+<td class="x87">Parenteral administration of anti-convulsants</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G21:H21)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">26</td>
+<td align="right" class="x85">34</td>
+<td class="x87">Antibiotics for preterm or prolonged PROM</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">21</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">21</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G22:H22)">22</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">27</td>
+<td align="right" class="x85">35</td>
+<td class="x87">Parenteral administration of antibiotics</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">21</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">21</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">3</td>
+<td align="right" class="x82" x:fmla="=SUM(G23:H23)">24</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">28</td>
+<td align="right" class="x85">36</td>
+<td class="x87">Assisted vaginal delivery</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">26</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">26</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G24:H24)">26</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x85">29</td>
+<td align="right" class="x85">38</td>
+<td class="x87">Parenteral administration of uterotonics</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C25,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">27</td>
+<td align="right" class="x82" x:fmla="=SUM(G25:H25)">27</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">30</td>
+<td align="right" class="x85">39</td>
+<td class="x87">Removal of retained products of conception</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C26,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">2</td>
+<td align="right" class="x82" x:fmla="=SUM(G26:H26)">2</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">31</td>
+<td align="right" class="x85">40</td>
+<td class="x87">Induction of labor for pregnancies lasting 41+ weeks</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G27:H27)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">32</td>
+<td align="right" class="x85">41</td>
+<td class="x87">Antenatal corticosteroids for preterm labor</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G28:H28)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x85">33</td>
+<td align="right" class="x89">65</td>
+<td class="x87">Maternal sepsis case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G29:H29)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x89">34</td>
+<td align="right" class="x89">10</td>
+<td class="x90">Safe abortion services</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G30:H30)">1</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x89">35</td>
+<td align="right" class="x89">11</td>
+<td class="x90">Post abortion case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G31:H31)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x89">36</td>
+<td align="right" class="x89">42</td>
+<td class="x90">Cesarean delivery</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">48</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">48</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))">1</td>
+<td align="right" class="x82" x:fmla="=SUM(G32:H32)">49</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x89">37</td>
+<td align="right" class="x89">43</td>
+<td class="x90">Blood transfusion</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G33:H33)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x89">38</td>
+<td align="right" class="x89">12</td>
+<td class="x90">Ectopic pregnancy case management</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G34:H34)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">39</td>
+<td align="right" class="x93">29</td>
+<td class="x81" height="196" rowspan="11">Newborn Care</td>
+<td class="x94">Immediate drying and additional stimulation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">209</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">209</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G35:H35)">209</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">40</td>
+<td align="right" class="x93">30</td>
+<td class="x94">Thermal protection</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">350</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">350</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G36:H36)">350</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">41</td>
+<td align="right" class="x93">31</td>
+<td class="x94">Clean cord care</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">290</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">290</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G37:H37)">290</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">42</td>
+<td align="right" class="x93">37</td>
+<td class="x94">Neonatal resuscitation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">237</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">237</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G38:H38)">237</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16"></td>
+<td class="x92">43/44</td>
+<td class="x92">66/67</td>
+<td class="x95">Case management of premature babies</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G39:H39)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B40,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">43</td>
+<td align="right" class="x92">66</td>
+<td class="x96">Kangaroo-Mother Care (KMC)</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B41,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x92">44</td>
+<td align="right" class="x92">67</td>
+<td class="x96">Full supportive care of prematurity</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16"></td>
+<td class="x92">45/46/47</td>
+<td class="x92">68/69</td>
+<td class="x95">Case management of neonatal sepsis/pneumonia</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="1220">1,220</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="1220">1,220</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G42:H42)" x:num="1220">1,220</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B43,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">45</td>
+<td align="right" class="x92">68</td>
+<td class="x96">Oral antibiotics for neonatal sepsis</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B44,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x92">46</td>
+<td align="right" class="x92">69</td>
+<td class="x96">Injectable antibiotics for neonatal sepsis</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B45,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x92">47</td>
+<td align="right" class="x92">70</td>
+<td class="x96">Full supportive care for neonatal sepsis/pneumonia</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16">x</td>
+<td align="right" class="x98">48</td>
+<td align="right" class="x98">44</td>
+<td class="x99" height="52" rowspan="3">Breastfeeding</td>
+<td class="x100">Breastfeeding</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))">213</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">419</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G46:H46)">419</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B47,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x101">49</td>
+<td align="right" class="x101">45</td>
+<td class="x102">Complementary feeding - Education only</td>
+<td class="x103" height="35" rowspan="2" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AH$44:$AH$47),SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AK$44:$AK$47))" x:num="0">--</td>
+<td class="x103" height="35" rowspan="2" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AI$44:$AI$47),SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AL$44:$AL$47))">6</td>
+<td class="x103" height="35" rowspan="2" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AJ$44:$AJ$47),SUM('C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AM$44:$AM$47))" x:num="0">--</td>
+<td class="x103" height="35" rowspan="2" x:fmla="=SUM(G47:H47)">6</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B48,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x101">50</td>
+<td align="right" class="x101">46</td>
+<td class="x102">Complementary feeding - Supplementary feeding + Education</td>
+</tr>
+<tr class="x71" height="19">
+<td class="x79" height="17"></td>
+<td align="right" class="x105">51</td>
+<td align="right" class="x105">55</td>
+<td class="x106" height="199" rowspan="11">Vaccines</td>
+<td class="x107">BCG - Single dose</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G49:H49)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">52</td>
+<td align="right" class="x105">56</td>
+<td class="x107">Polio - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C50,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G50:H50)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="19">
+<td class="x79" height="17"></td>
+<td class="x105"></td>
+<td class="x105"></td>
+<td class="x108">Pentavalent</td>
+<td class="x82"></td>
+<td class="x82"></td>
+<td class="x82"></td>
+<td class="x82"></td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">53</td>
+<td align="right" class="x105">57</td>
+<td class="x109">DPT - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">60</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G52:H52)">60</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">54</td>
+<td align="right" class="x105">58</td>
+<td class="x109">Hib - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">63</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G53:H53)">63</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">55</td>
+<td align="right" class="x105">59</td>
+<td class="x109">HepB - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C54,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G54:H54)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">56</td>
+<td align="right" class="x105">60</td>
+<td class="x107">Pneumococcal - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">66</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G55:H55)">66</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">57</td>
+<td align="right" class="x105">61</td>
+<td class="x107">Rotavirus - Two doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">9</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G56:H56)">9</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">58</td>
+<td align="right" class="x105">62</td>
+<td class="x107">Meningococcal A - Single dose</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G57:H57)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="19">
+<td class="x79" height="17"></td>
+<td align="right" class="x105">59</td>
+<td align="right" class="x105">63</td>
+<td class="x107">Malaria vaccine - Three doses</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C58,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G58:H58)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x105">60</td>
+<td align="right" class="x105">64</td>
+<td class="x107">Measles - Single dose</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">16</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C59,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G59:H59)">16</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">61</td>
+<td align="right" class="x110">47</td>
+<td class="x111" height="142" rowspan="8">Child Health</td>
+<td class="x112">Vitamin A supplementation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G60:H60)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">62</td>
+<td align="right" class="x110">48</td>
+<td class="x112">Zinc supplementation</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G61:H61)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">63</td>
+<td align="right" class="x110">71</td>
+<td class="x112">ORS - Oral Rehydration Solution</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">9</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C62,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G62:H62)">9</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">64</td>
+<td align="right" class="x110">72</td>
+<td class="x112">Antibiotics for treatment of dysentery</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G63:H63)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">65</td>
+<td align="right" class="x110">73</td>
+<td class="x112">Zinc for treatment of diarrhea</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G64:H64)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">66</td>
+<td align="right" class="x110">74</td>
+<td class="x112">Oral antibiotics for pneumonia</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))">25</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G65:H65)">25</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">67</td>
+<td align="right" class="x110">75</td>
+<td class="x112">Vitamin A for treatment of measles</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G66:H66)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x110">68</td>
+<td align="right" class="x110">76</td>
+<td class="x112">ACTs - Artemisinin compounds for treatment of malaria</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,8,FALSE),VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,9,FALSE),VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=IF(Chosen_Scenario=&quot;Mitigation Impact Only&quot;,VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,10,FALSE),VLOOKUP($C67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE))" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G67:H67)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x114">69</td>
+<td align="right" class="x114">77</td>
+<td class="x115" height="34" rowspan="2">Malnutrition</td>
+<td class="x116">SAM - treatment for severe acute malnutrition</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE)+'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!AH81" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G68:H68)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x114">70</td>
+<td align="right" class="x114">78</td>
+<td class="x116">MAM - treatment for moderate acute malnutrition</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G69:H69)" x:num="0">--</td>
+</tr>
+<tr class="x71" height="18">
+<td class="x79" height="16" x:fmla="=IF(VLOOKUP(B70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x117">71</td>
+<td align="right" class="x118">54</td>
+<td class="x119"></td>
+<td class="x120">ITN/IRS - Households protected from malaria</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,11,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,12,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=VLOOKUP($C70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]LiST Outputs WITH M.'!$AA$4:$AM$82,13,FALSE)" x:num="0">--</td>
+<td align="right" class="x82" x:fmla="=SUM(G70:H70)" x:num="0">--</td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="3" width="0"></td>
+<td width="129"></td>
+<td width="554"></td>
+<td width="70"></td>
+<td width="64"></td>
+<td width="70"></td>
+<td width="60"></td>
+</tr>
+<?endif?>
+</table>

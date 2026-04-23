@@ -1,0 +1,162 @@
+[COLUMN STRUCTURE]
+1.00
+  0.50
+    2.00
+      4.00
+        1.00
+          0.50
+            0.25
+              0.50
+                1.00
+                  4.00
+                    1.00
+                      10.00
+clove
+  cup
+    tablespoon
+      teaspoon
+        clove
+          ounces
+            pint
+              leaves
+garlic
+  balsamic vinegar
+    honey
+      butter
+        salt
+          black pepper
+            red pepper flakes
+              garlic powder
+                dried basil
+                  garlic
+                    mozzarella
+                      cherry tomatoes
+                        basil
+
+[ROW STRUCTURE]
+Turkey Tacos
+1.00
+1.00
+1.00
+2.00
+1.00
+1.00
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Baked Caprese Chicken</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">clove</td>
+<td class="column2 style2 s">garlic</td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 n">0.50</td>
+<td class="column1 style2 s">cup</td>
+<td class="column2 style2 s">balsamic vinegar</td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 n">2.00</td>
+<td class="column1 style2 s">tablespoon</td>
+<td class="column2 style2 s">honey</td>
+</tr>
+<tr class="row4">
+<td class="column0 style3 n">4.00</td>
+<td class="column1 style2 s">tablespoon</td>
+<td class="column2 style2 s">butter</td>
+</tr>
+<tr class="row5">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">teaspoon</td>
+<td class="column2 style2 s">salt</td>
+</tr>
+<tr class="row6">
+<td class="column0 style3 n">0.50</td>
+<td class="column1 style2 s">teaspoon</td>
+<td class="column2 style2 s">black pepper</td>
+</tr>
+<tr class="row7">
+<td class="column0 style3 n">0.25</td>
+<td class="column1 style2 s">teaspoon</td>
+<td class="column2 style2 s">red pepper flakes</td>
+</tr>
+<tr class="row8">
+<td class="column0 style3 n">0.25</td>
+<td class="column1 style2 s">teaspoon</td>
+<td class="column2 style2 s">garlic powder</td>
+</tr>
+<tr class="row9">
+<td class="column0 style3 n">0.50</td>
+<td class="column1 style2 s">teaspoon</td>
+<td class="column2 style2 s">dried basil</td>
+</tr>
+<tr class="row10">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">clove</td>
+<td class="column2 style2 s">garlic</td>
+</tr>
+<tr class="row11">
+<td class="column0 style3 n">4.00</td>
+<td class="column1 style2 s">ounces</td>
+<td class="column2 style2 s">mozzarella</td>
+</tr>
+<tr class="row12">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">pint</td>
+<td class="column2 style2 s">cherry tomatoes</td>
+</tr>
+<tr class="row13">
+<td class="column0 style3 n">10.00</td>
+<td class="column1 style2 s">leaves</td>
+<td class="column2 style2 s">basil</td>
+</tr>
+<tr class="row14">
+<td class="column0 style3 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style4 s">Turkey Tacos</td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">package</td>
+<td class="column2 style2 s">taco shells</td>
+</tr>
+<tr class="row17">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">package</td>
+<td class="column2 style2 s">ground turkey</td>
+</tr>
+<tr class="row18">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">head</td>
+<td class="column2 style2 s">lettuce</td>
+</tr>
+<tr class="row19">
+<td class="column0 style3 n">2.00</td>
+<td class="column1 style2 s">cup</td>
+<td class="column2 style2 s">shredded cheese</td>
+</tr>
+<tr class="row20">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">pint</td>
+<td class="column2 style2 s">cherry tomatoes</td>
+</tr>
+<tr class="row21">
+<td class="column0 style3 n">1.00</td>
+<td class="column1 style2 s">package</td>
+<td class="column2 style2 s">taco seasoning</td>
+</tr>
+</tbody>
+</table>

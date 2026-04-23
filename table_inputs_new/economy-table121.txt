@@ -1,0 +1,246 @@
+[COLUMN STRUCTURE]
+Ledger
+  Sr No.
+    1
+      2
+        3
+          4
+            5
+              6
+                7
+  Description
+    Product 1
+      Product 2
+        Product 3
+          Product 4
+            Product 5
+              Product 6
+                Product 7
+Date:
+  Invoice No:
+    Customer ID:
+      Quantity
+        1
+          2
+            3
+              4
+                5
+                  6
+      Rate
+        7
+          6
+            5
+              4
+                3
+                  2
+                    1
+11-Mar-15
+  1001
+    12
+      Total
+        7
+          6
+            10
+              12
+                10
+                  6
+
+[ROW STRUCTURE]
+8
+9
+10
+11
+12
+13
+14
+15
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="9">Office Copy</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style2" colspan="3">Ledger</td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 null"></td>
+<td class="column5 style3 null"></td>
+<td class="column6 style14 s">Date:</td>
+<td class="column7 style15 null"></td>
+<td class="column8 style21 n">11-Mar-15</td>
+</tr>
+<tr class="row2">
+<td class="column0 style4 null style4" colspan="3"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style5 null"></td>
+<td class="column5 style5 null"></td>
+<td class="column6 style14 s">Invoice No:</td>
+<td class="column7 style16 null"></td>
+<td class="column8 style22 n">1001</td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 null style4" colspan="3"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style5 null"></td>
+<td class="column5 style5 null"></td>
+<td class="column6 style14 s">Customer ID:</td>
+<td class="column7 style17 null"></td>
+<td class="column8 style22 n">12</td>
+</tr>
+<tr class="row4">
+<td class="column0 style6 null"></td>
+<td class="column1 style6 null"></td>
+<td class="column2 style6 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 null"></td>
+<td class="column5 style3 null"></td>
+<td class="column6 style3 null"></td>
+<td class="column7 style3 null"></td>
+<td class="column8 style3 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style7 s">Sr No.</td>
+<td class="column1 style8 s style18" colspan="5">Description</td>
+<td class="column6 style8 s">Quantity</td>
+<td class="column7 style8 s">Rate</td>
+<td class="column8 style7 s">Total</td>
+</tr>
+<tr class="row6">
+<td class="column0 style10 n">1</td>
+<td class="column1 style11 s style11" colspan="5">Product 1</td>
+<td class="column6 style19 n">1</td>
+<td class="column7 style19 n">7</td>
+<td class="column8 style23 f">7</td>
+</tr>
+<tr class="row7">
+<td class="column0 style10 n">2</td>
+<td class="column1 style11 s style11" colspan="5">Product 2</td>
+<td class="column6 style19 n">1</td>
+<td class="column7 style19 n">6</td>
+<td class="column8 style23 f">6</td>
+</tr>
+<tr class="row8">
+<td class="column0 style10 n">3</td>
+<td class="column1 style11 s style11" colspan="5">Product 3</td>
+<td class="column6 style19 n">2</td>
+<td class="column7 style19 n">5</td>
+<td class="column8 style23 f">10</td>
+</tr>
+<tr class="row9">
+<td class="column0 style10 n">4</td>
+<td class="column1 style11 s style11" colspan="5">Product 4</td>
+<td class="column6 style19 n">3</td>
+<td class="column7 style19 n">4</td>
+<td class="column8 style23 f">12</td>
+</tr>
+<tr class="row10">
+<td class="column0 style10 n">5</td>
+<td class="column1 style11 s style11" colspan="5">Product 5</td>
+<td class="column6 style19 n">4</td>
+<td class="column7 style19 n">3</td>
+<td class="column8 style23 f">12</td>
+</tr>
+<tr class="row11">
+<td class="column0 style10 n">6</td>
+<td class="column1 style11 s style11" colspan="5">Product 6</td>
+<td class="column6 style19 n">5</td>
+<td class="column7 style19 n">2</td>
+<td class="column8 style23 f">10</td>
+</tr>
+<tr class="row12">
+<td class="column0 style10 n">7</td>
+<td class="column1 style11 s style11" colspan="5">Product 7</td>
+<td class="column6 style19 n">6</td>
+<td class="column7 style19 n">1</td>
+<td class="column8 style23 f">6</td>
+</tr>
+<tr class="row13">
+<td class="column0 style10 n">8</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row14">
+<td class="column0 style10 n">9</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row15">
+<td class="column0 style10 n">10</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row16">
+<td class="column0 style10 n">11</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row17">
+<td class="column0 style10 n">12</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row18">
+<td class="column0 style10 n">13</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row19">
+<td class="column0 style10 n">14</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row20">
+<td class="column0 style10 n">15</td>
+<td class="column1 style11 null style11" colspan="5"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style23 f">0</td>
+</tr>
+<tr class="row21">
+<td class="column0 style12 null"></td>
+<td class="column1 style13 null"></td>
+<td class="column2 style13 null"></td>
+<td class="column3 style13 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style13 null"></td>
+<td class="column6 style20 f">22 </td>
+<td class="column7 style13 null"></td>
+<td class="column8 style24 f">63 </td>
+</tr>
+<tr class="row22">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+</tr>
+</tbody>
+</table>

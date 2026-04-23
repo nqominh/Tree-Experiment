@@ -1,0 +1,450 @@
+[COLUMN STRUCTURE]
+local
+  Fruit
+71,565
+  18,915
+
+[ROW STRUCTURE]
+Sales
+auto
+Gross sales citrus
+Gross sales tropical
+manual
+Gross sales citrus
+Gross sales tropical
+Discount
+staff
+Staff discounts citrus
+Staff discounts tropical
+retail
+Retail discounts citrus
+Retail discounts tropical
+trade
+Trade discounts citrus
+Trade discounts tropical
+veg
+Sales
+auto
+Gross sales leaves
+Gross sales roots
+Gross sales stems
+manual
+Gross sales leaves
+Gross sales roots
+Gross sales stems
+Discount
+staff
+Staff discounts leaves
+Staff discounts roots
+Staff discounts stems
+retail
+Retail discounts leaves
+Retail discounts roots
+Retail discounts stems
+trade
+Trade discounts leaves
+Trade discounts roots
+Trade discounts stems
+export
+Fruit
+Sales
+auto
+Gross sales citrus
+Gross sales tropical
+manual
+Gross sales citrus
+Gross sales tropical
+Discount
+staff
+Staff discounts citrus
+Staff discounts tropical
+retail
+Retail discounts citrus
+Retail discounts tropical
+trade
+Trade discounts citrus
+Trade discounts tropical
+veg
+Sales
+auto
+Gross sales leaves
+Gross sales roots
+Gross sales stems
+manual
+Gross sales leaves
+Gross sales roots
+Gross sales stems
+Discount
+staff
+Staff discounts leaves
+Staff discounts roots
+Staff discounts stems
+retail
+Retail discounts leaves
+Retail discounts roots
+Retail discounts stems
+trade
+Trade discounts leaves
+Trade discounts roots
+Trade discounts stems
+总计
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<tbody>
+<tr class="row0">
+<td class="column0"> </td>
+<td class="column1"> </td>
+</tr>
+<tr class="row1">
+<td class="column0"> </td>
+<td class="column1"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style0 s">ROW LABLE</td>
+<td class="column1 style0 s">Sum of Amount</td>
+</tr>
+<tr class="row3">
+<td class="column0 style1 s">local</td>
+<td class="column1 style2 n">71,565</td>
+</tr>
+<tr class="row4">
+<td class="column0 style3 s">Fruit</td>
+<td class="column1 style2 n">18,915</td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 s">Sales</td>
+<td class="column1 style2 n">16,500</td>
+</tr>
+<tr class="row6">
+<td class="column0 style5 s">auto</td>
+<td class="column1 style2 n">15,000</td>
+</tr>
+<tr class="row7">
+<td class="column0 style6 s">Gross sales citrus</td>
+<td class="column1 style2 n">10,000</td>
+</tr>
+<tr class="row8">
+<td class="column0 style6 s">Gross sales tropical</td>
+<td class="column1 style2 n">5,000</td>
+</tr>
+<tr class="row9">
+<td class="column0 style5 s">manual</td>
+<td class="column1 style2 n">1,500</td>
+</tr>
+<tr class="row10">
+<td class="column0 style6 s">Gross sales citrus</td>
+<td class="column1 style2 n">1,000</td>
+</tr>
+<tr class="row11">
+<td class="column0 style6 s">Gross sales tropical</td>
+<td class="column1 style2 n">500</td>
+</tr>
+<tr class="row12">
+<td class="column0 style4 s">Discount</td>
+<td class="column1 style2 n">2,415</td>
+</tr>
+<tr class="row13">
+<td class="column0 style5 s">staff</td>
+<td class="column1 style2 n">15</td>
+</tr>
+<tr class="row14">
+<td class="column0 style6 s">Staff discounts citrus</td>
+<td class="column1 style2 n">10</td>
+</tr>
+<tr class="row15">
+<td class="column0 style6 s">Staff discounts tropical</td>
+<td class="column1 style2 n">5</td>
+</tr>
+<tr class="row16">
+<td class="column0 style5 s">retail</td>
+<td class="column1 style2 n">150</td>
+</tr>
+<tr class="row17">
+<td class="column0 style6 s">Retail discounts citrus</td>
+<td class="column1 style2 n">100</td>
+</tr>
+<tr class="row18">
+<td class="column0 style6 s">Retail discounts tropical</td>
+<td class="column1 style2 n">50</td>
+</tr>
+<tr class="row19">
+<td class="column0 style5 s">trade</td>
+<td class="column1 style2 n">2,250</td>
+</tr>
+<tr class="row20">
+<td class="column0 style6 s">Trade discounts citrus</td>
+<td class="column1 style2 n">1,500</td>
+</tr>
+<tr class="row21">
+<td class="column0 style6 s">Trade discounts tropical</td>
+<td class="column1 style2 n">750</td>
+</tr>
+<tr class="row22">
+<td class="column0 style3 s">veg</td>
+<td class="column1 style2 n">52,650</td>
+</tr>
+<tr class="row23">
+<td class="column0 style4 s">Sales</td>
+<td class="column1 style2 n">49,500</td>
+</tr>
+<tr class="row24">
+<td class="column0 style5 s">auto</td>
+<td class="column1 style2 n">45,000</td>
+</tr>
+<tr class="row25">
+<td class="column0 style6 s">Gross sales leaves</td>
+<td class="column1 style2 n">15,000</td>
+</tr>
+<tr class="row26">
+<td class="column0 style6 s">Gross sales roots</td>
+<td class="column1 style2 n">20,000</td>
+</tr>
+<tr class="row27">
+<td class="column0 style6 s">Gross sales stems</td>
+<td class="column1 style2 n">10,000</td>
+</tr>
+<tr class="row28">
+<td class="column0 style5 s">manual</td>
+<td class="column1 style2 n">4,500</td>
+</tr>
+<tr class="row29">
+<td class="column0 style6 s">Gross sales leaves</td>
+<td class="column1 style2 n">1,500</td>
+</tr>
+<tr class="row30">
+<td class="column0 style6 s">Gross sales roots</td>
+<td class="column1 style2 n">2,000</td>
+</tr>
+<tr class="row31">
+<td class="column0 style6 s">Gross sales stems</td>
+<td class="column1 style2 n">1,000</td>
+</tr>
+<tr class="row32">
+<td class="column0 style4 s">Discount</td>
+<td class="column1 style2 n">3,150</td>
+</tr>
+<tr class="row33">
+<td class="column0 style5 s">staff</td>
+<td class="column1 style2 n">450</td>
+</tr>
+<tr class="row34">
+<td class="column0 style6 s">Staff discounts leaves</td>
+<td class="column1 style2 n">150</td>
+</tr>
+<tr class="row35">
+<td class="column0 style6 s">Staff discounts roots</td>
+<td class="column1 style2 n">200</td>
+</tr>
+<tr class="row36">
+<td class="column0 style6 s">Staff discounts stems</td>
+<td class="column1 style2 n">100</td>
+</tr>
+<tr class="row37">
+<td class="column0 style5 s">retail</td>
+<td class="column1 style2 n">900</td>
+</tr>
+<tr class="row38">
+<td class="column0 style6 s">Retail discounts leaves</td>
+<td class="column1 style2 n">300</td>
+</tr>
+<tr class="row39">
+<td class="column0 style6 s">Retail discounts roots</td>
+<td class="column1 style2 n">400</td>
+</tr>
+<tr class="row40">
+<td class="column0 style6 s">Retail discounts stems</td>
+<td class="column1 style2 n">200</td>
+</tr>
+<tr class="row41">
+<td class="column0 style5 s">trade</td>
+<td class="column1 style2 n">1,800</td>
+</tr>
+<tr class="row42">
+<td class="column0 style6 s">Trade discounts leaves</td>
+<td class="column1 style2 n">600</td>
+</tr>
+<tr class="row43">
+<td class="column0 style6 s">Trade discounts roots</td>
+<td class="column1 style2 n">800</td>
+</tr>
+<tr class="row44">
+<td class="column0 style6 s">Trade discounts stems</td>
+<td class="column1 style2 n">400</td>
+</tr>
+<tr class="row45">
+<td class="column0 style1 s">export</td>
+<td class="column1 style2 n">107,348</td>
+</tr>
+<tr class="row46">
+<td class="column0 style3 s">Fruit</td>
+<td class="column1 style2 n">28,373</td>
+</tr>
+<tr class="row47">
+<td class="column0 style4 s">Sales</td>
+<td class="column1 style2 n">24,750</td>
+</tr>
+<tr class="row48">
+<td class="column0 style5 s">auto</td>
+<td class="column1 style2 n">22,500</td>
+</tr>
+<tr class="row49">
+<td class="column0 style6 s">Gross sales citrus</td>
+<td class="column1 style2 n">15,000</td>
+</tr>
+<tr class="row50">
+<td class="column0 style6 s">Gross sales tropical</td>
+<td class="column1 style2 n">7,500</td>
+</tr>
+<tr class="row51">
+<td class="column0 style5 s">manual</td>
+<td class="column1 style2 n">2,250</td>
+</tr>
+<tr class="row52">
+<td class="column0 style6 s">Gross sales citrus</td>
+<td class="column1 style2 n">1,500</td>
+</tr>
+<tr class="row53">
+<td class="column0 style6 s">Gross sales tropical</td>
+<td class="column1 style2 n">750</td>
+</tr>
+<tr class="row54">
+<td class="column0 style4 s">Discount</td>
+<td class="column1 style2 n">3,623</td>
+</tr>
+<tr class="row55">
+<td class="column0 style5 s">staff</td>
+<td class="column1 style2 n">23</td>
+</tr>
+<tr class="row56">
+<td class="column0 style6 s">Staff discounts citrus</td>
+<td class="column1 style2 n">15</td>
+</tr>
+<tr class="row57">
+<td class="column0 style6 s">Staff discounts tropical</td>
+<td class="column1 style2 n">8</td>
+</tr>
+<tr class="row58">
+<td class="column0 style5 s">retail</td>
+<td class="column1 style2 n">225</td>
+</tr>
+<tr class="row59">
+<td class="column0 style6 s">Retail discounts citrus</td>
+<td class="column1 style2 n">150</td>
+</tr>
+<tr class="row60">
+<td class="column0 style6 s">Retail discounts tropical</td>
+<td class="column1 style2 n">75</td>
+</tr>
+<tr class="row61">
+<td class="column0 style5 s">trade</td>
+<td class="column1 style2 n">3,375</td>
+</tr>
+<tr class="row62">
+<td class="column0 style6 s">Trade discounts citrus</td>
+<td class="column1 style2 n">2,250</td>
+</tr>
+<tr class="row63">
+<td class="column0 style6 s">Trade discounts tropical</td>
+<td class="column1 style2 n">1,125</td>
+</tr>
+<tr class="row64">
+<td class="column0 style3 s">veg</td>
+<td class="column1 style2 n">78,975</td>
+</tr>
+<tr class="row65">
+<td class="column0 style4 s">Sales</td>
+<td class="column1 style2 n">74,250</td>
+</tr>
+<tr class="row66">
+<td class="column0 style5 s">auto</td>
+<td class="column1 style2 n">67,500</td>
+</tr>
+<tr class="row67">
+<td class="column0 style6 s">Gross sales leaves</td>
+<td class="column1 style2 n">22,500</td>
+</tr>
+<tr class="row68">
+<td class="column0 style6 s">Gross sales roots</td>
+<td class="column1 style2 n">30,000</td>
+</tr>
+<tr class="row69">
+<td class="column0 style6 s">Gross sales stems</td>
+<td class="column1 style2 n">15,000</td>
+</tr>
+<tr class="row70">
+<td class="column0 style5 s">manual</td>
+<td class="column1 style2 n">6,750</td>
+</tr>
+<tr class="row71">
+<td class="column0 style6 s">Gross sales leaves</td>
+<td class="column1 style2 n">2,250</td>
+</tr>
+<tr class="row72">
+<td class="column0 style6 s">Gross sales roots</td>
+<td class="column1 style2 n">3,000</td>
+</tr>
+<tr class="row73">
+<td class="column0 style6 s">Gross sales stems</td>
+<td class="column1 style2 n">1,500</td>
+</tr>
+<tr class="row74">
+<td class="column0 style4 s">Discount</td>
+<td class="column1 style2 n">4,725</td>
+</tr>
+<tr class="row75">
+<td class="column0 style5 s">staff</td>
+<td class="column1 style2 n">675</td>
+</tr>
+<tr class="row76">
+<td class="column0 style6 s">Staff discounts leaves</td>
+<td class="column1 style2 n">225</td>
+</tr>
+<tr class="row77">
+<td class="column0 style6 s">Staff discounts roots</td>
+<td class="column1 style2 n">300</td>
+</tr>
+<tr class="row78">
+<td class="column0 style6 s">Staff discounts stems</td>
+<td class="column1 style2 n">150</td>
+</tr>
+<tr class="row79">
+<td class="column0 style5 s">retail</td>
+<td class="column1 style2 n">1,350</td>
+</tr>
+<tr class="row80">
+<td class="column0 style6 s">Retail discounts leaves</td>
+<td class="column1 style2 n">450</td>
+</tr>
+<tr class="row81">
+<td class="column0 style6 s">Retail discounts roots</td>
+<td class="column1 style2 n">600</td>
+</tr>
+<tr class="row82">
+<td class="column0 style6 s">Retail discounts stems</td>
+<td class="column1 style2 n">300</td>
+</tr>
+<tr class="row83">
+<td class="column0 style5 s">trade</td>
+<td class="column1 style2 n">2,700</td>
+</tr>
+<tr class="row84">
+<td class="column0 style6 s">Trade discounts leaves</td>
+<td class="column1 style2 n">900</td>
+</tr>
+<tr class="row85">
+<td class="column0 style6 s">Trade discounts roots</td>
+<td class="column1 style2 n">1,200</td>
+</tr>
+<tr class="row86">
+<td class="column0 style6 s">Trade discounts stems</td>
+<td class="column1 style2 n">600</td>
+</tr>
+<tr class="row87">
+<td class="column0 style1 s">总计</td>
+<td class="column1 style2 n">178,913</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,255 @@
+[COLUMN STRUCTURE]
+Carrier
+Types
+Time
+Total
+
+[ROW STRUCTURE]
+SPRESS
+  HARDWARE SWAP
+  NEW ACTIVATION
+  ADD A LINE
+  PLAN CHANGE
+  UPGRADE
+DNAGO
+  HARDWARE SWAP
+  NEW ACTIVATION
+  ADD A LINE
+  PLAN CHANGE
+  UPGRADE
+MILANI
+  HARDWARE SWAP
+  NEW ACTIVATION
+  ADD A LINE
+  PLAN CHANGE
+  UPGRADE
+DRUIPE
+  HARDWARE SWAP
+  NEW ACTIVATION
+  ADD A LINE
+  PLAN CHANGE
+  UPGRADE
+BELANI
+  HARDWARE SWAP
+  NEW ACTIVATION
+  UPGRADE
+MERILI
+  NEW ACTIVATION
+  HARDWARE SWAP
+PITALI
+  NEW ACTIVATION
+  HARDWARE SWAP
+CATI
+  NEW ACTIVATION
+MAXX
+  NEW ACTIVATION
+TMPO
+  NEW ACTIVATION
+ERGO
+  NEW ACTIVATION
+TRN
+  NEW ACTIVATION
+PETRO
+  NEW ACTIVATION
+MANIA
+  NEW ACTIVATION
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Carrier</td>
+<td class="column1 style1 s">Types</td>
+<td class="column2 style1 s">Time</td>
+<td class="column3 style1 s">Total</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style2" rowspan="5">SPRESS</td>
+<td class="column1 style3 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">5.57</td>
+<td class="column3 style5 n">3594</td>
+</tr>
+<tr class="row2">
+<td class="column1 style3 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">15.5</td>
+<td class="column3 style6 n">2079</td>
+</tr>
+<tr class="row3">
+<td class="column1 style3 s">ADD A LINE</td>
+<td class="column2 style4 s">10.31</td>
+<td class="column3 style6 n">3460</td>
+</tr>
+<tr class="row4">
+<td class="column1 style3 s">PLAN CHANGE</td>
+<td class="column2 style4 s">4.57</td>
+<td class="column3 style6 n">261</td>
+</tr>
+<tr class="row5">
+<td class="column1 style3 s">UPGRADE</td>
+<td class="column2 style4 s">8.57</td>
+<td class="column3 style6 n">11880</td>
+</tr>
+<tr class="row6">
+<td class="column0 style7 s style7" rowspan="5">DNAGO</td>
+<td class="column1 style8 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">5.42</td>
+<td class="column3 style6 n">10048</td>
+</tr>
+<tr class="row7">
+<td class="column1 style8 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">16.32</td>
+<td class="column3 style6 n">2612</td>
+</tr>
+<tr class="row8">
+<td class="column1 style8 s">ADD A LINE</td>
+<td class="column2 style4 s">11.3</td>
+<td class="column3 style6 n">2636</td>
+</tr>
+<tr class="row9">
+<td class="column1 style8 s">PLAN CHANGE</td>
+<td class="column2 style4 s">4.21</td>
+<td class="column3 style6 n">239</td>
+</tr>
+<tr class="row10">
+<td class="column1 style9 s">UPGRADE</td>
+<td class="column2 style4 s">10.15</td>
+<td class="column3 style6 n">12879</td>
+</tr>
+<tr class="row11">
+<td class="column0 style10 s style10" rowspan="5">MILANI</td>
+<td class="column1 style11 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">6.15</td>
+<td class="column3 style6 n">6983</td>
+</tr>
+<tr class="row12">
+<td class="column1 style11 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">14.17</td>
+<td class="column3 style6 n">2879</td>
+</tr>
+<tr class="row13">
+<td class="column1 style11 s">ADD A LINE</td>
+<td class="column2 style4 s">10.28</td>
+<td class="column3 style6 n">4965</td>
+</tr>
+<tr class="row14">
+<td class="column1 style11 s">PLAN CHANGE</td>
+<td class="column2 style4 s">4.55</td>
+<td class="column3 style6 n">359</td>
+</tr>
+<tr class="row15">
+<td class="column1 style11 s">UPGRADE</td>
+<td class="column2 style4 s">9.42</td>
+<td class="column3 style6 n">19824</td>
+</tr>
+<tr class="row16">
+<td class="column0 style12 s style14" rowspan="5">DRUIPE</td>
+<td class="column1 style13 s">HARDWARE SWAP</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style6 null"></td>
+</tr>
+<tr class="row17">
+<td class="column1 style13 s">NEW ACTIVATION</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style6 null"></td>
+</tr>
+<tr class="row18">
+<td class="column1 style13 s">ADD A LINE</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style6 null"></td>
+</tr>
+<tr class="row19">
+<td class="column1 style13 s">PLAN CHANGE</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style6 null"></td>
+</tr>
+<tr class="row20">
+<td class="column1 style13 s">UPGRADE</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style6 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style15 s style18" rowspan="3">BELANI</td>
+<td class="column1 style16 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">5.13</td>
+<td class="column3 style6 n">54</td>
+</tr>
+<tr class="row22">
+<td class="column1 style16 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">8.34</td>
+<td class="column3 style6 n">733</td>
+</tr>
+<tr class="row23">
+<td class="column1 style16 s">UPGRADE</td>
+<td class="column2 style4 s">5.14</td>
+<td class="column3 style6 n">789</td>
+</tr>
+<tr class="row24">
+<td class="column0 style19 s style21" rowspan="2">MERILI</td>
+<td class="column1 style20 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">7.35</td>
+<td class="column3 style6 n">2199</td>
+</tr>
+<tr class="row25">
+<td class="column1 style20 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">19.41</td>
+<td class="column3 style6 n">1558</td>
+</tr>
+<tr class="row26">
+<td class="column0 style22 s style24" rowspan="2">PITALI</td>
+<td class="column1 style23 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">10.1</td>
+<td class="column3 style6 n">902</td>
+</tr>
+<tr class="row27">
+<td class="column1 style23 s">HARDWARE SWAP</td>
+<td class="column2 style4 s">5.23</td>
+<td class="column3 style6 n">2915</td>
+</tr>
+<tr class="row28">
+<td class="column0 style25 s">CATI</td>
+<td class="column1 style26 s">NEW ACTIVATION</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style27 null"></td>
+</tr>
+<tr class="row29">
+<td class="column0 style28 s">MAXX</td>
+<td class="column1 style29 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">6.12</td>
+<td class="column3 style6 n">2591</td>
+</tr>
+<tr class="row30">
+<td class="column0 style30 s">TMPO</td>
+<td class="column1 style31 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">6.34</td>
+<td class="column3 style6 n">2210</td>
+</tr>
+<tr class="row31">
+<td class="column0 style32 s">ERGO</td>
+<td class="column1 style33 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">8.34</td>
+<td class="column3 style6 n">13</td>
+</tr>
+<tr class="row32">
+<td class="column0 style34 s">TRN</td>
+<td class="column1 style35 s">NEW ACTIVATION</td>
+<td class="column2 style4 s"></td>
+<td class="column3 style27 null"></td>
+</tr>
+<tr class="row33">
+<td class="column0 style36 s">PETRO</td>
+<td class="column1 style37 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">9.46</td>
+<td class="column3 style27 n">375</td>
+</tr>
+<tr class="row34">
+<td class="column0 style38 s">MANIA</td>
+<td class="column1 style39 s">NEW ACTIVATION</td>
+<td class="column2 style4 s">6.7</td>
+<td class="column3 style6 n">1824</td>
+</tr>
+</tbody>
+</table>

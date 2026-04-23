@@ -1,0 +1,2711 @@
+[COLUMN STRUCTURE]
+Table 3 Scientific procedures by species of animal, primary purpose and genetic status
+
+[ROW STRUCTURE]
+Great Britain 2011
+Species of animal
+  Primary purpose of procedure
+Primary purpose of procedure
+Mouse
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Rat
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Guinea pig
+  Fundamental biological research
+Applied studies
+  -
+Safety
+Other uses
+Breeding of GM or HM
+Total
+Hamster
+  Fundamental biological research
+Gerbil
+  Fundamental biological research
+Other rodent
+  Fundamental biological research
+Rabbit
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Cat
+  Fundamental biological research
+Dog - Beagle
+  Fundamental biological research
+Dog - Greyhound
+  Fundamental biological research
+Breeding
+Dog - Other
+  Fundamental biological research
+Ferret
+  Fundamental biological research
+Table 3 Scientific procedures by species of animal, primary purpose and genetic status
+Great Britain 2010
+Normal animal
+Other carnivore
+  Fundamental biological research
+Horse, Donkey etc
+  Fundamental biological research
+Pig
+  Fundamental biological research
+Goat
+  Fundamental biological research
+Sheep
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Cattle
+  Fundamental biological research
+Deer
+  Fundamental biological research
+Other ungulate
+  Fundamental biological research
+Prosimian
+  Fundamental biological research
+Marmoset, Tamarin
+  Fundamental biological research
+Squirrel, Owl or Spider monkey
+  Fundamental biological research
+Macaque
+  Fundamental biological research
+Other mammal
+  Fundamental biological research
+Domestic fowl
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Turkey
+  Fundamental biological research
+Quail (Coturnix coturnix)
+  Fundamental biological research
+Quail (spp. other than
+  Fundamental biological research
+Coturnix coturnix)
+  Safety
+Other bird
+  Fundamental biological research
+Reptile
+  Fundamental biological research
+Amphibian
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Fish
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  Total
+Cephalopod
+  Fundamental biological research
+All species
+  Fundamental biological research
+  Applied studies
+  Safety
+  Other uses
+  Breeding of GM or HM
+  TOTAL
+Increase on 2010
+Percentage change from 2010
+Percentage of total for 2011
+2010 Totals
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1046">
+<col class="x72" width="207"/>
+<col class="x72" width="275"/>
+<col class="x73" span="2" width="125"/>
+<col class="x73" width="126"/>
+<col class="x73" width="124"/>
+<col class="x74" width="64"/>
+<tr class="x70" height="30">
+<td class="x75" colspan="6" height="30" width="982"><a name="Print_Area"><span>Table 3 Scientific procedures by species of animal, primary purpose and genetic status </span></a></td>
+<td class="x70" width="64"></td>
+</tr>
+<tr height="23">
+<td class="x79" colspan="7" height="23"></td>
+</tr>
+<tr height="17">
+<td class="x80" colspan="7" height="17"></td>
+</tr>
+<tr class="x71" height="20">
+<td class="x79" height="20">Great Britain 2011</td>
+<td class="x71" colspan="4"></td>
+<td class="x84"><div>Number of procedures</div></td>
+<td class="x71"></td>
+</tr>
+<tr height="26">
+<td class="x85" height="25">Species of animal</td>
+<td class="x86" height="122" rowspan="2">Primary purpose of procedure</td>
+<td class="x87" colspan="3">Genetic status</td>
+<td class="x90">Total</td>
+<td class="x74"></td>
+</tr>
+<tr height="97">
+<td class="x91" height="96"></td>
+<td class="x93">Normal animal</td>
+<td class="x93"><div>Animal with harmful genetic defect</div></td>
+<td class="x93"><div>Genetically modified animal</div></td>
+<td class="x94"></td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Mouse</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="338273"><span></span> 338,273 </td>
+<td class="x97" x:num="51767"><span></span> 51,767 </td>
+<td class="x97" x:num="474142"><span></span> 474,142 </td>
+<td class="x98" x:fmla="=SUM(C7:E7)" x:num="864182"><span></span> 864,182 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="262283"><span></span> 262,283 </td>
+<td class="x100" x:num="39139"><span></span> 39,139 </td>
+<td class="x100" x:num="31494"><span></span> 31,494 </td>
+<td class="x101" x:fmla="=SUM(C8:E8)" x:num="332916"><span></span> 332,916 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="17591"><span></span> 17,591 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="185"><span></span> 185 </td>
+<td class="x98" x:fmla="=SUM(C9:E9)" x:num="17776"><span></span> 17,776 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="3555"><span></span> 3,555 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="1781"><span></span> 1,781 </td>
+<td class="x101" x:fmla="=SUM(C10:E10)" x:num="5336"><span></span> 5,336 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Breeding of GM or HM</td>
+<td class="x97" x:num="207155"><span></span> 207,155 </td>
+<td class="x97" x:num="231612"><span></span> 231,612 </td>
+<td class="x97" x:num="1020786"><span></span> 1,020,786 </td>
+<td class="x98" x:fmla="=SUM(C11:E11)" x:num="1459553"><span></span> 1,459,553 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C7:C11)" x:num="828857"><span></span> 828,857 </td>
+<td class="x104" x:fmla="=SUM(D7:D11)" x:num="322518"><span></span> 322,518 </td>
+<td class="x104" x:fmla="=SUM(E7:E11)" x:num="1528388"><span></span> 1,528,388 </td>
+<td class="x104" x:fmla="=SUM(F7:F11)" x:num="2679763"><span></span> 2,679,763 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Rat</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="82249"><span></span> 82,249 </td>
+<td class="x97" x:num="1874"><span></span> 1,874 </td>
+<td class="x97" x:num="2368"><span></span> 2,368 </td>
+<td class="x98" x:fmla="=SUM(C13:E13)" x:num="86491"><span></span> 86,491 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="136637"><span></span> 136,637 </td>
+<td class="x100" x:num="1235"><span></span> 1,235 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C14:E14)" x:num="137872"><span></span> 137,872 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="33064"><span></span> 33,064 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C15:E15)" x:num="33064"><span></span> 33,064 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="1171"><span></span> 1,171 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C16:E16)" x:num="1171"><span></span> 1,171 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="2506"><span></span> 2,506 </td>
+<td class="x97" x:num="8285"><span></span> 8,285 </td>
+<td class="x97" x:num="2146"><span></span> 2,146 </td>
+<td class="x98" x:fmla="=SUM(C17:E17)" x:num="12937"><span></span> 12,937 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C13:C17)" x:num="255627"><span></span> 255,627 </td>
+<td class="x104" x:fmla="=SUM(D13:D17)" x:num="11394"><span></span> 11,394 </td>
+<td class="x104" x:fmla="=SUM(E13:E17)" x:num="4514"><span></span> 4,514 </td>
+<td class="x104" x:fmla="=SUM(F13:F17)" x:num="271535"><span></span> 271,535 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Guinea pig</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="1336"><span></span> 1,336 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C19:E19)" x:num="1336"><span></span> 1,336 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="11999"><span></span> 11,999 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C20:E20)" x:num="11999"><span></span> 11,999 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="39"><span></span> 39 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C21:E21)" x:num="39"><span></span> 39 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="286"><span></span> 286 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C22:E22)" x:num="286"><span></span> 286 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C23:E23)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C19:C23)" x:num="13660"><span></span> 13,660 </td>
+<td class="x104" x:fmla="=SUM(D19:D23)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E19:E23)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F19:F23)" x:num="13660"><span></span> 13,660 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Hamster</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="853"><span></span> 853 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C25:E25)" x:num="853"><span></span> 853 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="3229"><span></span> 3,229 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C26:E26)" x:num="3229"><span></span> 3,229 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="61"><span></span> 61 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C27:E27)" x:num="61"><span></span> 61 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C28:E28)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C29:E29)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C25:C29)" x:num="4143"><span></span> 4,143 </td>
+<td class="x104" x:fmla="=SUM(D25:D29)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E25:E29)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F25:F29)" x:num="4143"><span></span> 4,143 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Gerbil</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="560"><span></span> 560 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C31:E31)" x:num="560"><span></span> 560 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C32:E32)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C33:E33)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x109" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C34:E34)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C35:E35)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C31:C35)" x:num="560"><span></span> 560 </td>
+<td class="x104" x:fmla="=SUM(D31:D35)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E31:E35)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F31:F35)" x:num="560"><span></span> 560 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Other rodent</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="909"><span></span> 909 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C37:E37)" x:num="909"><span></span> 909 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="69"><span></span> 69 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C38:E38)" x:num="69"><span></span> 69 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="566"><span></span> 566 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C39:E39)" x:num="566"><span></span> 566 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C40:E40)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C41:E41)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C37:C41)" x:num="1544"><span></span> 1,544 </td>
+<td class="x104" x:fmla="=SUM(D37:D41)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E37:E41)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F37:F41)" x:num="1544"><span></span> 1,544 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Rabbit</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="1467"><span></span> 1,467 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C43:E43)" x:num="1467"><span></span> 1,467 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="10719"><span></span> 10,719 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C44:E44)" x:num="10719"><span></span> 10,719 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="1767"><span></span> 1,767 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C45:E45)" x:num="1767"><span></span> 1,767 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="1482"><span></span> 1,482 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C46:E46)" x:num="1482"><span></span> 1,482 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="13"><span></span> 13 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="13"><span></span> 13 </td>
+<td class="x98" x:fmla="=SUM(C47:E47)" x:num="26"><span></span> 26 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C43:C47)" x:num="15448"><span></span> 15,448 </td>
+<td class="x104" x:fmla="=SUM(D43:D47)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E43:E47)" x:num="13"><span></span> 13 </td>
+<td class="x104" x:fmla="=SUM(F43:F47)" x:num="15461"><span></span> 15,461 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Cat</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="13"><span></span> 13 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C49:E49)" x:num="13"><span></span> 13 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="174"><span></span> 174 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C50:E50)" x:num="174"><span></span> 174 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C51:E51)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C52:E52)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C53:E53)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C49:C53)" x:num="187"><span></span> 187 </td>
+<td class="x104" x:fmla="=SUM(D49:D53)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E49:E53)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F49:F53)" x:num="187"><span></span> 187 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Dog - Beagle</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="285"><span></span> 285 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C55:E55)" x:num="285"><span></span> 285 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="5317"><span></span> 5,317 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C56:E56)" x:num="5317"><span></span> 5,317 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="93"><span></span> 93 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C57:E57)" x:num="93"><span></span> 93 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C58:E58)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C59:E59)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C55:C59)" x:num="5695"><span></span> 5,695 </td>
+<td class="x104" x:fmla="=SUM(D55:D59)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E55:E59)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F55:F59)" x:num="5695"><span></span> 5,695 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0">Dog - Greyhound</td>
+<td class="x110">Fundamental biological research</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Applied studies </td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Safety</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Other<span>  </span>uses</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x109" height="0"></td>
+<td class="x110">Breeding</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x111">Total</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Dog - Other</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C67:E67)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="86"><span></span> 86 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C68:E68)" x:num="86"><span></span> 86 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="1"><span></span> 1 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C69:E69)" x:num="1"><span></span> 1 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C70:E70)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C71:E71)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C67:C71)" x:num="87"><span></span> 87 </td>
+<td class="x104" x:fmla="=SUM(D67:D71)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E67:E71)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F67:F71)" x:num="87"><span></span> 87 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x112" height="0">Ferret</td>
+<td class="x113">Fundamental biological research</td>
+<td class="x114" x:num="317"><span></span> 317 </td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x115" x:fmla="=SUM(C73:E73)" x:num="317"><span></span> 317 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="456"><span></span> 456 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C74:E74)" x:num="456"><span></span> 456 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C75:E75)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="19"><span></span> 19 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C76:E76)" x:num="19"><span></span> 19 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C77:E77)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C73:C77)" x:num="792"><span></span> 792 </td>
+<td class="x104" x:fmla="=SUM(D73:D77)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E73:E77)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F73:F77)" x:num="792"><span></span> 792 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x75" colspan="6" height="0">Table 3 Scientific procedures by species of animal, primary purpose and genetic status </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x79" colspan="7" height="0"></td>
+</tr>
+<tr height="0">
+<td class="x79" height="0">Great Britain 2010</td>
+<td class="x71" colspan="4"></td>
+<td class="x84"><div>Number of procedures</div></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x85" height="0">Species of animal</td>
+<td class="x86" height="0" mso-row-span="2" rowspan="0">Primary purpose of procedure</td>
+<td class="x87" colspan="3">Genetic status</td>
+<td class="x90">Total</td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x91" height="0"></td>
+<td class="x93">Normal animal</td>
+<td class="x93"><div>Animal with harmful genetic defect</div></td>
+<td class="x93"><div>Genetically modified animal</div></td>
+<td class="x94"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x112" height="0">Other carnivore</td>
+<td class="x113">Fundamental biological research</td>
+<td class="x114" x:num="374"><span></span> 374 </td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x115" x:fmla="=SUM(C84:E84)" x:num="374"><span></span> 374 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="75"><span></span> 75 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C85:E85)" x:num="75"><span></span> 75 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="322"><span></span> 322 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C86:E86)" x:num="322"><span></span> 322 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C87:E87)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C88:E88)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C84:C88)" x:num="771"><span></span> 771 </td>
+<td class="x104" x:fmla="=SUM(D84:D88)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E84:E88)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F84:F88)" x:num="771"><span></span> 771 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Horse, Donkey etc</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="130"><span></span> 130 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C90:E90)" x:num="130"><span></span> 130 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="153"><span></span> 153 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C91:E91)" x:num="153"><span></span> 153 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="32"><span></span> 32 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C92:E92)" x:num="32"><span></span> 32 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="8009"><span></span> 8,009 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C93:E93)" x:num="8009"><span></span> 8,009 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C94:E94)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C90:C94)" x:num="8324"><span></span> 8,324 </td>
+<td class="x104" x:fmla="=SUM(D90:D94)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E90:E94)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F90:F94)" x:num="8324"><span></span> 8,324 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Pig</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="923"><span></span> 923 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C96:E96)" x:num="923"><span></span> 923 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="2243"><span></span> 2,243 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C97:E97)" x:num="2243"><span></span> 2,243 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="9"><span></span> 9 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C98:E98)" x:num="9"><span></span> 9 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C99:E99)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C100:E100)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C96:C100)" x:num="3175"><span></span> 3,175 </td>
+<td class="x104" x:fmla="=SUM(D96:D100)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E96:E100)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F96:F100)" x:num="3175"><span></span> 3,175 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Goat</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="1"><span></span> 1 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C102:E102)" x:num="1"><span></span> 1 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="6"><span></span> 6 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C103:E103)" x:num="6"><span></span> 6 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="10"><span></span> 10 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C104:E104)" x:num="10"><span></span> 10 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="10"><span></span> 10 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C105:E105)" x:num="10"><span></span> 10 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C106:E106)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C102:C106)" x:num="27"><span></span> 27 </td>
+<td class="x104" x:fmla="=SUM(D102:D106)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E102:E106)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F102:F106)" x:num="27"><span></span> 27 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Sheep</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="4304"><span></span> 4,304 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="2"><span></span> 2 </td>
+<td class="x98" x:fmla="=SUM(C108:E108)" x:num="4306"><span></span> 4,306 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="1962"><span></span> 1,962 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C109:E109)" x:num="1962"><span></span> 1,962 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="82"><span></span> 82 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C110:E110)" x:num="82"><span></span> 82 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="31183"><span></span> 31,183 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C111:E111)" x:num="31183"><span></span> 31,183 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="177"><span></span> 177 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="4"><span></span> 4 </td>
+<td class="x98" x:fmla="=SUM(C112:E112)" x:num="181"><span></span> 181 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C108:C112)" x:num="37708"><span></span> 37,708 </td>
+<td class="x104" x:fmla="=SUM(D108:D112)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E108:E112)" x:num="6"><span></span> 6 </td>
+<td class="x104" x:fmla="=SUM(F108:F112)" x:num="37714"><span></span> 37,714 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Cattle</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="2433"><span></span> 2,433 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C114:E114)" x:num="2433"><span></span> 2,433 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="1019"><span></span> 1,019 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C115:E115)" x:num="1019"><span></span> 1,019 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="121"><span></span> 121 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C116:E116)" x:num="121"><span></span> 121 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="12"><span></span> 12 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C117:E117)" x:num="12"><span></span> 12 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C118:E118)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C114:C118)" x:num="3585"><span></span> 3,585 </td>
+<td class="x104" x:fmla="=SUM(D114:D118)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E114:E118)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F114:F118)" x:num="3585"><span></span> 3,585 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Deer</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="59"><span></span> 59 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C120:E120)" x:num="59"><span></span> 59 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C121:E121)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="3"><span></span> 3 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C122:E122)" x:num="3"><span></span> 3 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C123:E123)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C124:E124)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C120:C124)" x:num="62"><span></span> 62 </td>
+<td class="x104" x:fmla="=SUM(D120:D124)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E120:E124)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F120:F124)" x:num="62"><span></span> 62 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Other ungulate</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C126:E126)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C127:E127)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="11"><span></span> 11 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C128:E128)" x:num="11"><span></span> 11 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C129:E129)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C130:E130)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C126:C130)" x:num="11"><span></span> 11 </td>
+<td class="x104" x:fmla="=SUM(D126:D130)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E126:E130)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F126:F130)" x:num="11"><span></span> 11 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0">Prosimian</td>
+<td class="x110">Fundamental biological research</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x110">Applied studies </td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x110">Safety</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Other<span>  </span>uses</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Breeding</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x111">Total</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Marmoset, Tamarin</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="289"><span></span> 289 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C138:E138)" x:num="289"><span></span> 289 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="814"><span></span> 814 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C139:E139)" x:num="814"><span></span> 814 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C140:E140)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C141:E141)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C142:E142)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C138:C142)" x:num="1103"><span></span> 1,103 </td>
+<td class="x104" x:fmla="=SUM(D138:D142)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E138:E142)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F138:F142)" x:num="1103"><span></span> 1,103 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x116" height="0">Squirrel, Owl or Spider monkey</td>
+<td class="x110">Fundamental biological research</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x117"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x118" height="0"></td>
+<td class="x110">Applied studies </td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x117"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x118" height="0"></td>
+<td class="x110">Safety</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x117"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x118" height="0"></td>
+<td class="x110">Other<span>  </span>uses</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x117"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x119" height="0"></td>
+<td class="x110">Breeding</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x117"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x120" height="0"></td>
+<td class="x111">Total</td>
+<td class="x121"></td>
+<td class="x121"></td>
+<td class="x121"></td>
+<td class="x122"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Macaque</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="270"><span></span> 270 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C150:E150)" x:num="270"><span></span> 270 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="2898"><span></span> 2,898 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C151:E151)" x:num="2898"><span></span> 2,898 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="417"><span></span> 417 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C152:E152)" x:num="417"><span></span> 417 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C153:E153)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C154:E154)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C150:C154)" x:num="3585"><span></span> 3,585 </td>
+<td class="x104" x:fmla="=SUM(D150:D154)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E150:E154)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F150:F154)" x:num="3585"><span></span> 3,585 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Other mammal</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="812"><span></span> 812 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C156:E156)" x:num="812"><span></span> 812 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C157:E157)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="402"><span></span> 402 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C158:E158)" x:num="402"><span></span> 402 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C159:E159)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C160:E160)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C156:C160)" x:num="1214"><span></span> 1,214 </td>
+<td class="x104" x:fmla="=SUM(D156:D160)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E156:E160)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F156:F160)" x:num="1214"><span></span> 1,214 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x75" colspan="6" height="0">Table 3 Scientific procedures by species of animal, primary purpose and genetic status </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x79" colspan="7" height="0"></td>
+</tr>
+<tr height="0">
+<td class="x79" height="0">Great Britain 2010</td>
+<td class="x71" colspan="4"></td>
+<td class="x84"><div>Number of procedures</div></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x85" height="0">Species of animal</td>
+<td class="x86" height="0" mso-row-span="2" rowspan="0">Primary purpose of procedure</td>
+<td class="x87" colspan="3">Genetic status</td>
+<td class="x90">Total</td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x91" height="0"></td>
+<td class="x93">Normal animal</td>
+<td class="x93"><div>Animal with harmful genetic defect</div></td>
+<td class="x93"><div>Genetically modified animal</div></td>
+<td class="x94"></td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Domestic fowl</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="5946"><span></span> 5,946 </td>
+<td class="x97" x:num="282"><span></span> 282 </td>
+<td class="x97" x:num="6"><span></span> 6 </td>
+<td class="x98" x:fmla="=SUM(C167:E167)" x:num="6234"><span></span> 6,234 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="140557"><span></span> 140,557 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C168:E168)" x:num="140557"><span></span> 140,557 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="274"><span></span> 274 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C169:E169)" x:num="274"><span></span> 274 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="1377"><span></span> 1,377 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C170:E170)" x:num="1377"><span></span> 1,377 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="61"><span></span> 61 </td>
+<td class="x97" x:num="196"><span></span> 196 </td>
+<td class="x97" x:num="345"><span></span> 345 </td>
+<td class="x98" x:fmla="=SUM(C171:E171)" x:num="602"><span></span> 602 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C167:C171)" x:num="148215"><span></span> 148,215 </td>
+<td class="x104" x:fmla="=SUM(D167:D171)" x:num="478"><span></span> 478 </td>
+<td class="x104" x:fmla="=SUM(E167:E171)" x:num="351"><span></span> 351 </td>
+<td class="x104" x:fmla="=SUM(F167:F171)" x:num="149044"><span></span> 149,044 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Turkey</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="448"><span></span> 448 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C173:E173)" x:num="448"><span></span> 448 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="1887"><span></span> 1,887 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C174:E174)" x:num="1887"><span></span> 1,887 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="25"><span></span> 25 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C175:E175)" x:num="25"><span></span> 25 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="186"><span></span> 186 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C176:E176)" x:num="186"><span></span> 186 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C177:E177)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C173:C177)" x:num="2546"><span></span> 2,546 </td>
+<td class="x104" x:fmla="=SUM(D173:D177)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E173:E177)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F173:F177)" x:num="2546"><span></span> 2,546 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x112" height="0"><font class="font8">Quail </font><font class="font3">(</font><font class="font31">Coturnix coturnix</font><font class="font3">)</font></td>
+<td class="x113">Fundamental biological research</td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x114" x:str="-"><div><span></span> - </div></td>
+<td class="x115" x:fmla="=SUM(C179:E179)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C180:E180)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C181:E181)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x108" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C182:E182)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C183:E183)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C179:C183)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(D179:D183)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E179:E183)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F179:F183)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x123" height="0" mso-row-span="2" rowspan="0">Quail (spp. other than</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="426"><span></span> 426 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C185:E185)" x:num="426"><span></span> 426 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C186:E186)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x125" height="0"><font class="font7"> </font><font class="font3"> </font><font class="font31">Coturnix coturnix</font><font class="font8">)</font></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="359"><span></span> 359 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C187:E187)" x:num="359"><span></span> 359 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x126" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C188:E188)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x127" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C189:E189)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x128" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C185:C189)" x:num="785"><span></span> 785 </td>
+<td class="x104" x:fmla="=SUM(D185:D189)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E185:E189)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F185:F189)" x:num="785"><span></span> 785 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Other bird</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="7756"><span></span> 7,756 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C191:E191)" x:num="7756"><span></span> 7,756 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C192:E192)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:num="562"><span></span> 562 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C193:E193)" x:num="562"><span></span> 562 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="465"><span></span> 465 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C194:E194)" x:num="465"><span></span> 465 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C195:E195)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C191:C195)" x:num="8783"><span></span> 8,783 </td>
+<td class="x104" x:fmla="=SUM(D191:D195)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E191:E195)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F191:F195)" x:num="8783"><span></span> 8,783 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x105" height="0">Reptile</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="860"><span></span> 860 </td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C197:E197)" x:num="860"><span></span> 860 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="29"><span></span> 29 </td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C198:E198)" x:num="29"><span></span> 29 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x96">Safety</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C199:E199)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x100" x:str="-"><div><span></span> - </div></td>
+<td class="x101" x:fmla="=SUM(C200:E200)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x109" height="0"></td>
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x97" x:str="-"><div><span></span> - </div></td>
+<td class="x98" x:fmla="=SUM(C201:E201)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C197:C201)" x:num="889"><span></span> 889 </td>
+<td class="x104" x:fmla="=SUM(D197:D201)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(E197:E201)" x:num="0"><span></span> - </td>
+<td class="x104" x:fmla="=SUM(F197:F201)" x:num="889"><span></span> 889 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Amphibian</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="11563"><span></span> 11,563 </td>
+<td class="x97" x:num="78"><span></span> 78 </td>
+<td class="x97" x:num="226"><span></span> 226 </td>
+<td class="x98" x:fmla="=SUM(C203:E203)" x:num="11867"><span></span> 11,867 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C204:E204)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="419"><span></span> 419 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C205:E205)" x:num="419"><span></span> 419 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x101" x:fmla="=SUM(C206:E206)" x:num="0"><span></span> - </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="20"><span></span> 20 </td>
+<td class="x97" x:num="2792"><span></span> 2,792 </td>
+<td class="x97" x:num="817"><span></span> 817 </td>
+<td class="x98" x:fmla="=SUM(C207:E207)" x:num="3629"><span></span> 3,629 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C203:C207)" x:num="12002"><span></span> 12,002 </td>
+<td class="x104" x:fmla="=SUM(D203:D207)" x:num="2870"><span></span> 2,870 </td>
+<td class="x104" x:fmla="=SUM(E203:E207)" x:num="1043"><span></span> 1,043 </td>
+<td class="x104" x:fmla="=SUM(F203:F207)" x:num="15915"><span></span> 15,915 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x95" height="126" rowspan="6">Fish</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="319562"><span></span> 319,562 </td>
+<td class="x97" x:num="2461"><span></span> 2,461 </td>
+<td class="x97" x:num="20419"><span></span> 20,419 </td>
+<td class="x98" x:fmla="=SUM(C209:E209)" x:num="342442"><span></span> 342,442 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="21666"><span></span> 21,666 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="40"><span></span> 40 </td>
+<td class="x101" x:fmla="=SUM(C210:E210)" x:num="21706"><span></span> 21,706 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="58908"><span></span> 58,908 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x98" x:fmla="=SUM(C211:E211)" x:num="58908"><span></span> 58,908 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="23"><span></span> 23 </td>
+<td class="x101" x:fmla="=SUM(C212:E212)" x:num="23"><span></span> 23 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="5993"><span></span> 5,993 </td>
+<td class="x97" x:num="35972"><span></span> 35,972 </td>
+<td class="x97" x:num="98859"><span></span> 98,859 </td>
+<td class="x98" x:fmla="=SUM(C213:E213)" x:num="140824"><span></span> 140,824 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x103">Total</td>
+<td class="x104" x:fmla="=SUM(C209:C213)" x:num="406129"><span></span> 406,129 </td>
+<td class="x104" x:fmla="=SUM(D209:D213)" x:num="38433"><span></span> 38,433 </td>
+<td class="x104" x:fmla="=SUM(E209:E213)" x:num="119341"><span></span> 119,341 </td>
+<td class="x104" x:fmla="=SUM(F209:F213)" x:num="563903"><span></span> 563,903 </td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x129" height="0">Cephalopod</td>
+<td class="x110">Fundamental biological research</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Applied studies </td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Safety</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Other<span>  </span>uses</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x106" height="0"></td>
+<td class="x110">Breeding</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="0">
+<td class="x107" height="0"></td>
+<td class="x111">Total</td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x97"></td>
+<td class="x98"></td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x130" height="132" rowspan="6">All species</td>
+<td class="x96">Fundamental biological research</td>
+<td class="x97" x:num="785248"><span></span> 785,248 </td>
+<td class="x97" x:num="56462"><span></span> 56,462 </td>
+<td class="x97" x:num="497163"><span></span> 497,163 </td>
+<td class="x98" x:fmla="=SUM(C221:E221)" x:num="1338873"><span></span> 1,338,873 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x99">Applied studies </td>
+<td class="x100" x:num="597900"><span></span> 597,900 </td>
+<td class="x100" x:num="40374"><span></span> 40,374 </td>
+<td class="x100" x:num="31534"><span></span> 31,534 </td>
+<td class="x101" x:fmla="=SUM(C222:E222)" x:num="669808"><span></span> 669,808 </td>
+<td class="x74"></td>
+</tr>
+<tr height="21">
+<td class="x96">Safety</td>
+<td class="x97" x:num="116631"><span></span> 116,631 </td>
+<td class="x97" x:num="0"><span></span> - </td>
+<td class="x97" x:num="185"><span></span> 185 </td>
+<td class="x98" x:fmla="=SUM(C223:E223)" x:num="116816"><span></span> 116,816 </td>
+<td class="x74"></td>
+</tr>
+<tr height="23">
+<td class="x99">Other<span>  </span>uses</td>
+<td class="x100" x:num="47743"><span></span> 47,743 </td>
+<td class="x100" x:num="0"><span></span> - </td>
+<td class="x100" x:num="1804"><span></span> 1,804 </td>
+<td class="x101" x:fmla="=SUM(C224:E224)" x:num="49547"><span></span> 49,547 </td>
+<td class="x74"></td>
+</tr>
+<tr height="23">
+<td class="x96" x:fmla="=$B$11">Breeding of GM or HM</td>
+<td class="x97" x:num="215952"><span></span> 215,952 </td>
+<td class="x97" x:num="278857"><span></span> 278,857 </td>
+<td class="x97" x:num="1123004"><span></span> 1,123,004 </td>
+<td class="x98" x:fmla="=SUM(C225:E225)" x:num="1617813"><span></span> 1,617,813 </td>
+<td class="x74"></td>
+</tr>
+<tr height="23">
+<td class="x132">TOTAL</td>
+<td class="x104" x:fmla="=SUM(C221:C225)" x:num="1763474"><span></span> 1,763,474 </td>
+<td class="x104" x:fmla="=SUM(D221:D225)" x:num="375693"><span></span> 375,693 </td>
+<td class="x104" x:fmla="=SUM(E221:E225)" x:num="1653690"><span></span> 1,653,690 </td>
+<td class="x104" x:fmla="=SUM(F221:F225)" x:num="3792857"><span></span> 3,792,857 </td>
+<td class="x74"></td>
+</tr>
+<tr height="24">
+<td class="x72" height="24"></td>
+<td class="x133">Increase on 2010</td>
+<td class="x134" x:fmla="=(C226-C230)" x:num="40995">40,995 </td>
+<td class="x134" x:fmla="=(D226-D230)" x:num="-24388">-24,388 </td>
+<td class="x134" x:fmla="=(E226-E230)" x:num="51524">51,524 </td>
+<td class="x134" x:fmla="=(F226-F230)" x:num="68131">68,131 </td>
+<td class="x74"></td>
+</tr>
+<tr height="24">
+<td class="x135" height="24"></td>
+<td class="x133">Percentage change from 2010</td>
+<td class="x136" x:fmla="=(C226-C230)/ABS(C230)" x:num="0.0237999998838883">2.4%</td>
+<td class="x137" x:fmla="=(D226-D230)/ABS(D230)" x:num="-0.0609576560746449">-6%</td>
+<td class="x137" x:fmla="=(E226-E230)/ABS(E230)" x:num="0.0321589648014001">3%</td>
+<td class="x137" x:fmla="=(F226-F230)/ABS(F230)" x:num="0.0182915468144502">2%</td>
+<td class="x74"></td>
+</tr>
+<tr height="24">
+<td class="x138" height="24"></td>
+<td class="x133">Percentage of total for 2011</td>
+<td class="x139" x:fmla="=C226/$F226" x:num="0.464946081542225">46%</td>
+<td class="x139" x:fmla="=D226/$F226" x:num="0.0990527720923831">10%</td>
+<td class="x139" x:fmla="=E226/$F226" x:num="0.436001146365392">44%</td>
+<td class="x139" x:fmla="=F226/$F226" x:num="1">100%</td>
+<td class="x74"></td>
+</tr>
+<tr height="24">
+<td class="x138" height="24"></td>
+<td class="x140">2010 Totals</td>
+<td align="right" class="x141" x:num="1722479"><span></span> 1,722,479 </td>
+<td align="right" class="x142" x:num="400081"><span></span> 400,081 </td>
+<td align="right" class="x142" x:num="1602166"><span></span> 1,602,166 </td>
+<td align="right" class="x142" x:num="3724726"><span></span> 3,724,726 </td>
+<td class="x74"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<tr height="23">
+<td class="x72" colspan="7" height="23"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="207"></td>
+<td width="275"></td>
+<td colspan="2" width="250"></td>
+<td width="126"></td>
+<td width="124"></td>
+<td width="64"></td>
+</tr>
+<?endif?>
+</table>

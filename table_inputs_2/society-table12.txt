@@ -1,0 +1,345 @@
+[COLUMN STRUCTURE]
+Activity
+2000
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2001
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2002
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2003
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2004
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2005
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2006
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+2007
+  Planned Hrs
+  Actual Hrs
+  Variance
+  Percentage
+
+[ROW STRUCTURE]
+Client Billable
+Marketing
+Practice Development & Research
+Education
+Administration
+Total
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<col class="col22"/>
+<col class="col23"/>
+<col class="col24"/>
+<col class="col25"/>
+<col class="col26"/>
+<col class="col27"/>
+<col class="col28"/>
+<col class="col29"/>
+<col class="col30"/>
+<col class="col31"/>
+<col class="col32"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n style4" colspan="4">2000</td>
+<td class="column5 style2 n style4" colspan="4">2001</td>
+<td class="column9 style2 n style4" colspan="4">2002</td>
+<td class="column13 style2 n style4" colspan="4">2003</td>
+<td class="column17 style2 n style4" colspan="4">2004</td>
+<td class="column21 style2 n style4" colspan="4">2005</td>
+<td class="column25 style2 n style4" colspan="4">2006</td>
+<td class="column29 style2 n style4" colspan="4">2007</td>
+</tr>
+<tr class="row1">
+<td class="column0 style1 s">Activity</td>
+<td class="column1 style5 s">Planned Hrs</td>
+<td class="column2 style6 s">Actual Hrs </td>
+<td class="column3 style6 s">Variance</td>
+<td class="column4 style7 s">Percentage</td>
+<td class="column5 style5 s">Planned Hrs</td>
+<td class="column6 style6 s">Actual Hrs </td>
+<td class="column7 style6 s">Variance</td>
+<td class="column8 style7 s">Percentage</td>
+<td class="column9 style5 s">Planned Hrs</td>
+<td class="column10 style6 s">Actual Hrs </td>
+<td class="column11 style6 s">Variance</td>
+<td class="column12 style7 s">Percentage</td>
+<td class="column13 style5 s">Planned Hrs</td>
+<td class="column14 style6 s">Actual Hrs </td>
+<td class="column15 style6 s">Variance</td>
+<td class="column16 style7 s">Percentage</td>
+<td class="column17 style5 s">Planned Hrs</td>
+<td class="column18 style6 s">Actual Hrs </td>
+<td class="column19 style6 s">Variance</td>
+<td class="column20 style7 s">Percentage</td>
+<td class="column21 style5 s">Planned Hrs</td>
+<td class="column22 style6 s">Actual Hrs </td>
+<td class="column23 style6 s">Variance</td>
+<td class="column24 style7 s">Percentage</td>
+<td class="column25 style5 s">Planned Hrs</td>
+<td class="column26 style6 s">Actual Hrs </td>
+<td class="column27 style6 s">Variance</td>
+<td class="column28 style7 s">Percentage</td>
+<td class="column29 style5 s">Planned Hrs</td>
+<td class="column30 style6 s">Actual Hrs </td>
+<td class="column31 style6 s">Variance</td>
+<td class="column32 style7 s">Percentage</td>
+</tr>
+<tr class="row2">
+<td class="column0 style8 s">Client Billable</td>
+<td class="column1 style9 n">50</td>
+<td class="column2 style10 n">10</td>
+<td class="column3 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style12 f">20%</td>
+<td class="column5 style9 n">200</td>
+<td class="column6 style10 n">10</td>
+<td class="column7 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style12 f">20%</td>
+<td class="column9 style9 n">200</td>
+<td class="column10 style10 n">10</td>
+<td class="column11 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style12 f">20%</td>
+<td class="column13 style9 n">200</td>
+<td class="column14 style10 n">10</td>
+<td class="column15 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style12 f">20%</td>
+<td class="column17 style9 n">200</td>
+<td class="column18 style10 n">10</td>
+<td class="column19 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style12 f">20%</td>
+<td class="column21 style9 n">200</td>
+<td class="column22 style10 n">10</td>
+<td class="column23 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style12 f">20%</td>
+<td class="column25 style9 n">200</td>
+<td class="column26 style10 n">10</td>
+<td class="column27 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style12 f">20%</td>
+<td class="column29 style9 n">200</td>
+<td class="column30 style10 n">10</td>
+<td class="column31 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style12 f">20%</td>
+</tr>
+<tr class="row3">
+<td class="column0 style8 s">Marketing</td>
+<td class="column1 style9 n">50</td>
+<td class="column2 style10 n">10</td>
+<td class="column3 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style12 f">20%</td>
+<td class="column5 style9 n">200</td>
+<td class="column6 style10 n">10</td>
+<td class="column7 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style12 f">20%</td>
+<td class="column9 style9 n">200</td>
+<td class="column10 style10 n">10</td>
+<td class="column11 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style12 f">20%</td>
+<td class="column13 style9 n">200</td>
+<td class="column14 style10 n">10</td>
+<td class="column15 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style12 f">20%</td>
+<td class="column17 style9 n">200</td>
+<td class="column18 style10 n">10</td>
+<td class="column19 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style12 f">20%</td>
+<td class="column21 style9 n">200</td>
+<td class="column22 style10 n">10</td>
+<td class="column23 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style12 f">20%</td>
+<td class="column25 style9 n">200</td>
+<td class="column26 style10 n">10</td>
+<td class="column27 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style12 f">20%</td>
+<td class="column29 style9 n">200</td>
+<td class="column30 style10 n">10</td>
+<td class="column31 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style12 f">20%</td>
+</tr>
+<tr class="row4">
+<td class="column0 style8 s">Practice Development &amp; Research</td>
+<td class="column1 style9 n">50</td>
+<td class="column2 style10 n">10</td>
+<td class="column3 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style12 f">20%</td>
+<td class="column5 style9 n">200</td>
+<td class="column6 style10 n">10</td>
+<td class="column7 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style12 f">20%</td>
+<td class="column9 style9 n">200</td>
+<td class="column10 style10 n">10</td>
+<td class="column11 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style12 f">20%</td>
+<td class="column13 style9 n">200</td>
+<td class="column14 style10 n">10</td>
+<td class="column15 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style12 f">20%</td>
+<td class="column17 style9 n">200</td>
+<td class="column18 style10 n">10</td>
+<td class="column19 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style12 f">20%</td>
+<td class="column21 style9 n">200</td>
+<td class="column22 style10 n">10</td>
+<td class="column23 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style12 f">20%</td>
+<td class="column25 style9 n">200</td>
+<td class="column26 style10 n">10</td>
+<td class="column27 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style12 f">20%</td>
+<td class="column29 style9 n">200</td>
+<td class="column30 style10 n">10</td>
+<td class="column31 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style12 f">20%</td>
+</tr>
+<tr class="row5">
+<td class="column0 style8 s">Education</td>
+<td class="column1 style9 n">50</td>
+<td class="column2 style10 n">10</td>
+<td class="column3 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style12 f">20%</td>
+<td class="column5 style9 n">200</td>
+<td class="column6 style10 n">10</td>
+<td class="column7 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style12 f">20%</td>
+<td class="column9 style9 n">200</td>
+<td class="column10 style10 n">10</td>
+<td class="column11 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style12 f">20%</td>
+<td class="column13 style9 n">200</td>
+<td class="column14 style10 n">10</td>
+<td class="column15 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style12 f">20%</td>
+<td class="column17 style9 n">200</td>
+<td class="column18 style10 n">10</td>
+<td class="column19 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style12 f">20%</td>
+<td class="column21 style9 n">200</td>
+<td class="column22 style10 n">10</td>
+<td class="column23 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style12 f">20%</td>
+<td class="column25 style9 n">200</td>
+<td class="column26 style10 n">10</td>
+<td class="column27 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style12 f">20%</td>
+<td class="column29 style9 n">200</td>
+<td class="column30 style10 n">10</td>
+<td class="column31 style11 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style12 f">20%</td>
+</tr>
+<tr class="row6">
+<td class="column0 style13 s">Administration</td>
+<td class="column1 style14 n">50</td>
+<td class="column2 style13 n">10</td>
+<td class="column3 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style16 f">20%</td>
+<td class="column5 style14 n">200</td>
+<td class="column6 style13 n">10</td>
+<td class="column7 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style16 f">20%</td>
+<td class="column9 style14 n">200</td>
+<td class="column10 style13 n">10</td>
+<td class="column11 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style16 f">20%</td>
+<td class="column13 style14 n">200</td>
+<td class="column14 style13 n">10</td>
+<td class="column15 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style16 f">20%</td>
+<td class="column17 style14 n">200</td>
+<td class="column18 style13 n">10</td>
+<td class="column19 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style16 f">20%</td>
+<td class="column21 style14 n">200</td>
+<td class="column22 style13 n">10</td>
+<td class="column23 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style16 f">20%</td>
+<td class="column25 style14 n">200</td>
+<td class="column26 style13 n">10</td>
+<td class="column27 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style16 f">20%</td>
+<td class="column29 style14 n">200</td>
+<td class="column30 style13 n">10</td>
+<td class="column31 style15 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style16 f">20%</td>
+</tr>
+<tr class="row7">
+<td class="column0 style17 s">Total</td>
+<td class="column1 style18 f">250</td>
+<td class="column2 style19 f">50</td>
+<td class="column3 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column4 style21 f">100%</td>
+<td class="column5 style18 f">1000</td>
+<td class="column6 style19 f">50</td>
+<td class="column7 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column8 style21 f">100%</td>
+<td class="column9 style18 f">1000</td>
+<td class="column10 style19 f">50</td>
+<td class="column11 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column12 style21 f">100%</td>
+<td class="column13 style18 f">1000</td>
+<td class="column14 style19 f">50</td>
+<td class="column15 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column16 style21 f">100%</td>
+<td class="column17 style18 f">1000</td>
+<td class="column18 style19 f">50</td>
+<td class="column19 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column20 style21 f">100%</td>
+<td class="column21 style18 f">1000</td>
+<td class="column22 style19 f">50</td>
+<td class="column23 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column24 style21 f">100%</td>
+<td class="column25 style18 f">1000</td>
+<td class="column26 style19 f">50</td>
+<td class="column27 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column28 style21 f">100%</td>
+<td class="column29 style18 f">1000</td>
+<td class="column30 style19 f">50</td>
+<td class="column31 style20 f">&lt;span style="color:red"&gt;(&amp;quot;0.00&amp;quot;)&lt;/span&gt;</td>
+<td class="column32 style21 f">100%</td>
+</tr>
+</tbody>
+</table>

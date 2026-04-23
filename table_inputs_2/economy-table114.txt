@@ -1,0 +1,317 @@
+[COLUMN STRUCTURE]
+Name
+  Adair,Brendan
+Total
+  4,356.00
+
+[ROW STRUCTURE]
+Archer,Ed
+Archibald,Aaron
+Armstrong,Meredith
+Babcock,Glenys
+Brownlee,Renee
+Campbell,Tyler
+Cecutti,Anthony Albert
+Dubois,Barbara
+Fowke,Kevin G
+Gravelle,Kelly
+Hallam,Brittany
+Halushenski,Natalie
+Harding,Brian
+Jacques,Steve
+Jensen,Mike
+Kelly,Joanne
+Labelle,Eric
+Litalien,Marie-Catherine
+Longston,Kris
+Mazza,Guido
+Moulton,Melissa
+Pafford,Jeff
+Rocca,Giuseppe
+Rowe,Jennifer
+Shelsted,David
+Taylor,Peter
+Turner,Shawn
+Verrilli,Giovanna
+Wood,Ian
+Grand Total
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style3 s">Statement of Employee Travel Expenses</td>
+<td class="column1 style2 null"></td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s style4" colspan="5">Car Allowance</td>
+</tr>
+<tr class="row2">
+<td class="column0 style5 s">For the period January 1 to September 30, 2023</td>
+<td class="column1 style2 null"></td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row3">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row4">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row5">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style1 s">Name</td>
+<td class="column1 style6 s">Total</td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style7 s">Adair,Brendan</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style7 s">Archer,Ed</td>
+<td class="column1 style6 n">  7,560.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style7 s">Archibald,Aaron</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style7 s">Armstrong,Meredith</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style7 s">Babcock,Glenys</td>
+<td class="column1 style6 n">  484.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style7 s">Brownlee,Renee</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style7 s">Campbell,Tyler</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style7 s">Cecutti,Anthony Albert</td>
+<td class="column1 style6 n">  6,480.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style7 s">Dubois,Barbara</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style7 s">Fowke,Kevin G</td>
+<td class="column1 style6 n">  6,480.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style7 s">Gravelle,Kelly</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style7 s">Hallam,Brittany</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style7 s">Halushenski,Natalie</td>
+<td class="column1 style6 n">  1,050.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style7 s">Harding,Brian</td>
+<td class="column1 style6 n">  6,480.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style7 s">Jacques,Steve</td>
+<td class="column1 style6 n">  6,480.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style7 s">Jensen,Mike</td>
+<td class="column1 style6 n">  484.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style7 s">Kelly,Joanne</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style7 s">Labelle,Eric</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style7 s">Litalien,Marie-Catherine</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style7 s">Longston,Kris</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style7 s">Mazza,Guido</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style7 s">Moulton,Melissa</td>
+<td class="column1 style6 n">  1,050.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style7 s">Pafford,Jeff</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style7 s">Rocca,Giuseppe</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style7 s">Rowe,Jennifer</td>
+<td class="column1 style6 n">  1,050.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style7 s">Shelsted,David</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style7 s">Taylor,Peter</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style7 s">Turner,Shawn</td>
+<td class="column1 style6 n">  4,356.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style7 s">Verrilli,Giovanna</td>
+<td class="column1 style6 n">  7,200.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style7 s">Wood,Ian</td>
+<td class="column1 style6 n">  6,480.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style7 s">Grand Total</td>
+<td class="column1 style6 n">  129,686.00 </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row38">
+<td class="column0"> </td>
+<td class="column1 style6 null"></td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+</tbody>
+</table>

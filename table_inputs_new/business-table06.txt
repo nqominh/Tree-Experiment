@@ -1,0 +1,382 @@
+[COLUMN STRUCTURE]
+Number of tables on this sheet:
+5
+
+[ROW STRUCTURE]
+Businesses in the creative sector
+Data owner:
+Link to data owner:
+Data source:
+Link to data source:
+Date:
+Update cycle:
+Businesses in the creative sector: sub-sector by region in 2005 and 2009
+Sub-sector
+Advertising
+Architecture
+Art & Antiques
+Designer Fashion
+Music & the Visual & Performing Arts
+Publishing
+Radio & TV
+Software, Computer Games & Electronic Publishing
+Video, Film & Photography
+Total
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="2110">
+<col class="x76" width="190"/>
+<col class="x77" span="20" width="96"/>
+<tr height="20">
+<td class="x78" height="20" width="190">Number of tables on this sheet:</td>
+<td align="right" class="x79" width="96">5</td>
+<td class="x77" colspan="19" width="1824"></td>
+</tr>
+<tr height="20">
+<td class="x80" colspan="21" height="20"></td>
+</tr>
+<tr height="23">
+<td class="x82" colspan="2" height="23">Businesses in the creative sector</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Data owner:</td>
+<td class="x85" colspan="20">Office of National Statistics</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Link to data owner:</td>
+<td>http://www.ons.gov.uk</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Data source:</td>
+<td class="x84" colspan="20">Inter Departmental Business Register (IDBR)</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Link to data source:</td>
+<td>http://www.statistics.gov.uk/idbr/</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Date:</td>
+<td class="x86" colspan="20">2009, 2008, 2007, 2006, 2005</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Update cycle:</td>
+<td class="x84" colspan="20">Continuously through the year</td>
+</tr>
+<tr height="20">
+<td class="x76" colspan="21" height="20"></td>
+</tr>
+<tr height="20">
+<td class="x84" colspan="21" height="20">Businesses in the creative sector: sub-sector by region in 2005 and 2009</td>
+</tr>
+<tr class="x73" height="40">
+<td class="x87" height="39"></td>
+<td class="x88" colspan="2">North East</td>
+<td class="x90" colspan="2">North West</td>
+<td class="x88" colspan="2">Yorkshire and the Humber</td>
+<td class="x90" colspan="2">East Midlands</td>
+<td class="x88" colspan="2">West Midlands</td>
+<td class="x90" colspan="2">East of England</td>
+<td class="x88" colspan="2">London</td>
+<td class="x90" colspan="2">South East</td>
+<td class="x120" colspan="2">South West</td>
+<td class="x88" colspan="2">England</td>
+</tr>
+<tr class="x73" height="0">
+<td class="x91" height="0"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x122"></td>
+<td class="x123"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+</tr>
+<tr class="x73" height="20">
+<td class="x95" height="19">Sub-sector</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Advertising</td>
+<td align="right" class="x100">220</td>
+<td align="right" class="x101">320</td>
+<td align="right" class="x102" x:num="1235">1,235</td>
+<td align="right" class="x102" x:num="1420">1,420</td>
+<td align="right" class="x100">720</td>
+<td align="right" class="x109">795</td>
+<td align="right" class="x110">625</td>
+<td align="right" class="x110">685</td>
+<td align="right" class="x117">780</td>
+<td align="right" class="x109">915</td>
+<td align="right" class="x110" x:num="1140">1,140</td>
+<td align="right" class="x110" x:num="1345">1,345</td>
+<td align="right" class="x117" x:num="3600">3,600</td>
+<td align="right" class="x109" x:num="3960">3,960</td>
+<td align="right" class="x110" x:num="2145">2,145</td>
+<td align="right" class="x110" x:num="2460">2,460</td>
+<td align="right" class="x117">890</td>
+<td align="right" class="x109" x:num="1050">1,050</td>
+<td align="right" class="x117" x:num="11355">11,355</td>
+<td align="right" class="x109" x:num="12950">12,950</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Architecture</td>
+<td align="right" class="x100" x:num="518.75">519</td>
+<td align="right" class="x101" x:num="718.75">719</td>
+<td align="right" class="x102" x:num="1461.25">1,461</td>
+<td align="right" class="x102" x:num="2086.25">2,086</td>
+<td align="right" class="x100" x:num="908.75">909</td>
+<td align="right" class="x109" x:num="1120">1,120</td>
+<td align="right" class="x110">945</td>
+<td align="right" class="x110" x:num="1147.50">1,148</td>
+<td align="right" class="x117" x:num="1186.25">1,186</td>
+<td align="right" class="x109" x:num="1436.25">1,436</td>
+<td align="right" class="x110" x:num="1556.25">1,556</td>
+<td align="right" class="x110" x:num="1851.25">1,851</td>
+<td align="right" class="x117" x:num="1950">1,950</td>
+<td align="right" class="x109" x:num="2433.75">2,434</td>
+<td align="right" class="x110" x:num="2560">2,560</td>
+<td align="right" class="x110" x:num="3113.75">3,114</td>
+<td align="right" class="x117" x:num="1231.25">1,231</td>
+<td align="right" class="x109" x:num="1558.75">1,559</td>
+<td align="right" class="x117" x:num="12317.50">12,318</td>
+<td align="right" class="x109" x:num="15466.25">15,466</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Art &amp; Antiques</td>
+<td align="right" class="x100" x:num="80.75">81</td>
+<td align="right" class="x101" x:num="78.75">79</td>
+<td align="right" class="x102" x:num="297.25">297</td>
+<td align="right" class="x102">287</td>
+<td align="right" class="x100" x:num="223.50">224</td>
+<td align="right" class="x109" x:num="212.25">212</td>
+<td align="right" class="x110" x:num="188.75">189</td>
+<td align="right" class="x110" x:num="184.25">184</td>
+<td align="right" class="x117" x:num="230.75">231</td>
+<td align="right" class="x109" x:num="227.50">228</td>
+<td align="right" class="x110">270</td>
+<td align="right" class="x110">264</td>
+<td align="right" class="x117" x:num="377.75">378</td>
+<td align="right" class="x109" x:num="364.25">364</td>
+<td align="right" class="x110" x:num="426.25">426</td>
+<td align="right" class="x110" x:num="414.25">414</td>
+<td align="right" class="x117" x:num="298.50">299</td>
+<td align="right" class="x109" x:num="283.75">284</td>
+<td align="right" class="x117" x:num="2393.50">2,394</td>
+<td align="right" class="x109" x:num="2316">2,316</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Designer Fashion</td>
+<td align="right" class="x100" x:num="43.90">44</td>
+<td align="right" class="x101" x:num="56.975">57</td>
+<td align="right" class="x102" x:num="250.35">250</td>
+<td align="right" class="x102" x:num="252.80">253</td>
+<td align="right" class="x100" x:num="131.725">132</td>
+<td align="right" class="x109" x:num="138.275">138</td>
+<td align="right" class="x110" x:num="148.60">149</td>
+<td align="right" class="x110" x:num="158.85">159</td>
+<td align="right" class="x117">218</td>
+<td align="right" class="x109" x:num="206.525">207</td>
+<td align="right" class="x110" x:num="253.90">254</td>
+<td align="right" class="x110" x:num="266.80">267</td>
+<td align="right" class="x117" x:num="577.20">577</td>
+<td align="right" class="x109" x:num="554.10">554</td>
+<td align="right" class="x110" x:num="524.15">524</td>
+<td align="right" class="x110" x:num="469.775">470</td>
+<td align="right" class="x117" x:num="228.525">229</td>
+<td align="right" class="x109" x:num="218.325">218</td>
+<td align="right" class="x117" x:num="2376.35">2,376</td>
+<td align="right" class="x109" x:num="2322.425">2,322</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Music &amp; the Visual &amp; Performing Arts</td>
+<td align="right" class="x100" x:num="382.50">383</td>
+<td align="right" class="x101" x:num="461.25">461</td>
+<td align="right" class="x102" x:num="1576.25">1,576</td>
+<td align="right" class="x102" x:num="1835">1,835</td>
+<td align="right" class="x100" x:num="1211.25">1,211</td>
+<td align="right" class="x109" x:num="1321.25">1,321</td>
+<td align="right" class="x110" x:num="1038.75">1,039</td>
+<td align="right" class="x110" x:num="1188.75">1,189</td>
+<td align="right" class="x117" x:num="1270">1,270</td>
+<td align="right" class="x109" x:num="1423.75">1,424</td>
+<td align="right" class="x110" x:num="2563.75">2,564</td>
+<td align="right" class="x110" x:num="2572.50">2,573</td>
+<td align="right" class="x117" x:num="13672.50">13,673</td>
+<td align="right" class="x109" x:num="12061.25">12,061</td>
+<td align="right" class="x110" x:num="5152.50">5,153</td>
+<td align="right" class="x110" x:num="5112.50">5,113</td>
+<td align="right" class="x117" x:num="2361.25">2,361</td>
+<td align="right" class="x109" x:num="2377.50">2,378</td>
+<td align="right" class="x117" x:num="29228.75">29,229</td>
+<td align="right" class="x109" x:num="28353.75">28,354</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Publishing</td>
+<td align="right" class="x100">115</td>
+<td align="right" class="x101">115</td>
+<td align="right" class="x102">450</td>
+<td align="right" class="x102">395</td>
+<td align="right" class="x100" x:num="357.50">358</td>
+<td align="right" class="x109">340</td>
+<td align="right" class="x110" x:num="372.50">373</td>
+<td align="right" class="x110">335</td>
+<td align="right" class="x117" x:num="407.50">408</td>
+<td align="right" class="x109">510</td>
+<td align="right" class="x110">805</td>
+<td align="right" class="x110">425</td>
+<td align="right" class="x117" x:num="2362.50">2,363</td>
+<td align="right" class="x109">685</td>
+<td align="right" class="x110" x:num="1425">1,425</td>
+<td align="right" class="x110">680</td>
+<td align="right" class="x117" x:num="752.50">753</td>
+<td align="right" class="x109" x:num="307.50">308</td>
+<td align="right" class="x117" x:num="7047.50">7,048</td>
+<td align="right" class="x109" x:num="3792.50">3,793</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Radio &amp; TV</td>
+<td align="right" class="x100">45</td>
+<td align="right" class="x101">50</td>
+<td align="right" class="x102">255</td>
+<td align="right" class="x102">340</td>
+<td align="right" class="x100">130</td>
+<td align="right" class="x109">160</td>
+<td align="right" class="x110">100</td>
+<td align="right" class="x110">140</td>
+<td align="right" class="x117">160</td>
+<td align="right" class="x109">210</td>
+<td align="right" class="x110">280</td>
+<td align="right" class="x110">350</td>
+<td align="right" class="x117" x:num="2325">2,325</td>
+<td align="right" class="x109" x:num="3155">3,155</td>
+<td align="right" class="x110">705</td>
+<td align="right" class="x110">955</td>
+<td align="right" class="x117">295</td>
+<td align="right" class="x109">400</td>
+<td align="right" class="x117" x:num="4295">4,295</td>
+<td align="right" class="x109" x:num="5760">5,760</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Software, Computer Games &amp; Electronic Publishing</td>
+<td align="right" class="x100">780</td>
+<td align="right" class="x101" x:num="1216.25">1,216</td>
+<td align="right" class="x102" x:num="3861.25">3,861</td>
+<td align="right" class="x102" x:num="5995">5,995</td>
+<td align="right" class="x100" x:num="2637.50">2,638</td>
+<td align="right" class="x109" x:num="3780">3,780</td>
+<td align="right" class="x110" x:num="3066.25">3,066</td>
+<td align="right" class="x110" x:num="4210">4,210</td>
+<td align="right" class="x117" x:num="3816.25">3,816</td>
+<td align="right" class="x109" x:num="5562.50">5,563</td>
+<td align="right" class="x110" x:num="6953.75">6,954</td>
+<td align="right" class="x110" x:num="9408.75">9,409</td>
+<td align="right" class="x117" x:num="12497.50">12,498</td>
+<td align="right" class="x109" x:num="20006.25">20,006</td>
+<td align="right" class="x110" x:num="14152.50">14,153</td>
+<td align="right" class="x110" x:num="18898.75">18,899</td>
+<td align="right" class="x117" x:num="4337.50">4,338</td>
+<td align="right" class="x109" x:num="6151.25">6,151</td>
+<td align="right" class="x117" x:num="52102.50">52,103</td>
+<td align="right" class="x109" x:num="75228.75">75,229</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Video, Film &amp; Photography</td>
+<td align="right" class="x100">125</td>
+<td align="right" class="x101">170</td>
+<td align="right" class="x102" x:num="453.75">454</td>
+<td align="right" class="x102" x:num="573.75">574</td>
+<td align="right" class="x100" x:num="316.25">316</td>
+<td align="right" class="x109" x:num="382.50">383</td>
+<td align="right" class="x110" x:num="248.75">249</td>
+<td align="right" class="x110" x:num="312.50">313</td>
+<td align="right" class="x117">340</td>
+<td align="right" class="x109" x:num="373.75">374</td>
+<td align="right" class="x110" x:num="638.75">639</td>
+<td align="right" class="x110" x:num="772.50">773</td>
+<td align="right" class="x117" x:num="4827.50">4,828</td>
+<td align="right" class="x109" x:num="5495">5,495</td>
+<td align="right" class="x110" x:num="1478.75">1,479</td>
+<td align="right" class="x110" x:num="1738.75">1,739</td>
+<td align="right" class="x117" x:num="656.25">656</td>
+<td align="right" class="x109" x:num="738.75">739</td>
+<td align="right" class="x117" x:num="9085">9,085</td>
+<td align="right" class="x109" x:num="10557.50">10,558</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20"></td>
+<td class="x103" colspan="2"></td>
+<td class="x105" colspan="2"></td>
+<td class="x111" colspan="2"></td>
+<td class="x113" colspan="2"></td>
+<td class="x118" colspan="2"></td>
+<td class="x113" colspan="2"></td>
+<td class="x118" colspan="2"></td>
+<td class="x113" colspan="2"></td>
+<td class="x118" colspan="2"></td>
+<td class="x118" colspan="2"></td>
+</tr>
+<tr class="x75" height="20">
+<td class="x106" height="18">Total</td>
+<td align="right" class="x107" x:fmla="=SUM(B15:B23)" x:num="2310.90">2,311</td>
+<td align="right" class="x108" x:fmla="=SUM(C15:C23)" x:num="3186.975">3,187</td>
+<td align="right" class="x107" x:fmla="=SUM(D15:D23)" x:num="9840.10">9,840</td>
+<td align="right" class="x107" x:fmla="=SUM(E15:E23)" x:num="13184.80">13,185</td>
+<td align="right" class="x114" x:fmla="=SUM(F15:F23)" x:num="6636.475">6,636</td>
+<td align="right" class="x115" x:fmla="=SUM(G15:G23)" x:num="8249.275">8,249</td>
+<td align="right" class="x116" x:fmla="=SUM(H15:H23)" x:num="6733.60">6,734</td>
+<td align="right" class="x116" x:fmla="=SUM(I15:I23)" x:num="8361.85">8,362</td>
+<td align="right" class="x119" x:fmla="=SUM(J15:J23)" x:num="8408.75">8,409</td>
+<td align="right" class="x115" x:fmla="=SUM(K15:K23)" x:num="10865.275">10,865</td>
+<td align="right" class="x116" x:fmla="=SUM(L15:L23)" x:num="14461.40">14,461</td>
+<td align="right" class="x116" x:fmla="=SUM(M15:M23)" x:num="17255.80">17,256</td>
+<td align="right" class="x119" x:fmla="=SUM(N15:N23)" x:num="42189.95">42,190</td>
+<td align="right" class="x115" x:fmla="=SUM(O15:O23)" x:num="48714.60">48,715</td>
+<td align="right" class="x116" x:fmla="=SUM(P15:P23)" x:num="28569.15">28,569</td>
+<td align="right" class="x116" x:fmla="=SUM(Q15:Q23)" x:num="33842.775">33,843</td>
+<td align="right" class="x119" x:fmla="=SUM(R15:R23)" x:num="11050.775">11,051</td>
+<td align="right" class="x115" x:fmla="=SUM(S15:S23)" x:num="13085.825">13,086</td>
+<td align="right" class="x119" x:fmla="=SUM(T15:T23)" x:num="130201.10">130,201</td>
+<td align="right" class="x115" x:fmla="=SUM(U15:U23)" x:num="156747.175">156,747</td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="190"></td>
+<td colspan="20" width="1920"></td>
+</tr>
+<?endif?>
+</table>

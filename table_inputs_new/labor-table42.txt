@@ -1,0 +1,271 @@
+[COLUMN STRUCTURE]
+EMPNAME
+  A. RAUF DALAL
+    AMANDA CERRONI
+      AMBER HAMILTON
+CALL ID
+  C007885810
+    C007885813
+      C007885799
+        C007903347
+          C007903344
+            C008355692
+              C008363816
+                C007896180
+                  C007913010
+                    C008114679
+                      C008114675
+                        C008131963
+                          C008114696
+                            C008132006
+Date
+  2/10/2015
+    3/10/2015
+      3/13/2015
+        4/13/2015
+          7/20/2015
+            7/22/2015
+              3/12/2015
+                3/18/2015
+                  5/6/2015
+                    5/11/2015
+                      5/7/2015
+                        5/12/2015
+ACCOUNT ID
+  MC0001229490
+    MC0000012806
+      MC0000204847
+        MC0000138793
+          MC0000394213
+Product
+  ABS UNBRANDED
+    SMSBOLI BRANDED
+      ABS UNBRANDED
+        SMSBOLI BRANDED
+          ABS UNBRANDED
+            SMSBOLI BRANDED
+              ABS UNBRANDED
+                SMSBOLI BRANDED
+                  ABS UNBRANDED
+Exception
+  ABS UNBRANDED
+    C007885813,C007885799,C007903347 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days
+      SMSBOLI BRANDED
+        C008355692,C008363816 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days
+          C007896180,C007913010 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days
+            C008114679,C008114675,C008131963 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days
+              C008114696,C008132006 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days
+
+[ROW STRUCTURE]
+AMBER HAMILTON
+  C008114674
+    5/6/2015
+      MC0001302656
+  C008114678
+    5/6/2015
+      MC0001302656
+  C008131962
+    5/11/2015
+      MC0001302656
+  C008087306
+    5/1/2015
+      MC0001322215
+  C008114680
+    5/6/2015
+      MC0001322215
+  C008114694
+    5/7/2015
+      MC1016531117
+  C008131974
+    5/12/2015
+      MC1016531117
+  C008114677
+    5/6/2015
+      MC1017138577
+  C008131961
+    5/11/2015
+      MC1017138577
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">EMPNAME</td>
+<td class="column1 style2 s">CALL ID</td>
+<td class="column2 style2 s">Date</td>
+<td class="column3 style2 s">ACCOUNT ID</td>
+<td class="column4 style8 s">Product</td>
+<td class="column5 style9 s">Exception</td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s style7" rowspan="5">A. RAUF DALAL</td>
+<td class="column1 style4 s">C007885810</td>
+<td class="column2 style5 n">2/10/2015</td>
+<td class="column3 style4 s">MC0001229490</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row2">
+<td class="column1 style4 s">C007885813</td>
+<td class="column2 style5 n">3/10/2015</td>
+<td class="column3 style4 s">MC0001229490</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C007885813,C007885799,C007903347 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row3">
+<td class="column1 style4 s">C007885799</td>
+<td class="column2 style5 n">3/10/2015</td>
+<td class="column3 style4 s">MC0001229490</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C007885813,C007885799,C007903347 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row4">
+<td class="column1 style4 s">C007903347</td>
+<td class="column2 style5 n">3/13/2015</td>
+<td class="column3 style4 s">MC0001229490</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C007885813,C007885799,C007903347 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row5">
+<td class="column1 style4 s">C007903344</td>
+<td class="column2 style5 n">4/13/2015</td>
+<td class="column3 style4 s">MC0001229490</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style3 s style7" rowspan="4">AMANDA CERRONI</td>
+<td class="column1 style4 s">C008355692</td>
+<td class="column2 style5 n">7/20/2015</td>
+<td class="column3 style4 s">MC0000012806</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008355692,C008363816 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row7">
+<td class="column1 style4 s">C008363816</td>
+<td class="column2 style5 n">7/22/2015</td>
+<td class="column3 style4 s">MC0000012806</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008355692,C008363816 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row8">
+<td class="column1 style4 s">C007896180</td>
+<td class="column2 style5 n">3/12/2015</td>
+<td class="column3 style4 s">MC0000204847</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C007896180,C007913010 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row9">
+<td class="column1 style4 s">C007913010</td>
+<td class="column2 style5 n">3/18/2015</td>
+<td class="column3 style4 s">MC0000204847</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C007896180,C007913010 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row10">
+<td class="column0 style3 s style7" rowspan="14">AMBER HAMILTON</td>
+<td class="column1 style4 s">C008114679</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC0000138793</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114679,C008114675,C008131963 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row11">
+<td class="column1 style4 s">C008114675</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC0000138793</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114679,C008114675,C008131963 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row12">
+<td class="column1 style4 s">C008131963</td>
+<td class="column2 style5 n">5/11/2015</td>
+<td class="column3 style4 s">MC0000138793</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008114679,C008114675,C008131963 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row13">
+<td class="column1 style4 s">C008114696</td>
+<td class="column2 style5 n">5/7/2015</td>
+<td class="column3 style4 s">MC0000394213</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114696,C008132006 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row14">
+<td class="column1 style4 s">C008132006</td>
+<td class="column2 style5 n">5/12/2015</td>
+<td class="column3 style4 s">MC0000394213</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008114696,C008132006 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row15">
+<td class="column1 style4 s">C008114674</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC0001302656</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114674,C008114678,C008131962 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row16">
+<td class="column1 style4 s">C008114678</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC0001302656</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114674,C008114678,C008131962 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row17">
+<td class="column1 style4 s">C008131962</td>
+<td class="column2 style5 n">5/11/2015</td>
+<td class="column3 style4 s">MC0001302656</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008114674,C008114678,C008131962 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row18">
+<td class="column1 style4 s">C008087306</td>
+<td class="column2 style5 n">5/1/2015</td>
+<td class="column3 style4 s">MC0001322215</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008087306,C008114680 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row19">
+<td class="column1 style4 s">C008114680</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC0001322215</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008087306,C008114680 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row20">
+<td class="column1 style4 s">C008114694</td>
+<td class="column2 style5 n">5/7/2015</td>
+<td class="column3 style4 s">MC1016531117</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114694,C008131974 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row21">
+<td class="column1 style4 s">C008131974</td>
+<td class="column2 style5 n">5/12/2015</td>
+<td class="column3 style4 s">MC1016531117</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008114694,C008131974 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row22">
+<td class="column1 style4 s">C008114677</td>
+<td class="column2 style5 n">5/6/2015</td>
+<td class="column3 style4 s">MC1017138577</td>
+<td class="column4 style10 s">SMSBOLI BRANDED</td>
+<td class="column5 style11 s">C008114677,C008131961 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+<tr class="row23">
+<td class="column1 style4 s">C008131961</td>
+<td class="column2 style5 n">5/11/2015</td>
+<td class="column3 style4 s">MC1017138577</td>
+<td class="column4 style10 s">ABS UNBRANDED</td>
+<td class="column5 style11 s">C008114677,C008131961 - SMSBOLI BRANDED and ABS UNBRANDED Calls within 7 days</td>
+</tr>
+</tbody>
+</table>

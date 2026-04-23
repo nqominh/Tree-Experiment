@@ -1,0 +1,361 @@
+[COLUMN STRUCTURE]
+Employee Name:
+  Pay Period:
+    Day
+      Saturday
+        Sunday
+          Monday
+            Tuesday
+              Wednesday
+                Thursday
+                  Friday
+Employee Name
+  12/01/2014
+    Date
+      2014/11/29
+        2014/11/30
+          2014/12/1
+            2014/12/2
+              2014/12/3
+                2014/12/4
+                  2014/12/5
+  <----->
+    Log in
+      2014/11/29
+        2014/11/30
+          10:30 AM
+            10:00 AM
+              8:00 AM
+  2014/12/15
+    Lunch Starts
+      2014/11/29
+        2014/11/30
+          12:30 PM
+            12:00 PM
+              11:00 AM
+                12:00 PM
+    Lunch Ends
+      2014/11/29
+        2014/11/30
+          1:00 PM
+            12:00 PM
+              1:00 PM
+    Log Out
+      2014/11/29
+        2014/11/30
+          7:00 PM
+            5:00 PM
+    Total Hours
+      0.00
+        8.00
+
+[ROW STRUCTURE]
+Weely Total
+Saturday
+  12/6/2014
+    2:30 PM
+      5:30 PM
+  12/13/2014
+    3:00 PM
+      10:00 PM
+Sunday
+  12/7/2014
+  12/14/2014
+Monday
+  12/8/2014
+    8:00 AM
+      12:00 PM
+  12/15/2014
+    10:00 AM
+      2:00 PM
+Tuesday
+  12/9/2014
+    8:00 AM
+      2:00 PM
+  12/16/2014
+    8:00 AM
+      12:00 PM
+Wednesday
+  12/10/2014
+    12:30 PM
+      4:30 PM
+  12/17/2014
+    8:00 AM
+      12:00 PM
+Thursday
+  12/11/2014
+    10:00 AM
+      5:00 PM
+  12/18/2014
+    8:00 AM
+      1:00 PM
+Friday
+  12/12/2014
+    11:30 AM
+      3:30 PM
+  12/19/2014
+    8:00 AM
+      12:00 PM
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Employee Name:</td>
+<td class="column1 style2 s style2" colspan="3">Employee Name</td>
+<td class="column4 style3 null"></td>
+<td class="column5 style3 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style1 s">Pay Period:</td>
+<td class="column1 style5 s">12/01/2014</td>
+<td class="column2 style6 s">&lt;-----&gt;</td>
+<td class="column3 style5 n">2014/12/15</td>
+<td class="column4 style3 null"></td>
+<td class="column5 style3 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 null"></td>
+<td class="column1 style8 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 null"></td>
+<td class="column5 style3 null"></td>
+<td class="column6 style4 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style9 s">Day</td>
+<td class="column1 style10 s">Date</td>
+<td class="column2 style11 s">Log in </td>
+<td class="column3 style11 s">Lunch Starts</td>
+<td class="column4 style11 s">Lunch Ends</td>
+<td class="column5 style11 s">Log Out</td>
+<td class="column6 style12 s">Total Hours</td>
+</tr>
+<tr class="row4">
+<td class="column0 style13 s">Saturday</td>
+<td class="column1 style14 n">2014/11/29</td>
+<td class="column2 style15 null"></td>
+<td class="column3 style15 null"></td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">0.00</td>
+</tr>
+<tr class="row5">
+<td class="column0 style13 s">Sunday</td>
+<td class="column1 style17 f">2014/11/30</td>
+<td class="column2 style15 null"></td>
+<td class="column3 style15 null"></td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">0.00</td>
+</tr>
+<tr class="row6">
+<td class="column0 style13 s">Monday</td>
+<td class="column1 style17 f">2014/12/1</td>
+<td class="column2 style15 n">10:30 AM</td>
+<td class="column3 style15 n">12:30 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">7:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row7">
+<td class="column0 style13 s">Tuesday</td>
+<td class="column1 style17 f">2014/12/2</td>
+<td class="column2 style15 n">10:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">7:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row8">
+<td class="column0 style13 s">Wednesday</td>
+<td class="column1 style17 f">2014/12/3</td>
+<td class="column2 style15 n">10:00 AM</td>
+<td class="column3 style15 n">11:00 AM</td>
+<td class="column4 style15 n">12:00 PM</td>
+<td class="column5 style15 n">7:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row9">
+<td class="column0 style13 s">Thursday</td>
+<td class="column1 style17 f">2014/12/4</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row10">
+<td class="column0 style13 s">Friday</td>
+<td class="column1 style17 f">2014/12/5</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row11">
+<td class="column0 style18 s">Weely Total</td>
+<td class="column1 style19 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style20 null"></td>
+<td class="column5 style20 null"></td>
+<td class="column6 style21 f">40.00</td>
+</tr>
+<tr class="row12">
+<td class="column0 style13 s">Saturday</td>
+<td class="column1 style22 f">12/6/2014</td>
+<td class="column2 style15 n">2:30 PM</td>
+<td class="column3 style15 n">5:30 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">3.00</td>
+</tr>
+<tr class="row13">
+<td class="column0 style13 s">Sunday</td>
+<td class="column1 style22 f">12/7/2014</td>
+<td class="column2 style15 null"></td>
+<td class="column3 style15 null"></td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">0.00</td>
+</tr>
+<tr class="row14">
+<td class="column0 style13 s">Monday</td>
+<td class="column1 style22 f">12/8/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row15">
+<td class="column0 style13 s">Tuesday</td>
+<td class="column1 style22 f">12/9/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">2:00 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">6.00</td>
+</tr>
+<tr class="row16">
+<td class="column0 style13 s">Wednesday</td>
+<td class="column1 style22 f">12/10/2014</td>
+<td class="column2 style15 n">12:30 PM</td>
+<td class="column3 style15 n">4:30 PM</td>
+<td class="column4 style15 n">5:30 PM</td>
+<td class="column5 style15 n">9:30 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row17">
+<td class="column0 style13 s">Thursday</td>
+<td class="column1 style22 f">12/11/2014</td>
+<td class="column2 style15 n">10:00 AM</td>
+<td class="column3 style15 n">5:00 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">7.00</td>
+</tr>
+<tr class="row18">
+<td class="column0 style13 s">Friday</td>
+<td class="column1 style22 f">12/12/2014</td>
+<td class="column2 style15 n">11:30 AM</td>
+<td class="column3 style15 n">3:30 PM</td>
+<td class="column4 style15 n">4:30 PM</td>
+<td class="column5 style15 n">8:30 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row19">
+<td class="column0 style18 s">Weely Total</td>
+<td class="column1 style19 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style20 null"></td>
+<td class="column5 style20 null"></td>
+<td class="column6 style21 f">40.00</td>
+</tr>
+<tr class="row20">
+<td class="column0 style13 s">Saturday</td>
+<td class="column1 style22 f">12/13/2014</td>
+<td class="column2 style15 n">3:00 PM</td>
+<td class="column3 style15 n">10:00 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">7.00</td>
+</tr>
+<tr class="row21">
+<td class="column0 style13 s">Sunday</td>
+<td class="column1 style22 f">12/14/2014</td>
+<td class="column2 style15 null"></td>
+<td class="column3 style15 null"></td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">0.00</td>
+</tr>
+<tr class="row22">
+<td class="column0 style13 s">Monday</td>
+<td class="column1 style22 f">12/15/2014</td>
+<td class="column2 style15 n">10:00 AM</td>
+<td class="column3 style15 n">2:00 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">4.00</td>
+</tr>
+<tr class="row23">
+<td class="column0 style13 s">Tuesday</td>
+<td class="column1 style22 f">12/16/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row24">
+<td class="column0 style13 s">Wednesday</td>
+<td class="column1 style22 f">12/17/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row25">
+<td class="column0 style13 s">Thursday</td>
+<td class="column1 style22 f">12/18/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">1:00 PM</td>
+<td class="column4 style15 null"></td>
+<td class="column5 style15 null"></td>
+<td class="column6 style16 f">5.00</td>
+</tr>
+<tr class="row26">
+<td class="column0 style13 s">Friday</td>
+<td class="column1 style22 f">12/19/2014</td>
+<td class="column2 style15 n">8:00 AM</td>
+<td class="column3 style15 n">12:00 PM</td>
+<td class="column4 style15 n">1:00 PM</td>
+<td class="column5 style15 n">5:00 PM</td>
+<td class="column6 style16 f">8.00</td>
+</tr>
+<tr class="row27">
+<td class="column0 style18 s">Weely Total</td>
+<td class="column1 style19 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style20 null"></td>
+<td class="column5 style20 null"></td>
+<td class="column6 style21 f">40.00</td>
+</tr>
+</tbody>
+</table>

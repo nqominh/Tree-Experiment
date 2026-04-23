@@ -1,0 +1,233 @@
+[COLUMN STRUCTURE]
+Shared
+Tor
+Mary
+"+/-"
+
+[ROW STRUCTURE]
+Dairy
+Butter M
+Butter T
+Eggs
+Ice cream
+Milk 0%
+milk 1%
+milk 2%
+Chop Sticks
+Beverage
+Coffee Fltr
+Coffee T
+Coffee M
+Herbal Tea
+Tea
+Pop T
+Pop M
+Water
+House
+Chef Knife
+HP Ink
+Chop Sticks
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style17 null"></td>
+<td class="column1 style17 s">Shared</td>
+<td class="column2 style17 s">Tor</td>
+<td class="column3 style17 s">Mary</td>
+<td class="column4 style18 null"></td>
+<td class="column5 style18 s">"+/-"</td>
+</tr>
+<tr class="row1">
+<td class="column0 style5 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style16 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 s">Dairy </td>
+<td class="column1 style6 null"></td>
+<td class="column2 style6 null"></td>
+<td class="column3 style6 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style16 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style5 s">Butter M</td>
+<td class="column1 style19 null"></td>
+<td class="column2 style19 null"></td>
+<td class="column3 style19 n">$14.99 </td>
+<td class="column4 style12 null"></td>
+<td class="column5 style3 n">$14.99 </td>
+</tr>
+<tr class="row4">
+<td class="column0 style5 s">Butter T</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$0.00 </td>
+</tr>
+<tr class="row5">
+<td class="column0 style5 s">Eggs</td>
+<td class="column1 style20 n">$2.99 </td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 n">$12.22 </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$15.21 </td>
+</tr>
+<tr class="row6">
+<td class="column0 style5 s">Ice cream</td>
+<td class="column1 style20 n">$15.76 </td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$15.76 </td>
+</tr>
+<tr class="row7">
+<td class="column0 style5 s">Milk 0%</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 n">$9.99 </td>
+<td class="column3 style20 n">$35.00 </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$44.99 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style5 s">milk 1%</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 n">$12.00 </td>
+<td class="column3 style20 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$12.00 </td>
+</tr>
+<tr class="row9">
+<td class="column0 style5 s">milk 2%</td>
+<td class="column1 style20 n">$22.98 </td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$22.98 </td>
+</tr>
+<tr class="row10">
+<td class="column0 style5 s">Chop Sticks</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style3 n">$0.00 </td>
+</tr>
+<tr class="row11">
+<td class="column0 style7 s">Beverage</td>
+<td class="column1 style9 null"></td>
+<td class="column2 style9 null"></td>
+<td class="column3 style9 null"></td>
+<td class="column4 style5 null"></td>
+<td class="column5 style4 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style5 s">Coffee Fltr</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style19 n">$12.78 </td>
+<td class="column3 style19 null"></td>
+<td class="column4 style14 null"></td>
+<td class="column5 style3 n">$12.78 </td>
+</tr>
+<tr class="row13">
+<td class="column0 style1 s">Coffee T</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style20 n">$14.99 </td>
+<td class="column3 style20 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$14.99 </td>
+</tr>
+<tr class="row14">
+<td class="column0 style5 s">Coffee M</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 n">$29.99 </td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$29.99 </td>
+</tr>
+<tr class="row15">
+<td class="column0 style5 s">Herbal Tea</td>
+<td class="column1 style2 n">$34.27 </td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$34.27 </td>
+</tr>
+<tr class="row16">
+<td class="column0 style5 s">Tea</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$0.00 </td>
+</tr>
+<tr class="row17">
+<td class="column0 style5 s">Pop T</td>
+<td class="column1 style2 n">$9.99 </td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style11 null"></td>
+<td class="column5 style3 n">$9.99 </td>
+</tr>
+<tr class="row18">
+<td class="column0 style5 s">Pop M</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$0.00 </td>
+</tr>
+<tr class="row19">
+<td class="column0 style5 s">Water</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style20 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 n">$0.00 </td>
+</tr>
+<tr class="row20">
+<td class="column0 style15 s">House</td>
+<td class="column1 style9 null"></td>
+<td class="column2 style9 null"></td>
+<td class="column3 style9 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style14 s">Chef Knife</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style3 null"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style13 s">HP Ink</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style8 null"></td>
+</tr>
+<tr class="row23">
+<td class="column0 style13 s">Chop Sticks</td>
+<td class="column1 style2 n">$8.65 </td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 n">$18.99 </td>
+<td class="column4 style13 null"></td>
+<td class="column5 style8 n">$27.64 </td>
+</tr>
+</tbody>
+</table>

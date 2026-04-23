@@ -1,0 +1,498 @@
+[COLUMN STRUCTURE]
+Employee:
+DRL Construction
+Dates:
+
+[ROW STRUCTURE]
+MBurger
+Date
+February 1, 2015
+February 1, 2015
+February 1, 2015
+February 1, 2015
+February 1, 2015
+February 1, 2015
+February 1, 2015
+February 2, 2015
+February 2, 2015
+February 2, 2015
+February 5, 2015
+February 5, 2015
+February 6, 2015
+February 6, 2015
+February 6, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+February 7, 2015
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Employee:</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style4 s">DRL Construction</td>
+<td class="column4 style25 null"></td>
+<td class="column5 style26 null"></td>
+<td class="column6 style27 null"></td>
+<td class="column7 style28 null style28" colspan="2"></td>
+<td class="column9 style45 null"></td>
+<td class="column10 style46 s style46" colspan="2">Dates:</td>
+</tr>
+<tr class="row1">
+<td class="column0 style5 s">MBurger</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style6 null"></td>
+<td class="column3 style7 null"></td>
+<td class="column4 style29 null"></td>
+<td class="column5 style30 null"></td>
+<td class="column6 style2 null"></td>
+<td class="column7 style7 null"></td>
+<td class="column8 style47 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style48 s style48" colspan="2">Feb-01-15 - Feb-07-15</td>
+</tr>
+<tr class="row2">
+<td class="column0 style8 s">Date</td>
+<td class="column1 style9 s">Ticket Number</td>
+<td class="column2 style10 s">Truck Number</td>
+<td class="column3 style10 s">Trailer Number</td>
+<td class="column4 style31 s">Company</td>
+<td class="column5 style32 s">Product</td>
+<td class="column6 style9 s">Quantity (bbls)</td>
+<td class="column7 style10 s">Time (hrs)</td>
+<td class="column8 style49 s">Rate        $/hr $/BBLS</td>
+<td class="column9 style49 s">Water Charge</td>
+<td class="column10 style50 s">Amount Billed</td>
+<td class="column11 style50 s">Employee Take</td>
+</tr>
+<tr class="row3">
+<td class="column0 style11 n">February 1, 2015</td>
+<td class="column1 style12 n"><a href="pictures/49621.JPG" title="">49621</a></td>
+<td class="column2 style13 s">DRL11</td>
+<td class="column3 style14 s">T11</td>
+<td class="column4 style33 s">Wild</td>
+<td class="column5 style34 s">Production %</td>
+<td class="column6 style35 n">150</td>
+<td class="column7 style36 n">0.0</td>
+<td class="column8 style51 n">$1.75</td>
+<td class="column9 style51 n">$0.00</td>
+<td class="column10 style52 f"> $ 262.50 </td>
+<td class="column11 style53 f"> $ 60.38 </td>
+</tr>
+<tr class="row4">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49622.JPG" title="">49622</a></td>
+<td class="column2 style17 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row5">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49623.JPG" title="">49623</a></td>
+<td class="column2 style17 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">120</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 210.00 </td>
+<td class="column11 style56 f"> $ 48.30 </td>
+</tr>
+<tr class="row6">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49624.JPG" title="">49624</a></td>
+<td class="column2 style17 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row7">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49625.JPG" title="">49625</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49926.JPG" title="">49926</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row9">
+<td class="column0 style15 n">February 1, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49927.JPG" title="">49927</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row10">
+<td class="column0 style15 n">February 2, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49928.JPG" title="">49928</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">80</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 140.00 </td>
+<td class="column11 style56 f"> $ 32.20 </td>
+</tr>
+<tr class="row11">
+<td class="column0 style15 n">February 2, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49929.JPG" title="">49929</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">80</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 140.00 </td>
+<td class="column11 style56 f"> $ 32.20 </td>
+</tr>
+<tr class="row12">
+<td class="column0 style15 n">February 2, 2015</td>
+<td class="column1 style16 n"><a href="pictures/49930.JPG" title="">49930</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style40 n">0.0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 f"> $ 262.50 </td>
+<td class="column11 style56 f"> $ 60.38 </td>
+</tr>
+<tr class="row13">
+<td class="column0 style15 n">February 5, 2015</td>
+<td class="column1 style20 n"><a href="pictures/762478.JPG" title="">762478</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Mongoose</td>
+<td class="column5 style38 s">Flow Back</td>
+<td class="column6 style39 n">250</td>
+<td class="column7 style18 n">12</td>
+<td class="column8 style54 n">$125.00</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 1,500.00 </td>
+<td class="column11 style56 n"> $ 360.00 </td>
+</tr>
+<tr class="row14">
+<td class="column0 style15 n">February 5, 2015</td>
+<td class="column1 style20 n"><a href="pictures/762479.JPG" title="">762479</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Mongoose</td>
+<td class="column5 style38 s">Flow Back</td>
+<td class="column6 style39 n">0</td>
+<td class="column7 style18 n">4</td>
+<td class="column8 style54 n">$125.00</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 500.00 </td>
+<td class="column11 style56 n"> $ 120.00 </td>
+</tr>
+<tr class="row15">
+<td class="column0 style15 n">February 6, 2015</td>
+<td class="column1 style20 n"><a href="pictures/762480.JPG" title="">762480</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Mongoose</td>
+<td class="column5 style38 s">Flow Back</td>
+<td class="column6 style39 n">200</td>
+<td class="column7 style18 n">8</td>
+<td class="column8 style54 n">$125.00</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 1,000.00 </td>
+<td class="column11 style56 n"> $ 240.00 </td>
+</tr>
+<tr class="row16">
+<td class="column0 style15 n">February 6, 2015</td>
+<td class="column1 style20 n"><a href="pictures/762481.JPG" title="">762481</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Mongoose</td>
+<td class="column5 style38 s">Flow Back</td>
+<td class="column6 style39 n">200</td>
+<td class="column7 style18 n">3</td>
+<td class="column8 style54 n">$125.00</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 375.00 </td>
+<td class="column11 style56 n"> $ 90.00 </td>
+</tr>
+<tr class="row17">
+<td class="column0 style15 n">February 6, 2015</td>
+<td class="column1 style20 n"><a href="pictures/762482.JPG" title="">762482</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Mongoose</td>
+<td class="column5 style38 s">Flow Back</td>
+<td class="column6 style39 n">200</td>
+<td class="column7 style18 n">7</td>
+<td class="column8 style54 n">$125.00</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 875.00 </td>
+<td class="column11 style56 n"> $ 210.00 </td>
+</tr>
+<tr class="row18">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49931.JPG" title="">49931</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row19">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49932.JPG" title="">49932</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row20">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49933.JPG" title="">49933</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row21">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49934.JPG" title="">49934</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row22">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49935.JPG" title="">49935</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row23">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49936.JPG" title="">49936</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row24">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49937.JPG" title="">49937</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row25">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49938.JPG" title="">49938</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row26">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49939.JPG" title="">49939</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row27">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49940.JPG" title="">49940</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row28">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49941.JPG" title="">49941</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row29">
+<td class="column0 style15 n">February 7, 2015</td>
+<td class="column1 style20 n"><a href="pictures/49942.JPG" title="">49942</a></td>
+<td class="column2 style19 s">DRL11</td>
+<td class="column3 style18 s">T11</td>
+<td class="column4 style37 s">Wild</td>
+<td class="column5 style38 s">Production %</td>
+<td class="column6 style39 n">150</td>
+<td class="column7 style18 n">0</td>
+<td class="column8 style54 n">$1.75</td>
+<td class="column9 style54 n">$0.00</td>
+<td class="column10 style55 n"> $ 262.50 </td>
+<td class="column11 style56 n"> $ 60.38 </td>
+</tr>
+<tr class="row30">
+<td class="column0 style21 null"></td>
+<td class="column1 style22 null"></td>
+<td class="column2 style23 null"></td>
+<td class="column3 style24 null"></td>
+<td class="column4 style41 null"></td>
+<td class="column5 style42 null"></td>
+<td class="column6 style43 null"></td>
+<td class="column7 style44 null"></td>
+<td class="column8 style57 s">Totals:</td>
+<td class="column9 style57 null"></td>
+<td class="column10 style58 f">  9,727.50 ₽ </td>
+<td class="column11 style59 f">  2,279.83 ₽ </td>
+</tr>
+<tr class="row31">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+</tr>
+</tbody>
+</table>

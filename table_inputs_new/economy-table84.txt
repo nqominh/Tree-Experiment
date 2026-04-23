@@ -1,0 +1,152 @@
+[COLUMN STRUCTURE]
+Form
+Average retail price
+Preparation yield factor
+Size of a cup equivalent
+Average price per cup equivalent
+
+[ROW STRUCTURE]
+Fresh1
+Applesauce2
+Juice
+Ready to drink3
+Frozen4
+1USDA, Agricultural Research Service’s (ARS) National Nutrient Database for Standard Reference (SR) reports that the inedible stem and core of a raw apple account for 10 percent of the fruit's weight, implying a preparation yield of 90 percent, when apples are eaten raw including the peel.
+2Excludes applesauce packed in individual containers that are 4 ounces in size or smaller. Includes flavors like "original," "cinnamon," "plain," "unsweetened," "old fashioned," "homestyle," "sweetened," and "brown sugar cinnamon." Excludes certain other flavors like "strawberry," "honey cinnamon," "peach," and "maple."
+3Includes refrigerated and unrefrigerated juice.
+4Includes juice sold as frozen concentrate. The consumer reconstitutes this juice after purchase by adding three containers of water per container of concentrate. Retail price is dollars per pint after reconstitution.
+Source: USDA, Economic Research Service calculations from 2022 Circana (formerly Information Resources, Inc. (IRI)) OmniMarket Core Outlets (formerly InfoScan) data; and USDA, ARS, National Nutrient Database for Standard Reference (SR), Legacy Release, Food Patterns Equivalents Database (FPED) 2017–18, and the FPED's accompanying Methodology and User Guide.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Apples—Average retail price per pound or pint and per cup equivalent, 2022</td>
+<td class="column1"> </td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5 style3 null"></td>
+<td class="column6 style3 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s">Form</td>
+<td class="column1 style5 s">Average retail price<span><sup> </sup></span></td>
+<td class="column2 style6 null"></td>
+<td class="column3 style7 s">Preparation yield factor</td>
+<td class="column4 style5 s">Size of a cup equivalent </td>
+<td class="column5 style8 null"></td>
+<td class="column6 style9 s">Average price per cup equivalent</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style10 s">Fresh<span><sup>1</sup></span></td>
+<td class="column1 style11 n">$1.85</td>
+<td class="column2 style12 s"> per pound</td>
+<td class="column3 style13 n">0.9</td>
+<td class="column4 style14 f">0.243</td>
+<td class="column5 style15 s">Pounds</td>
+<td class="column6 style11 f">$0.50</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style10 s">Applesauce<span><sup>2</sup></span></td>
+<td class="column1 style11 n">$1.17</td>
+<td class="column2 style12 s"> per pound</td>
+<td class="column3 style13 n">1</td>
+<td class="column4 style14 f">0.540</td>
+<td class="column5 style15 s">Pounds</td>
+<td class="column6 style11 f">$0.63</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style16 s">Juice</td>
+<td class="column1 style17 null"></td>
+<td class="column2 style17 null"></td>
+<td class="column3 style17 null"></td>
+<td class="column4 style17 null"></td>
+<td class="column5 style17 null"></td>
+<td class="column6 style18 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style19 s">Ready to drink<span><sup>3</sup></span></td>
+<td class="column1 style11 n">$0.87</td>
+<td class="column2 style12 s"> per pint</td>
+<td class="column3 style13 n">1</td>
+<td class="column4 style15 n">8</td>
+<td class="column5 style12 s">Fluid ounces</td>
+<td class="column6 style11 f">$0.43</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style20 s">Frozen<span><sup>4</sup></span></td>
+<td class="column1 style21 n">$0.61</td>
+<td class="column2 style22 s"> per pint</td>
+<td class="column3 style23 n">1</td>
+<td class="column4 style24 n">8</td>
+<td class="column5 style22 s">Fluid ounces</td>
+<td class="column6 style21 f">$0.30</td>
+<td class="column7"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style25 s"><span><sup>1</sup></span><span>USDA, Agricultural Research Service’s (ARS) National Nutrient Database for Standard Reference (SR) reports that the inedible stem and core of a raw apple account for 10 percent of the fruit's weight, implying a preparation yield of 90 percent, when apples are eaten raw including the peel.</span></td>
+<td class="column1 style26 null"></td>
+<td class="column2 style26 null"></td>
+<td class="column3 style26 null"></td>
+<td class="column4 style26 null"></td>
+<td class="column5 style26 null"></td>
+<td class="column6 style26 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style27 s"><span><sup>2</sup></span><span>Excludes applesauce packed in individual containers that are 4 ounces in size or smaller. Includes flavors like "original," "cinnamon," "plain," "unsweetened," "old fashioned," "homestyle," "sweetened," and "brown sugar cinnamon." Excludes certain other flavors like "strawberry," "honey cinnamon," "peach," and "maple." </span></td>
+<td class="column1 style28 null"></td>
+<td class="column2 style28 null"></td>
+<td class="column3 style28 null"></td>
+<td class="column4 style28 null"></td>
+<td class="column5 style28 null"></td>
+<td class="column6 style28 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style27 s"><span><sup>3</sup></span><span>Includes refrigerated and unrefrigerated juice. </span></td>
+<td class="column1 style28 null"></td>
+<td class="column2 style28 null"></td>
+<td class="column3 style28 null"></td>
+<td class="column4 style28 null"></td>
+<td class="column5 style28 null"></td>
+<td class="column6 style28 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style27 s"><span><sup>4</sup></span><span>Includes juice sold as frozen concentrate. The consumer reconstitutes this juice after purchase by adding three containers of water per container of concentrate. Retail price is dollars per pint after reconstitution.</span></td>
+<td class="column1 style28 null"></td>
+<td class="column2 style28 null"></td>
+<td class="column3 style28 null"></td>
+<td class="column4 style28 null"></td>
+<td class="column5 style28 null"></td>
+<td class="column6 style28 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style29 s">Source: USDA, Economic Research Service calculations from 2022 Circana (formerly Information Resources, Inc. (IRI)) OmniMarket Core Outlets (formerly InfoScan) data; and USDA, ARS, National Nutrient Database for Standard Reference (SR), Legacy Release, Food Patterns Equivalents Database (FPED) 2017–18, and the FPED's accompanying Methodology and User Guide.</td>
+<td class="column1 style29 null"></td>
+<td class="column2 style29 null"></td>
+<td class="column3 style29 null"></td>
+<td class="column4 style29 null"></td>
+<td class="column5 style29 null"></td>
+<td class="column6 style29 null"></td>
+<td class="column7"> </td>
+</tr>
+</tbody>
+</table>

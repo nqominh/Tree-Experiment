@@ -1,0 +1,929 @@
+[COLUMN STRUCTURE]
+x
+Int#
+LiST#
+Intervention
+Number of Visits per FP User per Year
+Number of Health Workers involved in each Visit
+Number of Health Worker Contacts
+
+[ROW STRUCTURE]
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1187">
+<col class="x70" mso-width="0" span="3" width="0"/>
+<col class="x70" width="839"/>
+<col class="x70" width="85"/>
+<col class="x70" width="87"/>
+<col class="x70" width="100"/>
+<col class="x70" width="76"/>
+<tr class="x70" height="26">
+<td class="x70" colspan="3" height="26" width="0"></td>
+<td class="x71" width="839">Intervention - Number of Visits and Contacts with Health Care Providers</td>
+<td class="x70" colspan="4" width="348"></td>
+</tr>
+<tr class="x70" height="26">
+<td align="center" class="x72" colspan="3" height="26">HIDDEN</td>
+<td class="x71" colspan="3"></td>
+<td class="x73">HIDDEN COLUMN</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A4:A11,"x")=0,"","x")'>x</td>
+<td class="x75">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per FP User per Year</td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B4,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x77">1</td>
+<td align="right" class="x78">7</td>
+<td class="x79">FP - Pills</td>
+<td class="x80">12</td>
+<td class="x80">1</td>
+<td class="x81" x:fmla="=E4*F4">12</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B5,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x82">2</td>
+<td align="right" class="x83">1</td>
+<td class="x84">FP - Condoms</td>
+<td class="x85">12</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E5*F5">12</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B6,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x82">3</td>
+<td align="right" class="x83">4</td>
+<td class="x84">FP - Injectables</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E6*F6">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B7,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x82">4</td>
+<td align="right" class="x83">5</td>
+<td class="x84">FP - Implants</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E7*F7">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B8,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x82">5</td>
+<td align="right" class="x83">6</td>
+<td class="x84">FP - IUD</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E8*F8">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B9,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x82">6</td>
+<td align="right" class="x83">2</td>
+<td class="x84">FP - Female Sterilization</td>
+<td class="x85">1</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=E9*F9">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B10,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x82">7</td>
+<td align="right" class="x83">3</td>
+<td class="x84">FP - Male Sterilization</td>
+<td class="x85">1</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=E10*F10">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B11,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x82">8</td>
+<td align="right" class="x83">8</td>
+<td class="x84">FP - Traditional Methods</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x81" x:fmla="=E11*F11">0</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A13:A24,"x")=0,"","x")'>x</td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per Pregnant Woman</td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16">x</td>
+<td class="x86">100</td>
+<td class="x86">100</td>
+<td class="x87">ANTENATAL CARE</td>
+<td class="x88">8</td>
+<td class="x88">1</td>
+<td class="x81" x:fmla="=E13*F13">8</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B14,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">11</td>
+<td class="x89">16</td>
+<td class="x90">TT - Tetanus toxoid vaccination</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E14*F14">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B15,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">12</td>
+<td class="x89">17</td>
+<td class="x90">IPTp - Intermittent preventive treatment of malaria during pregnancy</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E15*F15">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B16,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">13</td>
+<td class="x89">18</td>
+<td class="x90">Syphilis detection and treatment</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E16*F16">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B17,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x89">14</td>
+<td class="x89">19</td>
+<td class="x90">Calcium supplementation</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E17*F17">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B18,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">15</td>
+<td class="x89">20</td>
+<td class="x90">Iron supplementation in pregnancy</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E18*F18">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B19,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">16</td>
+<td class="x89">21</td>
+<td class="x90">Multiple micronutrient supplementation in pregnancy</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E19*F19">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B20,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">17</td>
+<td class="x89">22</td>
+<td class="x90">Balanced energy supplementation</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E20*F20">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B21,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">18</td>
+<td class="x89">23</td>
+<td class="x90">Hypertensive disorder case management</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E21*F21">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B22,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">19</td>
+<td class="x89">24</td>
+<td class="x90">Diabetes case management</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E22*F22">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B23,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">20</td>
+<td class="x89">25</td>
+<td class="x90">Malaria case management</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E23*F23">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B24,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x89">21</td>
+<td class="x89">26</td>
+<td class="x90">MgSO4 management of pre-eclampsia</td>
+<td class="x85">1</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=E24*F24">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="40">
+<td class="x74" height="38" x:fmla='=IF(COUNTIF(A26:A53,"x")=0,"","x")'>x</td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Hospital Stay in Days</td>
+<td class="x75">Avg. No of Health Workers Seen per Day</td>
+<td class="x75">Number of Health Worker Contacts</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16">x</td>
+<td class="x91">200</td>
+<td class="x91">200</td>
+<td class="x92">FACILITY-BASED DELIVERY</td>
+<td class="x88">2</td>
+<td class="x88">2</td>
+<td class="x81" x:fmla="=IF(E26=0,F26,E26*F26)">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B27,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">23</td>
+<td class="x93">28</td>
+<td class="x94">Clean birth environment</td>
+<td class="x95"></td>
+<td class="x85"></td>
+<td class="x81"></td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B28,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">24</td>
+<td class="x93">32</td>
+<td class="x94">Manual removal of placenta</td>
+<td class="x85">2</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E28=0,F28,E28*F28)">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B29,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">25</td>
+<td class="x93">33</td>
+<td class="x94">MgSO4 management of eclampsia</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E29=0,F29,E29*F29)">10</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B30,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">26</td>
+<td class="x93">34</td>
+<td class="x94">Antibiotics for preterm or prolonged PROM</td>
+<td class="x85">3</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E30=0,F30,E30*F30)">6</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B31,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">27</td>
+<td class="x93">35</td>
+<td class="x94">Parenteral administration of antibiotics</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E31=0,F31,E31*F31)">10</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B32,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">28</td>
+<td class="x93">36</td>
+<td class="x94">Assisted vaginal delivery</td>
+<td class="x85">2</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E32=0,F32,E32*F32)">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B33,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">29</td>
+<td class="x93">38</td>
+<td class="x94">Active management of third stage of labor (AMTSL)</td>
+<td class="x95"></td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E33=0,F33,E33*F33)">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B34,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">30</td>
+<td class="x93">39</td>
+<td class="x94">Removal of retained products of conception</td>
+<td class="x85">2</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E34=0,F34,E34*F34)">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B35,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">31</td>
+<td class="x93">40</td>
+<td class="x94">Induction of labor for pregnancies lasting 41+ weeks</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=IF(E35=0,F35,E35*F35)">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B36,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x93">32</td>
+<td class="x93">41</td>
+<td class="x94">Antenatal corticosteroids for preterm labor</td>
+<td class="x85">2</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E36=0,F36,E36*F36)">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B37,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x96">33</td>
+<td align="right" class="x97">65</td>
+<td class="x98">Maternal sepsis case management</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E37=0,F37,E37*F37)">10</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B38,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x97">34</td>
+<td align="right" class="x97">10</td>
+<td class="x94">Safe abortion services</td>
+<td class="x99">1</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E38=0,F38,E38*F38)">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B39,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x97">35</td>
+<td align="right" class="x97">11</td>
+<td class="x94">Post abortion case management</td>
+<td class="x85">3</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E39=0,F39,E39*F39)">6</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B40,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x97">36</td>
+<td align="right" class="x97">42</td>
+<td class="x94">Cesarean delivery</td>
+<td class="x85">7</td>
+<td class="x85">3</td>
+<td class="x81" x:fmla="=IF(E40=0,F40,E40*F40)">21</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B41,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x97">37</td>
+<td align="right" class="x97">43</td>
+<td class="x94">Blood transfusion</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E41=0,F41,E41*F41)">10</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B42,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x97">38</td>
+<td align="right" class="x97">12</td>
+<td class="x94">Ectopic pregnancy case management</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E42=0,F42,E42*F42)">10</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B43,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">39</td>
+<td align="right" class="x101">29</td>
+<td class="x102">Immediate drying and additional stimulation</td>
+<td class="x95"></td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E43=0,F43,E43*F43)">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B44,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">40</td>
+<td align="right" class="x101">30</td>
+<td class="x102">Thermal protection</td>
+<td class="x95"></td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E44=0,F44,E44*F44)">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B45,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">41</td>
+<td align="right" class="x101">31</td>
+<td class="x102">Clean cord care</td>
+<td class="x95"></td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=IF(E45=0,F45,E45*F45)">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B46,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">42</td>
+<td align="right" class="x101">37</td>
+<td class="x102">Neonatal resuscitation</td>
+<td class="x103"></td>
+<td class="x103"></td>
+<td class="x81"></td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16"></td>
+<td class="x100"></td>
+<td class="x104"></td>
+<td class="x105">Case management of premature babies</td>
+<td class="x95"></td>
+<td class="x103"></td>
+<td class="x81"></td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B48,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">43</td>
+<td align="right" class="x100">66</td>
+<td class="x84">Kangaroo-Mother Care (KMC)</td>
+<td class="x95"></td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=IF(E48=0,F48,E48*F48)">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B49,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x100">44</td>
+<td align="right" class="x100">67</td>
+<td class="x84">Full supportive care of prematurity</td>
+<td class="x85">14</td>
+<td class="x85">2</td>
+<td class="x81" x:fmla="=IF(E49=0,F49,E49*F49)">28</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16"></td>
+<td class="x100"></td>
+<td class="x104"></td>
+<td class="x105">Case management of neonatal sepsis/pneumonia</td>
+<td class="x103"></td>
+<td class="x103"></td>
+<td class="x81"></td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B51,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">45</td>
+<td align="right" class="x100">68</td>
+<td class="x84">Oral antibiotics</td>
+<td class="x95"></td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=IF(E51=0,F51,E51*F51)">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B52,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x100">46</td>
+<td align="right" class="x100">69</td>
+<td class="x84">Injectable antibiotics</td>
+<td class="x95"></td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=IF(E52=0,F52,E52*F52)">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B53,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td align="right" class="x100">47</td>
+<td align="right" class="x100">70</td>
+<td class="x84">Full supportive care</td>
+<td class="x85">14</td>
+<td class="x85">4</td>
+<td class="x81" x:fmla="=IF(E53=0,F53,E53*F53)">56</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A55:A57,"x")=0,"","x")'>x</td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per Woman</td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B55,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x106">48</td>
+<td align="right" class="x106">44</td>
+<td class="x107">Early Initiation of Breastfeeding</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E55*F55">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B56,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x108">49</td>
+<td align="right" class="x108">45</td>
+<td class="x107">Complementary feeding - Education only</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E56*F56">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B57,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x108">50</td>
+<td align="right" class="x108">46</td>
+<td class="x107">Complementary feeding - Supplementary feeding + Education</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E57*F57">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A59:A70,"x")=0,"","x")'>x</td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per Child </td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts per Case/Episode</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="33">
+<td class="x76" height="31">x</td>
+<td class="x109">300</td>
+<td class="x110">300</td>
+<td class="x111">AVERAGE NUMBER OF VACCINATION VISITS PER CHILD IN FiRST LIFE-YEAR</td>
+<td class="x112">6</td>
+<td class="x112">1</td>
+<td class="x113" x:fmla="=E59*F59">6</td>
+<td class="x114"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B60,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">51</td>
+<td align="right" class="x115">55</td>
+<td class="x116">BCG - Single dose</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E60*F60">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B61,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">52</td>
+<td align="right" class="x115">56</td>
+<td class="x116">Polio - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E61*F61">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16"></td>
+<td class="x115"></td>
+<td class="x115"></td>
+<td class="x117">Pentavalent</td>
+<td class="x118"></td>
+<td class="x118"></td>
+<td class="x81"></td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B63,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">53</td>
+<td align="right" class="x115">57</td>
+<td class="x116">DPT - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E63*F63">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B64,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">54</td>
+<td align="right" class="x115">58</td>
+<td class="x116">Hib - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E64*F64">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B65,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">55</td>
+<td align="right" class="x115">59</td>
+<td class="x116">HepB - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E65*F65">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B66,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">56</td>
+<td align="right" class="x115">60</td>
+<td class="x116">Pneumococcal - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E66*F66">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B67,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">57</td>
+<td align="right" class="x115">61</td>
+<td class="x116">Rotavirus - Two doses</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E67*F67">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B68,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">58</td>
+<td align="right" class="x115">62</td>
+<td class="x116">Meningococcal A - Single dose</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E68*F68">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B69,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">59</td>
+<td align="right" class="x115">63</td>
+<td class="x116">Malaria vaccine - Three doses</td>
+<td class="x85">3</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E69*F69">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B70,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td align="right" class="x115">60</td>
+<td align="right" class="x115">64</td>
+<td class="x116">Measles - Single dose</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E70*F70">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A72:A82,"x")=0,"","x")'>x</td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per Patient per Case/Episode</td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts per Case/Episode</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16">x</td>
+<td class="x119">400</td>
+<td class="x119">400</td>
+<td class="x120">AVERAGE NUMBER OF SICK/WELL CHILD VISITS PER YEAR</td>
+<td class="x88">3</td>
+<td class="x88">1</td>
+<td class="x81" x:fmla="=E72*F72">3</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B73,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">61</td>
+<td class="x121">47</td>
+<td class="x122">Vitamin A supplementation</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E73*F73">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B74,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">62</td>
+<td class="x121">48</td>
+<td class="x122">Zinc supplementation</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E74*F74">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B75,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">63</td>
+<td class="x121">71</td>
+<td class="x122">ORS - Oral Rehydration Solution</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E75*F75">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B76,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">64</td>
+<td class="x121">72</td>
+<td class="x122">Antibiotics for treatment of dysentery</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E76*F76">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B77,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">65</td>
+<td class="x121">73</td>
+<td class="x122">Zinc for treatment of diarrhea</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E77*F77">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B78,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">66</td>
+<td class="x121">74</td>
+<td class="x122">Oral antibiotics for pneumonia</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E78*F78">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B79,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">67</td>
+<td class="x121">75</td>
+<td class="x122">Vitamin A for treatment of measles</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E79*F79">1</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B80,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)">x</td>
+<td class="x121">68</td>
+<td class="x121">76</td>
+<td class="x122">ACTs - Artemisinin compounds for treatment of malaria</td>
+<td class="x85">2</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E80*F80">2</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B81,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x123">69</td>
+<td class="x123">77</td>
+<td class="x124">SAM - treatment for severe acute malnutrition</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E81*F81">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B82,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x123">70</td>
+<td class="x123">78</td>
+<td class="x124">MAM - treatment for moderate acute malnutrition</td>
+<td class="x85">4</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E82*F82">4</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="53">
+<td class="x74" height="51" x:fmla='=IF(COUNTIF(A84:A84,"x")=0,"","x")'></td>
+<td class="x74">Int#</td>
+<td class="x75">LiST#</td>
+<td class="x75">Intervention</td>
+<td class="x75">Number of Visits per Patient per Case/Episode</td>
+<td class="x75">Number of Health Workers involved in each Visit</td>
+<td class="x75">Number of Health Worker Contacts per Case/Episode</td>
+<td class="x70"></td>
+</tr>
+<tr class="x70" height="18">
+<td class="x76" height="16" x:fmla="=IF(VLOOKUP(B84,'C:\Users\86135\Downloads\Country Excel Models\Country Excel Models\[Iraq Benefit Risk Analysis Model - Jan 25.xlsm]1. Select Services'!$A$6:$E$77,5,FALSE)=&quot;x&quot;,&quot;x&quot;,&quot;&quot;)"></td>
+<td class="x125">71</td>
+<td class="x126">54</td>
+<td class="x127">ITN/IRS - Households protected from malaria</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x81" x:fmla="=E84*F84">1</td>
+<td class="x70"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="3" width="0"></td>
+<td width="839"></td>
+<td width="85"></td>
+<td width="87"></td>
+<td width="100"></td>
+<td width="76"></td>
+</tr>
+<?endif?>
+</table>

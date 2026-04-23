@@ -1,0 +1,2186 @@
+{
+  "education-table06": {
+    "strategy": "direct",
+    "extracted_cols": 255,
+    "expected_cols": 256,
+    "schema_match": false
+  },
+  "education-table07": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "education-table09": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "education-table11": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "education-table12": {
+    "strategy": "direct",
+    "extracted_cols": 31,
+    "expected_cols": 31,
+    "schema_match": true
+  },
+  "economy-table05": {
+    "strategy": "direct",
+    "extracted_cols": 23,
+    "expected_cols": 23,
+    "schema_match": true
+  },
+  "economy-table06": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "economy-table07": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 19,
+    "schema_match": true
+  },
+  "economy-table08": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "education-table14": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 14,
+    "schema_match": false
+  },
+  "economy-table13": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "economy-table15": {
+    "strategy": "fixed",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "business-table03": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "economy-table25": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "employment-table28": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "health-table04": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "health-table05": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "business-table05": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "environment-table05": {
+    "strategy": "direct",
+    "extracted_cols": 40,
+    "expected_cols": 40,
+    "schema_match": true
+  },
+  "environment-table06": {
+    "strategy": "direct",
+    "extracted_cols": 40,
+    "expected_cols": 40,
+    "schema_match": true
+  },
+  "environment-table07": {
+    "strategy": "direct",
+    "extracted_cols": 40,
+    "expected_cols": 40,
+    "schema_match": true
+  },
+  "environment-table08": {
+    "strategy": "direct",
+    "extracted_cols": 34,
+    "expected_cols": 34,
+    "schema_match": true
+  },
+  "environment-table09": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "business-table06": {
+    "strategy": "fixed",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "business-table07": {
+    "strategy": "fixed",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "environment-table10": {
+    "strategy": "fixed",
+    "extracted_cols": 32,
+    "expected_cols": 32,
+    "schema_match": true
+  },
+  "health-table10": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 12,
+    "schema_match": false
+  },
+  "economy-table50": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "labor-table02": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "sport-table01": {
+    "strategy": "direct",
+    "extracted_cols": 34,
+    "expected_cols": 35,
+    "schema_match": false
+  },
+  "sport-table02": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "economy-table31": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 6,
+    "schema_match": false
+  },
+  "manufacture-table02": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "manufacture-table03": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "manufacture-table04": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table51": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 5,
+    "schema_match": false
+  },
+  "economy-table52": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "labor-table36": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 9,
+    "schema_match": false
+  },
+  "economy-table53": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "economy-table129": {
+    "strategy": "direct",
+    "extracted_cols": 2,
+    "expected_cols": 2,
+    "schema_match": true
+  },
+  "economy-table55": {
+    "strategy": "fixed",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "economy-table57": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "labor-table04": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "sport-table03": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "sport-table04": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "economy-table35": {
+    "strategy": "direct",
+    "extracted_cols": 2,
+    "expected_cols": 2,
+    "schema_match": true
+  },
+  "sport-table05": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "economy-table36": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "labor-table05": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "economy-table37": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "manufacture-table01": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "labor-table06": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "economy-table38": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "economy-table39": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "labor-table07": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table40": {
+    "strategy": "direct",
+    "extracted_cols": 73,
+    "expected_cols": 73,
+    "schema_match": true
+  },
+  "geography-table04": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 20,
+    "schema_match": true
+  },
+  "manufacture-table06": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "economy-table41": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 9,
+    "schema_match": false
+  },
+  "economy-table42": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table43": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "sport-table06": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "manufacture-table08": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "labor-table11": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "labor-table10": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 8,
+    "schema_match": false
+  },
+  "labor-table12": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "economy-table45": {
+    "strategy": "direct",
+    "extracted_cols": 37,
+    "expected_cols": 37,
+    "schema_match": true
+  },
+  "labor-table13": {
+    "strategy": "direct",
+    "extracted_cols": 34,
+    "expected_cols": 34,
+    "schema_match": true
+  },
+  "manufacture-table09": {
+    "strategy": "direct",
+    "extracted_cols": 49,
+    "expected_cols": 51,
+    "schema_match": false
+  },
+  "economy-table47": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "economy-table49": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "economy-table32": {
+    "strategy": "direct",
+    "extracted_cols": 23,
+    "expected_cols": 23,
+    "schema_match": true
+  },
+  "labor-table15": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "labor-table16": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "labor-table17": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 11,
+    "schema_match": false
+  },
+  "labor-table19": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "labor-table20": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 18,
+    "schema_match": true
+  },
+  "education-table15": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "food-table01": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "economy-table33": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "labor-table21": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "economy-table59": {
+    "strategy": "direct",
+    "extracted_cols": 27,
+    "expected_cols": 27,
+    "schema_match": true
+  },
+  "sport-table07": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "labor-table22": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "economy-table34": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "economy-table60": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "economy-table61": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "economy-table63": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "labor-table23": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "labor-table24": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "economy-table64": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "labor-table25": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "manufacture-table11": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "sport-table08": {
+    "strategy": "direct",
+    "extracted_cols": 27,
+    "expected_cols": 29,
+    "schema_match": false
+  },
+  "economy-table65": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "economy-table66": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "manufacture-table12": {
+    "strategy": "direct",
+    "extracted_cols": 253,
+    "expected_cols": 257,
+    "schema_match": false
+  },
+  "labor-table26": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "economy-table67": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "labor-table27": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table68": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "labor-table28": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "labor-table29": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "economy-table69": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "sport-table09": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table71": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table72": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "labor-table31": {
+    "strategy": "direct",
+    "extracted_cols": 64,
+    "expected_cols": 64,
+    "schema_match": true
+  },
+  "labor-table32": {
+    "strategy": "fixed",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "health-table12": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "health-table13": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "health-table14": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "sport-table10": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "economy-table73": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "manufacture-table15": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "labor-table33": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "sport-table11": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table74": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "education-table16": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 18,
+    "schema_match": true
+  },
+  "labor-table34": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "sport-table12": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "economy-table76": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "manufacture-table16": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table77": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 5,
+    "schema_match": false
+  },
+  "labor-table37": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "manufacture-table17": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "labor-table38": {
+    "strategy": "direct",
+    "extracted_cols": 38,
+    "expected_cols": 38,
+    "schema_match": true
+  },
+  "manufacture-table18": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "economy-table78": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "economy-table79": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "labor-table39": {
+    "strategy": "direct",
+    "extracted_cols": 129,
+    "expected_cols": 131,
+    "schema_match": false
+  },
+  "economy-table80": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table81": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "economy-table82": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table84": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table85": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table86": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "economy-table89": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "economy-table91": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "economy-table93": {
+    "strategy": "direct",
+    "extracted_cols": 51,
+    "expected_cols": 51,
+    "schema_match": true
+  },
+  "economy-table94": {
+    "strategy": "fixed",
+    "extracted_cols": 54,
+    "expected_cols": 54,
+    "schema_match": true
+  },
+  "economy-table95": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "economy-table96": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "economy-table97": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 20,
+    "schema_match": true
+  },
+  "environment-table11": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "environment-table15": {
+    "strategy": "direct",
+    "extracted_cols": 25,
+    "expected_cols": 25,
+    "schema_match": true
+  },
+  "environment-table16": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 18,
+    "schema_match": true
+  },
+  "environment-table17": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "environment-table18": {
+    "strategy": "fixed",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "environment-table19": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table110": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 15,
+    "schema_match": true
+  },
+  "economy-table111": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table112": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table113": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "economy-table114": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "economy-table115": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table05": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "science-table06": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "science-table07": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "science-table08": {
+    "strategy": "fixed",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table11": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "science-table12": {
+    "strategy": "fixed",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "science-table13": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "science-table14": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "science-table15": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table15": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "society-table16": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "society-table22": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "society-table24": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "society-table25": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "society-table27": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "society-table29": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "society-table30": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "society-table35": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 4,
+    "schema_match": false
+  },
+  "society-table36": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "society-table38": {
+    "strategy": "fixed",
+    "extracted_cols": 17,
+    "expected_cols": 22,
+    "schema_match": false
+  },
+  "society-table39": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table40": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table45": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "society-table46": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "society-table48": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "society-table49": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table50": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 8,
+    "schema_match": false
+  },
+  "education-table26": {
+    "strategy": "fixed",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "education-table27": {
+    "strategy": "fixed",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "education-table28": {
+    "strategy": "fixed",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "education-table29": {
+    "strategy": "fixed",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "education-table30": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 20,
+    "schema_match": true
+  },
+  "education-table31": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 20,
+    "schema_match": true
+  },
+  "society-table51": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "medical-table02": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "medical-table03": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "medical-table04": {
+    "strategy": "fixed",
+    "extracted_cols": 33,
+    "expected_cols": 33,
+    "schema_match": true
+  },
+  "medical-table05": {
+    "strategy": "fixed",
+    "extracted_cols": 33,
+    "expected_cols": 33,
+    "schema_match": true
+  },
+  "environment-table40": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "environment-table41": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "environment-table42": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "environment-table43": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "environment-table44": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table55": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "science-table22": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "science-table23": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "science-table24": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "science-table25": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "science-table26": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "science-table27": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table28": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table29": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table30": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "science-table32": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "science-table33": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "science-table34": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "science-table35": {
+    "strategy": "fixed",
+    "extracted_cols": 48,
+    "expected_cols": 48,
+    "schema_match": true
+  },
+  "science-table39": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "science-table40": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "science-table41": {
+    "strategy": "fixed",
+    "extracted_cols": 48,
+    "expected_cols": 48,
+    "schema_match": true
+  },
+  "science-table42": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "science-table43": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "science-table45": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 14,
+    "schema_match": false
+  },
+  "science-table46": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "science-table48": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "science-table49": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "health-table27": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "health-table28": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "health-table29": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "health-table31": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 17,
+    "schema_match": false
+  },
+  "health-table32": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 20,
+    "schema_match": false
+  },
+  "health-table34": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "health-table35": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 9,
+    "schema_match": false
+  },
+  "health-table36": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "health-table37": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "health-table38": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "health-table39": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "health-table40": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 10,
+    "schema_match": false
+  },
+  "health-table41": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "health-table43": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "health-table44": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 17,
+    "schema_match": false
+  },
+  "environment-table32": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "environment-table33": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "environment-table34": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 5,
+    "schema_match": true
+  },
+  "environment-table35": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "health-table15": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "health-table16": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "health-table17": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "health-table18": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "environment-table38": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "food-table02": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "food-table03": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "food-table04": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "food-table05": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "food-table06": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "food-table07": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "education-table17": {
+    "strategy": "direct",
+    "extracted_cols": 25,
+    "expected_cols": 25,
+    "schema_match": true
+  },
+  "biology-table03": {
+    "strategy": "fixed",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "biology-table07": {
+    "strategy": "fixed",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "food-table08": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "food-table09": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "society-table08": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "society-table09": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "society-table06": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "society-table07": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "society-table10": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "energy-table06": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 14,
+    "schema_match": true
+  },
+  "health-table19": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "environment-table36": {
+    "strategy": "direct",
+    "extracted_cols": 18,
+    "expected_cols": 18,
+    "schema_match": true
+  },
+  "environment-table37": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "education-table20": {
+    "strategy": "direct",
+    "extracted_cols": 33,
+    "expected_cols": 33,
+    "schema_match": true
+  },
+  "education-table23": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "food-table10": {
+    "strategy": "direct",
+    "extracted_cols": 20,
+    "expected_cols": 20,
+    "schema_match": true
+  },
+  "food-table12": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 21,
+    "schema_match": true
+  },
+  "health-table48": {
+    "strategy": "direct",
+    "extracted_cols": 34,
+    "expected_cols": 34,
+    "schema_match": true
+  },
+  "agriculture-table06": {
+    "strategy": "fixed",
+    "extracted_cols": 129,
+    "expected_cols": 129,
+    "schema_match": true
+  },
+  "agriculture-table07": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "agriculture-table08": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "education-table36": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "economy-table104": {
+    "strategy": "direct",
+    "extracted_cols": 21,
+    "expected_cols": 22,
+    "schema_match": false
+  },
+  "economy-table108": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "society-table12": {
+    "strategy": "direct",
+    "extracted_cols": 33,
+    "expected_cols": 33,
+    "schema_match": true
+  },
+  "society-table13": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "economy-table109": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 12,
+    "schema_match": false
+  },
+  "education-table24": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "education-table25": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "labor-table65": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "labor-table58": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "labor-table55": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "labor-table53": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "labor-table59": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "labor-table61": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "religion-table07": {
+    "strategy": "fixed",
+    "extracted_cols": 19,
+    "expected_cols": 19,
+    "schema_match": true
+  },
+  "religion-table09": {
+    "strategy": "fixed",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "religion-table02": {
+    "strategy": "fixed",
+    "extracted_cols": 27,
+    "expected_cols": 9,
+    "schema_match": false
+  },
+  "religion-table04": {
+    "strategy": "fixed",
+    "extracted_cols": 23,
+    "expected_cols": 23,
+    "schema_match": true
+  },
+  "business-table15": {
+    "strategy": "direct",
+    "extracted_cols": 31,
+    "expected_cols": 31,
+    "schema_match": true
+  },
+  "society-table57": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "society-table58": {
+    "strategy": "direct",
+    "extracted_cols": 14,
+    "expected_cols": 17,
+    "schema_match": false
+  },
+  "society-table59": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "society-table60": {
+    "strategy": "direct",
+    "extracted_cols": 31,
+    "expected_cols": 34,
+    "schema_match": false
+  },
+  "society-table62": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 14,
+    "schema_match": false
+  },
+  "economy-table116": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "society-table65": {
+    "strategy": "direct",
+    "extracted_cols": 29,
+    "expected_cols": 29,
+    "schema_match": true
+  },
+  "business-table13": {
+    "strategy": "direct",
+    "extracted_cols": 30,
+    "expected_cols": 31,
+    "schema_match": false
+  },
+  "business-table11": {
+    "strategy": "direct",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "society-table69": {
+    "strategy": "direct",
+    "extracted_cols": 23,
+    "expected_cols": 23,
+    "schema_match": true
+  },
+  "society-table74": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 14,
+    "schema_match": false
+  },
+  "society-table75": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "sport-table13": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 17,
+    "schema_match": true
+  },
+  "productivity-table08": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "productivity-table07": {
+    "strategy": "direct",
+    "extracted_cols": 4,
+    "expected_cols": 4,
+    "schema_match": true
+  },
+  "labor-table42": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "labor-table43": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "manufacture-table19": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "labor-table44": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "labor-table45": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table119": {
+    "strategy": "direct",
+    "extracted_cols": 2,
+    "expected_cols": 2,
+    "schema_match": true
+  },
+  "economy-table120": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table121": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "manufacture-table20": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 13,
+    "schema_match": true
+  },
+  "labor-table46": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 8,
+    "schema_match": true
+  },
+  "economy-table122": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "education-table32": {
+    "strategy": "direct",
+    "extracted_cols": 40,
+    "expected_cols": 40,
+    "schema_match": true
+  },
+  "education-table33": {
+    "strategy": "direct",
+    "extracted_cols": 26,
+    "expected_cols": 26,
+    "schema_match": true
+  },
+  "labor-table47": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 14,
+    "schema_match": false
+  },
+  "labor-table48": {
+    "strategy": "direct",
+    "extracted_cols": 11,
+    "expected_cols": 11,
+    "schema_match": true
+  },
+  "economy-table123": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "manufacture-table21": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "education-table34": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "economy-table124": {
+    "strategy": "direct",
+    "extracted_cols": 6,
+    "expected_cols": 6,
+    "schema_match": true
+  },
+  "economy-table125": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table126": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "economy-table127": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "manufacture-table22": {
+    "strategy": "direct",
+    "extracted_cols": 7,
+    "expected_cols": 7,
+    "schema_match": true
+  },
+  "economy-table128": {
+    "strategy": "direct",
+    "extracted_cols": 16,
+    "expected_cols": 16,
+    "schema_match": true
+  },
+  "labor-table49": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "labor-table50": {
+    "strategy": "direct",
+    "extracted_cols": 28,
+    "expected_cols": 28,
+    "schema_match": true
+  },
+  "labor-table51": {
+    "strategy": "direct",
+    "extracted_cols": 3,
+    "expected_cols": 3,
+    "schema_match": true
+  },
+  "science-table52": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "science-table53": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "science-table54": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 10,
+    "schema_match": true
+  },
+  "society-table79": {
+    "strategy": "direct",
+    "extracted_cols": 22,
+    "expected_cols": 22,
+    "schema_match": true
+  },
+  "society-table80": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 9,
+    "schema_match": true
+  },
+  "science-table55": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 12,
+    "schema_match": true
+  },
+  "science-table56": {
+    "strategy": "fixed",
+    "extracted_cols": 197,
+    "expected_cols": 197,
+    "schema_match": true
+  },
+  "environment-table45": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "environment-table46": {
+    "strategy": "direct",
+    "extracted_cols": 15,
+    "expected_cols": 16,
+    "schema_match": false
+  },
+  "science-table57": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "science-table58": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "science-table59": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 20,
+    "schema_match": false
+  },
+  "science-table60": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 20,
+    "schema_match": false
+  },
+  "science-table61": {
+    "strategy": "direct",
+    "extracted_cols": 17,
+    "expected_cols": 19,
+    "schema_match": false
+  },
+  "science-table63": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 11,
+    "schema_match": false
+  },
+  "science-table64": {
+    "strategy": "direct",
+    "extracted_cols": 10,
+    "expected_cols": 11,
+    "schema_match": false
+  },
+  "science-table65": {
+    "strategy": "direct",
+    "extracted_cols": 12,
+    "expected_cols": 13,
+    "schema_match": false
+  },
+  "science-table66": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 10,
+    "schema_match": false
+  },
+  "science-table67": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 10,
+    "schema_match": false
+  },
+  "science-table68": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 10,
+    "schema_match": false
+  },
+  "science-table69": {
+    "strategy": "direct",
+    "extracted_cols": 8,
+    "expected_cols": 10,
+    "schema_match": false
+  },
+  "science-table70": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "science-table71": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "science-table72": {
+    "strategy": "direct",
+    "extracted_cols": 13,
+    "expected_cols": 15,
+    "schema_match": false
+  },
+  "science-table73": {
+    "strategy": "direct",
+    "extracted_cols": 5,
+    "expected_cols": 7,
+    "schema_match": false
+  },
+  "science-table75": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "science-table76": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "science-table77": {
+    "strategy": "direct",
+    "extracted_cols": 19,
+    "expected_cols": 21,
+    "schema_match": false
+  },
+  "science-table78": {
+    "strategy": "direct",
+    "extracted_cols": 9,
+    "expected_cols": 11,
+    "schema_match": false
+  }
+}

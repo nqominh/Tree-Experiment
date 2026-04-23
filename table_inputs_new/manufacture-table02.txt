@@ -1,0 +1,250 @@
+[COLUMN STRUCTURE]
+Parameter
+Canon R5
+Nikon Z50
+Brand & Model
+
+[ROW STRUCTURE]
+Body
+Type
+  SLR Mirrorless
+Material
+  Magnesium
+Sensor
+Max Resolution
+  8,192 x 5,464
+    5,568 x 3,712
+Image Ratio
+  0.67291666666667
+Effective Pixels
+  45 MP
+    21 MP
+Sensor Size
+  Full Frame
+    APS-C
+Image
+ISO
+  100 - 51,200
+Boosted
+  Minimum
+    50
+      -
+  Maximum
+    102400
+      204800
+  WB Presets
+    8
+      -
+  Image Stabilization
+    Yes
+      No
+Optics & Focus
+Autofocus
+  Phase AF
+    Contrast
+Digital Zoom
+  Yes
+    No
+Manual Focus
+  Yes
+Number of Focus Point
+  1053
+    209
+Screen
+Size
+  3.2"
+Dots
+  2.1k
+    1.04k
+Touch Screen
+  Yes
+Viewfinder Type
+  Electronic
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="2">Parameter</td>
+<td class="column2 style6 s">Canon R5</td>
+<td class="column3 style6 s">Nikon Z50</td>
+<td class="column4 style6 s">Brand &amp; Model</td>
+<td class="column5 style6 s">Brand &amp; Model</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style2" colspan="2">Body</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 s style3" colspan="2">Type</td>
+<td class="column2 style7 s">SLR Mirrorless</td>
+<td class="column3 style7 s">SLR Mirrorless</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 s style3" colspan="2">Material</td>
+<td class="column2 style7 s">Magnesium</td>
+<td class="column3 style7 s">Magnesium</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 s style2" colspan="2">Sensor</td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 null"></td>
+<td class="column4 style8 null"></td>
+<td class="column5 style8 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style3 s style3" colspan="2">Max Resolution</td>
+<td class="column2 style7 s">8,192 x 5,464</td>
+<td class="column3 style7 s">5,568 x 3,712</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style3 s style3" colspan="2">Image Ratio</td>
+<td class="column2 style7 n">0.67291666666667</td>
+<td class="column3 style7 n">0.67291666666667</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style3 s style3" colspan="2">Effective Pixels</td>
+<td class="column2 style7 s">45 MP</td>
+<td class="column3 style7 s">21 MP</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style3 s style3" colspan="2">Sensor Size</td>
+<td class="column2 style7 s">Full Frame</td>
+<td class="column3 style7 s">APS-C</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 s style2" colspan="2">Image </td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 null"></td>
+<td class="column4 style8 null"></td>
+<td class="column5 style8 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style3 s style3" colspan="2">ISO</td>
+<td class="column2 style7 s">100 - 51,200</td>
+<td class="column3 style7 s">100 - 51,200</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style3 s style3" rowspan="4">Boosted</td>
+<td class="column1 style5 s">Minimum</td>
+<td class="column2 style7 n">50</td>
+<td class="column3 style7 s">-</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row12">
+<td class="column1 style5 s">Maximum</td>
+<td class="column2 style7 n">102400</td>
+<td class="column3 style7 n">204800</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row13">
+<td class="column1 style5 s">WB Presets</td>
+<td class="column2 style7 n">8</td>
+<td class="column3 style7 s">-</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row14">
+<td class="column1 style5 s">Image Stabilization</td>
+<td class="column2 style7 s">Yes</td>
+<td class="column3 style7 s">No</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style2 s style2" colspan="2">Optics &amp; Focus</td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 null"></td>
+<td class="column4 style8 null"></td>
+<td class="column5 style8 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style3 s style3" colspan="2">Autofocus</td>
+<td class="column2 style7 s">Phase AF</td>
+<td class="column3 style7 s">Contrast</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style3 s style3" colspan="2">Digital Zoom</td>
+<td class="column2 style7 s">Yes</td>
+<td class="column3 style7 s">No</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style3 s style3" colspan="2">Manual Focus</td>
+<td class="column2 style7 s">Yes</td>
+<td class="column3 style7 s">Yes</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style3 s style3" colspan="2">Number of Focus Point</td>
+<td class="column2 style7 n">1053</td>
+<td class="column3 style7 n">209</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 s style2" colspan="2">Screen</td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 null"></td>
+<td class="column4 style8 null"></td>
+<td class="column5 style8 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style3 s style3" colspan="2">Size</td>
+<td class="column2 style7 s">3.2"</td>
+<td class="column3 style7 s">3.2"</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style3 s style3" colspan="2">Dots</td>
+<td class="column2 style7 s">2.1k</td>
+<td class="column3 style7 s">1.04k</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row23">
+<td class="column0 style3 s style3" colspan="2">Touch Screen</td>
+<td class="column2 style7 s">Yes</td>
+<td class="column3 style7 s">Yes</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+<tr class="row24">
+<td class="column0 style3 s style3" colspan="2">Viewfinder Type</td>
+<td class="column2 style7 s">Electronic</td>
+<td class="column3 style7 s">Electronic</td>
+<td class="column4 style7 s"></td>
+<td class="column5 style7 s"></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,174 @@
+[COLUMN STRUCTURE]
+A
+  TOTAL
+    B
+      TOTAL
+        C
+A01101
+  A01158
+    A01202
+      A01203
+        A01207
+          TOTAL
+            A01101
+              A01158
+                A01202
+                  A01203
+                    A01207
+                      TOTAL
+                        A01101
+21,051,960
+  1,337,120
+    31,507,272
+      39,588,720
+        2,687,400
+          96,172,472
+            31,336,020
+              0
+                25,717,440
+                  42,072,852
+                    2,745,000
+                      101,871,312
+                        3,924,390
+
+[ROW STRUCTURE]
+C
+  A01158
+  A01202
+  A01203
+  A01207
+TOTAL
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 null"></td>
+<td class="column1 style14 s style14" colspan="3">Actual Table</td>
+<td class="column4 style3 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 s style9" rowspan="5">A</td>
+<td class="column2 style4 s">A01101</td>
+<td class="column3 style1 n">  21,051,960 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01158</td>
+<td class="column3 style1 n">  1,337,120 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01202</td>
+<td class="column3 style1 n">  31,507,272 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01203</td>
+<td class="column3 style1 n">  39,588,720 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01207</td>
+<td class="column3 style1 n">  2,687,400 </td>
+<td class="column4 style5 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 null"></td>
+<td class="column1 style10 s style11" colspan="2">TOTAL</td>
+<td class="column3 style6 f">  96,172,472 </td>
+<td class="column4 style5 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 s style9" rowspan="5">B</td>
+<td class="column2 style4 s">A01101</td>
+<td class="column3 style1 n">  31,336,020 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01158</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01202</td>
+<td class="column3 style1 n">  25,717,440 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01203</td>
+<td class="column3 style1 n">  42,072,852 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01207</td>
+<td class="column3 style1 n">  2,745,000 </td>
+<td class="column4 style5 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 null"></td>
+<td class="column1 style10 s style11" colspan="2">TOTAL</td>
+<td class="column3 style6 f">  101,871,312 </td>
+<td class="column4 style5 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style2 null"></td>
+<td class="column1 style7 s style9" rowspan="5">C</td>
+<td class="column2 style4 s">A01101</td>
+<td class="column3 style1 n">  3,924,390 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01158</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01202</td>
+<td class="column3 style1 n">  497,760 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01203</td>
+<td class="column3 style1 n">  514,452 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style2 null"></td>
+<td class="column2 style4 s">A01207</td>
+<td class="column3 style1 n">  10,800 </td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 null"></td>
+<td class="column1 style12 s style13" colspan="2">TOTAL</td>
+<td class="column3 style6 f">  4,947,402 </td>
+<td class="column4 style2 null"></td>
+</tr>
+</tbody>
+</table>

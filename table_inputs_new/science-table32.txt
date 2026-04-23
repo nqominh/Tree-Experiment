@@ -1,0 +1,128 @@
+[COLUMN STRUCTURE]
+Mouse #1
+Mouse #2
+Mouse #3
+
+[ROW STRUCTURE]
+Age (months)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null style1" rowspan="2"></td>
+<td class="column1 style2 s style2" colspan="6"><span>Interductal segment length (</span><span>µm)</span></td>
+</tr>
+<tr class="row1">
+<td class="column1 style3 s style1" colspan="2">Mouse #1</td>
+<td class="column3 style3 s style1" colspan="2">Mouse #2</td>
+<td class="column5 style3 s style1" colspan="2">Mouse #3</td>
+</tr>
+<tr class="row2">
+<td class="column0 style0 s">Age (months)</td>
+<td class="column1 style0 n">3</td>
+<td class="column2 style0 n">6</td>
+<td class="column3 style0 n">3</td>
+<td class="column4 style0 n">6</td>
+<td class="column5 style0 n">3</td>
+<td class="column6 style0 n">6</td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">633</td>
+<td class="column2 style5 n">552</td>
+<td class="column3 style5 n">1376</td>
+<td class="column4 style5 n">1267</td>
+<td class="column5 style5 n">333</td>
+<td class="column6 style5 n">390</td>
+</tr>
+<tr class="row4">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">2102</td>
+<td class="column2 style5 n">1163</td>
+<td class="column3 style5 n">739</td>
+<td class="column4 style5 n">822</td>
+<td class="column5 style5 n">1628</td>
+<td class="column6 style5 n">1932</td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">1056</td>
+<td class="column2 style5 n">961</td>
+<td class="column3 style5 n">333</td>
+<td class="column4 style5 n">380</td>
+<td class="column5 style5 n">671</td>
+<td class="column6 style5 n">781</td>
+</tr>
+<tr class="row6">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">2387</td>
+<td class="column2 style5 n">2063</td>
+<td class="column3 style5 n">949</td>
+<td class="column4 style5 n">871</td>
+<td class="column5 style5 n">931</td>
+<td class="column6 style5 n">593</td>
+</tr>
+<tr class="row7">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">1563</td>
+<td class="column2 style5 n">2372</td>
+<td class="column3 style5 n">1352</td>
+<td class="column4 style5 n">1500</td>
+<td class="column5 style5 n">746</td>
+<td class="column6 style5 n">829</td>
+</tr>
+<tr class="row8">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">876</td>
+<td class="column2 style5 n">789</td>
+<td class="column3 style5 n">691</td>
+<td class="column4 style5 n">1249</td>
+<td class="column5 style5 n">439</td>
+<td class="column6 style5 n">555</td>
+</tr>
+<tr class="row9">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">1713</td>
+<td class="column2 style5 n">1782</td>
+<td class="column3 style5 n">1260</td>
+<td class="column4 style5 n">1231</td>
+<td class="column5 style5 n">178</td>
+<td class="column6 style5 n">199</td>
+</tr>
+<tr class="row10">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">463</td>
+<td class="column2 style5 n">382</td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style5 n">155</td>
+<td class="column6 style5 n">183</td>
+</tr>
+<tr class="row11">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 n">1260</td>
+<td class="column2 style5 n">1129</td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style5 n">1221</td>
+<td class="column6 style5 n">1325</td>
+</tr>
+<tr class="row12">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style5 n">985</td>
+<td class="column6 style5 n">1095</td>
+</tr>
+</tbody>
+</table>

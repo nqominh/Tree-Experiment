@@ -1,0 +1,1047 @@
+[COLUMN STRUCTURE]
+NOW Magazine
+  Job #
+  Artist
+24-Jul-14
+  Venue
+  Date
+Col
+  242.3
+    col
+Height
+  534.5
+    mm
+2/5 Page
+  2,473.5
+    mm
+Cost:
+  Share
+    mm
+$ 1,720.00
+  Cost
+    mm
+
+[ROW STRUCTURE]
+EM2058
+  Corona Sunsets
+    Centre Island
+      16-Aug-14
+WI2253
+  Fool's Gold Day Off
+    Sherbourne Common
+      6-Sep-14
+LA2035
+  Ditybird BBQ
+    Sherbourne Common
+      7-Sep-14
+WI2256
+  Flying Lotus
+    The Danforth
+      21-Oct-14
+WI2242
+  Wave Racer
+    Studio Bar
+      9-Aug-14
+MD2006
+  Mad Decent Block Party
+    Fort York
+      15-Aug-14
+WI2250
+  Mr. Scruff
+    Wrongbar
+      20-Aug-14
+PR2023
+  Swear & Shake
+    The Drake
+      22-Aug-14
+AM2214
+  Waterfront Beach Festival
+    HTO Park
+      23-Aug-14
+CA2041
+  The Chainsmokers
+    The Hoxton
+      12-Sep-14
+PR2024
+  moe.
+    The Mod Club
+      16-Sep-14
+AP2023
+  GBH
+    Hard Luck Bar
+      22-Sep-14
+HR2008
+  Woman's Hour
+    The Drake
+      6-Oct-14
+AM2215
+  Tokimonsta
+    The Drake
+      9-Oct-14
+WM2067
+  The Orwells
+    The Mod Club
+      11-Oct-14
+AG2064
+  Boy & Bear
+    Queen Elizabeth Theatre
+      18-Oct-14
+WI2243
+  Fat White Family
+    Hard Luck Bar
+      22-Oct-14
+WM2070
+  Lewis Watson
+    The Mod Club
+      26-Oct-14
+PR2025
+  Twin Peaks
+    Hard Luck Bar
+      28-Oct-14
+WI2234
+  The Danforth
+    30-Jul-14
+SE2011
+  Cam'ron
+    The Danforth
+      16-Aug-14
+WI2237
+  Chet Faker
+    The Danforth
+      13-Sep-14
+PR2020
+  Clean Bandit
+    The Danforth
+      15-Sep-14
+PB2015
+  Ty Segall
+    The Danforth
+      21-Sep-14
+AG2065
+  Constantines
+    The Danforth
+      2-Oct-14
+AG2066
+  54-40 & Grapes of Wrath
+    The Danforth
+      4-Oct-14
+AG2063
+  Airbourne
+    The Danforth
+      9-Oct-14
+WI2246
+  Trust
+    The Danforth
+      10-Oct-14
+FM2008
+  Big Wreck
+    The Danforth
+      16-Oct-14
+FM2010
+  Big Wreck
+    The Danforth
+      17-Oct-14
+PB2016
+  Mac Demarco
+    The Danforth
+      6-Nov-14
+AG2055
+  A Tribe Called Red
+    The Danforth
+      7-Nov-14
+WI2217
+  Peter Hook & The Light
+    The Danforth
+      11-Nov-14
+WI2249
+  London Grammar
+    The Danforth
+      19-Nov-14
+AG2068
+  Buck 65
+    The Danforth
+      21-Nov-14
+AM2194
+  Hudson Mohawke
+    The Hoxton
+      25-Jul-14
+AM2204
+  Mercer
+    The Hoxton
+      26-Jul-14
+AM2205
+  Gesaffelstein
+    The Hoxton
+      1-Aug-14
+WI2232
+  Jagwar Ma
+    The Hoxton
+      2-Aug-14
+AM2216
+  Samo Soundboy
+    The Hoxton
+      8-Aug-14]
+PR2021
+  Dizzy Wright
+    The Hoxton
+      10-Aug-14
+AM2217
+  Bassjackers
+    The Hoxton
+      14-Aug-14
+WI2238
+  Kill Paris
+    The Hoxton
+      22-Aug-14
+WI2244
+  Mount Kimbie
+    The Hoxton
+      29-Aug-14
+AM2211
+  Tchami
+    The Hoxton
+      5-Sep-14
+WI2245
+  Metronomy
+    The Hoxton
+      10-Sep-14
+AP2022
+  Vinai
+    The Hoxton
+      20-Sep-14
+FM2009
+  Hilltop Hoods
+    The Hoxton
+      25-Sep-14
+WI2240
+  Yacht
+    The Hoxton
+      26-Sep-14
+WI2241
+  MO
+    The Hoxton
+      28-Sep-14
+WI2254
+  Rusko
+    The Hoxton
+      3-Oct-14
+PR2026
+  Charli XCX
+    The Hoxton
+      10-Oct-14
+WI2251
+  RJD2
+    The Hoxton
+      14-Nov-14
+EI2010
+  Electric Island
+    Centre Island
+      4-Aug-14
+SU2011
+  New Kanada w/ Graze
+    Coda
+      26-Jul-14
+BB2008
+  Steve Lawler
+    Coda
+      22-Aug-14
+WI2236
+  Com Truise
+    Coda
+      18-Sep-14
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s">NOW Magazine</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style4 n">24-Jul-14</td>
+<td class="column3 style5 null"></td>
+<td class="column4 style5 s">Col</td>
+<td class="column5 style5 s">Height</td>
+<td class="column6 style47 s">2/5 Page</td>
+<td class="column7 style27 s">Cost:</td>
+<td class="column8 style42 n"> $ 1,720.00 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style6 s">Job #</td>
+<td class="column1 style6 s">Artist</td>
+<td class="column2 style7 s">Venue</td>
+<td class="column3 style7 s">Date</td>
+<td class="column4 style28 f">242.3</td>
+<td class="column5 style28 f">534.5</td>
+<td class="column6 style28 f">2,473.5</td>
+<td class="column7 style29 s">Share</td>
+<td class="column8 style43 s">Cost</td>
+<td class="column9"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style8 null"></td>
+<td class="column1 style8 null"></td>
+<td class="column2 style9 null"></td>
+<td class="column3 style9 null"></td>
+<td class="column4 style30 s">col</td>
+<td class="column5 style30 s">mm</td>
+<td class="column6 style30 null"></td>
+<td class="column7 style31 null"></td>
+<td class="column8 style44 null"></td>
+<td class="column9"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style10 s">EM2058</td>
+<td class="column1 style11 s">Corona Sunsets</td>
+<td class="column2 style12 s">Centre Island</td>
+<td class="column3 style13 n">16-Aug-14</td>
+<td class="column4 style32 n">8.5</td>
+<td class="column5 style32 n">87.5</td>
+<td class="column6 style33 f">743.8</td>
+<td class="column7 style34 f">30.1%</td>
+<td class="column8 style45 f"> $ 517.18 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style14 s">WI2253</td>
+<td class="column1 style11 s">Fool's Gold Day Off</td>
+<td class="column2 style15 s">Sherbourne Common</td>
+<td class="column3 style16 n">6-Sep-14</td>
+<td class="column4 style35 n">2.5</td>
+<td class="column5 style35 n">40.0</td>
+<td class="column6 style33 f">100.0</td>
+<td class="column7 style34 f">4.0%</td>
+<td class="column8 style45 f"> $ 69.54 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style14 s">LA2035</td>
+<td class="column1 style11 s">Ditybird BBQ</td>
+<td class="column2 style15 s">Sherbourne Common</td>
+<td class="column3 style16 n">7-Sep-14</td>
+<td class="column4 style35 n">2.5</td>
+<td class="column5 style35 n">40.0</td>
+<td class="column6 style33 f">100.0</td>
+<td class="column7 style34 f">4.0%</td>
+<td class="column8 style45 f"> $ 69.54 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style10 s">WI2256</td>
+<td class="column1 style11 s">Flying Lotus</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">21-Oct-14</td>
+<td class="column4 style32 n">3.5</td>
+<td class="column5 style32 n">40.0</td>
+<td class="column6 style33 f">140.0</td>
+<td class="column7 style34 f">5.7%</td>
+<td class="column8 style45 f"> $ 97.35 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style17 s">WI2242</td>
+<td class="column1 style18 s">Wave Racer</td>
+<td class="column2 style19 s">Studio Bar</td>
+<td class="column3 style20 n">9-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style17 s">MD2006</td>
+<td class="column1 style18 s">Mad Decent Block Party</td>
+<td class="column2 style19 s">Fort York</td>
+<td class="column3 style20 n">15-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style33 n">7.0</td>
+<td class="column6 style33 f">29.8</td>
+<td class="column7 style34 f">1.2%</td>
+<td class="column8 style45 f"> $ 20.69 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style17 s">WI2250</td>
+<td class="column1 style18 s">Mr. Scruff</td>
+<td class="column2 style19 s">Wrongbar</td>
+<td class="column3 style20 n">20-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style37 n">5.0</td>
+<td class="column6 style33 f">21.3</td>
+<td class="column7 style34 f">0.9%</td>
+<td class="column8 style45 f"> $ 14.78 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style17 s">PR2023</td>
+<td class="column1 style18 s">Swear &amp; Shake</td>
+<td class="column2 style19 s">The Drake</td>
+<td class="column3 style20 n">22-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style37 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style17 s">AM2214</td>
+<td class="column1 style18 s">Waterfront Beach Festival</td>
+<td class="column2 style19 s">HTO Park</td>
+<td class="column3 style20 n">23-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style37 n">6.0</td>
+<td class="column6 style33 f">25.5</td>
+<td class="column7 style34 f">1.0%</td>
+<td class="column8 style45 f"> $ 17.73 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style14 s">CA2041</td>
+<td class="column1 style11 s">The Chainsmokers</td>
+<td class="column2 style15 s">The Hoxton</td>
+<td class="column3 style16 n">12-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style17 s">PR2024</td>
+<td class="column1 style18 s">moe.</td>
+<td class="column2 style19 s">The Mod Club</td>
+<td class="column3 style20 n">16-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style37 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style14 s">AP2023</td>
+<td class="column1 style11 s">GBH</td>
+<td class="column2 style15 s">Hard Luck Bar</td>
+<td class="column3 style16 n">22-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style17 s">HR2008</td>
+<td class="column1 style18 s">Woman's Hour</td>
+<td class="column2 style19 s">The Drake</td>
+<td class="column3 style20 n">6-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style17 s">AM2215</td>
+<td class="column1 style21 s">Tokimonsta</td>
+<td class="column2 style19 s">The Drake</td>
+<td class="column3 style20 n">9-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style17 s">WM2067</td>
+<td class="column1 style21 s">The Orwells</td>
+<td class="column2 style19 s">The Mod Club</td>
+<td class="column3 style20 n">11-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style10 s">AG2064</td>
+<td class="column1 style11 s">Boy &amp; Bear</td>
+<td class="column2 style12 s">Queen Elizabeth Theatre</td>
+<td class="column3 style13 n">18-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style17 s">WI2243</td>
+<td class="column1 style21 s">Fat White Family</td>
+<td class="column2 style19 s">Hard Luck Bar</td>
+<td class="column3 style20 n">22-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style14 s">WM2070</td>
+<td class="column1 style11 s">Lewis Watson</td>
+<td class="column2 style15 s">The Mod Club</td>
+<td class="column3 style16 n">26-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style10 s">PR2025</td>
+<td class="column1 style11 s">Twin Peaks</td>
+<td class="column2 style12 s">Hard Luck Bar</td>
+<td class="column3 style13 n">28-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style14 s">WI2234</td>
+<td class="column1 style11 s"> </td>
+<td class="column2 style15 s">The Danforth</td>
+<td class="column3 style16 n">30-Jul-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style14 s">SE2011</td>
+<td class="column1 style11 s">Cam'ron</td>
+<td class="column2 style15 s">The Danforth</td>
+<td class="column3 style16 n">16-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style10 s">WI2237</td>
+<td class="column1 style11 s">Chet Faker</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">13-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style10 s">PR2020</td>
+<td class="column1 style11 s">Clean Bandit</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">15-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style10 s">PB2015</td>
+<td class="column1 style11 s">Ty Segall</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">21-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style10 s">AG2065</td>
+<td class="column1 style11 s">Constantines</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">2-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">6.0</td>
+<td class="column6 style33 f">25.5</td>
+<td class="column7 style34 f">1.0%</td>
+<td class="column8 style45 f"> $ 17.73 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style10 s">AG2066</td>
+<td class="column1 style11 s">54-40 &amp; Grapes of Wrath</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">4-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style10 s">AG2063</td>
+<td class="column1 style11 s">Airbourne</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">9-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style10 s">WI2246</td>
+<td class="column1 style11 s">Trust</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">10-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style10 s">FM2008</td>
+<td class="column1 style11 s">Big Wreck</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">16-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">3.0</td>
+<td class="column6 style33 f">12.8</td>
+<td class="column7 style34 f">0.5%</td>
+<td class="column8 style45 f"> $ 8.87 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style10 s">FM2010</td>
+<td class="column1 style11 s">Big Wreck</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">17-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">3.0</td>
+<td class="column6 style33 f">12.8</td>
+<td class="column7 style34 f">0.5%</td>
+<td class="column8 style45 f"> $ 8.87 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style10 s">PB2016</td>
+<td class="column1 style11 s">Mac Demarco</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">6-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style10 s">AG2055</td>
+<td class="column1 style11 s">A Tribe Called Red</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">7-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style10 s">WI2217</td>
+<td class="column1 style11 s">Peter Hook &amp; The Light</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">11-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style14 s">WI2249</td>
+<td class="column1 style11 s">London Grammar</td>
+<td class="column2 style15 s">The Danforth</td>
+<td class="column3 style16 n">19-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style10 s">AG2068</td>
+<td class="column1 style11 s">Buck 65</td>
+<td class="column2 style12 s">The Danforth</td>
+<td class="column3 style13 n">21-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style10 s">AM2194</td>
+<td class="column1 style11 s">Hudson Mohawke</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">25-Jul-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style10 s">AM2204</td>
+<td class="column1 style11 s">Mercer</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">26-Jul-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style10 s">AM2205</td>
+<td class="column1 style11 s">Gesaffelstein</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">1-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style10 s">WI2232</td>
+<td class="column1 style11 s">Jagwar Ma</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">2-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row42">
+<td class="column0 style10 s">AM2216</td>
+<td class="column1 style11 s">Samo Soundboy</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 s">8-Aug-14]</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row43">
+<td class="column0 style10 s">PR2021</td>
+<td class="column1 style11 s">Dizzy Wright</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">10-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row44">
+<td class="column0 style10 s">AM2217</td>
+<td class="column1 style11 s">Bassjackers</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">14-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row45">
+<td class="column0 style10 s">WI2238</td>
+<td class="column1 style11 s">Kill Paris</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">22-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row46">
+<td class="column0 style22 s">WI2244</td>
+<td class="column1 style11 s">Mount Kimbie</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">29-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row47">
+<td class="column0 style22 s">AM2211</td>
+<td class="column1 style11 s">Tchami</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">5-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row48">
+<td class="column0 style22 s">WI2245</td>
+<td class="column1 style11 s">Metronomy</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">10-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row49">
+<td class="column0 style22 s">AP2022</td>
+<td class="column1 style11 s">Vinai</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">20-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row50">
+<td class="column0 style22 s">FM2009</td>
+<td class="column1 style11 s">Hilltop Hoods</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">25-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row51">
+<td class="column0 style22 s">WI2240</td>
+<td class="column1 style11 s">Yacht</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">26-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row52">
+<td class="column0 style10 s">WI2241</td>
+<td class="column1 style11 s">MO</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">28-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row53">
+<td class="column0 style22 s">WI2254</td>
+<td class="column1 style11 s">Rusko</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">3-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row54">
+<td class="column0 style22 s">PR2026</td>
+<td class="column1 style11 s">Charli XCX</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">10-Oct-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row55">
+<td class="column0 style22 s">WI2251</td>
+<td class="column1 style11 s">RJD2</td>
+<td class="column2 style12 s">The Hoxton</td>
+<td class="column3 style13 n">14-Nov-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row56">
+<td class="column0 style14 s">EI2010</td>
+<td class="column1 style11 s">Electric Island</td>
+<td class="column2 style15 s">Centre Island</td>
+<td class="column3 style16 n">4-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style35 n">107.0</td>
+<td class="column6 style33 f">454.8</td>
+<td class="column7 style34 f">18.4%</td>
+<td class="column8 style45 f"> $ 316.22 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row57">
+<td class="column0 style22 s">SU2011</td>
+<td class="column1 style11 s">New Kanada w/ Graze</td>
+<td class="column2 style12 s">Coda</td>
+<td class="column3 style13 n">26-Jul-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">8.0</td>
+<td class="column6 style33 f">34.0</td>
+<td class="column7 style34 f">1.4%</td>
+<td class="column8 style45 f"> $ 23.64 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row58">
+<td class="column0 style22 s">BB2008</td>
+<td class="column1 style11 s">Steve Lawler</td>
+<td class="column2 style12 s">Coda</td>
+<td class="column3 style13 n">22-Aug-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">4.0</td>
+<td class="column6 style33 f">17.0</td>
+<td class="column7 style34 f">0.7%</td>
+<td class="column8 style45 f"> $ 11.82 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row59">
+<td class="column0 style22 s">WI2236</td>
+<td class="column1 style11 s">Com Truise</td>
+<td class="column2 style12 s">Coda</td>
+<td class="column3 style13 n">18-Sep-14</td>
+<td class="column4 style36 n">4.25</td>
+<td class="column5 style32 n">6.0</td>
+<td class="column6 style33 f">25.5</td>
+<td class="column7 style34 f">1.0%</td>
+<td class="column8 style45 f"> $ 17.73 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row60">
+<td class="column0 style23 null"></td>
+<td class="column1 style24 null"></td>
+<td class="column2 style25 null"></td>
+<td class="column3 style26 null"></td>
+<td class="column4 style26 null"></td>
+<td class="column5 style26 null"></td>
+<td class="column6 style38 s">TOTAL:</td>
+<td class="column7 style39 f">100.00%</td>
+<td class="column8 style46 f"> $ 1,720.00 </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row61">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style40 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row62">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style41 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row63">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style41 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+<tr class="row64">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style41 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+</tr>
+</tbody>
+</table>

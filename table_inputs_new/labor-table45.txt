@@ -1,0 +1,167 @@
+[COLUMN STRUCTURE]
+PROJECT PERIOD
+  DURATION
+    END PROJECT
+      Company Code
+        0I79
+          0I80
+            0I81
+              0I82
+                0I83
+                  0I84
+04-Aug-15
+  2
+    31-Oct-15
+      Cost Center
+        MUM
+          DEL
+            HYD
+              MUM
+                CHE
+                  BLR
+Project Name:
+  National Center:
+    Project Manager Name:
+      Project Description:
+        Intercompany Name
+          HPCL
+            ELCOT
+              IT COMPANY
+                MARG
+                  EPC
+                    NPTL
+FACT's Kerala Chemical Plant
+  MUMBAI
+    JAGAN
+      2000 tpd ( sulphuric acid plant, urea plant, NP complex fertilizer plant, SSP plant and ammonia-urea complex)
+        Line Description
+          TIL reports progress on new plant.
+            Pacific Iron Manufacturing to set up integrated steel plant in Madhya Pradesh
+              Assam Ferro Alloys plans ferro alloy plant in Kamrup District
+                Jaypee ASOM Cement to set up cement plant and CPP
+                  Young India Alloys to set up ferro alloys plant in Andhra Pradesh
+                    Vedik Ispat to expand steel plant in Andhra Pradesh
+        Statistical Quantity
+          55
+            25
+              15
+                85
+                  35
+                    11
+        Average
+          82.76%
+            14.31%
+              70.69%
+                51.00%
+                  74.00%
+                    90.00%
+
+[ROW STRUCTURE]
+(none)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 s style2" colspan="3">L&amp;T ISSUE MANAGEMENT REPORTS</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">PROJECT PERIOD</td>
+<td class="column1 style4 n">04-Aug-15</td>
+<td class="column2 style5 s">Project Name:</td>
+<td class="column3 style6 s">FACT's Kerala Chemical Plant</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 s">DURATION</td>
+<td class="column1 style7 n">2</td>
+<td class="column2 style5 s">National Center:</td>
+<td class="column3 style6 s">MUMBAI</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 s">END PROJECT</td>
+<td class="column1 style4 n">31-Oct-15</td>
+<td class="column2 style5 s">Project Manager Name:</td>
+<td class="column3 style6 s">JAGAN</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style5 s">Project Description:</td>
+<td class="column3 style8 s">2000 tpd ( sulphuric acid plant, urea plant, <br/>
+NP complex fertilizer plant, SSP plant and ammonia-urea complex)</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style9 s">Company Code</td>
+<td class="column1 style9 s">Cost Center</td>
+<td class="column2 style9 s">Intercompany Name </td>
+<td class="column3 style10 s">Line Description</td>
+<td class="column4 style14 s">Statistical Quantity</td>
+<td class="column5 style15 s">Average </td>
+</tr>
+<tr class="row6">
+<td class="column0 style11 s">0I79</td>
+<td class="column1 style12 s">MUM</td>
+<td class="column2 style13 s">HPCL</td>
+<td class="column3 style12 s">TIL reports progress on new plant.</td>
+<td class="column4 style16 n">55</td>
+<td class="column5 style17 n">82.76%</td>
+</tr>
+<tr class="row7">
+<td class="column0 style11 s">0I80</td>
+<td class="column1 style12 s">DEL</td>
+<td class="column2 style12 s">ELCOT</td>
+<td class="column3 style12 s">Pacific Iron Manufacturing to set up integrated steel plant in Madhya Pradesh</td>
+<td class="column4 style16 n">25</td>
+<td class="column5 style17 n">14.31%</td>
+</tr>
+<tr class="row8">
+<td class="column0 style11 s">0I81</td>
+<td class="column1 style12 s">HYD</td>
+<td class="column2 style12 s">IT COMPANY</td>
+<td class="column3 style12 s">Assam Ferro Alloys plans ferro alloy plant in Kamrup District</td>
+<td class="column4 style16 n">15</td>
+<td class="column5 style17 n">70.69%</td>
+</tr>
+<tr class="row9">
+<td class="column0 style11 s">0I82</td>
+<td class="column1 style12 s">MUM</td>
+<td class="column2 style12 s">MARG</td>
+<td class="column3 style12 s">Jaypee ASOM Cement to set up cement plant and CPP</td>
+<td class="column4 style16 n">85</td>
+<td class="column5 style17 n">51.00%</td>
+</tr>
+<tr class="row10">
+<td class="column0 style11 s">0I83</td>
+<td class="column1 style12 s">CHE</td>
+<td class="column2 style12 s">EPC</td>
+<td class="column3 style12 s">Young India Alloys to set up ferro alloys plant in Andhra Pradesh</td>
+<td class="column4 style16 n">35</td>
+<td class="column5 style17 n">74.00%</td>
+</tr>
+<tr class="row11">
+<td class="column0 style11 s">0I84</td>
+<td class="column1 style12 s">BLR</td>
+<td class="column2 style12 s">NPTL</td>
+<td class="column3 style12 s">Vedik Ispat to expand steel plant in Andhra Pradesh</td>
+<td class="column4 style16 n">11</td>
+<td class="column5 style17 n">90.00%</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,234 @@
+[COLUMN STRUCTURE]
+Number of tables on this sheet:
+5
+
+[ROW STRUCTURE]
+Businesses in the sports sector
+Data owner:
+  Office of National Statistics
+Link to data owner:
+  http://www.ons.gov.uk
+Data source:
+  Inter Departmental Business Register (IDBR)
+Link to data source:
+  http://www.statistics.gov.uk/idbr/
+Date:
+  2009, 2008, 2007, 2006, 2005
+Update cycle:
+  Continuously through the year
+Businesses in the sports sector: sub-sector by region in 2005 and 2009
+North East
+  North West
+Sub-sector
+  2005
+    2009
+      2005
+Sports Activities
+  615
+    680
+      1,740
+Sports Manufacturing
+  10
+    *
+      70
+Total
+  625
+    680
+      1,810
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="2289">
+<col class="x76" width="189"/>
+<col class="x77" span="20" width="105"/>
+<tr height="20">
+<td class="x78" height="20" width="189">Number of tables on this sheet:</td>
+<td align="right" class="x79" width="105">5</td>
+<td class="x77" colspan="19" width="1995"></td>
+</tr>
+<tr height="20">
+<td class="x80" colspan="21" height="20"></td>
+</tr>
+<tr height="23">
+<td class="x82" colspan="2" height="23">Businesses in the sports sector</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Data owner:</td>
+<td class="x85" colspan="20">Office of National Statistics</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Link to data owner:</td>
+<td>http://www.ons.gov.uk</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Data source:</td>
+<td class="x84" colspan="20">Inter Departmental Business Register (IDBR)</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Link to data source:</td>
+<td>http://www.statistics.gov.uk/idbr/</td>
+<td class="x77" colspan="19"></td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Date:</td>
+<td class="x86" colspan="20">2009, 2008, 2007, 2006, 2005</td>
+</tr>
+<tr height="20">
+<td class="x84" height="20">Update cycle:</td>
+<td class="x84" colspan="20">Continuously through the year</td>
+</tr>
+<tr height="20">
+<td class="x76" colspan="21" height="20"></td>
+</tr>
+<tr height="20">
+<td class="x84" colspan="21" height="20">Businesses in the sports sector: sub-sector by region in 2005 and 2009</td>
+</tr>
+<tr class="x73" height="40">
+<td class="x87" height="39"></td>
+<td class="x88" colspan="2">North East</td>
+<td class="x90" colspan="2">North West</td>
+<td class="x88" colspan="2">Yorkshire and the Humber</td>
+<td class="x90" colspan="2">East Midlands</td>
+<td class="x88" colspan="2">West Midlands</td>
+<td class="x90" colspan="2">East of England</td>
+<td class="x88" colspan="2">London</td>
+<td class="x90" colspan="2">South East</td>
+<td class="x117" colspan="2">South West</td>
+<td class="x88" colspan="2">England</td>
+</tr>
+<tr class="x73" height="0">
+<td class="x91" height="0"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x119"></td>
+<td class="x120"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+</tr>
+<tr class="x73" height="20">
+<td class="x95" height="19">Sub-sector</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x98">2005</td>
+<td class="x98">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+<td class="x96">2005</td>
+<td class="x97">2009</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Sports Activities</td>
+<td align="right" class="x100">615</td>
+<td align="right" class="x101">680</td>
+<td align="right" class="x102" x:num="1740">1,740</td>
+<td align="right" class="x102" x:num="1965">1,965</td>
+<td align="right" class="x100" x:num="1600">1,600</td>
+<td align="right" class="x107" x:num="1650">1,650</td>
+<td align="right" class="x108" x:num="1230">1,230</td>
+<td align="right" class="x108" x:num="1390">1,390</td>
+<td align="right" class="x114" x:num="1415">1,415</td>
+<td align="right" class="x107" x:num="1505">1,505</td>
+<td align="right" class="x108" x:num="2175">2,175</td>
+<td align="right" class="x108" x:num="2285">2,285</td>
+<td align="right" class="x114" x:num="1530">1,530</td>
+<td align="right" class="x107" x:num="1640">1,640</td>
+<td align="right" class="x108" x:num="3320">3,320</td>
+<td align="right" class="x108" x:num="3600">3,600</td>
+<td align="right" class="x114" x:num="1945">1,945</td>
+<td align="right" class="x107" x:num="2230">2,230</td>
+<td align="right" class="x114" x:num="15570">15,570</td>
+<td align="right" class="x107" x:num="16945">16,945</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20">Sports Manufacturing</td>
+<td align="right" class="x100">10</td>
+<td class="x103">*</td>
+<td align="right" class="x102">70</td>
+<td class="x109">*</td>
+<td align="right" class="x100">55</td>
+<td class="x110">*</td>
+<td align="right" class="x108">45</td>
+<td class="x115">*</td>
+<td align="right" class="x114">45</td>
+<td class="x110">*</td>
+<td align="right" class="x108">60</td>
+<td class="x115">*</td>
+<td align="right" class="x114">30</td>
+<td class="x110">*</td>
+<td align="right" class="x108">60</td>
+<td class="x115">*</td>
+<td align="right" class="x114">65</td>
+<td class="x110">*</td>
+<td align="right" class="x114">440</td>
+<td class="x110">*</td>
+</tr>
+<tr class="x74" height="20">
+<td class="x99" height="20"></td>
+<td class="x100" colspan="2"></td>
+<td class="x102" colspan="2"></td>
+<td class="x100" colspan="2"></td>
+<td class="x108" colspan="2"></td>
+<td class="x114" colspan="2"></td>
+<td class="x108" colspan="2"></td>
+<td class="x114" colspan="2"></td>
+<td class="x108" colspan="2"></td>
+<td class="x114" colspan="2"></td>
+<td class="x114" colspan="2"></td>
+</tr>
+<tr class="x75" height="20">
+<td class="x104" height="18">Total</td>
+<td align="right" class="x105">625</td>
+<td align="right" class="x106">680</td>
+<td align="right" class="x105" x:num="1810">1,810</td>
+<td align="right" class="x105" x:num="1970">1,970</td>
+<td align="right" class="x111" x:num="1655">1,655</td>
+<td align="right" class="x112" x:num="1650">1,650</td>
+<td align="right" class="x113" x:num="1275">1,275</td>
+<td align="right" class="x113" x:num="1390">1,390</td>
+<td align="right" class="x116" x:num="1460">1,460</td>
+<td align="right" class="x112" x:num="1505">1,505</td>
+<td align="right" class="x113" x:num="2235">2,235</td>
+<td align="right" class="x113" x:num="2285">2,285</td>
+<td align="right" class="x116" x:num="1560">1,560</td>
+<td align="right" class="x112" x:num="1640">1,640</td>
+<td align="right" class="x113" x:num="3380">3,380</td>
+<td align="right" class="x113" x:num="3600">3,600</td>
+<td align="right" class="x116" x:num="2010">2,010</td>
+<td align="right" class="x112" x:num="2230">2,230</td>
+<td align="right" class="x116" x:num="16010">16,010</td>
+<td align="right" class="x112" x:num="16950">16,950</td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="189"></td>
+<td colspan="20" width="2100"></td>
+</tr>
+<?endif?>
+</table>

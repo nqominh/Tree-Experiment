@@ -1,0 +1,262 @@
+[COLUMN STRUCTURE]
+Familiar
+Novel
+
+[ROW STRUCTURE]
+0
+115.6
+0
+109.44
+93.32
+143.24
+155.84
+117.56
+168.56
+166.6
+254.96
+98.72
+162.28
+33.56
+152.84
+170.08
+119.2
+38.2
+109.96
+179.08
+54.72
+102.32
+71.4
+188.68
+61.08
+82.6
+79
+71.96
+78.92
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">p75Atoh1-CreERTM No TM</td>
+<td class="column1"> </td>
+<td class="column2 style1 s">p75Atoh1-CreERTM with TM</td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style1 s">Familiar</td>
+<td class="column1 style1 s">Novel</td>
+<td class="column2 style1 s">Familiar</td>
+<td class="column3 style1 s">Novel</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 n">0</td>
+<td class="column1 style2 n">65</td>
+<td class="column2 style2 n">299.1</td>
+<td class="column3 style2 n">0</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style2 n">115.6</td>
+<td class="column1 style2 n">134.4</td>
+<td class="column2 style2 n">69.08</td>
+<td class="column3 style2 n">174.9</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 n">0</td>
+<td class="column1 style2 n">300</td>
+<td class="column2 style2 n">101.84</td>
+<td class="column3 style2 n">50.92</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 n">109.44</td>
+<td class="column1 style2 n">60.28</td>
+<td class="column2 style2 n">67.24</td>
+<td class="column3 style2 n">189.5</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 n">93.32</td>
+<td class="column1 style2 n">163.2</td>
+<td class="column2 style2 n">65.08</td>
+<td class="column3 style2 n">179.4</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 n">143.24</td>
+<td class="column1 style2 n">108.8</td>
+<td class="column2 style2 n">128.96</td>
+<td class="column3 style2 n">140.5</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 n">155.84</td>
+<td class="column1 style2 n">80.04</td>
+<td class="column2 style2 n">63.04</td>
+<td class="column3 style2 n">137</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 n">117.56</td>
+<td class="column1 style2 n">114.8</td>
+<td class="column2 style2 n">234.36</td>
+<td class="column3 style2 n">35.72</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 n">168.56</td>
+<td class="column1 style2 n">99.68</td>
+<td class="column2 style2 n">39.08</td>
+<td class="column3 style2 n">251.1</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 n">166.6</td>
+<td class="column1 style2 n">113.8</td>
+<td class="column2 style2 n">164.56</td>
+<td class="column3 style2 n">99.44</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 n">254.96</td>
+<td class="column1 style2 n">27.88</td>
+<td class="column2 style2 n">116.16</td>
+<td class="column3 style2 n">163</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 n">98.72</td>
+<td class="column1 style2 n">142.9</td>
+<td class="column2 style2 n">62.68</td>
+<td class="column3 style2 n">143.6</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style2 n">162.28</td>
+<td class="column1 style2 n">121</td>
+<td class="column2 style2 n">87</td>
+<td class="column3 style2 n">177.9</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style2 n">33.56</td>
+<td class="column1 style2 n">210.1</td>
+<td class="column2 style2 n">154.92</td>
+<td class="column3 style2 n">115.5</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style2 n">152.84</td>
+<td class="column1 style2 n">109.7</td>
+<td class="column2 style2 n">131.8</td>
+<td class="column3 style2 n">139</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style2 n">170.08</td>
+<td class="column1 style2 n">87.64</td>
+<td class="column2 style2 n">53.8</td>
+<td class="column3 style2 n">191.9</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style2 n">119.2</td>
+<td class="column1 style2 n">118.8</td>
+<td class="column2 style2 n">81.48</td>
+<td class="column3 style2 n">146.7</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 n">38.2</td>
+<td class="column1 style2 n">222.1</td>
+<td class="column2 style2 n">82.68</td>
+<td class="column3 style2 n">152.1</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 n">109.96</td>
+<td class="column1 style2 n">122.5</td>
+<td class="column2 style2 n">115.32</td>
+<td class="column3 style2 n">149.2</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style2 n">179.08</td>
+<td class="column1 style2 n">100.1</td>
+<td class="column2 style2 n">52.48</td>
+<td class="column3 style2 n">180.6</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style2 n">54.72</td>
+<td class="column1 style2 n">167.9</td>
+<td class="column2 style2 n">101.96</td>
+<td class="column3 style2 n">117.6</td>
+<td class="column4"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style2 n">102.32</td>
+<td class="column1 style2 n">169.2</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style2 n">71.4</td>
+<td class="column1 style2 n">216.3</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style2 n">188.68</td>
+<td class="column1 style2 n">97.8</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style2 n">61.08</td>
+<td class="column1 style2 n">217.4</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style2 n">82.6</td>
+<td class="column1 style2 n">190.5</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style2 n">79</td>
+<td class="column1 style2 n">183.2</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style2 n">71.96</td>
+<td class="column1 style2 n">180</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style2 n">78.92</td>
+<td class="column1 style2 n">184.9</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+</tr>
+</tbody>
+</table>

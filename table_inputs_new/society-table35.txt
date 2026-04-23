@@ -1,0 +1,304 @@
+[COLUMN STRUCTURE]
+2019
+2020
+2021
+
+[ROW STRUCTURE]
+Morocco Model 2019-2021 WITH mitigation_trad_constant_revised_Jan 21
+Periconceptual
+Contraceptive use
+Folic acid fortification
+Safe abortion services
+Post abortion case management
+Ectopic pregnancy case management
+Iron fortification
+Pregnancy
+TT - Tetanus toxoid vaccination
+IPTp - Intermittent preventive treatment of malaria during pregnancy
+Syphilis detection and treatment
+Calcium supplementation
+Micronutrient supplementation (iron and multiple micronutrients)
+Balanced energy supplementation
+Hypertensive disorder case management
+Diabetes case management
+Malaria case management
+MgSO4 management of pre-eclampsia
+Fetal growth restriction detection and management
+Childbirth
+Clean birth environment
+Thermal protection
+Clean cord care
+Manual removal of placenta
+Parenteral administration of anti-convulsants
+Antibiotics for preterm or prolonged PROM
+Parenteral administration of antibiotics
+Assisted vaginal delivery
+Parenteral administration of uterotonics
+Removal of retained products of conception
+Induction of labor for pregnancies lasting 41+ weeks
+Antenatal corticosteroids for preterm labor
+Cesarean delivery
+Blood transfusion
+Preventive
+ITN/IRS - Households protected from malaria
+Curative after birth
+Maternal sepsis case management
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="4">Paste Maternal Lives Saved data from LiST in cell below</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s">Additional maternal lives saved by intervention</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 n">2019</td>
+<td class="column2 style3 n">2020</td>
+<td class="column3 style3 n">2021</td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 s">Morocco Model 2019-2021 WITH mitigation_trad_constant_revised_Jan 21</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style3 s">Periconceptual</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style3 s">Contraceptive use</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-1</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row6">
+<td class="column0 style3 s">Folic acid fortification</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row7">
+<td class="column0 style3 s">Safe abortion services</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row8">
+<td class="column0 style3 s">Post abortion case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row9">
+<td class="column0 style3 s">Ectopic pregnancy case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row10">
+<td class="column0 style3 s">Iron fortification</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row11">
+<td class="column0 style3 s">Pregnancy</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style3 s">TT - Tetanus toxoid vaccination</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-1</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row13">
+<td class="column0 style3 s">IPTp - Intermittent preventive treatment of malaria during pregnancy</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row14">
+<td class="column0 style3 s">Syphilis detection and treatment</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row15">
+<td class="column0 style3 s">Calcium supplementation</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row16">
+<td class="column0 style3 s">Micronutrient supplementation (iron and multiple micronutrients)</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row17">
+<td class="column0 style3 s">Balanced energy supplementation</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row18">
+<td class="column0 style3 s">Hypertensive disorder case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-1</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row19">
+<td class="column0 style3 s">Diabetes case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row20">
+<td class="column0 style3 s">Malaria case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row21">
+<td class="column0 style3 s">MgSO4 management of pre-eclampsia</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-2</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row22">
+<td class="column0 style3 s">Fetal growth restriction detection and management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row23">
+<td class="column0 style3 s">Childbirth</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row24">
+<td class="column0 style3 s">Clean birth environment</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-5</td>
+<td class="column3 style3 n">1</td>
+</tr>
+<tr class="row25">
+<td class="column0 style3 s">Thermal protection</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row26">
+<td class="column0 style3 s">Clean cord care</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row27">
+<td class="column0 style3 s">Manual removal of placenta</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-2</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row28">
+<td class="column0 style3 s">Parenteral administration of anti-convulsants</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row29">
+<td class="column0 style3 s">Antibiotics for preterm or prolonged PROM</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-2</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row30">
+<td class="column0 style3 s">Parenteral administration of antibiotics</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-7</td>
+<td class="column3 style3 n">1</td>
+</tr>
+<tr class="row31">
+<td class="column0 style3 s">Assisted vaginal delivery</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-2</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row32">
+<td class="column0 style3 s">Parenteral administration of uterotonics</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-27</td>
+<td class="column3 style3 n">4</td>
+</tr>
+<tr class="row33">
+<td class="column0 style3 s">Removal of retained products of conception</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">-2</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row34">
+<td class="column0 style3 s">Induction of labor for pregnancies lasting 41+ weeks</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row35">
+<td class="column0 style3 s">Antenatal corticosteroids for preterm labor</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row36">
+<td class="column0 style3 s">Cesarean delivery</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row37">
+<td class="column0 style3 s">Blood transfusion</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row38">
+<td class="column0 style3 s">Preventive</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row39">
+<td class="column0 style3 s">ITN/IRS - Households protected from malaria</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+<tr class="row40">
+<td class="column0 style3 s">Curative after birth</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+</tr>
+<tr class="row41">
+<td class="column0 style3 s">Maternal sepsis case management</td>
+<td class="column1 style3 n">0</td>
+<td class="column2 style3 n">0</td>
+<td class="column3 style3 n">0</td>
+</tr>
+</tbody>
+</table>

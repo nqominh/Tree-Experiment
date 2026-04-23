@@ -1,0 +1,166 @@
+[COLUMN STRUCTURE]
+Environmental Impact
+  Asset Impact
+    People Safety
+Ranking
+  5
+    4
+      3
+        2
+          1
+            0
+              5
+                4
+                  3
+                    2
+                      1
+                        0
+                          5
+Qualitative
+  Catastrophic leak
+    Major leak
+      Localised leak
+        Minor leak
+          Slight leak
+            Negligible
+              Very High
+                High
+                  Medium
+                    Low
+                      Very Low
+                        Negligible
+                          Catastrophic
+Quantitative
+  x≥50,000
+    5,000≤x<50,000
+      500≤x<5,000
+        50≤x<500
+          x<50
+            0
+              x≥100
+                75≤x<100
+                  45≤x<75
+                    6≤x<45
+                      x<6
+                        0
+                          x≥10
+
+[ROW STRUCTURE]
+People Safety
+People Safety
+People Safety
+People Safety
+People Safety
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="4">Consequence of Failure Justification</td>
+</tr>
+<tr class="row1">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 s">Ranking</td>
+<td class="column2 style1 s">Qualitative</td>
+<td class="column3 style1 s">Quantitative</td>
+</tr>
+<tr class="row2">
+<td class="column0 style1 s style1" rowspan="6">Environmental<br/>
+Impact</td>
+<td class="column1 style1 s">5</td>
+<td class="column2 style1 s">Catastrophic leak</td>
+<td class="column3 style1 s">x≥50,000</td>
+</tr>
+<tr class="row3">
+<td class="column1 style1 s">4</td>
+<td class="column2 style1 s">Major leak</td>
+<td class="column3 style1 s">5,000≤x&lt;50,000</td>
+</tr>
+<tr class="row4">
+<td class="column1 style1 s">3</td>
+<td class="column2 style1 s">Localised leak</td>
+<td class="column3 style1 s">500≤x&lt;5,000</td>
+</tr>
+<tr class="row5">
+<td class="column1 style1 s">2</td>
+<td class="column2 style1 s">Minor leak</td>
+<td class="column3 style1 s">50≤x&lt;500</td>
+</tr>
+<tr class="row6">
+<td class="column1 style1 s">1</td>
+<td class="column2 style1 s">Slight leak</td>
+<td class="column3 style1 s">x&lt;50</td>
+</tr>
+<tr class="row7">
+<td class="column1 style1 s">0</td>
+<td class="column2 style1 s">Negligible</td>
+<td class="column3 style1 s">0</td>
+</tr>
+<tr class="row8">
+<td class="column0 style1 s style1" rowspan="6">Asset Impact</td>
+<td class="column1 style1 s">5</td>
+<td class="column2 style1 s">Very High</td>
+<td class="column3 style1 s">x≥100</td>
+</tr>
+<tr class="row9">
+<td class="column1 style1 s">4</td>
+<td class="column2 style1 s">High</td>
+<td class="column3 style1 s">75≤x&lt;100</td>
+</tr>
+<tr class="row10">
+<td class="column1 style1 s">3</td>
+<td class="column2 style1 s">Medium</td>
+<td class="column3 style1 s">45≤x&lt;75</td>
+</tr>
+<tr class="row11">
+<td class="column1 style1 s">2</td>
+<td class="column2 style1 s">Low</td>
+<td class="column3 style1 s">6≤x&lt;45</td>
+</tr>
+<tr class="row12">
+<td class="column1 style1 s">1</td>
+<td class="column2 style1 s">Very Low</td>
+<td class="column3 style1 s">x&lt;6</td>
+</tr>
+<tr class="row13">
+<td class="column1 style1 s">0</td>
+<td class="column2 style1 s">Negligible</td>
+<td class="column3 style1 s">0</td>
+</tr>
+<tr class="row14">
+<td class="column0 style1 s style1" rowspan="6">People Safety</td>
+<td class="column1 style1 s">5</td>
+<td class="column2 style1 s">Catastrophic</td>
+<td class="column3 style1 s">x≥10</td>
+</tr>
+<tr class="row15">
+<td class="column1 style1 s">4</td>
+<td class="column2 style1 s">Severe</td>
+<td class="column3 style1 s">7≤x&lt;10</td>
+</tr>
+<tr class="row16">
+<td class="column1 style1 s">3</td>
+<td class="column2 style1 s">Major</td>
+<td class="column3 style1 s">4≤x&lt;7</td>
+</tr>
+<tr class="row17">
+<td class="column1 style1 s">2</td>
+<td class="column2 style1 s">Moderate</td>
+<td class="column3 style1 s">2≤x&lt;4</td>
+</tr>
+<tr class="row18">
+<td class="column1 style1 s">1</td>
+<td class="column2 style1 s">Minor</td>
+<td class="column3 style1 s">x&lt;2</td>
+</tr>
+<tr class="row19">
+<td class="column1 style1 s">0</td>
+<td class="column2 style1 s">Insignificant</td>
+<td class="column3 style1 s">0</td>
+</tr>
+</tbody>
+</table>

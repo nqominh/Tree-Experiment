@@ -1,0 +1,162 @@
+[COLUMN STRUCTURE]
+2019 Pre-COVID
+Formula: =IF(By Package=1, i.e. if user selected to enter reduction by package, reduction of original coverage by % package reduction (i.e. all ANC interventions are reduced by the % specified for ANC), otherwise by specific intervention % (e.g., tetanus vaccination reduced by % specified for tetanus vaccination) 2020 With COVID
+2021 WITHOUT Mitigation
+2021 WITH Mitigation
+
+[ROW STRUCTURE]
+Contraceptive Use
+FP - Pills
+FP - Condoms
+FP - Injectables
+FP - Implants
+FP - IUD
+FP - Female Sterilization
+FP - Male Sterilization
+FP - Traditional Methods + Other
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Family Planning</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">Alternative Scenario: Disruption Applied only to Modern, Traditional Method Use Constant</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+<td class="column7 style2 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 s style6" colspan="4">Coverage Rate (%)</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style7 s">Pregnancies</td>
+<td class="column7 style2 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 null"></td>
+<td class="column1 style8 s">2019 Pre-COVID</td>
+<td class="column2 style8 s"><a class="comment-indicator"></a><div class="comment">Formula:<br/>
+=IF(By Package=1, i.e. if user selected to enter reduction by package, reduction of original coverage by % package reduction (i.e. all ANC interventions are reduced by the % specified for ANC), otherwise by specific intervention % (e.g., tetanus vaccination reduced by % specified for tetanus vaccination)<br/>
+<br/>
+<br/>
+</div>
+2020 With COVID</td>
+<td class="column3 style9 s">2021 WITHOUT Mitigation</td>
+<td class="column4 style9 s">2021 WITH Mitigation</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style8 null"></td>
+<td class="column7 style8 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style10 s">Contraceptive Use</td>
+<td class="column1 style11 n">65.7%</td>
+<td class="column2 style11 n">50.0%</td>
+<td class="column3 style11 n">50.0%</td>
+<td class="column4 style12 n">66.2%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 s">WITHOUT Mitigation</td>
+<td class="column7 style13 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style10 s">FP - Pills</td>
+<td class="column1 style11 n">50.3%</td>
+<td class="column2 style11 n">38.3%</td>
+<td class="column3 style11 n">38.3%</td>
+<td class="column4 style14 n">50.7%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2019</td>
+<td class="column7 style13 n">1,072,839</td>
+</tr>
+<tr class="row6">
+<td class="column0 style10 s">FP - Condoms</td>
+<td class="column1 style11 n">0.0%</td>
+<td class="column2 style11 n">0.0%</td>
+<td class="column3 style11 n">0.0%</td>
+<td class="column4 style14 n">0.0%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2020</td>
+<td class="column7 style13 n">1,564,739</td>
+</tr>
+<tr class="row7">
+<td class="column0 style10 s">FP - Injectables</td>
+<td class="column1 style11 n">0.0%</td>
+<td class="column2 style11 n">0.0%</td>
+<td class="column3 style11 n">0.0%</td>
+<td class="column4 style12 n">0.0%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2021</td>
+<td class="column7 style15 n">1,576,500</td>
+</tr>
+<tr class="row8">
+<td class="column0 style10 s">FP - Implants</td>
+<td class="column1 style11 n">0.0%</td>
+<td class="column2 style11 n">0.0%</td>
+<td class="column3 style11 n">0.0%</td>
+<td class="column4 style12 n">0.0%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+<td class="column7 style2 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style10 s">FP - IUD</td>
+<td class="column1 style11 n">4.4%</td>
+<td class="column2 style11 n">3.3%</td>
+<td class="column3 style11 n">3.3%</td>
+<td class="column4 style12 n">4.4%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 s">WITH Mitigations</td>
+<td class="column7 style13 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style10 s">FP - Female Sterilization</td>
+<td class="column1 style11 n">0.0%</td>
+<td class="column2 style11 n">0.0%</td>
+<td class="column3 style11 n">0.0%</td>
+<td class="column4 style12 n">0.0%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2019</td>
+<td class="column7 style13 n">1,082,281</td>
+</tr>
+<tr class="row11">
+<td class="column0 style10 s">FP - Male Sterilization</td>
+<td class="column1 style11 n">0.0%</td>
+<td class="column2 style16 n">0.0%</td>
+<td class="column3 style11 n">0.0%</td>
+<td class="column4 style12 n">0.0%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2020</td>
+<td class="column7 style13 n">1,566,378</td>
+</tr>
+<tr class="row12">
+<td class="column0 style10 s">FP - Traditional Methods + Other</td>
+<td class="column1 style11 n">11.0%</td>
+<td class="column2 style16 n">11.0%</td>
+<td class="column3 style11 n">11.0%</td>
+<td class="column4 style12 n">11.1%</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 n">2021</td>
+<td class="column7 style15 n">1,079,158</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,546 @@
+[COLUMN STRUCTURE]
+MNCH Interventions as grouped in LiST Model
+  Int# in LiST
+  Int#
+
+[ROW STRUCTURE]
+Family Planning
+  FP - Condoms
+  FP - Female Sterilization
+  FP - Male Sterilization
+  FP - Injectables
+  FP - Implants
+  FP - IUD
+  FP - Pills
+  FP - Traditional Methods
+Periconceptual
+  Folic acid fortification
+  Safe abortion services
+  Post abortion case management
+  Ectopic pregnancy case management
+  Iron fortification
+Antenatal Care
+  Antenatal care (at least 1 visit)
+  Antenatal care (at least 4 visits)
+  TT - Tetanus toxoid vaccination
+  IPTp - Intermittent preventive treatment of malaria during pregnancy
+  Syphilis detection and treatment
+  Calcium supplementation
+  Iron supplementation in pregnancy
+  Multiple micronutrient supplementation in pregnancy
+  Balanced energy supplementation
+  Hypertensive disorder case management
+  Diabetes case management
+  Malaria case management
+  MgSO4 management of pre-eclampsia
+Delivery Care
+  Health Facility Delivery
+  Clean birth environment
+  Immediate drying and additional stimulation
+  Thermal protection
+  Clean cord care
+  Manual removal of placenta
+  Parenteral administration of anti-convulsants
+  Antibiotics for preterm or prolonged PROM
+  Parenteral administration of antibiotics
+  Assisted vaginal delivery
+  Neonatal resuscitation
+  Parenteral administration of uterotonics
+  Removal of retained products of conception
+  Induction of labor for pregnancies lasting 41+ weeks
+  Antenatal corticosteroids for preterm labor
+  Cesarean delivery
+  Blood transfusion
+Breastfeeding
+Preventive Interventions
+  Feeding and Supplements
+    Complementary feeding - Education only
+    Complementary feeding - Supplementary feeding + Education
+    Vitamin A supplementation
+    Zinc supplementation
+  WASH
+    Basic sanitation
+    Point-of-use filtered water
+    Piped water
+    Hand washing with soap
+    Hygienic disposal of children's stools
+  Other
+    ITN/IRS - Households protected from malaria
+Vaccines
+  BCG - Single dose
+  Polio - Three doses
+  Pentavalent
+  DPT - Three doses
+  Hib - Three doses
+  HepB - Three doses
+  Pneumococcal - Three doses
+  Rotavirus - Two doses
+  Meningococcal A - Single dose
+  Malaria vaccine - Three doses
+  Measles - Single dose
+Curative Interventions
+  Maternal
+    Maternal sepsis case management
+  Neonatal
+    Case management of premature babies
+    Kangaroo-Mother Care (KMC)
+    Full supportive care of prematurity
+    Case management of neonatal sepsis/pneumonia
+    Oral antibiotics for neonatal sepsis
+    Injectable antibiotics for neonatal sepsis
+    Full supportive care for neonatal sepsis/pneumonia
+  Diarrhea
+    ORS - Oral Rehydration Solution
+    Antibiotics for treatment of dysentery
+    Zinc for treatment of diarrhea
+  Other infectious diseases
+    Oral antibiotics for pneumonia
+    Vitamin A for treatment of measles
+    ACTs - Artemisinin compounds for treatment of malaria
+  Malnutrition
+    SAM - treatment for severe acute malnutrition
+  MAM - treatment for moderate acute malnutrition
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">MNCH Interventions as grouped in LiST Model</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style4 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style5 null"></td>
+<td class="column1 style6 null"></td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 s">Int# in LiST</td>
+<td class="column4 style8 s">Int#</td>
+</tr>
+<tr class="row2">
+<td class="column0 style9 s style15" colspan="2" rowspan="8">Family Planning</td>
+<td class="column2 style11 s">FP - Condoms</td>
+<td class="column3 style11 n">1</td>
+<td class="column4 style11 n">2</td>
+</tr>
+<tr class="row3">
+<td class="column2 style11 s">FP - Female Sterilization</td>
+<td class="column3 style11 n">2</td>
+<td class="column4 style11 n">6</td>
+</tr>
+<tr class="row4">
+<td class="column2 style11 s">FP - Male Sterilization</td>
+<td class="column3 style11 n">3</td>
+<td class="column4 style11 n">7</td>
+</tr>
+<tr class="row5">
+<td class="column2 style11 s">FP - Injectables</td>
+<td class="column3 style11 n">4</td>
+<td class="column4 style11 n">3</td>
+</tr>
+<tr class="row6">
+<td class="column2 style11 s">FP - Implants</td>
+<td class="column3 style11 n">5</td>
+<td class="column4 style11 n">4</td>
+</tr>
+<tr class="row7">
+<td class="column2 style11 s">FP - IUD</td>
+<td class="column3 style11 n">6</td>
+<td class="column4 style11 n">5</td>
+</tr>
+<tr class="row8">
+<td class="column2 style11 s">FP - Pills</td>
+<td class="column3 style11 n">7</td>
+<td class="column4 style11 n">1</td>
+</tr>
+<tr class="row9">
+<td class="column2 style11 s">FP - Traditional Methods</td>
+<td class="column3 style11 n">8</td>
+<td class="column4 style11 n">8</td>
+</tr>
+<tr class="row10">
+<td class="column0 style16 s style22" colspan="2" rowspan="5">Periconceptual</td>
+<td class="column2 style18 s">Folic acid fortification</td>
+<td class="column3 style18 n">9</td>
+<td class="column4 style18 s">Not Incl.</td>
+</tr>
+<tr class="row11">
+<td class="column2 style18 s">Safe abortion services</td>
+<td class="column3 style18 n">10</td>
+<td class="column4 style18 n">34</td>
+</tr>
+<tr class="row12">
+<td class="column2 style18 s">Post abortion case management</td>
+<td class="column3 style18 n">11</td>
+<td class="column4 style18 n">35</td>
+</tr>
+<tr class="row13">
+<td class="column2 style18 s">Ectopic pregnancy case management</td>
+<td class="column3 style18 n">12</td>
+<td class="column4 style18 n">38</td>
+</tr>
+<tr class="row14">
+<td class="column2 style18 s">Iron fortification</td>
+<td class="column3 style18 n">13</td>
+<td class="column4 style18 s">Not Incl.</td>
+</tr>
+<tr class="row15">
+<td class="column0 style23 s style29" colspan="2" rowspan="13">Antenatal Care</td>
+<td class="column2 style25 s">Antenatal care (at least 1 visit)</td>
+<td class="column3 style25 n">14</td>
+<td class="column4 style25 n">9</td>
+</tr>
+<tr class="row16">
+<td class="column2 style25 s">Antenatal care (at least 4 visits)</td>
+<td class="column3 style25 n">15</td>
+<td class="column4 style25 n">10</td>
+</tr>
+<tr class="row17">
+<td class="column2 style25 s">TT - Tetanus toxoid vaccination</td>
+<td class="column3 style25 n">16</td>
+<td class="column4 style25 n">11</td>
+</tr>
+<tr class="row18">
+<td class="column2 style25 s">IPTp - Intermittent preventive treatment of malaria during pregnancy</td>
+<td class="column3 style25 n">17</td>
+<td class="column4 style25 n">12</td>
+</tr>
+<tr class="row19">
+<td class="column2 style25 s">Syphilis detection and treatment</td>
+<td class="column3 style25 n">18</td>
+<td class="column4 style25 n">13</td>
+</tr>
+<tr class="row20">
+<td class="column2 style25 s">Calcium supplementation</td>
+<td class="column3 style25 n">19</td>
+<td class="column4 style25 n">14</td>
+</tr>
+<tr class="row21">
+<td class="column2 style25 s">Iron supplementation in pregnancy</td>
+<td class="column3 style25 n">20</td>
+<td class="column4 style25 n">15</td>
+</tr>
+<tr class="row22">
+<td class="column2 style25 s">Multiple micronutrient supplementation in pregnancy</td>
+<td class="column3 style25 n">21</td>
+<td class="column4 style25 n">16</td>
+</tr>
+<tr class="row23">
+<td class="column2 style25 s">Balanced energy supplementation</td>
+<td class="column3 style25 n">22</td>
+<td class="column4 style25 n">17</td>
+</tr>
+<tr class="row24">
+<td class="column2 style25 s">Hypertensive disorder case management</td>
+<td class="column3 style25 n">23</td>
+<td class="column4 style25 n">18</td>
+</tr>
+<tr class="row25">
+<td class="column2 style25 s">Diabetes case management</td>
+<td class="column3 style25 n">24</td>
+<td class="column4 style25 n">19</td>
+</tr>
+<tr class="row26">
+<td class="column2 style25 s">Malaria case management</td>
+<td class="column3 style25 n">25</td>
+<td class="column4 style25 n">20</td>
+</tr>
+<tr class="row27">
+<td class="column2 style25 s">MgSO4 management of pre-eclampsia</td>
+<td class="column3 style25 n">26</td>
+<td class="column4 style25 n">21</td>
+</tr>
+<tr class="row28">
+<td class="column0 style30 s style37" colspan="2" rowspan="17">Delivery Care</td>
+<td class="column2 style32 s">Health Facility Delivery</td>
+<td class="column3 style33 n">27</td>
+<td class="column4 style33 n">22</td>
+</tr>
+<tr class="row29">
+<td class="column2 style32 s">Clean birth environment</td>
+<td class="column3 style33 n">28</td>
+<td class="column4 style33 n">23</td>
+</tr>
+<tr class="row30">
+<td class="column2 style32 s">Immediate drying and additional stimulation</td>
+<td class="column3 style33 n">29</td>
+<td class="column4 style33 n">39</td>
+</tr>
+<tr class="row31">
+<td class="column2 style32 s">Thermal protection</td>
+<td class="column3 style33 n">30</td>
+<td class="column4 style33 n">40</td>
+</tr>
+<tr class="row32">
+<td class="column2 style32 s">Clean cord care</td>
+<td class="column3 style33 n">31</td>
+<td class="column4 style33 n">41</td>
+</tr>
+<tr class="row33">
+<td class="column2 style32 s">Manual removal of placenta</td>
+<td class="column3 style33 n">32</td>
+<td class="column4 style33 n">24</td>
+</tr>
+<tr class="row34">
+<td class="column2 style32 s">Parenteral administration of anti-convulsants</td>
+<td class="column3 style33 n">33</td>
+<td class="column4 style33 n">25</td>
+</tr>
+<tr class="row35">
+<td class="column2 style32 s">Antibiotics for preterm or prolonged PROM</td>
+<td class="column3 style33 n">34</td>
+<td class="column4 style33 n">26</td>
+</tr>
+<tr class="row36">
+<td class="column2 style32 s">Parenteral administration of antibiotics</td>
+<td class="column3 style33 n">35</td>
+<td class="column4 style33 n">27</td>
+</tr>
+<tr class="row37">
+<td class="column2 style32 s">Assisted vaginal delivery</td>
+<td class="column3 style33 n">36</td>
+<td class="column4 style33 n">28</td>
+</tr>
+<tr class="row38">
+<td class="column2 style32 s">Neonatal resuscitation</td>
+<td class="column3 style33 n">37</td>
+<td class="column4 style33 n">42</td>
+</tr>
+<tr class="row39">
+<td class="column2 style32 s">Parenteral administration of uterotonics</td>
+<td class="column3 style33 n">38</td>
+<td class="column4 style33 n">29</td>
+</tr>
+<tr class="row40">
+<td class="column2 style32 s">Removal of retained products of conception</td>
+<td class="column3 style33 n">39</td>
+<td class="column4 style33 n">30</td>
+</tr>
+<tr class="row41">
+<td class="column2 style32 s">Induction of labor for pregnancies lasting 41+ weeks</td>
+<td class="column3 style33 n">40</td>
+<td class="column4 style33 n">31</td>
+</tr>
+<tr class="row42">
+<td class="column2 style32 s">Antenatal corticosteroids for preterm labor</td>
+<td class="column3 style33 n">41</td>
+<td class="column4 style33 n">32</td>
+</tr>
+<tr class="row43">
+<td class="column2 style32 s">Cesarean delivery</td>
+<td class="column3 style33 n">42</td>
+<td class="column4 style33 n">36</td>
+</tr>
+<tr class="row44">
+<td class="column2 style32 s">Blood transfusion</td>
+<td class="column3 style33 n">43</td>
+<td class="column4 style33 n">37</td>
+</tr>
+<tr class="row45">
+<td class="column0 style38 s style39" colspan="2">Breastfeeding</td>
+<td class="column2 style40 s">Breastfeeding</td>
+<td class="column3 style40 n">44</td>
+<td class="column4 style40 n">48</td>
+</tr>
+<tr class="row46">
+<td class="column0 style41 s style50" rowspan="10">Preventive Interventions</td>
+<td class="column1 style42 s style46" rowspan="4">Feeding and Supplements</td>
+<td class="column2 style43 s">Complementary feeding - Education only</td>
+<td class="column3 style43 n">45</td>
+<td class="column4 style43 n">49</td>
+</tr>
+<tr class="row47">
+<td class="column2 style43 s">Complementary feeding - Supplementary feeding + Education</td>
+<td class="column3 style43 n">46</td>
+<td class="column4 style43 n">50</td>
+</tr>
+<tr class="row48">
+<td class="column2 style43 s">Vitamin A supplementation</td>
+<td class="column3 style43 n">47</td>
+<td class="column4 style43 n">61</td>
+</tr>
+<tr class="row49">
+<td class="column2 style43 s">Zinc supplementation</td>
+<td class="column3 style43 n">48</td>
+<td class="column4 style43 n">62</td>
+</tr>
+<tr class="row50">
+<td class="column1 style42 s style46" rowspan="5">WASH</td>
+<td class="column2 style43 s">Basic sanitation</td>
+<td class="column3 style43 n">49</td>
+<td class="column4 style47 s style49" rowspan="5">Not<br/>
+Incl.</td>
+</tr>
+<tr class="row51">
+<td class="column2 style43 s">Point-of-use filtered water</td>
+<td class="column3 style43 n">50</td>
+</tr>
+<tr class="row52">
+<td class="column2 style43 s">Piped water</td>
+<td class="column3 style43 n">51</td>
+</tr>
+<tr class="row53">
+<td class="column2 style43 s">Hand washing with soap</td>
+<td class="column3 style43 n">52</td>
+</tr>
+<tr class="row54">
+<td class="column2 style43 s">Hygienic disposal of children's stools</td>
+<td class="column3 style43 n">53</td>
+</tr>
+<tr class="row55">
+<td class="column1 style51 s">Other</td>
+<td class="column2 style43 s">ITN/IRS - Households protected from malaria</td>
+<td class="column3 style43 n">54</td>
+<td class="column4 style43 n">71</td>
+</tr>
+<tr class="row56">
+<td class="column0 style52 s style60" colspan="2" rowspan="11">Vaccines</td>
+<td class="column2 style54 s">BCG - Single dose</td>
+<td class="column3 style54 n">55</td>
+<td class="column4 style54 n">51</td>
+</tr>
+<tr class="row57">
+<td class="column2 style54 s">Polio - Three doses</td>
+<td class="column3 style54 n">56</td>
+<td class="column4 style54 n">52</td>
+</tr>
+<tr class="row58">
+<td class="column2 style57 s">Pentavalent</td>
+<td class="column3 style54 null"></td>
+<td class="column4 style54 null"></td>
+</tr>
+<tr class="row59">
+<td class="column2 style58 s">DPT - Three doses</td>
+<td class="column3 style54 n">57</td>
+<td class="column4 style54 n">53</td>
+</tr>
+<tr class="row60">
+<td class="column2 style58 s">Hib - Three doses</td>
+<td class="column3 style54 n">58</td>
+<td class="column4 style54 n">54</td>
+</tr>
+<tr class="row61">
+<td class="column2 style58 s">HepB - Three doses</td>
+<td class="column3 style54 n">59</td>
+<td class="column4 style54 n">55</td>
+</tr>
+<tr class="row62">
+<td class="column2 style54 s">Pneumococcal - Three doses</td>
+<td class="column3 style54 n">60</td>
+<td class="column4 style54 n">56</td>
+</tr>
+<tr class="row63">
+<td class="column2 style54 s">Rotavirus - Two doses</td>
+<td class="column3 style54 n">61</td>
+<td class="column4 style54 n">57</td>
+</tr>
+<tr class="row64">
+<td class="column2 style54 s">Meningococcal A - Single dose</td>
+<td class="column3 style54 n">62</td>
+<td class="column4 style54 n">58</td>
+</tr>
+<tr class="row65">
+<td class="column2 style54 s">Malaria vaccine - Three doses</td>
+<td class="column3 style54 n">63</td>
+<td class="column4 style54 n">59</td>
+</tr>
+<tr class="row66">
+<td class="column2 style54 s">Measles - Single dose</td>
+<td class="column3 style54 n">64</td>
+<td class="column4 style54 n">60</td>
+</tr>
+<tr class="row67">
+<td class="column0 style61 s style72" rowspan="16">Curative Interventions</td>
+<td class="column1 style62 s">Maternal</td>
+<td class="column2 style63 s">Maternal sepsis case management</td>
+<td class="column3 style63 n">65</td>
+<td class="column4 style63 n">33</td>
+</tr>
+<tr class="row68">
+<td class="column1 style65 s style69" rowspan="7">Neonatal</td>
+<td class="column2 style66 s">Case management of premature babies</td>
+<td class="column3 style63 null"></td>
+<td class="column4 style63 null"></td>
+</tr>
+<tr class="row69">
+<td class="column2 style68 s">Kangaroo-Mother Care (KMC)</td>
+<td class="column3 style63 n">66</td>
+<td class="column4 style63 n">43</td>
+</tr>
+<tr class="row70">
+<td class="column2 style68 s">Full supportive care of prematurity</td>
+<td class="column3 style63 n">67</td>
+<td class="column4 style63 n">44</td>
+</tr>
+<tr class="row71">
+<td class="column2 style66 s">Case management of neonatal sepsis/pneumonia</td>
+<td class="column3 style63 null"></td>
+<td class="column4 style63 null"></td>
+</tr>
+<tr class="row72">
+<td class="column2 style68 s">Oral antibiotics for neonatal sepsis</td>
+<td class="column3 style63 n">68</td>
+<td class="column4 style63 n">45</td>
+</tr>
+<tr class="row73">
+<td class="column2 style68 s">Injectable antibiotics for neonatal sepsis</td>
+<td class="column3 style63 n">69</td>
+<td class="column4 style63 n">46</td>
+</tr>
+<tr class="row74">
+<td class="column2 style68 s">Full supportive care for neonatal sepsis/pneumonia</td>
+<td class="column3 style63 n">70</td>
+<td class="column4 style63 n">47</td>
+</tr>
+<tr class="row75">
+<td class="column1 style65 s style69" rowspan="3">Diarrhea</td>
+<td class="column2 style70 s">ORS - Oral Rehydration Solution</td>
+<td class="column3 style63 n">71</td>
+<td class="column4 style63 n">63</td>
+</tr>
+<tr class="row76">
+<td class="column2 style70 s">Antibiotics for treatment of dysentery</td>
+<td class="column3 style63 n">72</td>
+<td class="column4 style63 n">64</td>
+</tr>
+<tr class="row77">
+<td class="column2 style70 s">Zinc for treatment of diarrhea</td>
+<td class="column3 style63 n">73</td>
+<td class="column4 style63 n">65</td>
+</tr>
+<tr class="row78">
+<td class="column1 style65 s style69" rowspan="3">Other infectious diseases</td>
+<td class="column2 style70 s">Oral antibiotics for pneumonia</td>
+<td class="column3 style63 n">74</td>
+<td class="column4 style63 n">66</td>
+</tr>
+<tr class="row79">
+<td class="column2 style70 s">Vitamin A for treatment of measles</td>
+<td class="column3 style63 n">75</td>
+<td class="column4 style63 n">67</td>
+</tr>
+<tr class="row80">
+<td class="column2 style70 s">ACTs - Artemisinin compounds for treatment of malaria</td>
+<td class="column3 style63 n">76</td>
+<td class="column4 style63 n">68</td>
+</tr>
+<tr class="row81">
+<td class="column1 style71 s">Malnutrition</td>
+<td class="column2 style70 s">SAM - treatment for severe acute malnutrition</td>
+<td class="column3 style63 n">77</td>
+<td class="column4 style63 n">69</td>
+</tr>
+<tr class="row82">
+<td class="column1 style73 null"></td>
+<td class="column2 style70 s">MAM - treatment for moderate acute malnutrition</td>
+<td class="column3 style63 n">78</td>
+<td class="column4 style63 n">70</td>
+</tr>
+</tbody>
+</table>

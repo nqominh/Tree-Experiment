@@ -1,0 +1,163 @@
+[COLUMN STRUCTURE]
+Quota
+H1
+H2
+Y1
+
+[ROW STRUCTURE]
+Salary
+Territory and Team
+Personal Led
+MBO
+Attainment
+Personal
+New Rep Quota
+Compensation
+Region Commission Override
+Personal Commission
+MBO's
+Total Income
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Quota</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 s">H1</td>
+<td class="column3 style3 s">H2</td>
+<td class="column4 style3 s">Y1</td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s">Salary</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 52,500 </td>
+<td class="column3 style6 n"> $ 52,500 </td>
+<td class="column4 style6 f"> $ 105,000 </td>
+</tr>
+<tr class="row2">
+<td class="column0 style4 s">Territory and Team</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 550,000 </td>
+<td class="column3 style6 n"> $ 550,000 </td>
+<td class="column4 style6 f"> $ 1,100,000 </td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 s">Personal Led</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 150,000 </td>
+<td class="column3 style6 n"> $ 150,000 </td>
+<td class="column4 style6 f"> $ 300,000 </td>
+</tr>
+<tr class="row4">
+<td class="column0 style4 s">MBO</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style7 n"> $ 5,000 </td>
+<td class="column3 style7 n"> $ 5,000 </td>
+<td class="column4 style7 f"> $ 10,000 </td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style6 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style1 s">Attainment</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style3 s">H1</td>
+<td class="column3 style3 s">H2</td>
+<td class="column4 style3 s">Y1</td>
+</tr>
+<tr class="row7">
+<td class="column0 style4 s">Territory and Team</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 550,000 </td>
+<td class="column3 style6 n"> $ 550,000 </td>
+<td class="column4 style6 f"> $ 1,100,000 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style4 s">Personal</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 150,000 </td>
+<td class="column3 style6 n"> $ 150,000 </td>
+<td class="column4 style6 f"> $ 300,000 </td>
+</tr>
+<tr class="row9">
+<td class="column0 style4 s">New Rep Quota</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 n"> $ 100,000 </td>
+<td class="column3 style6 n"> $ 100,000 </td>
+<td class="column4 style6 f"> $ 200,000 </td>
+</tr>
+<tr class="row10">
+<td class="column0 style4 s">MBO</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style8 n">100%</td>
+<td class="column3 style8 n">100%</td>
+<td class="column4 style7 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style5 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style5 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style1 s">Compensation</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style3 s">H1</td>
+<td class="column3 style3 s">H2</td>
+<td class="column4 style3 s">Y1</td>
+</tr>
+<tr class="row13">
+<td class="column0 style4 s">Salary</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style9 f"> $ 52,500 </td>
+<td class="column3 style9 f"> $ 52,500 </td>
+<td class="column4 style9 f"> $ 105,000 </td>
+</tr>
+<tr class="row14">
+<td class="column0 style4 s">Region Commission Override</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 f">0</td>
+<td class="column3 style6 f">0</td>
+<td class="column4 style6 f">0</td>
+</tr>
+<tr class="row15">
+<td class="column0 style4 s">Personal Commission</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 f"> $ 9,000 </td>
+<td class="column3 style6 f"> $ 9,000 </td>
+<td class="column4 style6 f"> $ 18,000 </td>
+</tr>
+<tr class="row16">
+<td class="column0 style4 s">New Rep Quota</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 f"> $ 3,500 </td>
+<td class="column3 style6 f"> $ 3,500 </td>
+<td class="column4 style6 f"> $ 7,000 </td>
+</tr>
+<tr class="row17">
+<td class="column0 style4 s">MBO's</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style7 f"> $ 5,000 </td>
+<td class="column3 style7 f"> $ 5,000 </td>
+<td class="column4 style7 f"> $ 10,000 </td>
+</tr>
+<tr class="row18">
+<td class="column0 style10 s">Total Income</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style9 f"> $ 70,000 </td>
+<td class="column3 style9 f"> $ 70,000 </td>
+<td class="column4 style9 f"> $ 140,000 </td>
+</tr>
+</tbody>
+</table>

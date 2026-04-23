@@ -1,0 +1,509 @@
+[COLUMN STRUCTURE]
+MFI
+Isotype MFI
+MFI (actual)=MFI-isotype MFI
+
+[ROW STRUCTURE]
+Isotype stained
+CD40 stained
+  Set1
+  Set2
+  Set3
+  Set4
+  Set5
+  Set6
+Expt2
+Expt3
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Expt1</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style3 s">MFI</td>
+<td class="column5 style3 s">Isotype MFI</td>
+<td class="column6 style3 s">MFI (actual)=MFI-isotype MFI</td>
+</tr>
+<tr class="row2">
+<td class="column0 style4 s">Isotype stained</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 s">Uninf</td>
+<td class="column3 style7 s">DC</td>
+<td class="column4 style8 n">3481</td>
+<td class="column5 style8 n">3481</td>
+<td class="column6 style9 f">0</td>
+</tr>
+<tr class="row3">
+<td class="column0 style10 s style20" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style6 n">4676</td>
+<td class="column5 style6 n">3481</td>
+<td class="column6 style13 f">1195</td>
+</tr>
+<tr class="row4">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s"> DC + SAG</td>
+<td class="column4 style18 n">11381</td>
+<td class="column5 style18 n">3481</td>
+<td class="column6 style19 f">7900</td>
+</tr>
+<tr class="row5">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style6 n">4320</td>
+<td class="column5 style6 n">3481</td>
+<td class="column6 style13 f">839</td>
+</tr>
+<tr class="row6">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style18 n">10918</td>
+<td class="column5 style18 n">3481</td>
+<td class="column6 style19 f">7437</td>
+</tr>
+<tr class="row7">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style6 n">4267</td>
+<td class="column5 style6 n">3481</td>
+<td class="column6 style13 f">786</td>
+</tr>
+<tr class="row8">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style18 n">5579</td>
+<td class="column5 style18 n">3481</td>
+<td class="column6 style19 f">2098</td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style11 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style21 s style22" colspan="2">MFI (actual)</td>
+<td class="column6 style23 s">fold change</td>
+</tr>
+<tr class="row12">
+<td class="column0 style24 s style28" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style25 n">1195</td>
+<td class="column5 style13 n">1195</td>
+<td class="column6 style13 f">1</td>
+</tr>
+<tr class="row13">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s"> DC + SAG</td>
+<td class="column4 style27 n">7900</td>
+<td class="column5 style19 n">1195</td>
+<td class="column6 style19 f">6.6108786610879</td>
+</tr>
+<tr class="row14">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style25 n">839</td>
+<td class="column5 style13 n">1195</td>
+<td class="column6 style13 f">0.70209205020921</td>
+</tr>
+<tr class="row15">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style27 n">7437</td>
+<td class="column5 style19 n">1195</td>
+<td class="column6 style19 f">6.2234309623431</td>
+</tr>
+<tr class="row16">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style25 n">786</td>
+<td class="column5 style13 n">1195</td>
+<td class="column6 style13 f">0.65774058577406</td>
+</tr>
+<tr class="row17">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style27 n">2098</td>
+<td class="column5 style19 n">1195</td>
+<td class="column6 style19 f">1.7556485355649</td>
+</tr>
+<tr class="row18">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style1 s">Expt2</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style3 s">MFI</td>
+<td class="column5 style3 s">Isotype MFI</td>
+<td class="column6 style3 s">MFI (actual)=MFI-isotype MFI</td>
+</tr>
+<tr class="row23">
+<td class="column0 style4 s">Isotype stained</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 s">Uninf</td>
+<td class="column3 style7 s">DC</td>
+<td class="column4 style8 n">3274</td>
+<td class="column5 style8 n">3274</td>
+<td class="column6 style9 f">0</td>
+</tr>
+<tr class="row24">
+<td class="column0 style10 s style20" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style6 n">4670</td>
+<td class="column5 style6 n">3274</td>
+<td class="column6 style13 f">1396</td>
+</tr>
+<tr class="row25">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s"> DC + SAG</td>
+<td class="column4 style18 n">9680</td>
+<td class="column5 style18 n">3274</td>
+<td class="column6 style19 f">6406</td>
+</tr>
+<tr class="row26">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style6 n">4753</td>
+<td class="column5 style6 n">3274</td>
+<td class="column6 style13 f">1479</td>
+</tr>
+<tr class="row27">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style18 n">10281</td>
+<td class="column5 style18 n">3274</td>
+<td class="column6 style19 f">7007</td>
+</tr>
+<tr class="row28">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style6 n">5548</td>
+<td class="column5 style6 n">3274</td>
+<td class="column6 style13 f">2274</td>
+</tr>
+<tr class="row29">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style18 n">5879</td>
+<td class="column5 style18 n">3274</td>
+<td class="column6 style19 f">2605</td>
+</tr>
+<tr class="row30">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row31">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row32">
+<td class="column0 style11 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style21 s style22" colspan="2">MFI (actual)</td>
+<td class="column6 style23 s">fold change</td>
+</tr>
+<tr class="row33">
+<td class="column0 style24 s style28" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style25 n">1396</td>
+<td class="column5 style13 n">1396</td>
+<td class="column6 style13 f">1</td>
+</tr>
+<tr class="row34">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s"> DC + SAG</td>
+<td class="column4 style27 n">6406</td>
+<td class="column5 style19 n">1396</td>
+<td class="column6 style19 f">4.5888252148997</td>
+</tr>
+<tr class="row35">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style25 n">1479</td>
+<td class="column5 style13 n">1396</td>
+<td class="column6 style13 f">1.0594555873926</td>
+</tr>
+<tr class="row36">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style27 n">7007</td>
+<td class="column5 style19 n">1396</td>
+<td class="column6 style19 f">5.019340974212</td>
+</tr>
+<tr class="row37">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s"> DC-SAG</td>
+<td class="column4 style25 n">2274</td>
+<td class="column5 style13 n">1396</td>
+<td class="column6 style13 f">1.6289398280802</td>
+</tr>
+<tr class="row38">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s"> DC+ SAG</td>
+<td class="column4 style27 n">2605</td>
+<td class="column5 style19 n">1396</td>
+<td class="column6 style19 f">1.8660458452722</td>
+</tr>
+<tr class="row39">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row40">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row41">
+<td class="column0 style1 s">Expt3</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row42">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style3 s">MFI</td>
+<td class="column5 style3 s">Isotype MFI</td>
+<td class="column6 style3 s">MFI (actual)=MFI-isotype MFI</td>
+</tr>
+<tr class="row43">
+<td class="column0 style4 s">Isotype stained</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 s">Uninf</td>
+<td class="column3 style7 s">DC</td>
+<td class="column4 style8 n">2615</td>
+<td class="column5 style8 n">2615</td>
+<td class="column6 style9 f">0</td>
+</tr>
+<tr class="row44">
+<td class="column0 style10 s style20" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style6 n">5349</td>
+<td class="column5 style6 n">2615</td>
+<td class="column6 style13 f">2734</td>
+</tr>
+<tr class="row45">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style18 n">18383</td>
+<td class="column5 style18 n">2615</td>
+<td class="column6 style19 f">15768</td>
+</tr>
+<tr class="row46">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style6 n">3894</td>
+<td class="column5 style6 n">2615</td>
+<td class="column6 style13 f">1279</td>
+</tr>
+<tr class="row47">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style18 n">17772</td>
+<td class="column5 style18 n">2615</td>
+<td class="column6 style19 f">15157</td>
+</tr>
+<tr class="row48">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style6 n">7712</td>
+<td class="column5 style6 n">2615</td>
+<td class="column6 style13 f">5097</td>
+</tr>
+<tr class="row49">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style18 n">10267</td>
+<td class="column5 style18 n">2615</td>
+<td class="column6 style19 f">7652</td>
+</tr>
+<tr class="row50">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row51">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row52">
+<td class="column0 style11 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style21 s style22" colspan="2">MFI (actual)</td>
+<td class="column6 style23 s">fold change</td>
+</tr>
+<tr class="row53">
+<td class="column0 style24 s style28" rowspan="6">CD40 stained </td>
+<td class="column1 style11 s">Set1</td>
+<td class="column2 style12 s style16" rowspan="2">Uninf</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style25 n">2734</td>
+<td class="column5 style13 n">2734</td>
+<td class="column6 style13 f">1</td>
+</tr>
+<tr class="row54">
+<td class="column1 style15 s">Set2</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style27 n">15768</td>
+<td class="column5 style19 n">2734</td>
+<td class="column6 style19 f">5.7673738112655</td>
+</tr>
+<tr class="row55">
+<td class="column1 style11 s">Set3</td>
+<td class="column2 style12 s style16" rowspan="2">AG83 (SbSLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style25 n">1279</td>
+<td class="column5 style13 n">2734</td>
+<td class="column6 style13 f">0.46781272860278</td>
+</tr>
+<tr class="row56">
+<td class="column1 style15 s">Set4</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style27 n">15157</td>
+<td class="column5 style19 n">2734</td>
+<td class="column6 style19 f">5.5438917337235</td>
+</tr>
+<tr class="row57">
+<td class="column1 style11 s">Set5</td>
+<td class="column2 style12 s style16" rowspan="2">GE1F8R (SbRLD)</td>
+<td class="column3 style5 s">DC -SAG</td>
+<td class="column4 style25 n">5097</td>
+<td class="column5 style13 n">2734</td>
+<td class="column6 style13 f">1.8643013899049</td>
+</tr>
+<tr class="row58">
+<td class="column1 style15 s">Set6</td>
+<td class="column3 style17 s">DC + SAG</td>
+<td class="column4 style27 n">7652</td>
+<td class="column5 style19 n">2734</td>
+<td class="column6 style19 f">2.7988295537674</td>
+</tr>
+</tbody>
+</table>

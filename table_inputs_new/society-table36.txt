@@ -1,0 +1,124 @@
+[COLUMN STRUCTURE]
+2019
+  2020
+    2021
+Model with mitigation
+  1,062,160
+    1,562,943
+      1,517,733
+
+[ROW STRUCTURE]
+Paste Total Births from FamPlan module, Results/Demographic Events/Births in cell Q33 below
+Births
+2019
+2020
+2021
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">In addition needed: number of pregnancies and births</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">Paste Total Pregnancies from FamPlan module, Results/Demographic Events/Pregnancies in cell Q26 below</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 s">Pregnancies</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style2 null"></td>
+<td class="column1 style5 s">Model with mitigation</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 n">2019</td>
+<td class="column1 style5 n">1,062,160</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 n">2020</td>
+<td class="column1 style5 n">1,562,943</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 n">2021</td>
+<td class="column1 style5 n">1,517,733</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style3 s">Paste Total Births from FamPlan module, Results/Demographic Events/Births in cell Q33 below</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 s">Births</td>
+<td class="column1 style5 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 null"></td>
+<td class="column1 style5 s">Model with mitigation</td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 n">2019</td>
+<td class="column1 style6 n">695,873</td>
+<td class="column2 style7 f">66%</td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 n">2020</td>
+<td class="column1 style6 n">991,970</td>
+<td class="column2 style7 f">63%</td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 n">2021</td>
+<td class="column1 style6 n">968,611</td>
+<td class="column2 style7 f">64%</td>
+<td class="column3 style5 null"></td>
+<td class="column4 style2 null"></td>
+</tr>
+</tbody>
+</table>

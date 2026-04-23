@@ -1,0 +1,354 @@
+[COLUMN STRUCTURE]
+CD40
+  Expt1
+    repli1
+      ct
+    repli2
+      ct
+  Expt2
+    repli1
+      ct
+    repli2
+      ct
+  Expt3
+    repli1
+      ct
+    repli2
+      ct
+b-actin
+  Expt1
+    repli1
+      ct
+    repli2
+      ct
+  Expt2
+    repli1
+      ct
+    repli2
+      ct
+  Expt3
+    repli1
+      ct
+    repli2
+      ct
+
+[ROW STRUCTURE]
+Set1
+  DC -siRNA -SAG
+Set2
+  DC-siRNA +SAG
+Set3
+  DC + Ctrl siRNA-SAG
+Set4
+  DC+ Ctrl siRNA +SAG
+Set5
+  DC + Runx1 siRNA-SAG
+Set6
+  DC+ Runx1 siRNA +SAG
+Set7
+  DC + Runx3 siRNA-SAG
+Set8
+  DC+ Runx3 siRNA +SAG
+Set9
+  DC + Runx1+3 siRNA-SAG
+Set10
+  DC+ Runx1+ 3 siRNA +SAG
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 s style29" colspan="8">CD40</td>
+<td class="column10 style30 null"></td>
+<td class="column11 style4 s style29" colspan="8">b-actin</td>
+</tr>
+<tr class="row1">
+<td class="column0 style5 null"></td>
+<td class="column1 style6 null"></td>
+<td class="column2 style7 s style8" colspan="2">Expt1</td>
+<td class="column4 style6 null"></td>
+<td class="column5 style7 s style8" colspan="2">Expt2</td>
+<td class="column7 style6 null"></td>
+<td class="column8 style7 s style8" colspan="2">Expt3</td>
+<td class="column10 style6 null"></td>
+<td class="column11 style7 s style8" colspan="2">Expt1</td>
+<td class="column13 style6 null"></td>
+<td class="column14 style7 s style8" colspan="2">Expt2</td>
+<td class="column16 style6 null"></td>
+<td class="column17 style7 s style8" colspan="2">Expt3</td>
+</tr>
+<tr class="row2">
+<td class="column0 style5 null"></td>
+<td class="column1 style6 null"></td>
+<td class="column2 style9 s">repli1</td>
+<td class="column3 style10 s">repli2</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style9 s">repli1</td>
+<td class="column6 style10 s">repli2</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style9 s">repli1</td>
+<td class="column9 style10 s">repli2</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style9 s">repli1</td>
+<td class="column12 style10 s">repli2</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style9 s">repli1</td>
+<td class="column15 style10 s">repli2</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style9 s">repli1</td>
+<td class="column18 style10 s">repli2</td>
+</tr>
+<tr class="row3">
+<td class="column0 style12 null"></td>
+<td class="column1 style13 null"></td>
+<td class="column2 style14 s">ct</td>
+<td class="column3 style15 s">ct</td>
+<td class="column4 style16 null"></td>
+<td class="column5 style14 s">ct</td>
+<td class="column6 style15 s">ct</td>
+<td class="column7 style16 null"></td>
+<td class="column8 style14 s">ct</td>
+<td class="column9 style15 s">ct</td>
+<td class="column10 style16 null"></td>
+<td class="column11 style14 s">ct</td>
+<td class="column12 style15 s">ct</td>
+<td class="column13 style16 null"></td>
+<td class="column14 style14 s">ct</td>
+<td class="column15 style15 s">ct</td>
+<td class="column16 style16 null"></td>
+<td class="column17 style14 s">ct</td>
+<td class="column18 style15 s">ct</td>
+</tr>
+<tr class="row4">
+<td class="column0 style1 s">Set1</td>
+<td class="column1 style17 s">DC -siRNA -SAG</td>
+<td class="column2 style1 n">23.465755462646</td>
+<td class="column3 style18 n">23.277828216553</td>
+<td class="column4 style19 null"></td>
+<td class="column5 style20 n">23.266994476318</td>
+<td class="column6 style18 n">23.244518280029</td>
+<td class="column7 style19 null"></td>
+<td class="column8 style20 n">23.504224777222</td>
+<td class="column9 style18 n">23.648885726929</td>
+<td class="column10 style19 null"></td>
+<td class="column11 style20 n">15.72264957428</td>
+<td class="column12 style18 n">15.370510101318</td>
+<td class="column13 style19 null"></td>
+<td class="column14 style20 n">16.855585098267</td>
+<td class="column15 style18 n">16.856863021851</td>
+<td class="column16 style19 null"></td>
+<td class="column17 style20 n">16.918975830078</td>
+<td class="column18 style18 n">16.914987564087</td>
+</tr>
+<tr class="row5">
+<td class="column0 style5 s">Set2</td>
+<td class="column1 style21 s">DC-siRNA +SAG</td>
+<td class="column2 style22 n">20.686794281006</td>
+<td class="column3 style23 n">20.868412017822</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style22 n">20.712438583374</td>
+<td class="column6 style23 n">20.887958526611</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style22 n">20.350860595703</td>
+<td class="column9 style23 n">20.431100845337</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style22 n">15.844573020935</td>
+<td class="column12 style23 n">15.814086914062</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style22 n">16.901819229126</td>
+<td class="column15 style23 n">16.957607269287</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style22 n">16.423950195312</td>
+<td class="column18 style23 n">16.501667022705</td>
+</tr>
+<tr class="row6">
+<td class="column0 style5 s">Set3</td>
+<td class="column1 style21 s">DC + Ctrl siRNA-SAG</td>
+<td class="column2 style22 n">23.20295715332</td>
+<td class="column3 style23 n">23.084329605102</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style22 n">23.51388168335</td>
+<td class="column6 style23 n">23.71594619751</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style22 n">23.685417175293</td>
+<td class="column9 style23 n">23.944761276245</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style22 n">15.345649719238</td>
+<td class="column12 style23 n">15.450329780579</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style22 n">16.84977722168</td>
+<td class="column15 style23 n">16.851037979126</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style22 n">16.630535125732</td>
+<td class="column18 style23 n">16.824602127075</td>
+</tr>
+<tr class="row7">
+<td class="column0 style5 s">Set4</td>
+<td class="column1 style21 s">DC+ Ctrl siRNA +SAG</td>
+<td class="column2 style22 n">20.819786071777</td>
+<td class="column3 style23 n">20.973899841309</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style22 n">20.717470169067</td>
+<td class="column6 style23 n">20.773681640625</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style22 n">20.184541702271</td>
+<td class="column9 style23 n">20.043113708496</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style22 n">15.951807022095</td>
+<td class="column12 style23 n">15.936810493469</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style22 n">16.880535125732</td>
+<td class="column15 style23 n">16.906200408936</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style22 n">16.401594161987</td>
+<td class="column18 style23 n">16.271335601807</td>
+</tr>
+<tr class="row8">
+<td class="column0 style5 s">Set5</td>
+<td class="column1 style21 s">DC + Runx1 siRNA-SAG</td>
+<td class="column2 style22 n">23.257911682129</td>
+<td class="column3 style23 n">23.225204467773</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style22 n">23.310863494873</td>
+<td class="column6 style23 n">23.234817504883</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style22 n">23.584468841553</td>
+<td class="column9 style23 n">23.20662689209</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style22 n">15.70495891571</td>
+<td class="column12 style23 n">15.653469085693</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style22 n">16.798757553101</td>
+<td class="column15 style23 n">16.80943107605</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style22 n">16.73899269104</td>
+<td class="column18 style23 n">16.675271987915</td>
+</tr>
+<tr class="row9">
+<td class="column0 style5 s">Set6</td>
+<td class="column1 style21 s">DC+ Runx1 siRNA +SAG</td>
+<td class="column2 style22 n">21.253032684326</td>
+<td class="column3 style23 n">21.208026885986</td>
+<td class="column4 style11 null"></td>
+<td class="column5 style22 n">20.950206756592</td>
+<td class="column6 style24 n">20.883129119873</td>
+<td class="column7 style11 null"></td>
+<td class="column8 style22 n">21.583372116089</td>
+<td class="column9 style23 n">21.457996368408</td>
+<td class="column10 style11 null"></td>
+<td class="column11 style22 n">15.512487411499</td>
+<td class="column12 style23 n">15.357472419739</td>
+<td class="column13 style11 null"></td>
+<td class="column14 style22 n">16.725667953491</td>
+<td class="column15 style23 n">16.802024841309</td>
+<td class="column16 style11 null"></td>
+<td class="column17 style22 n">16.900684356689</td>
+<td class="column18 style23 n">16.808181762695</td>
+</tr>
+<tr class="row10">
+<td class="column0 style5 s">Set7</td>
+<td class="column1 style21 s">DC + Runx3 siRNA-SAG</td>
+<td class="column2 style5 n">23.248306274414</td>
+<td class="column3 style25 n">23.111276626587</td>
+<td class="column4 style6 null"></td>
+<td class="column5 style5 n">23.319076538086</td>
+<td class="column6 style25 n">23.670402526856</td>
+<td class="column7 style6 null"></td>
+<td class="column8 style5 n">23.033567428589</td>
+<td class="column9 style25 n">23.026699066162</td>
+<td class="column10 style6 null"></td>
+<td class="column11 style5 n">15.607486724853</td>
+<td class="column12 style25 n">15.656957626343</td>
+<td class="column13 style6 null"></td>
+<td class="column14 style5 n">16.71466255188</td>
+<td class="column15 style25 n">16.797950744629</td>
+<td class="column16 style6 null"></td>
+<td class="column17 style5 n">16.594783782959</td>
+<td class="column18 style25 n">16.617511749268</td>
+</tr>
+<tr class="row11">
+<td class="column0 style5 s">Set8</td>
+<td class="column1 style21 s">DC+ Runx3 siRNA +SAG</td>
+<td class="column2 style5 n">21.008981704712</td>
+<td class="column3 style25 n">20.993133544922</td>
+<td class="column4 style6 null"></td>
+<td class="column5 style5 n">20.977212905884</td>
+<td class="column6 style25 n">20.750780105591</td>
+<td class="column7 style6 null"></td>
+<td class="column8 style5 n">21.556728363037</td>
+<td class="column9 style25 n">21.573455810547</td>
+<td class="column10 style6 null"></td>
+<td class="column11 style5 n">15.367920875549</td>
+<td class="column12 style25 n">15.349785804748</td>
+<td class="column13 style6 null"></td>
+<td class="column14 style5 n">16.779302597046</td>
+<td class="column15 style25 n">16.605844497681</td>
+<td class="column16 style6 null"></td>
+<td class="column17 style5 n">16.878860473633</td>
+<td class="column18 style25 n">16.902215957642</td>
+</tr>
+<tr class="row12">
+<td class="column0 style5 s">Set9</td>
+<td class="column1 style21 s">DC + Runx1+3 siRNA-SAG</td>
+<td class="column2 style5 n">23.104099273682</td>
+<td class="column3 style25 n">23.061538696289</td>
+<td class="column4 style6 null"></td>
+<td class="column5 style5 n">23.538770675659</td>
+<td class="column6 style26 n">23.468147277832</td>
+<td class="column7 style6 null"></td>
+<td class="column8 style5 n">23.620512008667</td>
+<td class="column9 style25 n">23.369588851929</td>
+<td class="column10 style6 null"></td>
+<td class="column11 style5 n">15.56334400177</td>
+<td class="column12 style25 n">15.548686981201</td>
+<td class="column13 style6 null"></td>
+<td class="column14 style5 n">16.626853942871</td>
+<td class="column15 style25 n">16.93701171875</td>
+<td class="column16 style6 null"></td>
+<td class="column17 style5 n">16.666471481323</td>
+<td class="column18 style25 n">16.572065353394</td>
+</tr>
+<tr class="row13">
+<td class="column0 style12 s">Set10</td>
+<td class="column1 style27 s">DC+ Runx1+ 3 siRNA +SAG</td>
+<td class="column2 style12 n">22.647470474243</td>
+<td class="column3 style28 n">22.804550170898</td>
+<td class="column4 style13 null"></td>
+<td class="column5 style12 n">21.017635345459</td>
+<td class="column6 style28 n">21.030504226685</td>
+<td class="column7 style13 null"></td>
+<td class="column8 style12 n">22.033170700073</td>
+<td class="column9 style28 n">21.914505004883</td>
+<td class="column10 style13 null"></td>
+<td class="column11 style12 n">15.729172706604</td>
+<td class="column12 style28 n">15.604085922241</td>
+<td class="column13 style13 null"></td>
+<td class="column14 style12 n">16.234563827515</td>
+<td class="column15 style28 n">16.469049453735</td>
+<td class="column16 style13 null"></td>
+<td class="column17 style12 n">16.425632476807</td>
+<td class="column18 style28 n">16.288528442383</td>
+</tr>
+</tbody>
+</table>

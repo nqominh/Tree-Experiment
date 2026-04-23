@@ -1,0 +1,692 @@
+[COLUMN STRUCTURE]
+Report Name:
+  Template Name:
+    Description:
+      User List:
+        Queue
+          User Name:
+            All in One Printer Chat
+              Total
+          Anoop Sukumar 10170655
+            All in One Printer Chat
+              Total
+Hourly
+  Agent Chat Productivity by Queue
+    Description:
+      All
+        Queue
+          Anoop Sukumar 10170655
+            All in One Printer Chat
+              Total
+            2
+              Total
+        Chats Serviced
+          Queue
+            Assign
+              Anoop Sukumar 10170655
+                2
+                0
+            Transfer
+              Anoop Sukumar 10170655
+                0
+              Manager:
+                0
+            Conference
+              Manager:
+                0
+            Total
+              Manager:
+                0
+                2
+Time Frame:
+  Sort By:
+    Sort Order:
+      All
+        Chats Serviced
+          Queue
+            Total
+              Manager:
+                2
+        Average Time
+          Queue
+            Work
+              Manager:
+                00:50:12
+01/26/2012 12:00:00 AM
+  User Name
+    Ascending
+      All
+        Average Time
+          Queue
+            Work
+              Manager:
+                00:50:12
+              Department:
+                00:50:12
+            Wrap
+              Department:
+                00:50:12
+                00:01:03
+To
+  User Name
+    Ascending
+      All
+        Average Time
+          Queue
+            Wrap
+              Department:
+                00:01:03
+              Kodak Support
+                00:01:03
+01/26/2012 06:10:22 PM
+  User Name
+    Ascending
+      All
+        Average Time
+          Queue
+            Wrap
+              Kodak Support
+                00:01:03
+            Handle
+              Kodak Support
+                00:01:03
+                00:51:16
+
+[ROW STRUCTURE]
+(none)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="3645">
+<col class="x69" span="2" width="14"/>
+<col class="x69" width="7"/>
+<col class="x69" width="113"/>
+<col class="x69" width="2"/>
+<col class="x69" width="13"/>
+<col class="x69" width="1"/>
+<col class="x69" width="54"/>
+<col class="x69" span="2" width="1"/>
+<col class="x69" width="128"/>
+<col class="x69" span="2" width="1"/>
+<col class="x69" width="33"/>
+<col class="x69" width="62"/>
+<col class="x69" width="1"/>
+<col class="x69" width="32"/>
+<col class="x69" width="1"/>
+<col class="x69" width="81"/>
+<col class="x69" width="2"/>
+<col class="x69" width="48"/>
+<col class="x69" span="2" width="1"/>
+<col class="x69" width="18"/>
+<col class="x69" width="2"/>
+<col class="x69" width="109"/>
+<col class="x69" width="1"/>
+<col class="x69" width="7"/>
+<col class="x69" width="17"/>
+<col class="x69" width="1"/>
+<col class="x69" width="94"/>
+<col class="x69" width="1"/>
+<col class="x69" width="33"/>
+<col class="x69" span="2" width="1"/>
+<col class="x69" width="69"/>
+<col class="x69" width="1"/>
+<col class="x69" width="8"/>
+<col class="x69" width="2"/>
+<col class="x69" width="30"/>
+<col class="x69" width="1"/>
+<col class="x69" width="39"/>
+<col class="x69" span="2" width="1"/>
+<col class="x69" width="82"/>
+<col class="x69" width="5"/>
+<col class="x69" width="71"/>
+<col class="x69" width="2"/>
+<col class="x69" width="27"/>
+<col class="x69" span="33" width="73"/>
+<tr height="40">
+<td align="left" colspan="49" height="40" width="1236"><span><img alt="1" height="40" name="Picture1" src="data:image/png;base64,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" width="3577"/></span><span><table cellpadding="0" cellspacing="0"><tr><td class="x70" colspan="49" height="40" width="1236"></td></tr></table></span></td>
+<td class="x69" colspan="33" width="2409"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x71" colspan="4">Report Name:</td>
+<td class="x70"></td>
+<td class="x77" colspan="17">Hourly</td>
+<td class="x70"></td>
+<td class="x71" colspan="4">Time Frame:</td>
+<td class="x70"></td>
+<td class="x77" colspan="6">01/26/2012 12:00:00 AM</td>
+<td class="x70"></td>
+<td class="x81" colspan="3">To </td>
+<td class="x70"></td>
+<td class="x77" colspan="6">01/26/2012 06:10:22 PM</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="4">Template Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="17">Agent Chat Productivity by Queue</td>
+<td class="x70"></td>
+<td class="x72" colspan="4">Sort By:</td>
+<td class="x70"></td>
+<td class="x78" colspan="17">User Name</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x71" colspan="4">Description:</td>
+<td class="x70"></td>
+<td class="x77" colspan="17"></td>
+<td class="x70"></td>
+<td class="x71" colspan="4">Sort Order:</td>
+<td class="x70"></td>
+<td class="x77" colspan="17">Ascending</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="4">User List:</td>
+<td class="x70"></td>
+<td class="x78" colspan="40">All</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x73" colspan="7" height="54" rowspan="3">Queue</td>
+<td class="x70"></td>
+<td class="x73" colspan="16">Chats Serviced</td>
+<td class="x70"></td>
+<td class="x73" colspan="20">Average Time</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x70" colspan="73"><div></div></td>
+</tr>
+<tr height="33">
+<td class="x70" colspan="2" height="33"></td>
+<td class="x70"></td>
+<td class="x73" colspan="2">Assign</td>
+<td class="x70"></td>
+<td class="x73" colspan="4">Transfer</td>
+<td class="x70"></td>
+<td class="x73" colspan="3">Conference</td>
+<td class="x70"></td>
+<td class="x73" colspan="4">Total</td>
+<td class="x70"></td>
+<td class="x73" colspan="6">Work</td>
+<td class="x70"></td>
+<td class="x73" colspan="8">Wrap</td>
+<td class="x70"></td>
+<td class="x73" colspan="4">Handle</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Anoop Sukumar 10170655</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">2</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">2</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:50:12</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:01:03</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:51:16</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">2</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">2</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:50:12</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:01:03</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:51:16</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Aravelli Sivapani 10170897</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">12</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">12</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:29:18</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:01:52</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:31:10</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">12</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">12</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:29:18</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:01:52</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:31:10</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Arjun Chaudhary 10171597</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">10</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">10</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:30:21</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:00:51</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:31:13</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">10</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">10</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:30:21</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:00:51</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:31:13</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Chalam Raju Chalam 10172481</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">12</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">12</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:29:05</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:00:23</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:29:28</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">12</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">12</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:29:05</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:00:23</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:29:28</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Chandrasekhar Vanam 10172468</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">8</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">8</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:52:41</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:00:32</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:53:13</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">8</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">8</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:52:41</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:00:32</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:53:13</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Chinna Babu Dasari 10170269</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All in One Printer Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">6</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">6</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:24:12</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:01:43</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:25:55</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x76" colspan="7">Total</td>
+<td class="x70"></td>
+<td class="x80">6</td>
+<td class="x70"></td>
+<td class="x80" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">6</td>
+<td class="x70"></td>
+<td class="x80" colspan="7">00:24:12</td>
+<td class="x70"></td>
+<td class="x80" colspan="8">00:01:43</td>
+<td class="x70"></td>
+<td class="x80" colspan="3">00:25:55</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="1">
+<td class="x70" colspan="2" height="1"><div></div></td>
+<td class="x74" colspan="45"><div></div></td>
+<td class="x70" colspan="35"><div></div></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x72" colspan="2">User Name:</td>
+<td class="x70"></td>
+<td class="x78" colspan="10">Christie Yeshwant Kakani 10169015</td>
+<td class="x70"></td>
+<td class="x72" colspan="3">Manager:</td>
+<td class="x70"></td>
+<td class="x78" colspan="11"></td>
+<td class="x70"></td>
+<td class="x72" colspan="6">Department:</td>
+<td class="x70"></td>
+<td class="x78" colspan="8">Kodak Support</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="20">
+<td class="x70" colspan="2" height="20"></td>
+<td class="x75" colspan="6">All In One NPSQ OPAL Chat</td>
+<td class="x70"></td>
+<td class="x79" colspan="2">2</td>
+<td class="x70"></td>
+<td class="x79" colspan="5">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="4">0</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">2</td>
+<td class="x70"></td>
+<td class="x79" colspan="7">00:24:12</td>
+<td class="x70"></td>
+<td class="x79" colspan="8">00:00:36</td>
+<td class="x70"></td>
+<td class="x79" colspan="3">00:24:49</td>
+<td class="x70" colspan="35"></td>
+</tr>
+<tr height="22">
+<td align="left" height="22" width="14"><span><img alt="1" height="21" name="Picture2" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA50AAAAFCAYAAADG8Yj5AAAAWUlEQVR42u3ZwQ1AQBRAwe0MEbqyaJStQyJfAQQHbnOY46vgpZynAAAAgDvjcPbYjHOkrbQBAAAAf0ix1AEAAACfK02kfekCAAAAPld6pxMAAIAX1guPXRUH10z1H6fzKqcAAAAASUVORK5CYII=" width="3577"/></span><span><table cellpadding="0" cellspacing="0"><tr><td class="x69" height="22" width="14"></td></tr></table></span></td>
+<td class="x69" colspan="81"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="2" width="28"></td>
+<td width="7"></td>
+<td width="113"></td>
+<td width="2"></td>
+<td width="13"></td>
+<td width="1"></td>
+<td width="54"></td>
+<td colspan="2" width="2"></td>
+<td width="128"></td>
+<td colspan="2" width="2"></td>
+<td width="33"></td>
+<td width="62"></td>
+<td width="1"></td>
+<td width="32"></td>
+<td width="1"></td>
+<td width="81"></td>
+<td width="2"></td>
+<td width="48"></td>
+<td colspan="2" width="2"></td>
+<td width="18"></td>
+<td width="2"></td>
+<td width="109"></td>
+<td width="1"></td>
+<td width="7"></td>
+<td width="17"></td>
+<td width="1"></td>
+<td width="94"></td>
+<td width="1"></td>
+<td width="33"></td>
+<td colspan="2" width="2"></td>
+<td width="69"></td>
+<td width="1"></td>
+<td width="8"></td>
+<td width="2"></td>
+<td width="30"></td>
+<td width="1"></td>
+<td width="39"></td>
+<td colspan="2" width="2"></td>
+<td width="82"></td>
+<td width="5"></td>
+<td width="71"></td>
+<td width="2"></td>
+<td width="27"></td>
+<td colspan="33" width="2409"></td>
+</tr>
+<?endif?>
+</table>

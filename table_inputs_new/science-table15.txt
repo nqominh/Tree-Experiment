@@ -1,0 +1,291 @@
+[COLUMN STRUCTURE]
+Chromosome
+  Homozygous Recessive
+    6
+      22
+        X-Linked
+          X
+            Novel Heterozygous
+              1
+                2
+                  3
+                    4
+                      8
+                        15
+Position
+  Homozygous Recessive
+    28359073
+      41620091
+        X-Linked
+          118243136
+            Novel Heterozygous
+              156542321
+                202715044
+                  55096461
+                    189393885
+                      159943726
+                        139937320
+                          18662056
+                            99478133
+Reference Allele
+  Homozygous Recessive
+    A
+      T
+        X-Linked
+          A
+            Novel Heterozygous
+              T
+                G
+                  C
+                    A
+                      G
+                        C
+                          G
+Alternate Allele
+  Homozygous Recessive
+    G
+      C
+        X-Linked
+          G
+            Novel Heterozygous
+              C
+                T
+                  C
+                    A
+                      G
+                        C
+                          T
+Gene Symbol
+  Homozygous Recessive
+    ZSCAN12
+      L3MBTL2
+        X-Linked
+          KIAA1210
+            Novel Heterozygous
+              IQGAP3
+                KDM5B
+                  EML6
+                    GULP1
+                      C3orf80
+                        CCRN4L
+                          PSD3
+                            IGF1R
+Consequence
+  Homozygous Recessive
+    missense_variant
+      X-Linked
+        missense_variant
+          Novel Heterozygous
+            start_lost
+              stop_gained
+                missense_variant
+                  stop_gained
+                    missense_variant
+HGVS Name (cDNA)
+  Homozygous Recessive
+    ENST00000361028.1:c.994N>C
+      ENST00000216237.5:c.1010N>C
+        X-Linked
+          ENST00000402510.2:c.680N>C
+            Novel Heterozygous
+              ENST00000361170.2:c.1N>G
+                ENST00000367265.3:c.2265N>A
+                  ENST00000356458.6:c.2195N>C
+                    ENST00000409580.1:c.224N>A
+                      ENST00000326474.3:c.304N>G
+                        ENST00000280614.2:c.185N>C
+                          ENST00000327040.8:c.1886N>A
+                            ENST00000268035.6:c.3037N>T
+HGVS Name (protein)
+  Homozygous Recessive
+    ENSP00000354305.1:p.Cys332Arg
+      ENSP00000216237.5:p.Val337Ala
+        X-Linked
+          ENSP00000384670.2:p.Leu227Pro
+            Novel Heterozygous
+              ENSP00000354451.2:p.Met1?
+                ENSP00000356234.3:p.Tyr755Ter
+                  ENSP00000348842.6:p.Ser732Thr
+                    ENSP00000386289.1:p.Ser75Ter
+                      ENSP00000313324.3:p.Ile102Val
+                        ENSP00000280614.2:p.Arg62Pro
+                          ENSP00000324127.8:p.Gly629Glu
+                            ENSP00000268035.6:p.Val1013Phe
+
+[ROW STRUCTURE]
+18
+20
+22
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Chromosome</td>
+<td class="column1 style1 s">Position</td>
+<td class="column2 style1 s">Reference Allele</td>
+<td class="column3 style1 s">Alternate Allele</td>
+<td class="column4 style1 s">Gene Symbol</td>
+<td class="column5 style1 s">Consequence</td>
+<td class="column6 style1 s">HGVS Name (cDNA)</td>
+<td class="column7 style1 s">HGVS Name (protein)</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style5" colspan="8">Homozygous Recessive</td>
+</tr>
+<tr class="row2">
+<td class="column0 style1 n">6</td>
+<td class="column1 style1 n">28359073</td>
+<td class="column2 style1 s">A</td>
+<td class="column3 style1 s">G</td>
+<td class="column4 style1 s">ZSCAN12</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000361028.1:c.994N&gt;C</td>
+<td class="column7 style1 s">ENSP00000354305.1:p.Cys332Arg</td>
+</tr>
+<tr class="row3">
+<td class="column0 style1 n">22</td>
+<td class="column1 style1 n">41620091</td>
+<td class="column2 style1 s">T</td>
+<td class="column3 style1 s">C</td>
+<td class="column4 style1 s">L3MBTL2</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000216237.5:c.1010N&gt;C</td>
+<td class="column7 style1 s">ENSP00000216237.5:p.Val337Ala</td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 s style5" colspan="8">X-Linked</td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 s">X</td>
+<td class="column1 style1 n">118243136</td>
+<td class="column2 style1 s">A</td>
+<td class="column3 style1 s">G</td>
+<td class="column4 style1 s">KIAA1210</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000402510.2:c.680N&gt;C</td>
+<td class="column7 style1 s">ENSP00000384670.2:p.Leu227Pro</td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 s style5" colspan="8">Novel Heterozygous</td>
+</tr>
+<tr class="row7">
+<td class="column0 style1 n">1</td>
+<td class="column1 style1 n">156542321</td>
+<td class="column2 style1 s">T</td>
+<td class="column3 style1 s">C</td>
+<td class="column4 style1 s">IQGAP3</td>
+<td class="column5 style1 s">start_lost</td>
+<td class="column6 style1 s">ENST00000361170.2:c.1N&gt;G</td>
+<td class="column7 style1 s">ENSP00000354451.2:p.Met1?</td>
+</tr>
+<tr class="row8">
+<td class="column0 style1 n">1</td>
+<td class="column1 style1 n">202715044</td>
+<td class="column2 style1 s">G</td>
+<td class="column3 style1 s">T</td>
+<td class="column4 style1 s">KDM5B</td>
+<td class="column5 style1 s">stop_gained</td>
+<td class="column6 style1 s">ENST00000367265.3:c.2265N&gt;A</td>
+<td class="column7 style1 s">ENSP00000356234.3:p.Tyr755Ter</td>
+</tr>
+<tr class="row9">
+<td class="column0 style1 n">2</td>
+<td class="column1 style1 n">55096461</td>
+<td class="column2 style1 s">G</td>
+<td class="column3 style1 s">C</td>
+<td class="column4 style1 s">EML6</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000356458.6:c.2195N&gt;C</td>
+<td class="column7 style1 s">ENSP00000348842.6:p.Ser732Thr</td>
+</tr>
+<tr class="row10">
+<td class="column0 style1 n">2</td>
+<td class="column1 style1 n">189393885</td>
+<td class="column2 style1 s">C</td>
+<td class="column3 style1 s">A</td>
+<td class="column4 style1 s">GULP1</td>
+<td class="column5 style1 s">stop_gained</td>
+<td class="column6 style1 s">ENST00000409580.1:c.224N&gt;A</td>
+<td class="column7 style1 s">ENSP00000386289.1:p.Ser75Ter</td>
+</tr>
+<tr class="row11">
+<td class="column0 style1 n">3</td>
+<td class="column1 style1 n">159943726</td>
+<td class="column2 style1 s">A</td>
+<td class="column3 style1 s">G</td>
+<td class="column4 style1 s">C3orf80</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000326474.3:c.304N&gt;G</td>
+<td class="column7 style1 s">ENSP00000313324.3:p.Ile102Val</td>
+</tr>
+<tr class="row12">
+<td class="column0 style1 n">4</td>
+<td class="column1 style1 n">139937320</td>
+<td class="column2 style1 s">G</td>
+<td class="column3 style1 s">C</td>
+<td class="column4 style1 s">CCRN4L</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000280614.2:c.185N&gt;C</td>
+<td class="column7 style1 s">ENSP00000280614.2:p.Arg62Pro</td>
+</tr>
+<tr class="row13">
+<td class="column0 style1 n">8</td>
+<td class="column1 style1 n">18662056</td>
+<td class="column2 style1 s">C</td>
+<td class="column3 style1 s">T</td>
+<td class="column4 style1 s">PSD3</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000327040.8:c.1886N&gt;A</td>
+<td class="column7 style1 s">ENSP00000324127.8:p.Gly629Glu</td>
+</tr>
+<tr class="row14">
+<td class="column0 style1 n">15</td>
+<td class="column1 style1 n">99478133</td>
+<td class="column2 style1 s">G</td>
+<td class="column3 style1 s">T</td>
+<td class="column4 style1 s">IGF1R</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000268035.6:c.3037N&gt;T</td>
+<td class="column7 style1 s">ENSP00000268035.6:p.Val1013Phe</td>
+</tr>
+<tr class="row15">
+<td class="column0 style1 n">18</td>
+<td class="column1 style1 n">56586241</td>
+<td class="column2 style1 s">A</td>
+<td class="column3 style1 s">AT</td>
+<td class="column4 style1 s">ZNF532</td>
+<td class="column5 style1 s">frameshift_variant</td>
+<td class="column6 style1 s">ENST00000336078.4:c.722_723insT</td>
+<td class="column7 style1 s">ENSP00000338217.4:p.Gly242TrpfsTer9</td>
+</tr>
+<tr class="row16">
+<td class="column0 style1 n">20</td>
+<td class="column1 style1 n">2380225</td>
+<td class="column2 style1 s">C</td>
+<td class="column3 style1 s">T</td>
+<td class="column4 style1 s">TGM6</td>
+<td class="column5 style1 s">stop_gained</td>
+<td class="column6 style1 s">ENST00000202625.2:c.691N&gt;T</td>
+<td class="column7 style1 s">ENSP00000202625.2:p.Arg231Ter</td>
+</tr>
+<tr class="row17">
+<td class="column0 style1 n">22</td>
+<td class="column1 style1 n">36692946</td>
+<td class="column2 style1 s">G</td>
+<td class="column3 style1 s">A</td>
+<td class="column4 style1 s">MYH9</td>
+<td class="column5 style1 s">missense_variant</td>
+<td class="column6 style1 s">ENST00000216181.5:c.3215N&gt;T</td>
+<td class="column7 style1 s">ENSP00000216181.5:p.Ala1072Val</td>
+</tr>
+</tbody>
+</table>

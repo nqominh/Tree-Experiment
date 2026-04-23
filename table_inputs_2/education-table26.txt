@@ -1,0 +1,1327 @@
+[COLUMN STRUCTURE]
+WP ID
+  92
+Teaching Group
+  4
+Condition
+  CAI
+1
+2
+  3
+3
+  0
+4
+  0
+5
+  4
+6
+  0
+7
+  0
+8
+  2
+9
+  -1
+10
+  2
+11
+  4
+12
+  4
+13
+  2
+14
+  3
+15
+  3
+16
+  3
+17
+  1
+18
+  4
+19
+  1
+20
+  0
+21
+  0
+22
+  2
+23
+  2
+24
+  0
+TOTAL
+  40
+
+[ROW STRUCTURE]
+93
+94
+95
+96
+97
+98
+99
+100
+101
+103
+104
+105
+107
+108
+130
+132
+133
+135
+136
+137
+138
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+154
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<col class="col22"/>
+<col class="col23"/>
+<col class="col24"/>
+<col class="col25"/>
+<col class="col26"/>
+<col class="col27"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">WP ID</td>
+<td class="column1 style1 s">Teaching Group</td>
+<td class="column2 style1 s">Condition</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style1 n">2</td>
+<td class="column5 style1 n">3</td>
+<td class="column6 style1 n">4</td>
+<td class="column7 style1 n">5</td>
+<td class="column8 style1 n">6</td>
+<td class="column9 style1 n">7</td>
+<td class="column10 style1 n">8</td>
+<td class="column11 style1 n">9</td>
+<td class="column12 style1 n">10</td>
+<td class="column13 style1 n">11</td>
+<td class="column14 style1 n">12</td>
+<td class="column15 style1 n">13</td>
+<td class="column16 style1 n">14</td>
+<td class="column17 style1 n">15</td>
+<td class="column18 style1 n">16</td>
+<td class="column19 style1 n">17</td>
+<td class="column20 style1 n">18</td>
+<td class="column21 style1 n">19</td>
+<td class="column22 style1 n">20</td>
+<td class="column23 style1 n">21</td>
+<td class="column24 style1 n">22</td>
+<td class="column25 style1 n">23</td>
+<td class="column26 style1 n">24</td>
+<td class="column27 style1 s">TOTAL</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 n">92</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">3</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">4</td>
+<td class="column14 style2 n">4</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">3</td>
+<td class="column17 style2 n">3</td>
+<td class="column18 style2 n">3</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">4</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">40</td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 n">93</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">3</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">-1</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">2</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">-1</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">2</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">-1</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">25</td>
+</tr>
+<tr class="row3">
+<td class="column0 style2 n">94</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">-1</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">1</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">2</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">1</td>
+<td class="column23 style2 n">-1</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">28</td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 n">95</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">-1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">1</td>
+<td class="column11 style2 n">-3</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">2</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">1</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">2</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">2</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">25</td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 n">96</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">-1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">3</td>
+<td class="column11 style2 n">1</td>
+<td class="column12 style2 n">3</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">3</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">1</td>
+<td class="column18 style2 n">-1</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">1</td>
+<td class="column23 style2 n">2</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">3</td>
+<td class="column26 style2 n">3</td>
+<td class="column27 style2 f">39</td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 n">97</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">-2</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">3</td>
+<td class="column13 style2 n">-2</td>
+<td class="column14 style2 n">-1</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">-2</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">2</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">14</td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 n">98</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">-1</td>
+<td class="column10 style2 n">1</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">3</td>
+<td class="column13 style2 n">2</td>
+<td class="column14 style2 n">-1</td>
+<td class="column15 style2 n">3</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">-3</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">-1</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">-2</td>
+<td class="column23 style2 n">1</td>
+<td class="column24 style2 n">3</td>
+<td class="column25 style2 n">-1</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">18</td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 n">99</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">4</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">3</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">1</td>
+<td class="column11 style2 n">3</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">3</td>
+<td class="column14 style2 n">3</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">3</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">3</td>
+<td class="column19 style2 n">3</td>
+<td class="column20 style2 n">3</td>
+<td class="column21 style2 n">3</td>
+<td class="column22 style2 n">3</td>
+<td class="column23 style2 n">3</td>
+<td class="column24 style2 n">3</td>
+<td class="column25 style2 n">4</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">57</td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 n">100</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">-1</td>
+<td class="column4 style2 n">3</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">3</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">-3</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">3</td>
+<td class="column16 style2 n">-1</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">3</td>
+<td class="column21 style2 n">4</td>
+<td class="column22 style2 n">4</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">3</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">35</td>
+</tr>
+<tr class="row10">
+<td class="column0 style2 n">101</td>
+<td class="column1 style2 n">4</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">2</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">-2</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">-2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">-2</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">12</td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 n">103</td>
+<td class="column1 style2 n">2</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">0</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">1</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">3</td>
+<td class="column23 style2 n">-1</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">-1</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">14</td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 n">104</td>
+<td class="column1 style2 n">2</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">-1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">-2</td>
+<td class="column9 style2 n">-2</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">-2</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">1</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">1</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">-1</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">13</td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 n">105</td>
+<td class="column1 style2 n">2</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">2</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">3</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">2</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">2</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">1</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">31</td>
+</tr>
+<tr class="row14">
+<td class="column0 style2 n">107</td>
+<td class="column1 style2 n">2</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">0</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">1</td>
+</tr>
+<tr class="row15">
+<td class="column0 style2 n">108</td>
+<td class="column1 style2 n">2</td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 n">-1</td>
+<td class="column4 style2 n">-1</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">1</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">-1</td>
+<td class="column10 style2 n">-1</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">-1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">-1</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">1</td>
+<td class="column18 style2 n">1</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">-1</td>
+<td class="column22 style2 n">-1</td>
+<td class="column23 style2 n">1</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">-1</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">4</td>
+</tr>
+<tr class="row16">
+<td class="column0 style2 n">130</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">3</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">1</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">3</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">3</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">2</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">-2</td>
+<td class="column27 style2 f">25</td>
+</tr>
+<tr class="row17">
+<td class="column0 style2 n">132</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">4</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">-2</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">3</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">-1</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">-1</td>
+<td class="column23 style2 n">2</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">3</td>
+<td class="column27 style2 f">23</td>
+</tr>
+<tr class="row18">
+<td class="column0 style2 n">133</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">-1</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">2</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">2</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">2</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">-2</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">29</td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 n">135</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">4</td>
+<td class="column7 style2 n">1</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">-1</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">-1</td>
+<td class="column13 style2 n">3</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">2</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">4</td>
+<td class="column20 style2 n">3</td>
+<td class="column21 style2 n">3</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">3</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">31</td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 n">136</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">2</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">2</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">-1</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">2</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">2</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">38</td>
+</tr>
+<tr class="row21">
+<td class="column0 style2 n">137</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">0</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">2</td>
+</tr>
+<tr class="row22">
+<td class="column0 style2 n">138</td>
+<td class="column1 style2 n">1</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">1</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">1</td>
+<td class="column10 style2 n">1</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">7</td>
+</tr>
+<tr class="row23">
+<td class="column0 style2 n">140</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">2</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">3</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">2</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">2</td>
+<td class="column21 style2 n">-2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">17</td>
+</tr>
+<tr class="row24">
+<td class="column0 style2 n">141</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">4</td>
+<td class="column9 style2 n">1</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">3</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">3</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">1</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">19</td>
+</tr>
+<tr class="row25">
+<td class="column0 style2 n">142</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">2</td>
+<td class="column12 style2 n">2</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">2</td>
+<td class="column16 style2 n">2</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">2</td>
+<td class="column23 style2 n">-2</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">22</td>
+</tr>
+<tr class="row26">
+<td class="column0 style2 n">143</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">2</td>
+<td class="column9 style2 n">3</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">9</td>
+</tr>
+<tr class="row27">
+<td class="column0 style2 n">144</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">2</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">2</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">-1</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">4</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">3</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">1</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">3</td>
+<td class="column22 style2 n">-1</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">1</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">31</td>
+</tr>
+<tr class="row28">
+<td class="column0 style2 n">145</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">-1</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">-1</td>
+<td class="column21 style2 n">-1</td>
+<td class="column22 style2 n">1</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">4</td>
+</tr>
+<tr class="row29">
+<td class="column0 style2 n">146</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">0</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">0</td>
+</tr>
+<tr class="row30">
+<td class="column0 style2 n">147</td>
+<td class="column1 style2 n">3</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">3</td>
+<td class="column9 style2 n">1</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">3</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">2</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">2</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">21</td>
+</tr>
+<tr class="row31">
+<td class="column0 style2 n">148</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">3</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">-2</td>
+<td class="column11 style2 n">1</td>
+<td class="column12 style2 n">3</td>
+<td class="column13 style2 n">-1</td>
+<td class="column14 style2 n">-1</td>
+<td class="column15 style2 n">3</td>
+<td class="column16 style2 n">1</td>
+<td class="column17 style2 n">1</td>
+<td class="column18 style2 n">2</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">-3</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">2</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">1</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">25</td>
+</tr>
+<tr class="row32">
+<td class="column0 style2 n">149</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">2</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">0</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">0</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">0</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">2</td>
+</tr>
+<tr class="row33">
+<td class="column0 style2 n">150</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">4</td>
+<td class="column5 style2 n">2</td>
+<td class="column6 style2 n">4</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">-2</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">-2</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">3</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">1</td>
+<td class="column23 style2 n">-1</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">2</td>
+<td class="column27 style2 f">25</td>
+</tr>
+<tr class="row34">
+<td class="column0 style2 n">151</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">1</td>
+<td class="column10 style2 n">0</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">0</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">0</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">9</td>
+</tr>
+<tr class="row35">
+<td class="column0 style2 n">152</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">0</td>
+<td class="column4 style2 n">0</td>
+<td class="column5 style2 n">0</td>
+<td class="column6 style2 n">0</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">0</td>
+<td class="column9 style2 n">1</td>
+<td class="column10 style2 n">3</td>
+<td class="column11 style2 n">0</td>
+<td class="column12 style2 n">0</td>
+<td class="column13 style2 n">0</td>
+<td class="column14 style2 n">1</td>
+<td class="column15 style2 n">0</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">0</td>
+<td class="column18 style2 n">0</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">0</td>
+<td class="column21 style2 n">1</td>
+<td class="column22 style2 n">0</td>
+<td class="column23 style2 n">0</td>
+<td class="column24 style2 n">1</td>
+<td class="column25 style2 n">0</td>
+<td class="column26 style2 n">0</td>
+<td class="column27 style2 f">12</td>
+</tr>
+<tr class="row36">
+<td class="column0 style2 n">154</td>
+<td class="column1 style2 n">5</td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 n">1</td>
+<td class="column4 style2 n">1</td>
+<td class="column5 style2 n">1</td>
+<td class="column6 style2 n">1</td>
+<td class="column7 style2 n">4</td>
+<td class="column8 style2 n">1</td>
+<td class="column9 style2 n">2</td>
+<td class="column10 style2 n">2</td>
+<td class="column11 style2 n">-2</td>
+<td class="column12 style2 n">1</td>
+<td class="column13 style2 n">1</td>
+<td class="column14 style2 n">2</td>
+<td class="column15 style2 n">1</td>
+<td class="column16 style2 n">0</td>
+<td class="column17 style2 n">2</td>
+<td class="column18 style2 n">3</td>
+<td class="column19 style2 n">1</td>
+<td class="column20 style2 n">1</td>
+<td class="column21 style2 n">2</td>
+<td class="column22 style2 n">3</td>
+<td class="column23 style2 n">1</td>
+<td class="column24 style2 n">2</td>
+<td class="column25 style2 n">4</td>
+<td class="column26 style2 n">1</td>
+<td class="column27 style2 f">36</td>
+</tr>
+<tr class="row37">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2 style2 s">AVG</td>
+<td class="column3 style2 f">0.94444444444444</td>
+<td class="column4 style2 f">1.0277777777778</td>
+<td class="column5 style2 f">0.63888888888889</td>
+<td class="column6 style2 f">1.0555555555556</td>
+<td class="column7 style2 f">2.8333333333333</td>
+<td class="column8 style2 f">0.55555555555556</td>
+<td class="column9 style2 f">1</td>
+<td class="column10 style2 f">0.47222222222222</td>
+<td class="column11 style2 f">0.083333333333333</td>
+<td class="column12 style2 f">1.0277777777778</td>
+<td class="column13 style2 f">0.80555555555556</td>
+<td class="column14 style2 f">0.61111111111111</td>
+<td class="column15 style2 f">1</td>
+<td class="column16 style2 f">0.55555555555556</td>
+<td class="column17 style2 f">0.63888888888889</td>
+<td class="column18 style2 f">0.69444444444444</td>
+<td class="column19 style2 f">1.2777777777778</td>
+<td class="column20 style2 f">0.69444444444444</td>
+<td class="column21 style2 f">1.1944444444444</td>
+<td class="column22 style2 f">0.44444444444444</td>
+<td class="column23 style2 f">0.38888888888889</td>
+<td class="column24 style2 f">1.1388888888889</td>
+<td class="column25 style2 f">0.77777777777778</td>
+<td class="column26 style2 f">0.77777777777778</td>
+<td class="column27"> </td>
+</tr>
+<tr class="row38">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2 style2 s">CAI</td>
+<td class="column3 style2 f">0.9047619047619</td>
+<td class="column4 style2 f">0.61904761904762</td>
+<td class="column5 style2 f">0.42857142857143</td>
+<td class="column6 style2 f">1.1904761904762</td>
+<td class="column7 style2 f">2.8571428571429</td>
+<td class="column8 style2 f">0.80952380952381</td>
+<td class="column9 style2 f">1.2857142857143</td>
+<td class="column10 style2 f">0.42857142857143</td>
+<td class="column11 style2 f">0.095238095238095</td>
+<td class="column12 style2 f">0.66666666666667</td>
+<td class="column13 style2 f">0.66666666666667</td>
+<td class="column14 style2 f">0.57142857142857</td>
+<td class="column15 style2 f">0.80952380952381</td>
+<td class="column16 style2 f">0.42857142857143</td>
+<td class="column17 style2 f">0.23809523809524</td>
+<td class="column18 style2 f">0.85714285714286</td>
+<td class="column19 style2 f">1.047619047619</td>
+<td class="column20 style2 f">0.47619047619048</td>
+<td class="column21 style2 f">1.1904761904762</td>
+<td class="column22 style2 f">0.19047619047619</td>
+<td class="column23 style2 f">0.42857142857143</td>
+<td class="column24 style2 f">0.80952380952381</td>
+<td class="column25 style2 f">0.66666666666667</td>
+<td class="column26 style2 f">0.76190476190476</td>
+<td class="column27"> </td>
+</tr>
+<tr class="row39">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2 style2 s">Trad</td>
+<td class="column3 style2 f">1</td>
+<td class="column4 style2 f">1.6</td>
+<td class="column5 style2 f">0.93333333333333</td>
+<td class="column6 style2 f">0.86666666666667</td>
+<td class="column7 style2 f">2.8</td>
+<td class="column8 style2 f">0.2</td>
+<td class="column9 style2 f">0.6</td>
+<td class="column10 style2 f">0.53333333333333</td>
+<td class="column11 style2 f">0.066666666666667</td>
+<td class="column12 style2 f">1.5333333333333</td>
+<td class="column13 style2 f">1</td>
+<td class="column14 style2 f">0.66666666666667</td>
+<td class="column15 style2 f">1.2666666666667</td>
+<td class="column16 style2 f">0.73333333333333</td>
+<td class="column17 style2 f">1.2</td>
+<td class="column18 style2 f">0.46666666666667</td>
+<td class="column19 style2 f">1.6</td>
+<td class="column20 style2 f">1</td>
+<td class="column21 style2 f">1.2</td>
+<td class="column22 style2 f">0.8</td>
+<td class="column23 style2 f">0.33333333333333</td>
+<td class="column24 style2 f">1.6</td>
+<td class="column25 style2 f">0.93333333333333</td>
+<td class="column26 style2 f">0.8</td>
+<td class="column27"> </td>
+</tr>
+</tbody>
+</table>

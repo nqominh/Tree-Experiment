@@ -1,0 +1,212 @@
+[COLUMN STRUCTURE]
+Replicate 1
+Replicate 2
+Replicate 3
+Replicate 4
+Replicate 5
+Replicate 6
+Mean
+SD
+
+[ROW STRUCTURE]
+Set1
+  DC + LDPm 24 h + SAG 0 h
+Set2
+  DC + LDPm 24 h + SAG 0.3 h
+Set3
+  DC + LDPm 24 h + SAG 1 h
+No. of intracellular amastigotes/1000 DCs
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 s style2" colspan="3">Cumulative data (Ext1 + Expt2); total 6 replicates</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style1 null"></td>
+<td class="column1 style3 s">% infected DCs</td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 s">Replicate 1</td>
+<td class="column3 style7 s">Replicate 2</td>
+<td class="column4 style7 s">Replicate 3</td>
+<td class="column5 style7 s">Replicate 4</td>
+<td class="column6 style7 s">Replicate 5</td>
+<td class="column7 style8 s">Replicate 6</td>
+<td class="column8 style7 s">Mean</td>
+<td class="column9 style8 s">SD</td>
+</tr>
+<tr class="row4">
+<td class="column0 style9 s">Set1</td>
+<td class="column1 style10 s">DC + LDPm 24 h  + SAG 0 h</td>
+<td class="column2 style11 n">85.85</td>
+<td class="column3 style12 n">85.57</td>
+<td class="column4 style12 n">84.47</td>
+<td class="column5 style12 n">86.2</td>
+<td class="column6 style12 n">86.57</td>
+<td class="column7 style13 n">83.96</td>
+<td class="column8 style20 f">85.436666666667</td>
+<td class="column9 style10 f">1.0169300205357</td>
+</tr>
+<tr class="row5">
+<td class="column0 style9 s">Set2</td>
+<td class="column1 style10 s">DC + LDPm 24 h  + SAG 0.3 h</td>
+<td class="column2 style11 n">88.24</td>
+<td class="column3 style12 n">87.004</td>
+<td class="column4 style12 n">85.51</td>
+<td class="column5 style12 n">83.63</td>
+<td class="column6 style12 n">83.17</td>
+<td class="column7 style13 n">82.93</td>
+<td class="column8 style20 f">85.080666666667</td>
+<td class="column9 style10 f">2.2020614584218</td>
+</tr>
+<tr class="row6">
+<td class="column0 style14 s">Set3</td>
+<td class="column1 style15 s">DC + LDPm 24 h  + SAG 1 h</td>
+<td class="column2 style16 n">85.71</td>
+<td class="column3 style17 n">85.12</td>
+<td class="column4 style17 n">86.35</td>
+<td class="column5 style17 n">86.49</td>
+<td class="column6 style17 n">84.68</td>
+<td class="column7 style18 n">84.63</td>
+<td class="column8 style21 f">85.496666666667</td>
+<td class="column9 style15 f">0.81490285719628</td>
+</tr>
+<tr class="row7">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style19 null"></td>
+<td class="column3 style19 null"></td>
+<td class="column4 style19 null"></td>
+<td class="column5 style19 null"></td>
+<td class="column6 style19 null"></td>
+<td class="column7 style19 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style1 null"></td>
+<td class="column1 style3 s">No. of intracellular amastigotes/1000 DCs</td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style4 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style6 s">Replicate 1</td>
+<td class="column3 style7 s">Replicate 2</td>
+<td class="column4 style7 s">Replicate 3</td>
+<td class="column5 style7 s">Replicate 4</td>
+<td class="column6 style7 s">Replicate 5</td>
+<td class="column7 style8 s">Replicate 6</td>
+<td class="column8 style7 s">Mean</td>
+<td class="column9 style8 s">SD</td>
+</tr>
+<tr class="row11">
+<td class="column0 style9 s">Set1</td>
+<td class="column1 style10 s">DC + LDPm 24 h  + SAG 0 h</td>
+<td class="column2 style11 n">4680</td>
+<td class="column3 style12 n">4060</td>
+<td class="column4 style12 n">4599</td>
+<td class="column5 style12 n">4383</td>
+<td class="column6 style12 n">4489</td>
+<td class="column7 style13 n">4178</td>
+<td class="column8 style20 f">4398.1666666667</td>
+<td class="column9 style10 f">241.27777905698</td>
+</tr>
+<tr class="row12">
+<td class="column0 style9 s">Set2</td>
+<td class="column1 style10 s">DC + LDPm 24 h  + SAG 0.3 h</td>
+<td class="column2 style11 n">4836</td>
+<td class="column3 style12 n">4329</td>
+<td class="column4 style12 n">4770</td>
+<td class="column5 style12 n">3980</td>
+<td class="column6 style12 n">4034</td>
+<td class="column7 style13 n">4008</td>
+<td class="column8 style20 f">4326.1666666667</td>
+<td class="column9 style10 f">390.72978727845</td>
+</tr>
+<tr class="row13">
+<td class="column0 style14 s">Set3</td>
+<td class="column1 style15 s">DC + LDPm 24 h  + SAG 1 h</td>
+<td class="column2 style16 n">4672</td>
+<td class="column3 style17 n">4156</td>
+<td class="column4 style17 n">4746</td>
+<td class="column5 style17 n">4085</td>
+<td class="column6 style17 n">4004</td>
+<td class="column7 style18 n">4144</td>
+<td class="column8 style21 f">4301.1666666667</td>
+<td class="column9 style15 f">321.31132358924</td>
+</tr>
+<tr class="row14">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+</tr>
+</tbody>
+</table>

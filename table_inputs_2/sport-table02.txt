@@ -1,0 +1,532 @@
+[COLUMN STRUCTURE]
+Date
+HomeTeam
+AwayTeam
+Result
+  FTHG
+  FTAG
+Position in League for fixture
+  Home pos
+  Away Pos
+
+[ROW STRUCTURE]
+14/08/21
+  Man United
+    Leeds
+23/10/21
+  Chelsea
+    Norwich
+19/02/22
+  Liverpool
+    Norwich
+25/09/21
+  Everton
+    Norwich
+27/11/21
+  Arsenal
+    Newcastle
+12/01/22
+  West Ham
+    Norwich
+08/02/22
+  West Ham
+    Watford
+16/04/22
+  Man United
+    Norwich
+28/08/21
+  Man City
+    Arsenal
+15/05/22
+  Wolves
+    Norwich
+21/08/21
+  Man City
+    Norwich
+25/02/22
+  Southampton
+    Norwich
+11/05/22
+  Leicester
+    Norwich
+30/04/22
+  Aston Villa
+    Norwich
+11/09/21
+  Man United
+    Newcastle
+23/04/22
+  Man City
+    Watford
+16/12/21
+  Liverpool
+    Newcastle
+02/04/22
+  Liverpool
+    Watford
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="672">
+<col class="x69" span="3" width="73"/>
+<col class="x70" span="4" width="73"/>
+<col class="x69" width="25"/>
+<col class="x71" width="31"/>
+<col class="x70" width="74"/>
+<col class="x70" width="31"/>
+<tr height="16">
+<td class="x72" height="14" width="73"></td>
+<td class="x72" width="73"></td>
+<td class="x72" width="73"></td>
+<td class="x73" colspan="2" width="146">Result</td>
+<td class="x73" colspan="2" width="146">Position in League for fixture</td>
+<td class="x69" width="25"></td>
+<td class="x70" colspan="3" width="136"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14">Date</td>
+<td class="x74">HomeTeam</td>
+<td class="x74">AwayTeam</td>
+<td class="x75">FTHG</td>
+<td class="x83">FTAG</td>
+<td class="x83">Home pos</td>
+<td class="x84">Away<span>  </span>Pos</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44422">14/08/21</td>
+<td class="x74">Man United</td>
+<td class="x74">Leeds</td>
+<td class="x76">3</td>
+<td class="x85">1</td>
+<td class="x85">1</td>
+<td class="x86">3</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44492">23/10/21</td>
+<td class="x74">Chelsea</td>
+<td class="x74">Norwich</td>
+<td class="x77">3</td>
+<td class="x87">0</td>
+<td class="x87">1</td>
+<td class="x88">7</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44611">19/02/22</td>
+<td class="x74">Liverpool</td>
+<td class="x74">Norwich</td>
+<td class="x78">0</td>
+<td class="x78">0</td>
+<td class="x78">1</td>
+<td class="x89">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44464">25/09/21</td>
+<td class="x74">Everton</td>
+<td class="x74">Norwich</td>
+<td class="x79">2</td>
+<td class="x90">0</td>
+<td class="x90">2</td>
+<td class="x91">5</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44527">27/11/21</td>
+<td class="x74">Arsenal</td>
+<td class="x74">Newcastle</td>
+<td class="x78">5</td>
+<td class="x92">1</td>
+<td class="x92">1</td>
+<td class="x93">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44573">12/01/22</td>
+<td class="x74">West Ham</td>
+<td class="x74">Norwich</td>
+<td class="x79">2</td>
+<td class="x90">0</td>
+<td class="x90">2</td>
+<td class="x91">5</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44600">08/02/22</td>
+<td class="x74">West Ham</td>
+<td class="x74">Watford</td>
+<td class="x78">5</td>
+<td class="x92">1</td>
+<td class="x92">1</td>
+<td class="x93">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44667">16/04/22</td>
+<td class="x74">Man United</td>
+<td class="x74">Norwich</td>
+<td class="x79">2</td>
+<td class="x90">0</td>
+<td class="x90">2</td>
+<td class="x91">5</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44436">28/08/21</td>
+<td class="x74">Man City</td>
+<td class="x74">Arsenal</td>
+<td class="x80">1</td>
+<td class="x94">1</td>
+<td class="x94">2</td>
+<td class="x95">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44696">15/05/22</td>
+<td class="x74">Wolves</td>
+<td class="x74">Norwich</td>
+<td class="x76">3</td>
+<td class="x76">1</td>
+<td class="x76">1</td>
+<td class="x96">3</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44429">21/08/21</td>
+<td class="x74">Man City</td>
+<td class="x74">Norwich</td>
+<td class="x77">3</td>
+<td class="x87">0</td>
+<td class="x87">1</td>
+<td class="x88">7</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44617">25/02/22</td>
+<td class="x74">Southampton</td>
+<td class="x74">Norwich</td>
+<td class="x77">3</td>
+<td class="x87">0</td>
+<td class="x87">1</td>
+<td class="x88">7</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44692">11/05/22</td>
+<td class="x74">Leicester</td>
+<td class="x74">Norwich</td>
+<td class="x77">3</td>
+<td class="x87">0</td>
+<td class="x87">1</td>
+<td class="x88">7</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44681">30/04/22</td>
+<td class="x74">Aston Villa</td>
+<td class="x74">Norwich</td>
+<td class="x79">2</td>
+<td class="x90">0</td>
+<td class="x90">2</td>
+<td class="x91">5</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44450">11/09/21</td>
+<td class="x74">Man United</td>
+<td class="x74">Newcastle</td>
+<td class="x81">1</td>
+<td class="x97">1</td>
+<td class="x97">2</td>
+<td class="x98">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44674">23/04/22</td>
+<td class="x74">Man City</td>
+<td class="x74">Watford</td>
+<td class="x81">2</td>
+<td class="x97">1</td>
+<td class="x97">2</td>
+<td class="x98">8</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44546">16/12/21</td>
+<td class="x74">Liverpool</td>
+<td class="x74">Newcastle</td>
+<td class="x81">1</td>
+<td class="x97">1</td>
+<td class="x97">1</td>
+<td class="x98">5</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x74" height="14" x:num="44653">02/04/22</td>
+<td class="x74">Liverpool</td>
+<td class="x74">Watford</td>
+<td class="x81">2</td>
+<td class="x97">0</td>
+<td class="x97">10</td>
+<td class="x98">3</td>
+<td class="x69"></td>
+<td class="x70" colspan="3"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<tr height="16">
+<td class="x69" height="16"></td>
+<td class="x69"></td>
+<td class="x69"></td>
+<td class="x70" colspan="8"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="3" width="219"></td>
+<td colspan="4" width="292"></td>
+<td width="25"></td>
+<td width="31"></td>
+<td width="74"></td>
+<td width="31"></td>
+</tr>
+<?endif?>
+</table>

@@ -1,0 +1,510 @@
+[COLUMN STRUCTURE]
+373 Diamo
+250
+  $ 0.79
+500
+  $ 0.74
+  $ 2.21
+1000
+  $ 0.70
+  578 Eclaire
+  $ 2.12
+100
+  $ 2.30
+
+[ROW STRUCTURE]
+Cost
+Setup Charge
+36% exchange
+Markup
+Cost Each
+597Moisant
+Cost
+Setup Charge
+36% exchange
+Markup
+Cost Each
+433 Mosaic
+Cost
+Setup Charge
+30% exchange
+Markup
+Cost Each
+Meemo
+Cost
+Setup Charge
+37% exchange
+Markup
+Cost Each
+Sparrow
+Cost
+Setup Charge
+37% exchange
+Markup
+Cost Each
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n">250</td>
+<td class="column2 style2 n">500</td>
+<td class="column3 style2 n">1000</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style2 n">100</td>
+<td class="column7 style2 n">500</td>
+<td class="column8 style2 n">1000</td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">373 Diamo</td>
+<td class="column1 style4 n"> $ 0.79 </td>
+<td class="column2 style4 n"> $ 0.74 </td>
+<td class="column3 style4 n"> $ 0.70 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style3 s">578 Eclaire</td>
+<td class="column6 style4 n"> $ 2.30 </td>
+<td class="column7 style4 n"> $ 2.21 </td>
+<td class="column8 style4 n"> $ 2.12 </td>
+</tr>
+<tr class="row2">
+<td class="column0 style1 s">Cost</td>
+<td class="column1 style4 n"> $ 98.75 </td>
+<td class="column2 style4 n"> $ 185.00 </td>
+<td class="column3 style4 n"> $ 350.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost</td>
+<td class="column6 style4 n"> $ 115.00 </td>
+<td class="column7 style4 n"> $ 553.50 </td>
+<td class="column8 style4 n"> $ 1,060.00 </td>
+</tr>
+<tr class="row3">
+<td class="column0 style1 s">Setup Charge</td>
+<td class="column1 style4 n"> $ 14.00 </td>
+<td class="column2 style4 n"> $ 14.00 </td>
+<td class="column3 style4 n"> $ 14.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Setup Charge</td>
+<td class="column6 style4 n"> $ 42.00 </td>
+<td class="column7 style4 n"> $ 42.00 </td>
+<td class="column8 style4 n"> $ 42.00 </td>
+</tr>
+<tr class="row4">
+<td class="column0 style1 s">36% exchange</td>
+<td class="column1 style4 n"> $ 153.34 </td>
+<td class="column2 style4 n"> $ 270.64 </td>
+<td class="column3 style4 n"> $ 495.04 </td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 s">36% exchange</td>
+<td class="column6 style4 n"> $ 213.52 </td>
+<td class="column7 style4 n"> $ 809.88 </td>
+<td class="column8 style4 n"> $ 1,498.72 </td>
+</tr>
+<tr class="row5">
+<td class="column0 style1 s">Markup</td>
+<td class="column1 style4 n"> $ 75.00 </td>
+<td class="column2 style4 n"> $ 100.00 </td>
+<td class="column3 style4 n"> $ 150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Markup</td>
+<td class="column6 style4 n"> $ 75.00 </td>
+<td class="column7 style4 n"> $ 100.00 </td>
+<td class="column8 style4 n"> $ 150.00 </td>
+</tr>
+<tr class="row6">
+<td class="column0 style1 null"></td>
+<td class="column1 style4 n"> $ 228.34 </td>
+<td class="column2 style4 n"> $ 370.64 </td>
+<td class="column3 style4 n"> $ 645.04 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style4 n"> $ 288.52 </td>
+<td class="column7 style4 n"> $ 909.88 </td>
+<td class="column8 style4 n"> $ 1,648.72 </td>
+</tr>
+<tr class="row7">
+<td class="column0 style1 s">Cost Each</td>
+<td class="column1 style4 n"> $ 0.91 </td>
+<td class="column2 style4 n"> $ 0.74 </td>
+<td class="column3 style4 n"> $ 0.65 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost Each</td>
+<td class="column6 style4 n"> $ 2.89 </td>
+<td class="column7 style4 n"> $ 1.82 </td>
+<td class="column8 style4 n"> $ 1.65 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n">100</td>
+<td class="column2 style2 n">500</td>
+<td class="column3 style2 n">1000</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style2 n">250</td>
+<td class="column7 style2 n">500</td>
+<td class="column8 style2 n">1000</td>
+</tr>
+<tr class="row9">
+<td class="column0 style3 s">597Moisant</td>
+<td class="column1 style4 n"> $ 2.53 </td>
+<td class="column2 style4 n"> $ 2.42 </td>
+<td class="column3 style4 n"> $ 2.30 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style3 s">363 Carico</td>
+<td class="column6 style4 n"> $ 0.64 </td>
+<td class="column7 style4 n"> $ 0.60 </td>
+<td class="column8 style4 n"> $ 0.56 </td>
+</tr>
+<tr class="row10">
+<td class="column0 style1 s">Cost</td>
+<td class="column1 style4 n"> $ 126.50 </td>
+<td class="column2 style4 n"> $ 605.00 </td>
+<td class="column3 style4 n"> $ 1,150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost</td>
+<td class="column6 style4 n"> $ 80.00 </td>
+<td class="column7 style4 n"> $ 150.00 </td>
+<td class="column8 style4 n"> $ 280.00 </td>
+</tr>
+<tr class="row11">
+<td class="column0 style1 s">Setup Charge</td>
+<td class="column1 style4 n"> $ 42.00 </td>
+<td class="column2 style4 n"> $ 42.00 </td>
+<td class="column3 style4 n"> $ 42.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Setup Charge</td>
+<td class="column6 style4 n"> $ 14.00 </td>
+<td class="column7 style4 n"> $ 14.00 </td>
+<td class="column8 style4 n"> $ 14.00 </td>
+</tr>
+<tr class="row12">
+<td class="column0 style1 s">36% exchange</td>
+<td class="column1 style4 n"> $ 229.16 </td>
+<td class="column2 style4 n"> $ 879.92 </td>
+<td class="column3 style4 n"> $ 1,621.12 </td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 s">36% exchange</td>
+<td class="column6 style4 n"> $ 127.84 </td>
+<td class="column7 style4 n"> $ 223.04 </td>
+<td class="column8 style4 n"> $ 399.84 </td>
+</tr>
+<tr class="row13">
+<td class="column0 style1 s">Markup</td>
+<td class="column1 style4 n"> $ 75.00 </td>
+<td class="column2 style4 n"> $ 100.00 </td>
+<td class="column3 style4 n"> $ 150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Markup</td>
+<td class="column6 style4 n"> $ 75.00 </td>
+<td class="column7 style4 n"> $ 100.00 </td>
+<td class="column8 style4 n"> $ 150.00 </td>
+</tr>
+<tr class="row14">
+<td class="column0 style1 null"></td>
+<td class="column1 style4 n"> $ 304.16 </td>
+<td class="column2 style4 n"> $ 979.92 </td>
+<td class="column3 style4 n"> $ 1,771.12 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style4 n"> $ 202.84 </td>
+<td class="column7 style4 n"> $ 323.04 </td>
+<td class="column8 style4 n"> $ 549.84 </td>
+</tr>
+<tr class="row15">
+<td class="column0 style1 s">Cost Each</td>
+<td class="column1 style4 n"> $ 3.04 </td>
+<td class="column2 style4 n"> $ 1.96 </td>
+<td class="column3 style4 n"> $ 1.77 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost Each</td>
+<td class="column6 style4 n"> $ 0.81 </td>
+<td class="column7 style4 n"> $ 0.65 </td>
+<td class="column8 style4 n"> $ 0.55 </td>
+</tr>
+<tr class="row16">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n">250</td>
+<td class="column2 style2 n">500</td>
+<td class="column3 style2 n">1000</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style2 n">300</td>
+<td class="column7 style2 n">500</td>
+<td class="column8 style2 n">1000</td>
+</tr>
+<tr class="row17">
+<td class="column0 style3 s">433  Mosaic</td>
+<td class="column1 style4 n"> $ 0.76 </td>
+<td class="column2 style4 n"> $ 0.72 </td>
+<td class="column3 style4 n"> $ 0.67 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style3 s">304 Gassetto</td>
+<td class="column6 style4 n"> $ 0.52 </td>
+<td class="column7 style4 n"> $ 0.47 </td>
+<td class="column8 style4 n"> $ 0.43 </td>
+</tr>
+<tr class="row18">
+<td class="column0 style1 s">Cost</td>
+<td class="column1 style4 n"> $ 95.00 </td>
+<td class="column2 style4 n"> $ 180.00 </td>
+<td class="column3 style4 n"> $ 335.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost</td>
+<td class="column6 style4 n"> $ 78.00 </td>
+<td class="column7 style4 n"> $ 117.50 </td>
+<td class="column8 style4 n"> $ 215.00 </td>
+</tr>
+<tr class="row19">
+<td class="column0 style1 s">Setup Charge</td>
+<td class="column1 style4 n"> $ 14.00 </td>
+<td class="column2 style4 n"> $ 14.00 </td>
+<td class="column3 style4 n"> $ 14.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Setup Charge</td>
+<td class="column6 style4 n"> $ 14.00 </td>
+<td class="column7 style4 n"> $ 14.00 </td>
+<td class="column8 style4 n"> $ 14.00 </td>
+</tr>
+<tr class="row20">
+<td class="column0 style1 s">30% exchange</td>
+<td class="column1 style4 n"> $ 141.70 </td>
+<td class="column2 style4 n"> $ 252.20 </td>
+<td class="column3 style4 n"> $ 453.70 </td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 s">30% exchange</td>
+<td class="column6 style4 n"> $ 119.60 </td>
+<td class="column7 style4 n"> $ 170.95 </td>
+<td class="column8 style4 n"> $ 297.70 </td>
+</tr>
+<tr class="row21">
+<td class="column0 style1 s">Markup</td>
+<td class="column1 style4 n"> $ 75.00 </td>
+<td class="column2 style4 n"> $ 100.00 </td>
+<td class="column3 style4 n"> $ 150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Markup</td>
+<td class="column6 style4 n"> $ 75.00 </td>
+<td class="column7 style4 n"> $ 100.00 </td>
+<td class="column8 style4 n"> $ 150.00 </td>
+</tr>
+<tr class="row22">
+<td class="column0 style1 null"></td>
+<td class="column1 style4 n"> $ 216.70 </td>
+<td class="column2 style4 n"> $ 352.20 </td>
+<td class="column3 style4 n"> $ 603.70 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style4 n"> $ 194.60 </td>
+<td class="column7 style4 n"> $ 270.95 </td>
+<td class="column8 style4 n"> $ 447.70 </td>
+</tr>
+<tr class="row23">
+<td class="column0 style1 s">Cost Each</td>
+<td class="column1 style4 n"> $ 0.87 </td>
+<td class="column2 style4 n"> $ 0.70 </td>
+<td class="column3 style4 n"> $ 0.60 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost Each</td>
+<td class="column6 style4 n"> $ 0.65 </td>
+<td class="column7 style4 n"> $ 0.54 </td>
+<td class="column8 style4 n"> $ 0.45 </td>
+</tr>
+<tr class="row24">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n">250</td>
+<td class="column2 style2 n">500</td>
+<td class="column3 style2 n">1000</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style2 n">250</td>
+<td class="column7 style2 n">500</td>
+<td class="column8 style2 n">1000</td>
+</tr>
+<tr class="row25">
+<td class="column0 style3 s">Meemo</td>
+<td class="column1 style4 n"> $ 1.01 </td>
+<td class="column2 style4 n"> $ 0.94 </td>
+<td class="column3 style4 n"> $ 0.88 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style3 s">Tryit</td>
+<td class="column6 style4 n"> $ 0.53 </td>
+<td class="column7 style4 n"> $ 0.46 </td>
+<td class="column8 style4 n"> $ 0.39 </td>
+</tr>
+<tr class="row26">
+<td class="column0 style1 s">Cost</td>
+<td class="column1 style4 n"> $ 126.25 </td>
+<td class="column2 style4 n"> $ 235.00 </td>
+<td class="column3 style4 n"> $ 440.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost</td>
+<td class="column6 style4 n"> $ 66.25 </td>
+<td class="column7 style4 n"> $ 115.00 </td>
+<td class="column8 style4 n"> $ 195.00 </td>
+</tr>
+<tr class="row27">
+<td class="column0 style1 s">Setup Charge</td>
+<td class="column1 style4 n"> $ 12.00 </td>
+<td class="column2 style4 n"> $ 12.00 </td>
+<td class="column3 style4 n"> $ 12.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Setup Charge</td>
+<td class="column6 style4 n"> $ 12.00 </td>
+<td class="column7 style4 n"> $ 12.00 </td>
+<td class="column8 style4 n"> $ 12.00 </td>
+</tr>
+<tr class="row28">
+<td class="column0 style1 s">37% exchange</td>
+<td class="column1 style4 n"> $ 189.40 </td>
+<td class="column2 style4 n"> $ 338.39 </td>
+<td class="column3 style4 n"> $ 619.24 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">37% exchange</td>
+<td class="column6 style4 n"> $ 107.20 </td>
+<td class="column7 style4 n"> $ 173.99 </td>
+<td class="column8 style4 n"> $ 283.59 </td>
+</tr>
+<tr class="row29">
+<td class="column0 style1 s">Markup</td>
+<td class="column1 style4 n"> $ 75.00 </td>
+<td class="column2 style4 n"> $ 100.00 </td>
+<td class="column3 style4 n"> $ 150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Markup</td>
+<td class="column6 style4 n"> $ 75.00 </td>
+<td class="column7 style4 n"> $ 100.00 </td>
+<td class="column8 style4 n"> $ 150.00 </td>
+</tr>
+<tr class="row30">
+<td class="column0 style1 null"></td>
+<td class="column1 style4 n"> $ 264.40 </td>
+<td class="column2 style4 n"> $ 438.39 </td>
+<td class="column3 style4 n"> $ 769.24 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style4 n"> $ 182.20 </td>
+<td class="column7 style4 n"> $ 273.99 </td>
+<td class="column8 style4 n"> $ 433.59 </td>
+</tr>
+<tr class="row31">
+<td class="column0 style1 s">Cost Each</td>
+<td class="column1 style4 n"> $ 1.06 </td>
+<td class="column2 style4 n"> $ 0.88 </td>
+<td class="column3 style4 n"> $ 0.77 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost Each</td>
+<td class="column6 style4 n"> $ 0.73 </td>
+<td class="column7 style4 n"> $ 0.55 </td>
+<td class="column8 style4 n"> $ 0.43 </td>
+</tr>
+<tr class="row32">
+<td class="column0 style5 null"></td>
+<td class="column1 style5 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style5 null"></td>
+<td class="column4 style5 null"></td>
+<td class="column5 style5 null"></td>
+<td class="column6 style5 null"></td>
+<td class="column7 style5 null"></td>
+<td class="column8 style5 null"></td>
+</tr>
+<tr class="row33">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 n">250</td>
+<td class="column2 style2 n">500</td>
+<td class="column3 style2 n">1000</td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style2 n">250</td>
+<td class="column7 style2 n">500</td>
+<td class="column8 style2 n">1000</td>
+</tr>
+<tr class="row34">
+<td class="column0 style3 s">Sparrow</td>
+<td class="column1 style4 n"> $ 0.58 </td>
+<td class="column2 style4 n"> $ 0.55 </td>
+<td class="column3 style4 n"> $ 0.53 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style3 s">Streamglide</td>
+<td class="column6 style4 n"> $ 0.67 </td>
+<td class="column7 style4 n"> $ 0.62 </td>
+<td class="column8 style4 n"> $ 0.58 </td>
+</tr>
+<tr class="row35">
+<td class="column0 style1 s">Cost</td>
+<td class="column1 style4 n"> $ 72.50 </td>
+<td class="column2 style4 n"> $ 137.50 </td>
+<td class="column3 style4 n"> $ 265.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost</td>
+<td class="column6 style4 n"> $ 83.75 </td>
+<td class="column7 style4 n"> $ 155.00 </td>
+<td class="column8 style4 n"> $ 290.00 </td>
+</tr>
+<tr class="row36">
+<td class="column0 style1 s">Setup Charge</td>
+<td class="column1 style4 n"> $ 12.00 </td>
+<td class="column2 style4 n"> $ 12.00 </td>
+<td class="column3 style4 n"> $ 12.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Setup Charge</td>
+<td class="column6 style4 n"> $ 12.00 </td>
+<td class="column7 style4 n"> $ 12.00 </td>
+<td class="column8 style4 n"> $ 12.00 </td>
+</tr>
+<tr class="row37">
+<td class="column0 style1 s">37% exchange</td>
+<td class="column1 style4 n"> $ 115.77 </td>
+<td class="column2 style4 n"> $ 204.82 </td>
+<td class="column3 style4 n"> $ 379.49 </td>
+<td class="column4 style4 null"></td>
+<td class="column5 style1 s">37% exchange</td>
+<td class="column6 style4 n"> $ 131.18 </td>
+<td class="column7 style4 n"> $ 228.79 </td>
+<td class="column8 style4 n"> $ 413.74 </td>
+</tr>
+<tr class="row38">
+<td class="column0 style1 s">Markup</td>
+<td class="column1 style4 n"> $ 75.00 </td>
+<td class="column2 style4 n"> $ 100.00 </td>
+<td class="column3 style4 n"> $ 150.00 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Markup</td>
+<td class="column6 style4 n"> $ 75.00 </td>
+<td class="column7 style4 n"> $ 100.00 </td>
+<td class="column8 style4 n"> $ 150.00 </td>
+</tr>
+<tr class="row39">
+<td class="column0 style1 null"></td>
+<td class="column1 style4 n"> $ 190.77 </td>
+<td class="column2 style4 n"> $ 304.82 </td>
+<td class="column3 style4 n"> $ 529.49 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style4 n"> $ 206.18 </td>
+<td class="column7 style4 n"> $ 328.79 </td>
+<td class="column8 style4 n"> $ 563.74 </td>
+</tr>
+<tr class="row40">
+<td class="column0 style1 s">Cost Each</td>
+<td class="column1 style4 n"> $ 0.76 </td>
+<td class="column2 style4 n"> $ 0.61 </td>
+<td class="column3 style4 n"> $ 0.53 </td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 s">Cost Each</td>
+<td class="column6 style4 n"> $ 0.82 </td>
+<td class="column7 style4 n"> $ 0.66 </td>
+<td class="column8 style4 n"> $ 0.56 </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,58 @@
+[COLUMN STRUCTURE]
+End Use
+Daily Exposure Volume (L)
+Exposure Frequency (days/year)
+Fraction of Population Exposed
+Key Assumptions
+
+[ROW STRUCTURE]
+Potable use
+Indoor non-potable water use
+Unrestricted irrigation and dust suppression
+Cross-connection of treated water with potable water or accidental ingestion
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">End Use</td>
+<td class="column1 style2 s">Daily Exposure Volume (L)</td>
+<td class="column2 style2 s">Exposure Frequency (days/year)</td>
+<td class="column3 style2 s">Fraction of Population Exposed</td>
+<td class="column4 style1 s">Key Assumptions</td>
+</tr>
+<tr class="row1">
+<td class="column0 style0 s">Potable use</td>
+<td class="column1 style3 n">2.4</td>
+<td class="column2 style3 n">365</td>
+<td class="column3 style3 n">1</td>
+<td class="column4 style0 s"><span>90th percentile per capita U.S. ingestion</span><span><sup>1,2</sup></span></td>
+</tr>
+<tr class="row2">
+<td class="column0 style0 s">Indoor non-potable water use</td>
+<td class="column1 style4 n">4.0E-5</td>
+<td class="column2 style4 n">365</td>
+<td class="column3 style4 n">1</td>
+<td class="column4 style0 s"><span>Adopted from Australian guidelines</span><span><sup>3</sup></span></td>
+</tr>
+<tr class="row3">
+<td class="column0 style0 s">Unrestricted irrigation and dust suppression</td>
+<td class="column1 style4 n">0.001</td>
+<td class="column2 style4 n">50</td>
+<td class="column3 style4 n">1</td>
+<td class="column4 style0 s"><span>Adopted from Australian guidelines</span><span><sup>3 </sup></span></td>
+</tr>
+<tr class="row4">
+<td class="column0 style5 s">Cross-connection of treated water with potable water or accidental ingestion</td>
+<td class="column1 style6 n">2</td>
+<td class="column2 style6 n">1</td>
+<td class="column3 style6 n">0.1</td>
+<td class="column4 style7 s"><span>Only used in indoor use calculation</span><span><sup>4</sup></span></td>
+</tr>
+</tbody>
+</table>

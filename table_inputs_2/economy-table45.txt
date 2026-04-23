@@ -1,0 +1,1397 @@
+[COLUMN STRUCTURE]
+IGAccount
+  IGB525
+    IGB255
+Profit Center
+  QA10455
+    QA12133
+      QA10246
+        QA10563
+          QA10460
+            QA12246
+              QA12566
+                QA12564
+Glaccount
+  0000315603
+    0000161601
+      0000315603
+        0000315608
+          0000315603
+            0000161601
+Cus/ven num
+  1800006379
+    1800007434
+      1800006597
+        1800006773
+          1800006389
+            1800006597
+              1800008258
+                1800006522
+Cus/ven name
+  ABB Schweiz AG
+    ABB Industries FZ Discrete
+      ABB Industries FZ Process
+        ABB Industries FZ Low Voltage
+          ABB s.r.o. Trutnov
+            ABB Industries FZ Process
+              ABB Schweiz AG Power Grids
+Country Code
+  CH
+    AE
+      CZ
+        AE
+          CH
+Reporting unit ABACUS BA
+  EPMV
+    DMDR
+      PAMP
+        PGGI
+          EPMV
+            PAMP
+              PGGI
+                PGGA
+Reporting unit ABACUS BU
+  3442
+    4159
+      3199
+        2871
+          3446
+            3199
+              2881
+                2879
+IgCode
+  CHABB
+    AEFLC
+      CZABB
+        AEFLC
+          CHABB
+Counterparty ABACUS BA Code
+  ZCCO
+    PAMP
+      EPBS
+        EPMV
+          PAMP
+            EPMV
+              PGGA
+Usgpnode
+  UB526002
+    UB2560
+      UB526002
+        UB2560
+Doc.Number
+  1104001651
+    1302005908
+      1304001554
+        1404000695
+          1504002751
+            1404000854
+              1419002609
+                1502006932
+                  1502006934
+Item
+  0
+    1
+Reference No.
+  CIT-201117
+    1363200777
+      AL 631 CIT201321
+        CIT-201408-USD
+          ABB S.R.O. TRUTN
+            CIT 2014 11
+              90181138
+                0
+Doc. Date
+  9/15/2011
+    9/17/2013
+      11/14/2013
+        4/30/2014
+          12/29/2015
+            6/10/2014
+              6/8/2014
+                9/30/2015
+Invoice Due Date
+  11/14/2011
+    9/17/2013
+      11/14/2013
+        4/30/2014
+          12/29/2015
+            6/10/2014
+              7/7/2014
+                9/30/2015
+Posting Date
+  9/19/2011
+    9/17/2013
+      11/14/2013
+        4/30/2014
+          12/29/2015
+            6/12/2014
+              7/7/2014
+                9/30/2015
+Doc.Type
+  BP
+    AB
+      BP
+        MB
+          AB
+Currency Type
+  USD
+    EUR
+      USD
+        CHF
+Amt in local curr
+  67794.49
+    16747.91
+      -473621.46
+        4781.36
+          -1686.35
+            -1051920.83
+              -1164.96
+                672698.00
+                  1106477.05
+                    3406357.80
+Revenue Amt Cumulative In DC
+  18616.42
+    4598.99
+      -130142.6
+        1313.2
+          -463.27
+            -263496
+              -320
+                165343
+                  295475
+                    909638
+Ex. Rate
+  3.64110
+    4.14193
+      3.64110
+        3.78532
+Translated Amt
+  67784.25
+    16745.38
+      -473862.22
+        4781.49
+          -1686.81
+            -1091381.99
+              -1165.15
+                625876.16
+                  1118467.43
+                    3443270.91
+SO/PO Date
+  67784.25
+    16745.38
+      -473862.22
+        4781.49
+          -1686.81
+            5/7/2015
+              -1165.15
+                625876.16
+                  12/23/2014
+SO/PO Number
+  67784.25
+    16745.38
+      -473862.22
+        4781.49
+          3797400878
+            3197404860
+              3797400878
+                3197403632
+                  3197404219
+Order No.
+  0
+    1
+Sales Person
+  0
+CIT No.
+  0
+    AEFLC
+      CZABB-F
+        AEFLC
+          CHABB
+Cust PO or Ven Ref no.
+  0
+    AEFLC
+      e-mail offer
+        AEFLC
+          CHABB
+            Ref Scope
+ABACUS CIT Code as per ICV
+  CHABB
+    AEFLC
+      CZABB-F
+        AEFLC
+          CHABB
+ABACUS BU Code as per ICV
+  ZCCO
+    AEFLC
+      PAMP
+        EPBS
+          EPMV
+            PAMP
+              PSAC
+                PGGA
+ABACUS PG Code as per ICV
+  9944
+    4117
+      4498
+        3107
+          3446
+            4498
+              2818
+                2875
+ABACUS Code As per New ICV
+  CHABB
+    AEFLC
+      CZABB
+        AEFLC
+          CHABB
+CIT Code As per New ICV
+  CHABB-M
+    AEFLC
+      CZABB-Z
+        AEFLC
+          CHABB
+BU Code As per New ICV
+  ZCCO
+    AEFLC
+      PAMP
+        EPBS
+          EPMV
+            PAMP
+              CHABB
+                PGGA
+PG Code As per New ICV
+  9944
+    AEFLC
+      4498
+        3107
+          3446
+            4498
+              PSAC
+                2875
+
+[ROW STRUCTURE]
+IGB255
+  QA10460
+IGB535
+  QA10557
+  QA10135
+  QA10133
+  QA12564
+IGB615
+  QA10460
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<col class="col22"/>
+<col class="col23"/>
+<col class="col24"/>
+<col class="col25"/>
+<col class="col26"/>
+<col class="col27"/>
+<col class="col28"/>
+<col class="col29"/>
+<col class="col30"/>
+<col class="col31"/>
+<col class="col32"/>
+<col class="col33"/>
+<col class="col34"/>
+<col class="col35"/>
+<col class="col36"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s">IGAccount</td>
+<td class="column1 style3 s">Profit Center</td>
+<td class="column2 style3 s">Glaccount</td>
+<td class="column3 style3 s">Cus/ven num</td>
+<td class="column4 style3 s">Cus/ven name</td>
+<td class="column5 style8 s">Country Code</td>
+<td class="column6 style8 s">Reporting unit ABACUS BA</td>
+<td class="column7 style8 s">Reporting unit ABACUS BU</td>
+<td class="column8 style2 s">IgCode</td>
+<td class="column9 style8 s">Counterparty ABACUS BA Code</td>
+<td class="column10 style3 s">Usgpnode</td>
+<td class="column11 style3 s">Doc.Number</td>
+<td class="column12 style3 s">Item</td>
+<td class="column13 style3 s">Reference No.</td>
+<td class="column14 style3 s">Doc. Date</td>
+<td class="column15 style3 s">Invoice Due Date</td>
+<td class="column16 style3 s">Posting Date</td>
+<td class="column17 style3 s">Doc.Type</td>
+<td class="column18 style11 s">Currency Type</td>
+<td class="column19 style3 s">Amt in local curr</td>
+<td class="column20 style2 s">Revenue Amt Cumulative In DC</td>
+<td class="column21 style3 s">Ex. Rate</td>
+<td class="column22 style3 s">Translated Amt</td>
+<td class="column23 style3 s">SO/PO Date</td>
+<td class="column24 style3 s">SO/PO Number</td>
+<td class="column25 style3 s">Item</td>
+<td class="column26 style3 s">Order No.</td>
+<td class="column27 style8 s">Sales Person</td>
+<td class="column28 style3 s">CIT No.</td>
+<td class="column29 style8 s">Cust  PO or Ven Ref no.</td>
+<td class="column30 style8 s">ABACUS CIT Code as per ICV</td>
+<td class="column31 style8 s">ABACUS BU Code as per ICV</td>
+<td class="column32 style8 s">ABACUS PG Code as per ICV</td>
+<td class="column33 style8 s">ABACUS Code As per New ICV</td>
+<td class="column34 style8 s">CIT Code As per New ICV</td>
+<td class="column35 style8 s">BU Code As per New ICV</td>
+<td class="column36 style8 s">PG Code As per New ICV</td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s style6" rowspan="7">IGB525</td>
+<td class="column1 style5 s">QA10455</td>
+<td class="column2 style5 s">0000315603</td>
+<td class="column3 style5 s">1800006379</td>
+<td class="column4 style5 s">ABB Schweiz AG</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3442</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">ZCCO</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1104001651</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">CIT-201117</td>
+<td class="column14 style9 n">9/15/2011</td>
+<td class="column15 style9 n">11/14/2011</td>
+<td class="column16 style9 n">9/19/2011</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">67794.49</td>
+<td class="column20 style5 n">18616.42</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">67784.25</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s"></td>
+<td class="column25 style5 s">0</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s"></td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">ZCCO</td>
+<td class="column32 style5 s">9944</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB-M</td>
+<td class="column35 style5 s">ZCCO</td>
+<td class="column36 style5 s">9944</td>
+</tr>
+<tr class="row2">
+<td class="column1 style5 s">QA10455</td>
+<td class="column2 style5 s">0000315603</td>
+<td class="column3 style5 s">1800006379</td>
+<td class="column4 style5 s">ABB Schweiz AG</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3442</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">ZCCO</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1104001651</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">CIT-201117</td>
+<td class="column14 style9 n">9/15/2011</td>
+<td class="column15 style9 n">11/14/2011</td>
+<td class="column16 style9 n">9/19/2011</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">16747.91</td>
+<td class="column20 style5 n">4598.99</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">16745.38</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s"></td>
+<td class="column25 style5 s">0</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s"></td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">ZCCO</td>
+<td class="column32 style5 s">9944</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB-M</td>
+<td class="column35 style5 s">ZCCO</td>
+<td class="column36 style5 s">9944</td>
+</tr>
+<tr class="row3">
+<td class="column1 style5 s">QA12133</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800007434</td>
+<td class="column4 style5 s">ABB Industries FZ Discrete</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">DMDR</td>
+<td class="column7 style5 s">4159</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">ZCCO</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1302005908</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">1363200777</td>
+<td class="column14 style9 n">9/17/2013</td>
+<td class="column15 style9 n">9/17/2013</td>
+<td class="column16 style9 n">9/17/2013</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">-473621.46</td>
+<td class="column20 style5 n">-130142.6</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">-473862.22</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s"></td>
+<td class="column25 style5 s">0</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s"></td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">AEFLC</td>
+<td class="column31 style5 s"></td>
+<td class="column32 style5 s">4117</td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s"></td>
+<td class="column36 style5 s"></td>
+</tr>
+<tr class="row4">
+<td class="column1 style5 s">QA10246</td>
+<td class="column2 style5 s">0000315603</td>
+<td class="column3 style5 s">1800006597</td>
+<td class="column4 style5 s">ABB Industries FZ Process</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">PAMP</td>
+<td class="column7 style5 s">3199</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">PAMP</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1304001554</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">AL 631 CIT201321</td>
+<td class="column14 style9 n">11/14/2013</td>
+<td class="column15 style9 n">11/14/2013</td>
+<td class="column16 style9 n">11/14/2013</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">4781.36</td>
+<td class="column20 style5 n">1313.2</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">4781.49</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s"></td>
+<td class="column25 style5 s">0</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">AEFLC</td>
+<td class="column31 style5 s">PAMP</td>
+<td class="column32 style5 s">4498</td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">PAMP</td>
+<td class="column36 style5 s">4498</td>
+</tr>
+<tr class="row5">
+<td class="column1 style5 s">QA10563</td>
+<td class="column2 style5 s">0000315608</td>
+<td class="column3 style5 s">1800006773</td>
+<td class="column4 style5 s">ABB Industries FZ Low Voltage</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">PGGI</td>
+<td class="column7 style5 s">2871</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">EPBS</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1404000695</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">CIT-201408-USD</td>
+<td class="column14 style9 n">4/30/2014</td>
+<td class="column15 style9 n">4/30/2014</td>
+<td class="column16 style9 n">4/30/2014</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">-1686.35</td>
+<td class="column20 style5 n">-463.27</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">-1686.81</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s">3797400878</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">AEFLC</td>
+<td class="column31 style5 s">EPBS</td>
+<td class="column32 style5 s">3107</td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">EPBS</td>
+<td class="column36 style5 s">3107</td>
+</tr>
+<tr class="row6">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000315603</td>
+<td class="column3 style5 s">1800006389</td>
+<td class="column4 style5 s">ABB s.r.o. Trutnov</td>
+<td class="column5 style5 s">CZ</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CZABB</td>
+<td class="column9 style5 s">EPMV</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1504002751</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">ABB S.R.O. TRUTN</td>
+<td class="column14 style9 n">12/29/2015</td>
+<td class="column15 style9 n">12/29/2015</td>
+<td class="column16 style9 n">12/29/2015</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">-1051920.83</td>
+<td class="column20 style5 n">-263496</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">-1091381.99</td>
+<td class="column23 style9 n">5/7/2015</td>
+<td class="column24 style5 s">3197404860</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CZABB-F</td>
+<td class="column29 style5 s">e-mail offer</td>
+<td class="column30 style5 s">CZABB-F</td>
+<td class="column31 style5 s">EPMV</td>
+<td class="column32 style5 s">3446</td>
+<td class="column33 style5 s">CZABB</td>
+<td class="column34 style5 s">CZABB-Z</td>
+<td class="column35 style5 s">EPMV</td>
+<td class="column36 style5 s">3446</td>
+</tr>
+<tr class="row7">
+<td class="column1 style5 s">QA12246</td>
+<td class="column2 style5 s">0000315603</td>
+<td class="column3 style5 s">1800006597</td>
+<td class="column4 style5 s">ABB Industries FZ Process</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">PAMP</td>
+<td class="column7 style5 s">3199</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">PAMP</td>
+<td class="column10 style5 s">UB526002</td>
+<td class="column11 style5 s">1404000854</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">CIT 2014 11</td>
+<td class="column14 style9 n">6/10/2014</td>
+<td class="column15 style9 n">6/10/2014</td>
+<td class="column16 style9 n">6/12/2014</td>
+<td class="column17 style5 s">BP</td>
+<td class="column18 style5 s">USD</td>
+<td class="column19 style12 n">-1164.96</td>
+<td class="column20 style5 n">-320</td>
+<td class="column21 style14 n">3.64110</td>
+<td class="column22 style12 n">-1165.15</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s">3797400878</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">AEFLC</td>
+<td class="column31 style5 s">PAMP</td>
+<td class="column32 style5 s">4498</td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">PAMP</td>
+<td class="column36 style5 s">4498</td>
+</tr>
+<tr class="row8">
+<td class="column0 style6 s style6" rowspan="6">IGB255</td>
+<td class="column1 style5 s">QA12566</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800008258</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PGGI</td>
+<td class="column7 style5 s">2881</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">EPMV</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1419002609</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">90181138</td>
+<td class="column14 style9 n">6/8/2014</td>
+<td class="column15 style9 n">7/7/2014</td>
+<td class="column16 style9 n">7/7/2014</td>
+<td class="column17 style5 s">MB</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">672698.00</td>
+<td class="column20 style5 n">165343</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">625876.16</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s">3197403632</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PSAC</td>
+<td class="column32 style5 s">2818</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s"></td>
+<td class="column36 style5 s">PSAC</td>
+</tr>
+<tr class="row9">
+<td class="column1 style5 s">QA12564</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PGGA</td>
+<td class="column7 style5 s">2879</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1502006932</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s"></td>
+<td class="column14 style9 n">9/30/2015</td>
+<td class="column15 style9 n">9/30/2015</td>
+<td class="column16 style9 n">9/30/2015</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">1106477.05</td>
+<td class="column20 style5 n">295475</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">1118467.43</td>
+<td class="column23 style9 n">12/23/2014</td>
+<td class="column24 style5 s">3197404219</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s">Ref Scope</td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row10">
+<td class="column1 style5 s">QA12564</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PGGA</td>
+<td class="column7 style5 s">2879</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1502006934</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s"></td>
+<td class="column14 style9 n">9/30/2015</td>
+<td class="column15 style9 n">9/30/2015</td>
+<td class="column16 style9 n">9/30/2015</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">3406357.80</td>
+<td class="column20 style5 n">909638</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">3443270.91</td>
+<td class="column23 style9 n">12/23/2014</td>
+<td class="column24 style5 s">3197404219</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s">Ref Scope</td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row11">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800006389</td>
+<td class="column4 style5 s">ABB s.r.o. Trutnov</td>
+<td class="column5 style5 s">CZ</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CZABB</td>
+<td class="column9 style5 s">EPMV</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1502008869</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">90754198</td>
+<td class="column14 style9 n">12/29/2015</td>
+<td class="column15 style9 n">12/29/2015</td>
+<td class="column16 style9 n">12/29/2015</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">-131490.10</td>
+<td class="column20 style5 n">-32937</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">-136422.75</td>
+<td class="column23 style9 n">7/3/2014</td>
+<td class="column24 style5 s">3197403548</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CZABB-F</td>
+<td class="column29 style5 s">as per below</td>
+<td class="column30 style5 s">CZABB-F</td>
+<td class="column31 style5 s">EPMV</td>
+<td class="column32 style5 s">3446</td>
+<td class="column33 style5 s">CZABB</td>
+<td class="column34 style5 s">CZABB-Z</td>
+<td class="column35 style5 s">EPMV</td>
+<td class="column36 style5 s">3446</td>
+</tr>
+<tr class="row12">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800006389</td>
+<td class="column4 style5 s">ABB s.r.o. Trutnov</td>
+<td class="column5 style5 s">CZ</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CZABB</td>
+<td class="column9 style5 s">EPMV</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1502008870</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">90734883</td>
+<td class="column14 style9 n">12/29/2015</td>
+<td class="column15 style9 n">12/29/2015</td>
+<td class="column16 style9 n">12/29/2015</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">-131490.10</td>
+<td class="column20 style5 n">-32937</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">-136422.75</td>
+<td class="column23 style9 n">7/3/2014</td>
+<td class="column24 style5 s">3197403548</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CZABB-F</td>
+<td class="column29 style5 s">as per below</td>
+<td class="column30 style5 s">CZABB-F</td>
+<td class="column31 style5 s">EPMV</td>
+<td class="column32 style5 s">3446</td>
+<td class="column33 style5 s">CZABB</td>
+<td class="column34 style5 s">CZABB-Z</td>
+<td class="column35 style5 s">EPMV</td>
+<td class="column36 style5 s">3446</td>
+</tr>
+<tr class="row13">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000161601</td>
+<td class="column3 style5 s">1800006389</td>
+<td class="column4 style5 s">ABB s.r.o. Trutnov</td>
+<td class="column5 style5 s">CZ</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CZABB</td>
+<td class="column9 style5 s">EPMV</td>
+<td class="column10 style5 s">UB2560</td>
+<td class="column11 style5 s">1502008871</td>
+<td class="column12 style5 s">0</td>
+<td class="column13 style5 s">90733055</td>
+<td class="column14 style9 n">12/29/2015</td>
+<td class="column15 style9 n">12/29/2015</td>
+<td class="column16 style9 n">12/29/2015</td>
+<td class="column17 style5 s">AB</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">-131490.10</td>
+<td class="column20 style5 n">-32937</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">-136422.75</td>
+<td class="column23 style9 n">7/3/2014</td>
+<td class="column24 style5 s">3197403548</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CZABB-F</td>
+<td class="column29 style5 s">as per below</td>
+<td class="column30 style5 s">CZABB-F</td>
+<td class="column31 style5 s">EPMV</td>
+<td class="column32 style5 s">3446</td>
+<td class="column33 style5 s">CZABB</td>
+<td class="column34 style5 s">CZABB-Z</td>
+<td class="column35 style5 s">EPMV</td>
+<td class="column36 style5 s">3446</td>
+</tr>
+<tr class="row14">
+<td class="column0 style6 s style6" rowspan="7">IGB535</td>
+<td class="column1 style5 s">QA10557</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800006691</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PAPG</td>
+<td class="column7 style5 s">2869</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PAPG</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1416000390</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">90160516</td>
+<td class="column14 style9 n">12/2/2013</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">3/4/2014</td>
+<td class="column17 style5 s">GB</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">206060.05</td>
+<td class="column20 style5 n">50705</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">191934.65</td>
+<td class="column23 style9 null"></td>
+<td class="column24 style5 s">3197402803</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PAPG</td>
+<td class="column32 style5 s">2869</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PAPG</td>
+<td class="column36 style5 s">2869</td>
+</tr>
+<tr class="row15">
+<td class="column1 style5 s">QA10135</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800010365</td>
+<td class="column4 style5 s">ABB Industries FZ Discrete</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">DMDR</td>
+<td class="column7 style5 s">4159</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">DMDR</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525001949</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV#9414724</td>
+<td class="column14 style9 n">5/30/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">6/11/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">131.94</td>
+<td class="column20 style5 n">32.08</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">132.87</td>
+<td class="column23 style9 n">6/2/2015</td>
+<td class="column24 style5 s">3197404933</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s"></td>
+<td class="column31 style5 s">DMDR</td>
+<td class="column32 style5 s"></td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">DMDR</td>
+<td class="column36 style5 s">4159</td>
+</tr>
+<tr class="row16">
+<td class="column1 style5 s">QA10135</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800010365</td>
+<td class="column4 style5 s">ABB Industries FZ Discrete</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">DMDR</td>
+<td class="column7 style5 s">4159</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">DMDR</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525001949</td>
+<td class="column12 style5 s">4</td>
+<td class="column13 style5 s">INV#9414724</td>
+<td class="column14 style9 n">5/30/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">6/11/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">303.12</td>
+<td class="column20 style5 n">73.7</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">305.26</td>
+<td class="column23 style9 n">6/2/2015</td>
+<td class="column24 style5 s">3197404933</td>
+<td class="column25 style5 s">2</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s"></td>
+<td class="column31 style5 s">DMDR</td>
+<td class="column32 style5 s"></td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">DMDR</td>
+<td class="column36 style5 s">4159</td>
+</tr>
+<tr class="row17">
+<td class="column1 style5 s">QA10135</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800010365</td>
+<td class="column4 style5 s">ABB Industries FZ Discrete</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">DMDR</td>
+<td class="column7 style5 s">4159</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">DMDR</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525001949</td>
+<td class="column12 style5 s">6</td>
+<td class="column13 style5 s">INV#9414724</td>
+<td class="column14 style9 n">5/30/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">6/11/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">257.59</td>
+<td class="column20 style5 n">62.63</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">259.41</td>
+<td class="column23 style9 n">6/2/2015</td>
+<td class="column24 style5 s">3197404933</td>
+<td class="column25 style5 s">3</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s"></td>
+<td class="column31 style5 s">DMDR</td>
+<td class="column32 style5 s"></td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">DMDR</td>
+<td class="column36 style5 s">4159</td>
+</tr>
+<tr class="row18">
+<td class="column1 style5 s">QA10133</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800010365</td>
+<td class="column4 style5 s">ABB Industries FZ Discrete</td>
+<td class="column5 style5 s">AE</td>
+<td class="column6 style5 s">DMDR</td>
+<td class="column7 style5 s">4159</td>
+<td class="column8 style5 s">AEFLC</td>
+<td class="column9 style5 s">DMDR</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525003296</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV # 94157176</td>
+<td class="column14 style9 n">11/3/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">11/10/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">EUR</td>
+<td class="column19 style12 n">6462.04</td>
+<td class="column20 style5 n">1647.14</td>
+<td class="column21 style14 n">4.14193</td>
+<td class="column22 style12 n">6822.34</td>
+<td class="column23 style9 n">10/21/2015</td>
+<td class="column24 style5 s">3197405466</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">AEFLC</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s"></td>
+<td class="column31 style5 s">DMDR</td>
+<td class="column32 style5 s"></td>
+<td class="column33 style5 s">AEFLC</td>
+<td class="column34 style5 s">AEFLC</td>
+<td class="column35 style5 s">DMDR</td>
+<td class="column36 style5 s">4159</td>
+</tr>
+<tr class="row19">
+<td class="column1 style5 s">QA12564</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PGGA</td>
+<td class="column7 style5 s">2879</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525003454</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV # 90228802</td>
+<td class="column14 style9 n">7/14/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">11/26/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">62533.76</td>
+<td class="column20 style5 n">17532.47</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">66366.01</td>
+<td class="column23 style9 n">12/23/2014</td>
+<td class="column24 style5 s">3197404219</td>
+<td class="column25 style5 s">11</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row20">
+<td class="column1 style5 s">QA12564</td>
+<td class="column2 style5 s">0000319503</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">PGGA</td>
+<td class="column7 style5 s">2879</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB5350</td>
+<td class="column11 style5 s">1525003769</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">CI #96048401</td>
+<td class="column14 style9 n">12/24/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">12/27/2015</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">233530.55</td>
+<td class="column20 style5 n">63342</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">239769.74</td>
+<td class="column23 style9 n">9/8/2015</td>
+<td class="column24 style5 s">3197405309</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row21">
+<td class="column0 style6 s style7" rowspan="3">IGB615</td>
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000322504</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB615002</td>
+<td class="column11 style5 s">1625000344</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV # 90241532</td>
+<td class="column14 style9 n">10/28/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">2/10/2016</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">197899.63</td>
+<td class="column20 style5 n">53271</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">201647.78</td>
+<td class="column23 style9 n">6/22/2015</td>
+<td class="column24 style5 s">3797402665</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row22">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000322504</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB615002</td>
+<td class="column11 style5 s">1625000345</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV # 90241534</td>
+<td class="column14 style9 n">10/28/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">2/10/2016</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">115373.66</td>
+<td class="column20 style5 n">31056.5</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">117558.79</td>
+<td class="column23 style9 n">6/22/2015</td>
+<td class="column24 style5 s">3797402665</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row23">
+<td class="column1 style5 s">QA10460</td>
+<td class="column2 style5 s">0000322504</td>
+<td class="column3 style5 s">1800006522</td>
+<td class="column4 style5 s">ABB Schweiz AG Power Grids</td>
+<td class="column5 style5 s">CH</td>
+<td class="column6 style5 s">EPMV</td>
+<td class="column7 style5 s">3446</td>
+<td class="column8 style5 s">CHABB</td>
+<td class="column9 style5 s">PGGA</td>
+<td class="column10 style5 s">UB615002</td>
+<td class="column11 style5 s">1625000346</td>
+<td class="column12 style5 s">2</td>
+<td class="column13 style5 s">INV # 90241535</td>
+<td class="column14 style9 n">10/28/2015</td>
+<td class="column15 style9 null"></td>
+<td class="column16 style9 n">2/10/2016</td>
+<td class="column17 style5 s">WE</td>
+<td class="column18 style5 s">CHF</td>
+<td class="column19 style12 n">61305.76</td>
+<td class="column20 style5 n">16502.4</td>
+<td class="column21 style14 n">3.78532</td>
+<td class="column22 style12 n">62466.86</td>
+<td class="column23 style9 n">6/22/2015</td>
+<td class="column24 style5 s">3797402665</td>
+<td class="column25 style5 s">1</td>
+<td class="column26 style5 s"></td>
+<td class="column27 style5 s">0</td>
+<td class="column28 style5 s">CHABB</td>
+<td class="column29 style5 s"></td>
+<td class="column30 style5 s">CHABB</td>
+<td class="column31 style5 s">PGGA</td>
+<td class="column32 style5 s">2875</td>
+<td class="column33 style5 s">CHABB</td>
+<td class="column34 style5 s">CHABB</td>
+<td class="column35 style5 s">PGGA</td>
+<td class="column36 style5 s">2875</td>
+</tr>
+<tr class="row24">
+<td class="column0 style2 s"></td>
+<td class="column1 style2 s"></td>
+<td class="column2 style2 s"></td>
+<td class="column3 style2 s"></td>
+<td class="column4 style2 s"></td>
+<td class="column5 style2 s"></td>
+<td class="column6 style2 s"></td>
+<td class="column7 style2 s"></td>
+<td class="column8 style2 s"></td>
+<td class="column9 style2 s"></td>
+<td class="column10 style2 s"></td>
+<td class="column11 style2 s"></td>
+<td class="column12 style2 s"></td>
+<td class="column13 style2 s"></td>
+<td class="column14 style10 null"></td>
+<td class="column15 style10 null"></td>
+<td class="column16 style10 null"></td>
+<td class="column17 style2 s"></td>
+<td class="column18 style2 s"></td>
+<td class="column19 style13 null"></td>
+<td class="column20 style2 s"></td>
+<td class="column21 style15 null"></td>
+<td class="column22 style13 null"></td>
+<td class="column23 style10 null"></td>
+<td class="column24 style2 s"></td>
+<td class="column25 style2 s"></td>
+<td class="column26 style2 s"></td>
+<td class="column27 style2 s"></td>
+<td class="column28 style2 s"></td>
+<td class="column29 style2 s"></td>
+<td class="column30 style2 s"></td>
+<td class="column31 style2 s"></td>
+<td class="column32 style2 s"></td>
+<td class="column33 style2 s"></td>
+<td class="column34 style2 s"></td>
+<td class="column35 style2 s"></td>
+<td class="column36 style2 s"></td>
+</tr>
+<tr class="row25">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+<td class="column23"> </td>
+<td class="column24"> </td>
+<td class="column25"> </td>
+<td class="column26"> </td>
+<td class="column27"> </td>
+<td class="column28"> </td>
+<td class="column29"> </td>
+<td class="column30"> </td>
+<td class="column31"> </td>
+<td class="column32"> </td>
+<td class="column33"> </td>
+<td class="column34"> </td>
+<td class="column35"> </td>
+<td class="column36"> </td>
+</tr>
+<tr class="row26">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+<td class="column23"> </td>
+<td class="column24"> </td>
+<td class="column25"> </td>
+<td class="column26"> </td>
+<td class="column27"> </td>
+<td class="column28"> </td>
+<td class="column29"> </td>
+<td class="column30"> </td>
+<td class="column31"> </td>
+<td class="column32"> </td>
+<td class="column33"> </td>
+<td class="column34"> </td>
+<td class="column35"> </td>
+<td class="column36"> </td>
+</tr>
+<tr class="row27">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20 style5 null"></td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+<td class="column23"> </td>
+<td class="column24"> </td>
+<td class="column25"> </td>
+<td class="column26"> </td>
+<td class="column27"> </td>
+<td class="column28"> </td>
+<td class="column29"> </td>
+<td class="column30"> </td>
+<td class="column31"> </td>
+<td class="column32"> </td>
+<td class="column33"> </td>
+<td class="column34"> </td>
+<td class="column35"> </td>
+<td class="column36"> </td>
+</tr>
+</tbody>
+</table>

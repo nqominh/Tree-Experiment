@@ -1,0 +1,462 @@
+[COLUMN STRUCTURE]
+Name
+Branch (select from List)
+LONG SLEEVES
+  L/S Size
+  L/S Owned
+  L/S Needed
+SHORT SLEEVES
+  S/S Size
+  S/S Owned
+  S/S Needed
+
+[ROW STRUCTURE]
+Ern
+  FAC
+    42R
+    44R
+    46R
+    38L
+    40R
+    42L
+  IMD
+    38R
+    44L
+    46L
+  FV
+    46R
+    44R
+    52R
+  DOM
+    40R
+    46L
+    46R
+    42R
+    48R
+    44R
+  PSC
+    40R
+    38R
+    48L
+    36R
+    44R
+  MI
+    50R
+    40R
+  WWM
+    44R
+    36R
+  IO
+    46R
+    36R
+    42L
+    42R
+TOTAL
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style18 s style19" rowspan="2">Name</td>
+<td class="column1 style20 s style19" rowspan="2">Branch (select from List)</td>
+<td class="column2 style21 s style23" colspan="3">LONG SLEEVES</td>
+<td class="column5 style21 s style23" colspan="3">SHORT SLEEVES</td>
+</tr>
+<tr class="row1">
+<td class="column2 style2 s">L/S Size</td>
+<td class="column3 style3 s">L/S Owned</td>
+<td class="column4 style4 s">L/S Needed</td>
+<td class="column5 style2 s">S/S Size</td>
+<td class="column6 style3 s">S/S Owned</td>
+<td class="column7 style4 s">S/S Needed</td>
+</tr>
+<tr class="row2">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style6 s">FAC</td>
+<td class="column2 style7 s">42R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">42R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row3">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IMD</td>
+<td class="column2 style7 s">38R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">38R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row4">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FV</td>
+<td class="column2 style7 s">46R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">46R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row5">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row6">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">44R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">44R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row7">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">46R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">46R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row8">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">46L</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">46L</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row9">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">46R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">46R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">2</td>
+</tr>
+<tr class="row10">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row11">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">38L</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">38R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row12">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">38R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">38R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row13">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">48L</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">48L</td>
+<td class="column6 style1 n">3</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row14">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">MI</td>
+<td class="column2 style7 s">50R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">50R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row15">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row16">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row17">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">WWM</td>
+<td class="column2 style7 s">44R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">44R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row18">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">42R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">42R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row19">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FV</td>
+<td class="column2 style7 s">44R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">44R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row20">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">WWM</td>
+<td class="column2 style7 s">36R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">36R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row21">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row22">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IMD</td>
+<td class="column2 style7 s">44L</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">44L</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row23">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FAC</td>
+<td class="column2 style7 s">42L</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">42L</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row24">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">36R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">36R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row25">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">36R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">36R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row26">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">MI</td>
+<td class="column2 style7 s">40R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">40R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row27">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">42R</td>
+<td class="column3 style1 n">3</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">42R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row28">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">PSC</td>
+<td class="column2 style7 s">44R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">2</td>
+<td class="column5 style7 s">44R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row29">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">46R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">46R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row30">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IO</td>
+<td class="column2 style7 s">46R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">46R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row31">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IMD</td>
+<td class="column2 style7 s">46L</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">48L</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row32">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IO</td>
+<td class="column2 style7 s">36R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">36R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row33">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IO</td>
+<td class="column2 style7 s">42L</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">42S</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row34">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">48R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">2</td>
+<td class="column5 style7 s">48R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row35">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">IO</td>
+<td class="column2 style7 s">42R</td>
+<td class="column3 style1 n">1</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">42R</td>
+<td class="column6 style1 n">1</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row36">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style7 s">44R</td>
+<td class="column3 style1 n">2</td>
+<td class="column4 style16 n">0</td>
+<td class="column5 style7 s">44R</td>
+<td class="column6 style1 n">2</td>
+<td class="column7 style8 n">0</td>
+</tr>
+<tr class="row37">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">FV</td>
+<td class="column2 style7 s">52R</td>
+<td class="column3 style1 n">0</td>
+<td class="column4 style16 n">1</td>
+<td class="column5 style7 s">52R</td>
+<td class="column6 style1 n">0</td>
+<td class="column7 style8 n">1</td>
+</tr>
+<tr class="row38">
+<td class="column0 style5 s">Ern</td>
+<td class="column1 style9 s">DOM</td>
+<td class="column2 style10 s">44R</td>
+<td class="column3 style11 n">1</td>
+<td class="column4 style17 n">1</td>
+<td class="column5 style10 s">44R</td>
+<td class="column6 style11 n">1</td>
+<td class="column7 style12 n">1</td>
+</tr>
+<tr class="row39">
+<td class="column0 style13 s">TOTAL</td>
+<td class="column1 style14 null"></td>
+<td class="column2 style15 null"></td>
+<td class="column3 style15 f">42</td>
+<td class="column4 style15 f">25</td>
+<td class="column5 style15 null"></td>
+<td class="column6 style15 f">42</td>
+<td class="column7 style15 n">18</td>
+</tr>
+</tbody>
+</table>

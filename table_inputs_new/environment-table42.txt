@@ -1,0 +1,1036 @@
+[COLUMN STRUCTURE]
+Animal
+  C1
+    C2
+      C3
+        C4
+          C5
+            C6
+              C7
+                C8
+                  C9
+                    C10
+Genotype
+  WT
+Group
+  Control
+Treatment
+  Vehicle
+Time Centre (s)
+  40.3
+    11
+      58.4
+        22
+          35
+            29.5
+              51.9
+                32
+                  43.3
+                    49
+Latency Centre (s)
+  39.1
+    1.7
+      0
+        2
+          0
+
+[ROW STRUCTURE]
+average
+stdv
+sterror
+C11
+C12
+C13
+C14
+C15
+C16
+C17
+C18
+C19
+C20
+average
+stdv
+sterror
+351
+191
+251
+361
+541
+852
+4163
+4213
+4223
+4303
+4323
+E1
+E2
+E3
+E4
+E5
+average
+stdv
+sterror
+211
+291
+111
+11
+672
+4333
+4353
+4383
+4393
+E6
+E7
+E8
+E9
+E10
+average
+stdv
+sterror
+411
+131
+141
+151
+802
+812
+4043
+4113
+average
+stdv
+sterror
+121
+201
+181
+391
+702
+642
+4153
+4313
+4783
+average
+stdv
+sterror
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s">Animal</td>
+<td class="column1 style2 s">Genotype</td>
+<td class="column2 style2 s">Group</td>
+<td class="column3 style2 s">Treatment</td>
+<td class="column4 style2 s">Time Centre (s)</td>
+<td class="column5 style2 s">Latency Centre (s)</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">C1</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">40.3</td>
+<td class="column5 style1 n">39.1</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 s">C2</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">11</td>
+<td class="column5 style1 n">1.7</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 s">C3</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">58.4</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style3 s">C4</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">22</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style3 s">C5</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">35</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style3 s">C6</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">29.5</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style3 s">C7</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">51.9</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style3 s">C8</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">32</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style3 s">C9</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">43.3</td>
+<td class="column5 style1 n">2</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style3 s">C10</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">49</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style3 s">average</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">37.24</td>
+<td class="column5 style4 f">4.28</td>
+<td class="column6 style5 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style3 s">stdv</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">14.376771388443</td>
+<td class="column5 style4 f">12.258856209107</td>
+<td class="column6 style5 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style3 s">sterror</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">4.5463342987021</td>
+<td class="column5 style4 f">3.8765907129275</td>
+<td class="column6 style5 null"></td>
+<td class="column7"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style3 s">C11</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">30</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style3 s">C12</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">34.5</td>
+<td class="column5 style1 n">35.5</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style3 s">C13</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">25.5</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style3 s">C14</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">32.1</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style3 s">C15</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">39.5</td>
+<td class="column5 style1 n">9.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style3 s">C16</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">30.2</td>
+<td class="column5 style1 n">0.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style3 s">C17</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">23.5</td>
+<td class="column5 style1 n">2</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style3 s">C18</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">32</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style3 s">C19</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">36.3</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style3 s">C20</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Control</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">25.7</td>
+<td class="column5 style1 n">25.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style3 s">average</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">30.93</td>
+<td class="column5 style4 f">7.39</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style3 s">stdv</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">5.0660196955357</td>
+<td class="column5 style4 f">12.825534426812</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style3 s">sterror</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">1.6020160909166</td>
+<td class="column5 style4 f">4.0557900997627</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style3 n">351</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">27.6</td>
+<td class="column5 style1 n">20.1</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style3 n">191</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">15.5</td>
+<td class="column5 style1 n">68.7</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style3 n">251</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">19</td>
+<td class="column5 style1 n">52.7</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style3 n">361</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">27.4</td>
+<td class="column5 style1 n">12</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style3 n">541</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">17.9</td>
+<td class="column5 style1 n">56</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style3 n">852</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">7.3</td>
+<td class="column5 style1 n">30.5</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style3 n">4163</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">13.9</td>
+<td class="column5 style1 n">16</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style3 n">4213</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">33.3</td>
+<td class="column5 style1 n">19</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style3 n">4223</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">17</td>
+<td class="column5 style1 n">17.2</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style3 n">4303</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">34.5</td>
+<td class="column5 style1 n">15.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style3 n">4323</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">17.1</td>
+<td class="column5 style1 n">69.4</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style3 s">E1</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">23.8</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style3 s">E2</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">9.9</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row42">
+<td class="column0 style3 s">E3</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">27</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row43">
+<td class="column0 style3 s">E4</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">27.8</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row44">
+<td class="column0 style3 s">E5</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">30.6</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row45">
+<td class="column0 style3 s">average</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">21.85</td>
+<td class="column5 style4 f">23.5875</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row46">
+<td class="column0 style3 s">stdv</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">8.2668817176329</td>
+<td class="column5 style4 f">24.74962289275</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row47">
+<td class="column0 style3 s">sterror</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">2.0667204294082</td>
+<td class="column5 style4 f">6.1874057231875</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row48">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row49">
+<td class="column0 style3 n">211</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">10.7</td>
+<td class="column5 style1 n">20</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row50">
+<td class="column0 style3 n">291</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">10</td>
+<td class="column5 style1 n">11.2</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row51">
+<td class="column0 style3 n">111</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">13.9</td>
+<td class="column5 style1 n">17.4</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row52">
+<td class="column0 style3 n">11</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">18.2</td>
+<td class="column5 style1 n">46</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row53">
+<td class="column0 style3 n">672</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">12.5</td>
+<td class="column5 style1 n">17.6</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row54">
+<td class="column0 style3 n">4333</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">12.3</td>
+<td class="column5 style1 n">47.9</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row55">
+<td class="column0 style3 n">4353</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">8.1</td>
+<td class="column5 style1 n">33.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row56">
+<td class="column0 style3 n">4383</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">14.3</td>
+<td class="column5 style1 n">94.6</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row57">
+<td class="column0 style3 n">4393</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">24.4</td>
+<td class="column5 style1 n">4.9</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row58">
+<td class="column0 style3 s">E6</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">32.2</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row59">
+<td class="column0 style3 s">E7</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">41.6</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row60">
+<td class="column0 style3 s">E8</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">22.9</td>
+<td class="column5 style1 n">0</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row61">
+<td class="column0 style3 s">E9</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">26.4</td>
+<td class="column5 style1 n">13.2</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row62">
+<td class="column0 style3 s">E10</td>
+<td class="column1 style3 s">WT</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">3.2</td>
+<td class="column5 style1 n">41.1</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row63">
+<td class="column0 style3 s">average</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">17.907142857143</td>
+<td class="column5 style4 f">24.835714285714</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row64">
+<td class="column0 style3 s">stdv</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">10.457346647267</td>
+<td class="column5 style4 f">26.153470343131</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row65">
+<td class="column0 style3 s">sterror</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">2.7948434520572</td>
+<td class="column5 style4 f">6.9898089642248</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row66">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row67">
+<td class="column0 style3 n">411</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">7</td>
+<td class="column5 style1 n">213.5</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row68">
+<td class="column0 style3 n">131</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">17.3</td>
+<td class="column5 style1 n">22.1</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row69">
+<td class="column0 style3 n">141</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">9.7</td>
+<td class="column5 style1 n">27.4</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row70">
+<td class="column0 style3 n">151</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">19.4</td>
+<td class="column5 style1 n">58</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row71">
+<td class="column0 style3 n">802</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">15.6</td>
+<td class="column5 style1 n">27.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row72">
+<td class="column0 style3 n">812</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">13.5</td>
+<td class="column5 style1 n">28</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row73">
+<td class="column0 style3 n">4043</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">6.7</td>
+<td class="column5 style1 n">32.1</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row74">
+<td class="column0 style3 n">4113</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Vehicle</td>
+<td class="column4 style1 n">25.4</td>
+<td class="column5 style1 n">51.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row75">
+<td class="column0 style3 s">average</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">14.325</td>
+<td class="column5 style4 f">57.5875</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row76">
+<td class="column0 style3 s">stdv</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">6.4670041639961</td>
+<td class="column5 style4 f">64.282133432015</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row77">
+<td class="column0 style3 s">sterror</td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style4 f">2.2864312491616</td>
+<td class="column5 style4 f">22.727166229458</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row78">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row79">
+<td class="column0 style3 n">121</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">10.4</td>
+<td class="column5 style1 n">72</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row80">
+<td class="column0 style3 n">201</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">19.6</td>
+<td class="column5 style1 n">14</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row81">
+<td class="column0 style3 n">181</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">21.3</td>
+<td class="column5 style1 n">8.8</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row82">
+<td class="column0 style3 n">391</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">10.4</td>
+<td class="column5 style1 n">66.9</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row83">
+<td class="column0 style3 n">702</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">10.7</td>
+<td class="column5 style1 n">17.9</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row84">
+<td class="column0 style3 n">642</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">13.1</td>
+<td class="column5 style1 n">51</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row85">
+<td class="column0 style3 n">4153</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">26.4</td>
+<td class="column5 style1 n">44.3</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row86">
+<td class="column0 style3 n">4313</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">7.8</td>
+<td class="column5 style1 n">54</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row87">
+<td class="column0 style3 n">4783</td>
+<td class="column1 style3 s">FGF2KO</td>
+<td class="column2 style3 s">Stress</td>
+<td class="column3 style3 s">Fluoxetine</td>
+<td class="column4 style1 n">24.1</td>
+<td class="column5 style1 n">49.7</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row88">
+<td class="column0 style3 s">average</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style4 f">15.977777777778</td>
+<td class="column5 style4 f">42.066666666667</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row89">
+<td class="column0 style3 s">stdv</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style4 f">6.9035820009937</td>
+<td class="column5 style4 f">23.12087801101</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+<tr class="row90">
+<td class="column0 style3 s">sterror</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4 style4 f">2.3011940003312</td>
+<td class="column5 style4 f">7.7069593370033</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+</tr>
+</tbody>
+</table>

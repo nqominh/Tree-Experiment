@@ -1,0 +1,227 @@
+[COLUMN STRUCTURE]
+p75FL
+  Familiar
+  Novel
+p75Atoh1-Cre
+  Familiar
+  Novel
+
+[ROW STRUCTURE]
+27
+121
+150
+51
+60
+56
+21
+46
+94
+53
+63
+114
+164
+109
+81
+113
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s style2" colspan="2">p75FL</td>
+<td class="column2 style2 s style2" colspan="2">p75Atoh1-Cre</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">Familiar</td>
+<td class="column1 style3 s">Novel</td>
+<td class="column2 style3 s">Familiar</td>
+<td class="column3 style3 s">Novel</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style4 n">27</td>
+<td class="column1 style4 n">247</td>
+<td class="column2 style4 n">102</td>
+<td class="column3 style4 n">147</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style4 n">121</td>
+<td class="column1 style4 n">138</td>
+<td class="column2 style4 n">147</td>
+<td class="column3 style4 n">103</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style4 n">150</td>
+<td class="column1 style4 n">126</td>
+<td class="column2 style4 n">142</td>
+<td class="column3 style4 n">109</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 n">51</td>
+<td class="column1 style4 n">240</td>
+<td class="column2 style4 n">151</td>
+<td class="column3 style4 n">131</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style4 n">60</td>
+<td class="column1 style4 n">185</td>
+<td class="column2 style4 n">178</td>
+<td class="column3 style4 n">90</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style4 n">56</td>
+<td class="column1 style4 n">179</td>
+<td class="column2 style4 n">110</td>
+<td class="column3 style4 n">105</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style4 n">21</td>
+<td class="column1 style4 n">221</td>
+<td class="column2 style4 n">160</td>
+<td class="column3 style4 n">79</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style4 n">46</td>
+<td class="column1 style4 n">190</td>
+<td class="column2 style4 n">83</td>
+<td class="column3 style4 n">151</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style4 n">94</td>
+<td class="column1 style4 n">129</td>
+<td class="column2 style4 n">165</td>
+<td class="column3 style4 n">70</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style4 n">53</td>
+<td class="column1 style4 n">168</td>
+<td class="column2 style4 n">88</td>
+<td class="column3 style4 n">113</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style4 n">63</td>
+<td class="column1 style4 n">206</td>
+<td class="column2 style4 n">94</td>
+<td class="column3 style4 n">95</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style4 n">114</td>
+<td class="column1 style4 n">117</td>
+<td class="column2 style4 n">99</td>
+<td class="column3 style4 n">108</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style4 n">164</td>
+<td class="column1 style4 n">104</td>
+<td class="column2 style4 n">160</td>
+<td class="column3 style4 n">62</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style4 n">109</td>
+<td class="column1 style4 n">156</td>
+<td class="column2 style4 n">60</td>
+<td class="column3 style4 n">200</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style4 n">81</td>
+<td class="column1 style4 n">130</td>
+<td class="column2 style4 n">187</td>
+<td class="column3 style4 n">98</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style4 n">113</td>
+<td class="column1 style4 n">140</td>
+<td class="column2 style4 n">218</td>
+<td class="column3 style4 n">65</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 n">98</td>
+<td class="column3 style4 n">166</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 n">164</td>
+<td class="column3 style4 n">87</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 n">131</td>
+<td class="column3 style4 n">144</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 n">125</td>
+<td class="column3 style4 n">132</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+</tr>
+</tbody>
+</table>

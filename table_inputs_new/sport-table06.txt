@@ -1,0 +1,405 @@
+[COLUMN STRUCTURE]
+Group Stage
+  1
+  USA
+  3
+  Colombia
+Predicted
+  Winner
+    Colombia
+Actual Results
+  USA
+  0
+  2
+  Colombia
+
+[ROW STRUCTURE]
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 s style5" colspan="5" rowspan="2">Group Stage</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style8 s">Predicted</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style9 s style9" colspan="4" rowspan="2">Actual Results</td>
+</tr>
+<tr class="row1">
+<td class="column5 style1 null"></td>
+<td class="column6 style10 s">Winner</td>
+<td class="column7 style1 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style11 n">1</td>
+<td class="column1 style12 s">USA</td>
+<td class="column2 style13 n">1</td>
+<td class="column3 style14 n">3</td>
+<td class="column4 style15 s">Colombia</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Colombia</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style12 s">USA</td>
+<td class="column9 style13 n">0</td>
+<td class="column10 style14 n">2</td>
+<td class="column11 style15 s">Colombia</td>
+</tr>
+<tr class="row3">
+<td class="column0 style17 n">2</td>
+<td class="column1 style18 s">Costa Rica</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">3</td>
+<td class="column4 style21 s">Paraguay</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Paraguay</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Costa Rica</td>
+<td class="column9 style19 n">0</td>
+<td class="column10 style20 n">0</td>
+<td class="column11 style21 s">Paraguay</td>
+</tr>
+<tr class="row4">
+<td class="column0 style17 n">3</td>
+<td class="column1 style18 s">Haiti</td>
+<td class="column2 style19 n">0</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Peru</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Peru</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Haiti</td>
+<td class="column9 style19 n">0</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Peru</td>
+</tr>
+<tr class="row5">
+<td class="column0 style17 n">4</td>
+<td class="column1 style18 s">Brazil</td>
+<td class="column2 style19 n">3</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Ecuador</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Brazil</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Brazil</td>
+<td class="column9 style19 n">0</td>
+<td class="column10 style20 n">0</td>
+<td class="column11 style21 s">Ecuador</td>
+</tr>
+<tr class="row6">
+<td class="column0 style17 n">5</td>
+<td class="column1 style18 s">Jamaica</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Venezuela</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Venezuela</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Jamaica</td>
+<td class="column9 style19 n">0</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Venezuela</td>
+</tr>
+<tr class="row7">
+<td class="column0 style17 n">6</td>
+<td class="column1 style18 s">Mexico</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Uruguay</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Mexico</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Mexico</td>
+<td class="column9 style19 n">3</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Uruguay</td>
+</tr>
+<tr class="row8">
+<td class="column0 style17 n">7</td>
+<td class="column1 style18 s">Panama</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Bolivia</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Tie</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Panama</td>
+<td class="column9 style19 n">1</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Bolivia</td>
+</tr>
+<tr class="row9">
+<td class="column0 style17 n">8</td>
+<td class="column1 style18 s">Argentina</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Chile</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Argentina</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Argentina</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Chile</td>
+</tr>
+<tr class="row10">
+<td class="column0 style17 n">9</td>
+<td class="column1 style18 s">USA</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">0</td>
+<td class="column4 style21 s">Costa Rica</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">USA</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">USA</td>
+<td class="column9 style19 n">3</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Costa Rica</td>
+</tr>
+<tr class="row11">
+<td class="column0 style17 n">10</td>
+<td class="column1 style18 s">Colombia</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Paraguay</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Tie</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Colombia</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">2</td>
+<td class="column11 style21 s">Paraguay</td>
+</tr>
+<tr class="row12">
+<td class="column0 style17 n">11</td>
+<td class="column1 style18 s">Brazil</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">0</td>
+<td class="column4 style21 s">Haiti</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Brazil</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Brazil</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Haiti</td>
+</tr>
+<tr class="row13">
+<td class="column0 style17 n">12</td>
+<td class="column1 style18 s">Ecuador</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Peru</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Ecuador</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Ecuador</td>
+<td class="column9 style19 n">1</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Peru</td>
+</tr>
+<tr class="row14">
+<td class="column0 style17 n">13</td>
+<td class="column1 style18 s">Uruguay</td>
+<td class="column2 style19 n">3</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Venezuela</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Uruguay</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Uruguay</td>
+<td class="column9 style19 n">3</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Venezuela</td>
+</tr>
+<tr class="row15">
+<td class="column0 style17 n">14</td>
+<td class="column1 style18 s">Mexico</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Jamaica</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Mexico</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Mexico</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Jamaica</td>
+</tr>
+<tr class="row16">
+<td class="column0 style17 n">15</td>
+<td class="column1 style18 s">Chile</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Bolivia</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Chile</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Chile</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Bolivia</td>
+</tr>
+<tr class="row17">
+<td class="column0 style17 n">16</td>
+<td class="column1 style18 s">Argentina</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">0</td>
+<td class="column4 style21 s">Panama</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Argentina</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Argentina</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Panama</td>
+</tr>
+<tr class="row18">
+<td class="column0 style17 n">17</td>
+<td class="column1 style18 s">Paraguay</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">USA</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Tie</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Paraguay</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">3</td>
+<td class="column11 style21 s">USA</td>
+</tr>
+<tr class="row19">
+<td class="column0 style17 n">18</td>
+<td class="column1 style18 s">Costa Rica</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Colombia</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Colombia</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Costa Rica</td>
+<td class="column9 style19 n">1</td>
+<td class="column10 style20 n">2</td>
+<td class="column11 style21 s">Colombia</td>
+</tr>
+<tr class="row20">
+<td class="column0 style17 n">19</td>
+<td class="column1 style18 s">Haiti</td>
+<td class="column2 style19 n">0</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Ecuador</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Ecuador</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Haiti</td>
+<td class="column9 style19 n">0</td>
+<td class="column10 style20 n">2</td>
+<td class="column11 style21 s">Ecuador</td>
+</tr>
+<tr class="row21">
+<td class="column0 style17 n">20</td>
+<td class="column1 style18 s">Peru</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Brazil</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Brazil</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Peru</td>
+<td class="column9 style19 n">1</td>
+<td class="column10 style20 n">3</td>
+<td class="column11 style21 s">Brazil</td>
+</tr>
+<tr class="row22">
+<td class="column0 style17 n">21</td>
+<td class="column1 style18 s">Venezuela</td>
+<td class="column2 style19 n">2</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Mexico</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Tie</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Venezuela</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">4</td>
+<td class="column11 style21 s">Mexico</td>
+</tr>
+<tr class="row23">
+<td class="column0 style17 n">22</td>
+<td class="column1 style18 s">Jamaica</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">2</td>
+<td class="column4 style21 s">Uruguay</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Uruguay</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Jamaica</td>
+<td class="column9 style19 n">1</td>
+<td class="column10 style20 n">2</td>
+<td class="column11 style21 s">Uruguay</td>
+</tr>
+<tr class="row24">
+<td class="column0 style17 n">23</td>
+<td class="column1 style18 s">Panama</td>
+<td class="column2 style19 n">1</td>
+<td class="column3 style20 n">1</td>
+<td class="column4 style21 s">Chile</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Tie</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style18 s">Panama</td>
+<td class="column9 style19 n">2</td>
+<td class="column10 style20 n">1</td>
+<td class="column11 style21 s">Chile</td>
+</tr>
+<tr class="row25">
+<td class="column0 style22 n">24</td>
+<td class="column1 style23 s">Bolivia</td>
+<td class="column2 style24 n">0</td>
+<td class="column3 style25 n">2</td>
+<td class="column4 style26 s">Argentina</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style16 s">Argentina</td>
+<td class="column7 style1 null"></td>
+<td class="column8 style23 s">Bolivia</td>
+<td class="column9 style24 n">0</td>
+<td class="column10 style25 n">2</td>
+<td class="column11 style26 s">Argentina</td>
+</tr>
+</tbody>
+</table>

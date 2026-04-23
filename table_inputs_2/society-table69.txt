@@ -1,0 +1,889 @@
+[COLUMN STRUCTURE]
+Level
+  Low
+GREAT BRITAIN
+  Reason
+    Voluntarily leaves a place on a training scheme or employment programme without good reason
+      Losing through misconduct a place on a training scheme or employment programme
+        Refusal of a place on a training scheme or employment programme without good reason
+          Neglect to avail themselves of a reasonable opportunity of a place on a training scheme or employment programme without good reason
+Month
+  Oct-12 2
+    -
+  Nov-12
+    5
+      -
+  Dec-12
+    -
+  Jan-13
+    -
+  Feb-13
+    5
+      -
+        6
+  Mar-13
+    -
+  Apr-13
+    -
+  May-13
+    7
+      -
+  Jun-13
+    -
+      5
+        6
+          -
+  Jul-13
+    6
+      -
+  Aug-13
+    -
+  Sep-13
+    6
+      7
+        -
+  Total
+    34
+      18
+        16
+          12
+
+[ROW STRUCTURE]
+Failure to attend a place on a training scheme or employment programme without good reason
+Failure to attend or failure to participate in an Adviser interview without good reason
+Refusal or failure to comply with a Jobseeker's Direction without good reason
+Failure to participate in a scheme for assisting person to obtain employment without good reason - Work Programme
+Failure to participate in a scheme for assisting person to obtain employment without good reason - Skills Conditionality
+Failure to participate in a scheme for assisting person to obtain employment without good reason - other scheme
+Failure to participate in a scheme for assisting person to obtain employment without good reason - Work Experience
+Total
+Intermediate
+  Not actively seeking employment
+Not being available for work
+High
+  Left employment voluntarily without good reason
+Losing employment through misconduct
+Neglect to avail themselves of a reasonable opportunity of employment without good reason
+Refusal or failure to apply for, or accept if offered, a job which an employment officer has informed him/her is vacant or about to become vacant without good reason
+Failure to participate in Mandatory Work Activity without good reason
+Level not applicable / not recorded
+TOTAL
+Cells in this table have been randomly adjusted to avoid the release of confidential data. Due to adjustments totals may not be the sum of the individual cells.
+Figures for October 2012 only reflect sanction decisions made between 22nd and 31st October
+"-" dernotes a nil or negligible value
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<col class="col22"/>
+<tbody>
+<tr class="row0">
+<td class="column0"> </td>
+<td class="column1 style5 s">GREAT BRITAIN</td>
+<td class="column2 style6 s style37" colspan="13">Month</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style8 s">Level</td>
+<td class="column1 style9 s">Reason</td>
+<td class="column2 style10 s"><span>Oct-12 </span><span><sup>2</sup></span></td>
+<td class="column3 style11 n">Nov-12</td>
+<td class="column4 style11 n">Dec-12</td>
+<td class="column5 style11 n">Jan-13</td>
+<td class="column6 style11 n">Feb-13</td>
+<td class="column7 style11 n">Mar-13</td>
+<td class="column8 style11 n">Apr-13</td>
+<td class="column9 style11 n">May-13</td>
+<td class="column10 style11 n">Jun-13</td>
+<td class="column11 style11 n">Jul-13</td>
+<td class="column12 style11 n">Aug-13</td>
+<td class="column13 style11 n">Sep-13</td>
+<td class="column14 style38 s">Total</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style12 s">Low</td>
+<td class="column1 style13 s">Voluntarily leaves a place on a training scheme or employment programme without good reason</td>
+<td class="column2 style14 s">-</td>
+<td class="column3 style15 n">5</td>
+<td class="column4 style14 s">-</td>
+<td class="column5 style14 s">-</td>
+<td class="column6 style16 n">5</td>
+<td class="column7 style14 s">-</td>
+<td class="column8 style14 s">-</td>
+<td class="column9 style16 n">7</td>
+<td class="column10 style14 s">-</td>
+<td class="column11 style16 n">6</td>
+<td class="column12 style14 s">-</td>
+<td class="column13 style16 n">6</td>
+<td class="column14 style23 n">34</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Losing through misconduct a place on a training scheme or employment programme</td>
+<td class="column2 style14 s">-</td>
+<td class="column3 style14 s">-</td>
+<td class="column4 style14 s">-</td>
+<td class="column5 style14 s">-</td>
+<td class="column6 style14 s">-</td>
+<td class="column7 style14 s">-</td>
+<td class="column8 style14 s">-</td>
+<td class="column9 style14 s">-</td>
+<td class="column10 style16 n">5</td>
+<td class="column11 style14 s">-</td>
+<td class="column12 style14 s">-</td>
+<td class="column13 style16 n">7</td>
+<td class="column14 style23 n">18</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Refusal of a place on a training scheme or employment programme without good reason</td>
+<td class="column2 style14 s">-</td>
+<td class="column3 style14 s">-</td>
+<td class="column4 style14 s">-</td>
+<td class="column5 style14 s">-</td>
+<td class="column6 style14 s">-</td>
+<td class="column7 style14 s">-</td>
+<td class="column8 style14 s">-</td>
+<td class="column9 style14 s">-</td>
+<td class="column10 style16 n">6</td>
+<td class="column11 style14 s">-</td>
+<td class="column12 style14 s">-</td>
+<td class="column13 style14 s">-</td>
+<td class="column14 style23 n">16</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Neglect to avail themselves of a reasonable opportunity of a place on a training scheme or employment programme without good reason</td>
+<td class="column2 style14 s">-</td>
+<td class="column3 style14 s">-</td>
+<td class="column4 style14 s">-</td>
+<td class="column5 style14 s">-</td>
+<td class="column6 style16 n">6</td>
+<td class="column7 style14 s">-</td>
+<td class="column8 style14 s">-</td>
+<td class="column9 style14 s">-</td>
+<td class="column10 style14 s">-</td>
+<td class="column11 style14 s">-</td>
+<td class="column12 style14 s">-</td>
+<td class="column13 style14 s">-</td>
+<td class="column14 style23 n">12</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to attend a place on a training scheme or employment programme without good reason</td>
+<td class="column2 style15 n">8</td>
+<td class="column3 style15 n">30</td>
+<td class="column4 style15 n">31</td>
+<td class="column5 style15 n">26</td>
+<td class="column6 style16 n">27</td>
+<td class="column7 style16 n">48</td>
+<td class="column8 style16 n">34</td>
+<td class="column9 style16 n">27</td>
+<td class="column10 style16 n">22</td>
+<td class="column11 style16 n">56</td>
+<td class="column12 style16 n">32</td>
+<td class="column13 style16 n">31</td>
+<td class="column14 style23 n">379</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to attend or failure to participate in an Adviser interview without good reason</td>
+<td class="column2 style15 n">7,732</td>
+<td class="column3 style15 n">17,938</td>
+<td class="column4 style15 n">13,683</td>
+<td class="column5 style15 n">16,195</td>
+<td class="column6 style16 n">14,104</td>
+<td class="column7 style16 n">12,114</td>
+<td class="column8 style16 n">12,230</td>
+<td class="column9 style16 n">11,972</td>
+<td class="column10 style16 n">10,334</td>
+<td class="column11 style16 n">12,697</td>
+<td class="column12 style16 n">12,203</td>
+<td class="column13 style16 n">10,922</td>
+<td class="column14 style23 n">152,123</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Refusal or failure to comply with a Jobseeker's Direction without good reason</td>
+<td class="column2 style15 n">964</td>
+<td class="column3 style15 n">2,395</td>
+<td class="column4 style15 n">1,830</td>
+<td class="column5 style15 n">1,889</td>
+<td class="column6 style16 n">2,099</td>
+<td class="column7 style16 n">2,528</td>
+<td class="column8 style16 n">2,462</td>
+<td class="column9 style16 n">2,304</td>
+<td class="column10 style16 n">1,948</td>
+<td class="column11 style16 n">3,081</td>
+<td class="column12 style16 n">2,777</td>
+<td class="column13 style16 n">2,823</td>
+<td class="column14 style23 n">27,098</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to participate in a scheme for assisting person to obtain employment without good reason - Work Programme</td>
+<td class="column2 style15 n">7,234</td>
+<td class="column3 style15 n">20,681</td>
+<td class="column4 style15 n">17,037</td>
+<td class="column5 style15 n">19,762</td>
+<td class="column6 style16 n">10,097</td>
+<td class="column7 style16 n">13,215</td>
+<td class="column8 style16 n">22,651</td>
+<td class="column9 style16 n">26,377</td>
+<td class="column10 style16 n">24,262</td>
+<td class="column11 style16 n">28,967</td>
+<td class="column12 style16 n">25,255</td>
+<td class="column13 style16 n">27,438</td>
+<td class="column14 style23 n">242,973</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to participate in a scheme for assisting person to obtain employment without good reason - Skills Conditionality</td>
+<td class="column2 style15 n">350</td>
+<td class="column3 style15 n">1,128</td>
+<td class="column4 style15 n">1,069</td>
+<td class="column5 style15 n">1,128</td>
+<td class="column6 style16 n">547</td>
+<td class="column7 style16 n">833</td>
+<td class="column8 style16 n">1,333</td>
+<td class="column9 style16 n">1,735</td>
+<td class="column10 style16 n">1,412</td>
+<td class="column11 style16 n">1,570</td>
+<td class="column12 style16 n">1,609</td>
+<td class="column13 style16 n">1,590</td>
+<td class="column14 style23 n">14,305</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to participate in a scheme for assisting person to obtain employment without good reason - other scheme</td>
+<td class="column2 style14 n">8</td>
+<td class="column3 style14 n">38</td>
+<td class="column4 style14 n">32</td>
+<td class="column5 style14 n">17</td>
+<td class="column6 style14 n">8</td>
+<td class="column7 style14 n">26</td>
+<td class="column8 style14 n">36</td>
+<td class="column9 style14 n">62</td>
+<td class="column10 style14 n">44</td>
+<td class="column11 style14 n">47</td>
+<td class="column12 style14 n">44</td>
+<td class="column13 style14 n">48</td>
+<td class="column14 style14 n">409</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Failure to participate in a scheme for assisting person to obtain employment without good reason - Work Experience</td>
+<td class="column2 style14 s">-</td>
+<td class="column3 style14 s">-</td>
+<td class="column4 style14 n">170</td>
+<td class="column5 style14 n">84</td>
+<td class="column6 style14 n">43</td>
+<td class="column7 style14 n">222</td>
+<td class="column8 style14 n">343</td>
+<td class="column9 style14 n">340</td>
+<td class="column10 style14 n">297</td>
+<td class="column11 style14 n">179</td>
+<td class="column12 style14 n">191</td>
+<td class="column13 style14 n">81</td>
+<td class="column14 style14 n">1,959</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style18 null"></td>
+<td class="column1 style8 s">Total</td>
+<td class="column2 style19 n">16,294</td>
+<td class="column3 style19 n">42,225</td>
+<td class="column4 style19 n">33,848</td>
+<td class="column5 style19 n">39,109</td>
+<td class="column6 style19 n">26,933</td>
+<td class="column7 style19 n">28,992</td>
+<td class="column8 style19 n">39,101</td>
+<td class="column9 style19 n">42,823</td>
+<td class="column10 style19 n">38,333</td>
+<td class="column11 style19 n">46,609</td>
+<td class="column12 style19 n">42,119</td>
+<td class="column13 style19 n">42,941</td>
+<td class="column14 style19 n">439,317</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style12 s">Intermediate</td>
+<td class="column1 style13 s">Not actively seeking employment</td>
+<td class="column2 style20 n">7,883</td>
+<td class="column3 style20 n">22,799</td>
+<td class="column4 style20 n">17,861</td>
+<td class="column5 style20 n">28,440</td>
+<td class="column6 style20 n">27,556</td>
+<td class="column7 style20 n">28,083</td>
+<td class="column8 style20 n">27,566</td>
+<td class="column9 style20 n">27,262</td>
+<td class="column10 style20 n">23,075</td>
+<td class="column11 style20 n">28,855</td>
+<td class="column12 style20 n">27,102</td>
+<td class="column13 style20 n">26,039</td>
+<td class="column14 style20 n">292,520</td>
+<td class="column15 style39 null"></td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Not being available for work</td>
+<td class="column2 style21 n">543</td>
+<td class="column3 style21 n">1,132</td>
+<td class="column4 style21 n">737</td>
+<td class="column5 style21 n">933</td>
+<td class="column6 style21 n">903</td>
+<td class="column7 style21 n">928</td>
+<td class="column8 style21 n">1,030</td>
+<td class="column9 style21 n">1,026</td>
+<td class="column10 style21 n">1,163</td>
+<td class="column11 style21 n">1,259</td>
+<td class="column12 style21 n">1,305</td>
+<td class="column13 style21 n">1,155</td>
+<td class="column14 style21 n">12,110</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style18 null"></td>
+<td class="column1 style8 s">Total</td>
+<td class="column2 style22 n">8,423</td>
+<td class="column3 style22 n">23,932</td>
+<td class="column4 style22 n">18,597</td>
+<td class="column5 style22 n">29,367</td>
+<td class="column6 style22 n">28,464</td>
+<td class="column7 style22 n">29,015</td>
+<td class="column8 style22 n">28,594</td>
+<td class="column9 style22 n">28,291</td>
+<td class="column10 style22 n">24,236</td>
+<td class="column11 style22 n">30,116</td>
+<td class="column12 style22 n">28,407</td>
+<td class="column13 style22 n">27,194</td>
+<td class="column14 style22 n">304,634</td>
+<td class="column15 style33 null"></td>
+<td class="column16 style33 null"></td>
+<td class="column17 style33 null"></td>
+<td class="column18 style33 null"></td>
+<td class="column19 style33 null"></td>
+<td class="column20 style33 null"></td>
+<td class="column21 style33 null"></td>
+<td class="column22"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style12 s">High</td>
+<td class="column1 style13 s">Left employment voluntarily without good reason</td>
+<td class="column2 style16 n">900</td>
+<td class="column3 style16 n">2,501</td>
+<td class="column4 style16 n">1,814</td>
+<td class="column5 style16 n">2,610</td>
+<td class="column6 style16 n">2,491</td>
+<td class="column7 style16 n">2,555</td>
+<td class="column8 style16 n">2,610</td>
+<td class="column9 style16 n">2,448</td>
+<td class="column10 style16 n">2,249</td>
+<td class="column11 style16 n">2,330</td>
+<td class="column12 style16 n">2,174</td>
+<td class="column13 style16 n">2,709</td>
+<td class="column14 style23 n">27,386</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Losing employment through misconduct</td>
+<td class="column2 style16 n">312</td>
+<td class="column3 style16 n">861</td>
+<td class="column4 style16 n">717</td>
+<td class="column5 style16 n">1,074</td>
+<td class="column6 style16 n">1,103</td>
+<td class="column7 style16 n">990</td>
+<td class="column8 style16 n">1,143</td>
+<td class="column9 style16 n">1,087</td>
+<td class="column10 style16 n">856</td>
+<td class="column11 style16 n">1,194</td>
+<td class="column12 style16 n">1,070</td>
+<td class="column13 style16 n">935</td>
+<td class="column14 style23 n">11,342</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Neglect to avail themselves of a reasonable opportunity of employment without good reason</td>
+<td class="column2 style23 s">-</td>
+<td class="column3 style23 s">-</td>
+<td class="column4 style23 s">-</td>
+<td class="column5 style23 s">-</td>
+<td class="column6 style23 s">-</td>
+<td class="column7 style23 s">-</td>
+<td class="column8 style23 s">-</td>
+<td class="column9 style23 s">-</td>
+<td class="column10 style23 s">-</td>
+<td class="column11 style16 n">5</td>
+<td class="column12 style16 n">5</td>
+<td class="column13 style16 n">5</td>
+<td class="column14 style23 n">15</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style17 null"></td>
+<td class="column1 style13 s">Refusal or failure to apply for, or accept if offered, a job which an employment officer has informed him/her is vacant or about to become vacant without good reason</td>
+<td class="column2 style16 n">2,019</td>
+<td class="column3 style16 n">5,164</td>
+<td class="column4 style16 n">2,504</td>
+<td class="column5 style16 n">1,681</td>
+<td class="column6 style16 n">1,223</td>
+<td class="column7 style16 n">1,367</td>
+<td class="column8 style16 n">1,446</td>
+<td class="column9 style16 n">1,508</td>
+<td class="column10 style16 n">1,213</td>
+<td class="column11 style16 n">1,992</td>
+<td class="column12 style16 n">1,664</td>
+<td class="column13 style16 n">1,576</td>
+<td class="column14 style23 n">23,345</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style24 null"></td>
+<td class="column1 style13 s">Failure to participate in Mandatory Work Activity without good reason</td>
+<td class="column2 style16 n">267</td>
+<td class="column3 style16 n">823</td>
+<td class="column4 style16 n">1,003</td>
+<td class="column5 style16 n">794</td>
+<td class="column6 style16 n">767</td>
+<td class="column7 style16 n">1,027</td>
+<td class="column8 style16 n">858</td>
+<td class="column9 style16 n">746</td>
+<td class="column10 style16 n">925</td>
+<td class="column11 style16 n">1,268</td>
+<td class="column12 style16 n">1,209</td>
+<td class="column13 style16 n">1,114</td>
+<td class="column14 style23 n">10,809</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style25 null"></td>
+<td class="column1 style8 s">Total</td>
+<td class="column2 style19 n">3,494</td>
+<td class="column3 style19 n">9,351</td>
+<td class="column4 style19 n">6,039</td>
+<td class="column5 style19 n">6,163</td>
+<td class="column6 style19 n">5,585</td>
+<td class="column7 style19 n">5,938</td>
+<td class="column8 style19 n">6,059</td>
+<td class="column9 style19 n">5,790</td>
+<td class="column10 style19 n">5,238</td>
+<td class="column11 style19 n">6,786</td>
+<td class="column12 style19 n">6,122</td>
+<td class="column13 style19 n">6,340</td>
+<td class="column14 style19 n">72,908</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style26 s">Level not applicable / not recorded</td>
+<td class="column1 style27 null"></td>
+<td class="column2 style28 n">30</td>
+<td class="column3 style28 n">82</td>
+<td class="column4 style28 n">55</td>
+<td class="column5 style28 n">74</td>
+<td class="column6 style28 n">71</td>
+<td class="column7 style28 n">58</td>
+<td class="column8 style28 n">57</td>
+<td class="column9 style28 n">63</td>
+<td class="column10 style28 n">46</td>
+<td class="column11 style28 n">48</td>
+<td class="column12 style28 n">46</td>
+<td class="column13 style28 n">55</td>
+<td class="column14 style28 n">684</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style29 s style30" colspan="2">TOTAL</td>
+<td class="column2 style22 n">28,250</td>
+<td class="column3 style22 n">75,592</td>
+<td class="column4 style22 n">58,538</td>
+<td class="column5 style22 n">74,712</td>
+<td class="column6 style22 n">61,050</td>
+<td class="column7 style22 n">64,003</td>
+<td class="column8 style22 n">73,811</td>
+<td class="column9 style22 n">76,961</td>
+<td class="column10 style22 n">67,844</td>
+<td class="column11 style22 n">83,559</td>
+<td class="column12 style22 n">76,697</td>
+<td class="column13 style22 n">76,524</td>
+<td class="column14 style22 n">817,541</td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row25">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style31 null"></td>
+<td class="column1 style31 null"></td>
+<td class="column2 style31 null"></td>
+<td class="column3 style31 null"></td>
+<td class="column4 style31 null"></td>
+<td class="column5 style31 null"></td>
+<td class="column6 style32 null"></td>
+<td class="column7 style31 null"></td>
+<td class="column8 style31 null"></td>
+<td class="column9 style31 null"></td>
+<td class="column10 style31 null"></td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style33 null"></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style31 null"></td>
+<td class="column1 style31 null"></td>
+<td class="column2 style31 null"></td>
+<td class="column3 style31 null"></td>
+<td class="column4 style31 null"></td>
+<td class="column5 style31 null"></td>
+<td class="column6 style32 null"></td>
+<td class="column7 style31 null"></td>
+<td class="column8 style31 null"></td>
+<td class="column9 style31 null"></td>
+<td class="column10 style31 null"></td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style31 s">Cells in this table have been randomly adjusted to avoid the release of confidential data.  Due to adjustments totals may not be the sum of the individual cells.</td>
+<td class="column1 style31 null"></td>
+<td class="column2 style31 null"></td>
+<td class="column3 style31 null"></td>
+<td class="column4 style31 null"></td>
+<td class="column5 style31 null"></td>
+<td class="column6 style32 null"></td>
+<td class="column7 style31 null"></td>
+<td class="column8 style31 null"></td>
+<td class="column9 style31 null"></td>
+<td class="column10 style31 null"></td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style31 s">Figures for October 2012 only reflect sanction decisions made between 22nd and 31st October</td>
+<td class="column1 style31 null"></td>
+<td class="column2 style31 null"></td>
+<td class="column3 style31 null"></td>
+<td class="column4 style31 null"></td>
+<td class="column5 style31 null"></td>
+<td class="column6 style32 null"></td>
+<td class="column7 style31 null"></td>
+<td class="column8 style31 null"></td>
+<td class="column9 style31 null"></td>
+<td class="column10 style31 null"></td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+<td class="column22"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style2 s">"-" dernotes a nil or negligible value</td>
+<td class="column1 style34 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style35 null"></td>
+<td class="column6 style36 null"></td>
+<td class="column7 style35 null"></td>
+<td class="column8 style35 null"></td>
+<td class="column9 style35 null"></td>
+<td class="column10 style35 null"></td>
+<td class="column11 style35 null"></td>
+<td class="column12 style36 null"></td>
+<td class="column13 style35 null"></td>
+<td class="column14 style35 null"></td>
+<td class="column15 style35 null"></td>
+<td class="column16 style35 null"></td>
+<td class="column17 style36 null"></td>
+<td class="column18 style35 null"></td>
+<td class="column19 style35 null"></td>
+<td class="column20 style35 null"></td>
+<td class="column21 style35 null"></td>
+<td class="column22 style36 null"></td>
+</tr>
+</tbody>
+</table>

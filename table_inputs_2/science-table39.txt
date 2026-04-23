@@ -1,0 +1,202 @@
+[COLUMN STRUCTURE]
+Basal
+Total number of cells
+Number of labelled cells
+Labelling density
+
+[ROW STRUCTURE]
+Gland 1
+Gland 2
+Gland 3
+Gland 4
+Gland 5
+Gland 6
+Luminal
+Gland 1
+Gland 2
+Gland 3
+Gland 4
+Gland 5
+Gland 6
+TAT-Cre
+Gland 1
+Gland 2
+Gland 3
+Gland 4
+Gland 5
+Gland 6
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1052">
+<col class="x69" width="102"/>
+<col class="x69" width="193"/>
+<col class="x69" width="220"/>
+<col class="x69" width="157"/>
+<col class="x69" span="4" width="95"/>
+<tr class="x69" height="20">
+<td class="x70" colspan="8" height="20" width="1052"><span>Quantificati</span>on of the confetti-positive cell fraction 14 days after tamoxifen-mediated or TAT-Cre-mediated recombination used for Extended Data<span> Figure 4c,e</span></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" colspan="8" height="18"></td>
+</tr>
+<tr class="x69" height="20">
+<td class="x71" height="20">tamoxifen</td>
+<td class="x69" colspan="7"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x72" height="18">Basal</td>
+<td class="x69">Total number of cells</td>
+<td class="x69">Number of labelled cells</td>
+<td class="x69">Labelling density</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 1</td>
+<td align="right" class="x73" x:num="912.333333333333">912</td>
+<td align="right" class="x74">1</td>
+<td align="right" class="x69" x:fmla="=C5/B5" x:num="0.00109609061015711">0.001096091</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 2</td>
+<td align="right" class="x73" x:num="566.666666666667">567</td>
+<td align="right" class="x74">2</td>
+<td align="right" class="x69" x:fmla="=C6/B6" x:num="0.00352941176470588">0.003529412</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 3</td>
+<td align="right" class="x73">609</td>
+<td align="right" class="x74">2</td>
+<td align="right" class="x69" x:fmla="=C7/B7" x:num="0.00328407224958949">0.003284072</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 4</td>
+<td align="right" class="x73" x:num="450.666666666667">451</td>
+<td align="right" class="x74">1</td>
+<td align="right" class="x69" x:fmla="=C8/B8" x:num="0.0022189349112426">0.002218935</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 5</td>
+<td align="right" class="x73" x:num="916.666666666667">917</td>
+<td align="right" class="x74">1</td>
+<td align="right" class="x69" x:fmla="=C9/B9" x:num="0.00109090909090909">0.001090909</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 6</td>
+<td align="right" class="x73" x:num="1563.33333333333">1563</td>
+<td align="right" class="x74">2</td>
+<td align="right" class="x69" x:fmla="=C10/B10" x:num="0.00127931769722815">0.001279318</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" colspan="8" height="18"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x72" height="18">Luminal</td>
+<td class="x73" colspan="7"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 1</td>
+<td align="right" class="x69">1825</td>
+<td align="right" class="x74">7</td>
+<td align="right" class="x69" x:fmla="=C13/B13" x:num="0.00383561643835616">0.003835616</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 2</td>
+<td align="right" class="x69">1133</td>
+<td align="right" class="x74">10</td>
+<td align="right" class="x69" x:fmla="=C14/B14" x:num="0.0088261253309797">0.008826125</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 3</td>
+<td align="right" class="x69">1218</td>
+<td align="right" class="x74">9</td>
+<td align="right" class="x69" x:fmla="=C15/B15" x:num="0.00738916256157635">0.007389163</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 4</td>
+<td align="right" class="x69">901</td>
+<td align="right" class="x74">8</td>
+<td align="right" class="x69" x:fmla="=C16/B16" x:num="0.00887902330743618">0.008879023</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr class="x69" height="18">
+<td class="x69" height="18">Gland 5</td>
+<td align="right" class="x69">1833</td>
+<td align="right" class="x74">11</td>
+<td align="right" class="x69" x:fmla="=C17/B17" x:num="0.00600109110747409">0.006001091</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 6</td>
+<td align="right" class="x69">3127</td>
+<td align="right" class="x74">10</td>
+<td align="right" class="x69" x:fmla="=C18/B18" x:num="0.00319795330988168">0.003197953</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" colspan="8" height="18"></td>
+</tr>
+<tr height="20">
+<td class="x71" height="20">TAT-Cre</td>
+<td class="x69" colspan="7"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 1</td>
+<td align="right" class="x69">350</td>
+<td align="right" class="x69">2</td>
+<td align="right" class="x69" x:fmla="=C21/B21" x:num="0.00571428571428571">0.005714286</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 2</td>
+<td align="right" class="x69">506</td>
+<td align="right" class="x69">4</td>
+<td align="right" class="x69" x:fmla="=C22/B22" x:num="0.00790513833992095">0.007905138</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 3</td>
+<td align="right" class="x69">1024</td>
+<td align="right" class="x69">7</td>
+<td align="right" class="x69" x:fmla="=C23/B23" x:num="0.0068359375">0.006835938</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 4</td>
+<td align="right" class="x69">500</td>
+<td align="right" class="x69">5</td>
+<td align="right" class="x69" x:fmla="=C24/B24">0.01</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 5</td>
+<td align="right" class="x69">268</td>
+<td align="right" class="x69">3</td>
+<td align="right" class="x69" x:fmla="=C25/B25" x:num="0.0111940298507463">0.01119403</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<tr height="18">
+<td class="x69" height="18">Gland 6</td>
+<td align="right" class="x69">234</td>
+<td align="right" class="x69">2</td>
+<td align="right" class="x69" x:fmla="=C26/B26" x:num="0.00854700854700855">0.008547009</td>
+<td class="x69" colspan="4"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="102"></td>
+<td width="193"></td>
+<td width="220"></td>
+<td width="157"></td>
+<td colspan="4" width="380"></td>
+</tr>
+<?endif?>
+</table>

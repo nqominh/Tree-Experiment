@@ -1,0 +1,181 @@
+[COLUMN STRUCTURE]
+Uninf
+  no DC Trnf
+    Set1
+Infected
+  no DC Trnf
+    Set2
+  DC + PBS
+    Set3
+  DC + SAG
+    Set4
+  DC (Ctrl siRNA) + SAG
+    Set5
+  DC (Runx1+3 siRNA) + SAG
+    Set6
+  DC (Runx1+3 siRNA + Vec) + SAG
+    Set7
+  DC (Runx1+3 siRNA + CD40) + SAG
+    Set8
+
+[ROW STRUCTURE]
+Expt-1
+  Replicate1
+  Replicate2
+  Replicate3
+Expt-2
+  Replicate1
+  Replicate2
+  Replicate3
+Mean
+SD
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 s">Uninf</td>
+<td class="column3 style4 s style35" colspan="7">Infected</td>
+</tr>
+<tr class="row1">
+<td class="column0 style6 null"></td>
+<td class="column1 style7 null"></td>
+<td class="column2 style8 s">no DC Trnf</td>
+<td class="column3 style9 s">no DC Trnf</td>
+<td class="column4 style10 s">DC + PBS</td>
+<td class="column5 style10 s">DC + SAG</td>
+<td class="column6 style10 s">DC (Ctrl siRNA) + SAG</td>
+<td class="column7 style10 s">DC (Runx1+3 siRNA) + SAG </td>
+<td class="column8 style10 s">DC (Runx1+3 siRNA + Vec) + SAG </td>
+<td class="column9 style36 s">DC (Runx1+3 siRNA + CD40) + SAG </td>
+</tr>
+<tr class="row2">
+<td class="column0 style6 null"></td>
+<td class="column1 style7 null"></td>
+<td class="column2 style11 s">Set1</td>
+<td class="column3 style12 s">Set2</td>
+<td class="column4 style13 s">Set3</td>
+<td class="column5 style13 s">Set4</td>
+<td class="column6 style13 s">Set5</td>
+<td class="column7 style13 s">Set6</td>
+<td class="column8 style13 s">Set7</td>
+<td class="column9 style37 s">Set8</td>
+</tr>
+<tr class="row3">
+<td class="column0 style14 s style23" rowspan="3">Expt-1</td>
+<td class="column1 style15 s">Replicate1</td>
+<td class="column2 style16 n">0.045</td>
+<td class="column3 style17 n">1.13</td>
+<td class="column4 style18 n">1.16</td>
+<td class="column5 style18 n">0.31</td>
+<td class="column6 style18 n">0.21</td>
+<td class="column7 style18 n">1.16</td>
+<td class="column8 style18 n">0.74</td>
+<td class="column9 style38 n">0.24</td>
+</tr>
+<tr class="row4">
+<td class="column1 style7 s">Replicate2</td>
+<td class="column2 style20 n">0.19</td>
+<td class="column3 style21 n">2.28</td>
+<td class="column4 style22 n">1.29</td>
+<td class="column5 style22 n">0.31</td>
+<td class="column6 style22 n">0.66</td>
+<td class="column7 style22 n">1.53</td>
+<td class="column8 style22 n">1.2</td>
+<td class="column9 style39 n">0.32</td>
+</tr>
+<tr class="row5">
+<td class="column1 style24 s">Replicate3</td>
+<td class="column2 style25 n">0.2</td>
+<td class="column3 style26 n">0.7</td>
+<td class="column4 style27 n">0.31</td>
+<td class="column5 style28 n">0.18</td>
+<td class="column6 style28 n">0.13</td>
+<td class="column7 style28 n">0.27</td>
+<td class="column8 style28 n">0.28</td>
+<td class="column9 style40 n">0.19</td>
+</tr>
+<tr class="row6">
+<td class="column0 style14 s style23" rowspan="3">Expt-2</td>
+<td class="column1 style2 s">Replicate1</td>
+<td class="column2 style29 n">0.27</td>
+<td class="column3 style30 n">0.58</td>
+<td class="column4 style31 n">0.81</td>
+<td class="column5 style32 n">0.22</td>
+<td class="column6 style32 n">0.2</td>
+<td class="column7 style32 n">0.36</td>
+<td class="column8 style32 n">0.46</td>
+<td class="column9 style41 n">0.12</td>
+</tr>
+<tr class="row7">
+<td class="column1 style7 s">Replicate2</td>
+<td class="column2 style20 n">0.049</td>
+<td class="column3 style21 n">0.49</td>
+<td class="column4 style22 n">0.23</td>
+<td class="column5 style22 n">0.035</td>
+<td class="column6 style22 n">0.023</td>
+<td class="column7 style22 n">0.78</td>
+<td class="column8 style22 n">0.25</td>
+<td class="column9 style39 n">0.1</td>
+</tr>
+<tr class="row8">
+<td class="column1 style24 s">Replicate3</td>
+<td class="column2 style25 n">0.31</td>
+<td class="column3 style26 n">2.01</td>
+<td class="column4 style28 n">2.56</td>
+<td class="column5 style28 n">0.41</td>
+<td class="column6 style28 n">0.16</td>
+<td class="column7 style28 n">0.94</td>
+<td class="column8 style28 n">0.63</td>
+<td class="column9 style40 n">0.13</td>
+</tr>
+<tr class="row9">
+<td class="column0 style33 null"></td>
+<td class="column1 style33 null"></td>
+<td class="column2 style33 null"></td>
+<td class="column3 style33 null"></td>
+<td class="column4 style33 null"></td>
+<td class="column5 style33 null"></td>
+<td class="column6 style33 null"></td>
+<td class="column7 style33 null"></td>
+<td class="column8 style33 null"></td>
+<td class="column9 style33 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style33 null"></td>
+<td class="column1 style34 s">Mean</td>
+<td class="column2 style32 f">0.17733333333333</td>
+<td class="column3 style32 f">1.1983333333333</td>
+<td class="column4 style32 f">1.06</td>
+<td class="column5 style32 f">0.24416666666667</td>
+<td class="column6 style32 f">0.2305</td>
+<td class="column7 style32 f">0.84</td>
+<td class="column8 style32 f">0.59333333333333</td>
+<td class="column9 style41 f">0.18333333333333</td>
+</tr>
+<tr class="row11">
+<td class="column0 style33 null"></td>
+<td class="column1 style9 s">SD</td>
+<td class="column2 style28 f">0.11031167964756</td>
+<td class="column3 style28 f">0.77017963272646</td>
+<td class="column4 style28 f">0.85168069133919</td>
+<td class="column5 style28 f">0.13009291551298</td>
+<td class="column6 style28 f">0.22088345343189</td>
+<td class="column7 style28 f">0.47904070808231</td>
+<td class="column8 style28 f">0.35347795782293</td>
+<td class="column9 style40 f">0.084537959915453</td>
+</tr>
+</tbody>
+</table>

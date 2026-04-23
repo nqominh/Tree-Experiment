@@ -1,0 +1,215 @@
+[COLUMN STRUCTURE]
+HIV-DNA
+HIV - vDNA
+HBV-RNAscope
+DNA+ by qPCR
+Positive by either method
+
+[ROW STRUCTURE]
+first round
+  +
+  -
+  -
+  -
+  -
+  -
+  +
+  +
+  +
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  +
+  -
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="2">HIV-DNA</td>
+<td class="column2 style2 s">HIV - vDNA</td>
+<td class="column3 style3 s">HBV-RNAscope</td>
+<td class="column4 style4 s">DNA+ by qPCR</td>
+<td class="column5 style5 s">Positive by either method</td>
+</tr>
+<tr class="row1">
+<td class="column0 style6 s">first round</td>
+<td class="column1 style7 s">second round</td>
+<td class="column2 style8 null"></td>
+<td class="column3 style9 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style12 s"> + </td>
+<td class="column1 style13 s">+</td>
+<td class="column2 style14 s"> +</td>
+<td class="column3 style9 s"> ++ </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row3">
+<td class="column0 style15 s"> - </td>
+<td class="column1 style16 s"> + </td>
+<td class="column2 style2 s"> +</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row4">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> - </td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> -</td>
+<td class="column3 style9 s"> + </td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row6">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> -</td>
+<td class="column3 style9 s"> ++ </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style15 s"> - </td>
+<td class="column1 style16 s"> + </td>
+<td class="column2 style2 s"> +</td>
+<td class="column3 style9 s"> +++ </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row8">
+<td class="column0 style12 s"> + </td>
+<td class="column1 style13 s"> + </td>
+<td class="column2 style14 s"> +</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row9">
+<td class="column0 style12 s"> + </td>
+<td class="column1 style17 s"> + </td>
+<td class="column2 style18 s"> +</td>
+<td class="column3 style9 s"> + small biopsy</td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row10">
+<td class="column0 style12 s"> + </td>
+<td class="column1 style17 s"> + </td>
+<td class="column2 style18 s"> +</td>
+<td class="column3 style9 s"> + small biopsy</td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row11">
+<td class="column0 style15 s"> - </td>
+<td class="column1 style16 s"> - </td>
+<td class="column2 style2 s"> -</td>
+<td class="column3 style9 s"> ++ </td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row12">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style19 s"> - </td>
+<td class="column2 style2 s"> -</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style20 s"> - </td>
+<td class="column1 style21 s"> - </td>
+<td class="column2 style22 s"> -</td>
+<td class="column3 style23 s"> ++ </td>
+<td class="column4 style24 s">+</td>
+<td class="column5 style25 s">+</td>
+</tr>
+<tr class="row14">
+<td class="column0 style26 s"> - </td>
+<td class="column1 style27 s"> - </td>
+<td class="column2 style28 s"> -</td>
+<td class="column3 style29 s"> - </td>
+<td class="column4 style30 s">+</td>
+<td class="column5 style31 s">+</td>
+</tr>
+<tr class="row15">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> -</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style15 s"> - </td>
+<td class="column1 style16 s"> - </td>
+<td class="column2 style2 s"> -</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> - </td>
+<td class="column3 style9 s"> + small biopsy</td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style15 s"> - </td>
+<td class="column1 style16 s"> - </td>
+<td class="column2 style2 s"> - </td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 s">+</td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row19">
+<td class="column0 style12 s"> + </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> +</td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 s">+</td>
+</tr>
+<tr class="row20">
+<td class="column0 style12 s"> - </td>
+<td class="column1 style17 s"> - </td>
+<td class="column2 style18 s"> - </td>
+<td class="column3 style9 s"> - </td>
+<td class="column4 style10 null"></td>
+<td class="column5 style11 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style32 null"></td>
+<td class="column1 style32 null"></td>
+<td class="column2 style33 s">7/19 positive</td>
+<td class="column3 style34 null"></td>
+<td class="column4 style35 s">8/19 positive</td>
+<td class="column5 style35 s">12/19 positive</td>
+</tr>
+</tbody>
+</table>

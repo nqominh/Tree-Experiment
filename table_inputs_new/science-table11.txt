@@ -1,0 +1,1067 @@
+[COLUMN STRUCTURE]
+M0/CT26
+M1/CT26
+M0/4T1
+M1/4T1
+
+[ROW STRUCTURE]
+Cell 1
+Cell 2
+Cell 3
+Cell 4
+Cell 5
+Cell 6
+Cell 7
+Cell 8
+Cell 9
+Cell 10
+Cell 11
+Cell 12
+Cell 13
+Cell 14
+Cell 15
+Cell 16
+Cell 17
+Cell 18
+Cell 19
+Cell 20
+Cell 21
+Cell 22
+Cell 23
+Cell 24
+Cell 25
+Cell 26
+Cell 27
+Cell 28
+Cell 29
+Cell 30
+Cell 31
+Cell 32
+Cell 33
+Cell 34
+Cell 35
+Cell 36
+Cell 37
+Cell 38
+Cell 39
+Cell 40
+Cell 41
+Cell 42
+Cell 43
+Cell 44
+Cell 45
+Cell 46
+Cell 47
+Cell 48
+Cell 49
+Cell 50
+Cell 51
+Cell 52
+Cell 53
+Cell 54
+Cell 55
+Cell 56
+Cell 57
+Cell 58
+Cell 59
+Cell 60
+Cell 61
+Cell 62
+Cell 63
+Cell 64
+Cell 65
+Cell 66
+Cell 67
+Cell 68
+Cell 69
+Cell 70
+Cell 71
+Cell 72
+Cell 73
+Cell 74
+Cell 75
+Cell 76
+Cell 77
+Cell 78
+Cell 79
+Cell 80
+Cell 81
+Cell 82
+Cell 83
+Cell 84
+Cell 85
+Cell 86
+Cell 87
+Cell 88
+Cell 89
+Cell 90
+Cell 91
+Cell 92
+Cell 93
+Cell 94
+Cell 95
+Cell 96
+Cell 97
+Cell 98
+Cell 99
+Cell 100
+Mean
+Standard Deviation
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0"> </td>
+<td class="column1 style5 s">M0/CT26</td>
+<td class="column2 style6 s">M1/CT26</td>
+<td class="column3 style7 null"></td>
+<td class="column4 style6 s">M0/4T1</td>
+<td class="column5 style6 s">M1/4T1</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style8 s">Cell 1</td>
+<td class="column1 style3 n">0.2231</td>
+<td class="column2 style4 n">0.3005</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.292494</td>
+<td class="column5 style4 n">0.2552</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style8 s">Cell 2</td>
+<td class="column1 style3 n">0.2284</td>
+<td class="column2 style4 n">0.3024</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.144659</td>
+<td class="column5 style4 n">0.2681</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style8 s">Cell 3</td>
+<td class="column1 style3 n">0.3121</td>
+<td class="column2 style4 n">0.2775</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.12519</td>
+<td class="column5 style4 n">0.1939</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style8 s">Cell 4</td>
+<td class="column1 style3 n">0.311863</td>
+<td class="column2 style9 n">0.2956</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.336594</td>
+<td class="column5 style4 n">0.2238</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style8 s">Cell 5</td>
+<td class="column1 style3 n">0.293502</td>
+<td class="column2 style9 n">0.2809</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.382763</td>
+<td class="column5 style4 n">0.1492</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style8 s">Cell 6</td>
+<td class="column1 style3 n">0.328687</td>
+<td class="column2 style9 n">0.2865</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.252755</td>
+<td class="column5 style4 n">0.2109</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style8 s">Cell 7</td>
+<td class="column1 style3 n">0.201389</td>
+<td class="column2 style9 n">0.2833</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.2605</td>
+<td class="column5 style4 n">0.2234</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style8 s">Cell 8</td>
+<td class="column1 style3 n">0.1288</td>
+<td class="column2 style9 n">0.3015</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.1927</td>
+<td class="column5 style4 n">0.1494</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style8 s">Cell 9</td>
+<td class="column1 style3 n">0.2777</td>
+<td class="column2 style9 n">0.2937</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.2788</td>
+<td class="column5 style4 n">0.1884</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style8 s">Cell 10</td>
+<td class="column1 style3 n">0.2186</td>
+<td class="column2 style9 n">0.2901</td>
+<td class="column3"> </td>
+<td class="column4 style4 n">0.3665</td>
+<td class="column5 style4 n">0.1948</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style8 s">Cell 11</td>
+<td class="column1 style3 n">0.2729</td>
+<td class="column2 style4 n">0.2191</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.369</td>
+<td class="column5 style4 n">0.2473</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style8 s">Cell 12</td>
+<td class="column1 style3 n">0.280904</td>
+<td class="column2 style4 n">0.2152</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2835</td>
+<td class="column5 style4 n">0.2571</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style8 s">Cell 13</td>
+<td class="column1 style3 n">0.16411</td>
+<td class="column2 style4 n">0.2181</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2885</td>
+<td class="column5 style4 n">0.2308</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style8 s">Cell 14</td>
+<td class="column1 style3 n">0.152147</td>
+<td class="column2 style4 n">0.258611</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.3244</td>
+<td class="column5 style4 n">0.2299</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style8 s">Cell 15</td>
+<td class="column1 style3 n">0.218623</td>
+<td class="column2 style4 n">0.209965</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1777</td>
+<td class="column5 style4 n">0.2426</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style8 s">Cell 16</td>
+<td class="column1 style3 n">0.2298</td>
+<td class="column2 style4 n">0.229382</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2433</td>
+<td class="column5 style4 n">0.2519</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style8 s">Cell 17</td>
+<td class="column1 style3 n">0.315745</td>
+<td class="column2 style4 n">0.150511</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1795</td>
+<td class="column5 style4 n">0.2556</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style8 s">Cell 18</td>
+<td class="column1 style3 n">0.310617</td>
+<td class="column2 style4 n">0.144659</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2815</td>
+<td class="column5 style4 n">0.2353</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style8 s">Cell 19</td>
+<td class="column1 style3 n">0.311211</td>
+<td class="column2 style4 n">0.258611</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1848</td>
+<td class="column5 style4 n">0.2522</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style8 s">Cell 20</td>
+<td class="column1 style3 n">0.196597</td>
+<td class="column2 style4 n">0.308671</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2797</td>
+<td class="column5 style4 n">0.2406</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style8 s">Cell 21</td>
+<td class="column1 style3 n">0.3421</td>
+<td class="column2 style4 n">0.26171</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1636</td>
+<td class="column5 style4 n">0.3157</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style8 s">Cell 22</td>
+<td class="column1 style3 n">0.1753</td>
+<td class="column2 style4 n">0.295138</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.3071</td>
+<td class="column5 style4 n">0.3143</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style8 s">Cell 23</td>
+<td class="column1 style3 n">0.1599</td>
+<td class="column2 style4 n">0.264111</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1892</td>
+<td class="column5 style4 n">0.3209</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style8 s">Cell 24</td>
+<td class="column1 style3 n">0.19357</td>
+<td class="column2 style4 n">0.330427</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.281</td>
+<td class="column5 style4 n">0.3195</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style8 s">Cell 25</td>
+<td class="column1 style3 n">0.281366</td>
+<td class="column2 style4 n">0.358282</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.1946</td>
+<td class="column5 style4 n">0.3207</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style8 s">Cell 26</td>
+<td class="column1 style3 n">0.297255</td>
+<td class="column2 style4 n">0.272465</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2596</td>
+<td class="column5 style4 n">0.3205</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style8 s">Cell 27</td>
+<td class="column1 style3 n">0.264111</td>
+<td class="column2 style4 n">0.295138</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.3158</td>
+<td class="column5 style4 n">0.3173</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style8 s">Cell 28</td>
+<td class="column1 style3 n">0.19063</td>
+<td class="column2 style4 n">0.231642</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.332</td>
+<td class="column5 style4 n">0.3161</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style8 s">Cell 29</td>
+<td class="column1 style3 n">0.292845</td>
+<td class="column2 style4 n">0.224145</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2798</td>
+<td class="column5 style4 n">0.3174</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style8 s">Cell 30</td>
+<td class="column1 style3 n">0.307166</td>
+<td class="column2 style4 n">0.212087</td>
+<td class="column3"> </td>
+<td class="column4 style9 n">0.2229</td>
+<td class="column5 style4 n">0.3163</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style8 s">Cell 31</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style8 s">Cell 32</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style8 s">Cell 33</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style8 s">Cell 34</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style8 s">Cell 35</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style8 s">Cell 36</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style8 s">Cell 37</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style8 s">Cell 38</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style8 s">Cell 39</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style8 s">Cell 40</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style8 s">Cell 41</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row42">
+<td class="column0 style8 s">Cell 42</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row43">
+<td class="column0 style8 s">Cell 43</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row44">
+<td class="column0 style8 s">Cell 44</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row45">
+<td class="column0 style8 s">Cell 45</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row46">
+<td class="column0 style8 s">Cell 46</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row47">
+<td class="column0 style8 s">Cell 47</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row48">
+<td class="column0 style8 s">Cell 48</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row49">
+<td class="column0 style8 s">Cell 49</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row50">
+<td class="column0 style8 s">Cell 50</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row51">
+<td class="column0 style8 s">Cell 51</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row52">
+<td class="column0 style8 s">Cell 52</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row53">
+<td class="column0 style8 s">Cell 53</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row54">
+<td class="column0 style8 s">Cell 54</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row55">
+<td class="column0 style8 s">Cell 55</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row56">
+<td class="column0 style8 s">Cell 56</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row57">
+<td class="column0 style8 s">Cell 57</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row58">
+<td class="column0 style8 s">Cell 58</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row59">
+<td class="column0 style8 s">Cell 59</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row60">
+<td class="column0 style8 s">Cell 60</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row61">
+<td class="column0 style8 s">Cell 61</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row62">
+<td class="column0 style8 s">Cell 62</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row63">
+<td class="column0 style8 s">Cell 63</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row64">
+<td class="column0 style8 s">Cell 64</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row65">
+<td class="column0 style8 s">Cell 65</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row66">
+<td class="column0 style8 s">Cell 66</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row67">
+<td class="column0 style8 s">Cell 67</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row68">
+<td class="column0 style8 s">Cell 68</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row69">
+<td class="column0 style8 s">Cell 69</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row70">
+<td class="column0 style8 s">Cell 70</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row71">
+<td class="column0 style8 s">Cell 71</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row72">
+<td class="column0 style8 s">Cell 72</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row73">
+<td class="column0 style8 s">Cell 73</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row74">
+<td class="column0 style8 s">Cell 74</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row75">
+<td class="column0 style8 s">Cell 75</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row76">
+<td class="column0 style8 s">Cell 76</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row77">
+<td class="column0 style8 s">Cell 77</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row78">
+<td class="column0 style8 s">Cell 78</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row79">
+<td class="column0 style8 s">Cell 79</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row80">
+<td class="column0 style8 s">Cell 80</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row81">
+<td class="column0 style8 s">Cell 81</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row82">
+<td class="column0 style8 s">Cell 82</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row83">
+<td class="column0 style8 s">Cell 83</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row84">
+<td class="column0 style8 s">Cell 84</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row85">
+<td class="column0 style8 s">Cell 85</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row86">
+<td class="column0 style8 s">Cell 86</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row87">
+<td class="column0 style8 s">Cell 87</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row88">
+<td class="column0 style8 s">Cell 88</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row89">
+<td class="column0 style8 s">Cell 89</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row90">
+<td class="column0 style8 s">Cell 90</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row91">
+<td class="column0 style8 s">Cell 91</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row92">
+<td class="column0 style8 s">Cell 92</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row93">
+<td class="column0 style8 s">Cell 93</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row94">
+<td class="column0 style8 s">Cell 94</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row95">
+<td class="column0 style8 s">Cell 95</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row96">
+<td class="column0 style8 s">Cell 96</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row97">
+<td class="column0 style8 s">Cell 97</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row98">
+<td class="column0 style8 s">Cell 98</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row99">
+<td class="column0 style8 s">Cell 99</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row100">
+<td class="column0 style8 s">Cell 100</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row101">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+<tr class="row102">
+<td class="column0 style8 s">Mean</td>
+<td class="column1 style3 f">0.24936793333333</td>
+<td class="column2 style4 f">0.26233183333333</td>
+<td class="column3"> </td>
+<td class="column4 style4 f">0.25968183333333</td>
+<td class="column5 style4 f">0.25597</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row103">
+<td class="column0 style8 s">Standard Deviation</td>
+<td class="column1 style3 f">0.059883361405281</td>
+<td class="column2 style4 f">0.04777873215081</td>
+<td class="column3"> </td>
+<td class="column4 style4 f">0.067942208419157</td>
+<td class="column5 style4 f">0.051582019800185</td>
+<td class="column6"> </td>
+</tr>
+<tr class="row104">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+</tr>
+</tbody>
+</table>

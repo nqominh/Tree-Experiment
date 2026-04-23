@@ -1,0 +1,134 @@
+[COLUMN STRUCTURE]
+CTC
+50,000
+600,000
+
+[ROW STRUCTURE]
+Earnings:
+BASIC SALARY
+HRA
+TRANSPORT ALLOWANCE
+MEDICAL REIMBURSEMENT
+SPECIAL ALLOWANCE
+TOTAL EARNINGS (Gross)
+Employer's Contribution:
+Gratuity
+Employer's Provident Fund Contribution
+Employer's ESI Contribution
+Medical Insuramce
+Peformance Incentive
+Total of employer's contribution
+TOTAL CTC (Cross Verification)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Package Details</td>
+<td class="column1 style2 null style2" colspan="2"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 null"></td>
+<td class="column1 style4 s">Monthly</td>
+<td class="column2 style4 s">Annual</td>
+</tr>
+<tr class="row2">
+<td class="column0 style5 s">CTC </td>
+<td class="column1 style6 f">  50,000 </td>
+<td class="column2 style7 n">  600,000 </td>
+</tr>
+<tr class="row3">
+<td class="column0 style8 s">Earnings:</td>
+<td class="column1 style9 null"></td>
+<td class="column2 style10 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style11 s">BASIC SALARY</td>
+<td class="column1 style12 f">  20,000 </td>
+<td class="column2 style13 f">  240,000 </td>
+</tr>
+<tr class="row5">
+<td class="column0 style11 s">HRA</td>
+<td class="column1 style10 f">  8,000 </td>
+<td class="column2 style13 f">  96,000 </td>
+</tr>
+<tr class="row6">
+<td class="column0 style11 s">TRANSPORT ALLOWANCE</td>
+<td class="column1 style10 n">  800 </td>
+<td class="column2 style13 f">  9,600 </td>
+</tr>
+<tr class="row7">
+<td class="column0 style11 s">MEDICAL REIMBURSEMENT</td>
+<td class="column1 style10 n">  1,250 </td>
+<td class="column2 style13 f">  15,000 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style14 s">SPECIAL ALLOWANCE</td>
+<td class="column1 style15 f">  13,083 </td>
+<td class="column2 style13 f">  156,996 </td>
+</tr>
+<tr class="row9">
+<td class="column0 style16 s">TOTAL EARNINGS (Gross)</td>
+<td class="column1 style17 f">  30,050 </td>
+<td class="column2 style18 f">  517,596 </td>
+</tr>
+<tr class="row10">
+<td class="column0 style19 null"></td>
+<td class="column1 style20 null"></td>
+<td class="column2 style21 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style22 s">Employer's Contribution:</td>
+<td class="column1 style23 null"></td>
+<td class="column2 style24 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style25 s">Gratuity</td>
+<td class="column1 style23 f">  962 </td>
+<td class="column2 style24 f">  11,544 </td>
+</tr>
+<tr class="row13">
+<td class="column0 style25 s">Employer's Provident Fund Contribution</td>
+<td class="column1 style23 f">  2,400 </td>
+<td class="column2 style24 f">  28,800 </td>
+</tr>
+<tr class="row14">
+<td class="column0 style25 s">Employer's ESI Contribution</td>
+<td class="column1 style23 f">0</td>
+<td class="column2 style24 f">0</td>
+</tr>
+<tr class="row15">
+<td class="column0 style25 s">Medical Insuramce</td>
+<td class="column1 style23 n">  500 </td>
+<td class="column2 style24 f">  6,000 </td>
+</tr>
+<tr class="row16">
+<td class="column0 style25 s">Peformance Incentive</td>
+<td class="column1 style23 f">  3,005 </td>
+<td class="column2 style24 f">  36,060 </td>
+</tr>
+<tr class="row17">
+<td class="column0 style26 s">Total of employer's contribution</td>
+<td class="column1 style27 f">  6,867 </td>
+<td class="column2 style27 f">  82,404 </td>
+</tr>
+<tr class="row18">
+<td class="column0 style25 null"></td>
+<td class="column1 style28 null"></td>
+<td class="column2 style10 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style29 s">TOTAL CTC (Cross Verification)</td>
+<td class="column1 style30 f">  36,917 </td>
+<td class="column2 style30 f">  600,000 </td>
+</tr>
+<tr class="row20">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+</tr>
+</tbody>
+</table>

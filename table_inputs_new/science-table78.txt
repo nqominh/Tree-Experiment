@@ -1,0 +1,105 @@
+[COLUMN STRUCTURE]
+Expt1
+Expt2
+Expt3
+mean
+SD
+
+[ROW STRUCTURE]
+Uninf
+  DC - SAG
+  DC + SAG
+LDPm (24h)
+  DC - SAG
+  DC + SAG
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style2 s style4" colspan="3">MFI fold change</td>
+<td class="column5 style5 null"></td>
+<td class="column6 style6 null"></td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style7 null"></td>
+<td class="column1 style7 null"></td>
+<td class="column2 style8 s">Expt1</td>
+<td class="column3 style9 s">Expt2</td>
+<td class="column4 style10 s">Expt3</td>
+<td class="column5 style9 s">mean </td>
+<td class="column6 style10 s">SD</td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style11 s style15" rowspan="2">Uninf</td>
+<td class="column1 style1 s">DC - SAG</td>
+<td class="column2 style12 n">1</td>
+<td class="column3 style13 n">1</td>
+<td class="column4 style14 n">1</td>
+<td class="column5 style13 f">1</td>
+<td class="column6 style14 f">0</td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+<tr class="row3">
+<td class="column1 style16 s">DC + SAG</td>
+<td class="column2 style17 n">3.17871413004</td>
+<td class="column3 style18 n">4.4558399728768</td>
+<td class="column4 style19 n">3.610621830798</td>
+<td class="column5 style18 f">3.7483919779049</td>
+<td class="column6 style19 f">0.64961378116986</td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style20 s style15" rowspan="2">LDPm (24h)</td>
+<td class="column1 style1 s">DC - SAG</td>
+<td class="column2 style21 n">0.75009081002543</td>
+<td class="column3 style22 n">1.1067977623326</td>
+<td class="column4 style23 n">0.5406992260475</td>
+<td class="column5 style22 f">0.79919593280184</td>
+<td class="column6 style23 f">0.28622608722511</td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+<tr class="row5">
+<td class="column1 style16 s">DC + SAG</td>
+<td class="column2 style17 n">3.9126407555394</td>
+<td class="column3 style18 n">4.0620444143075</td>
+<td class="column4 style19 n">3.7742193755004</td>
+<td class="column5 style18 f">3.9163015151158</td>
+<td class="column6 style19 f">0.14394743523796</td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+</tr>
+</tbody>
+</table>

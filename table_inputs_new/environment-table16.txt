@@ -1,0 +1,880 @@
+[COLUMN STRUCTURE]
+Table 1 Scientific procedures by species of animal and primary purpose of the procedure, page 1 of 2
+
+[ROW STRUCTURE]
+Great Britain 2011
+Species of animal
+Mammal
+  Mouse
+    Rat
+    Guinea pig
+    Hamster
+    Gerbil
+    Other rodent
+    Rabbit
+    Cat
+    Dog
+      Beagle
+        Greyhound
+        Other including cross-bred dogs
+    Ferret
+    Other carnivore
+    Horse and other equids
+    Pig
+    Goat
+    Sheep
+    Cattle
+    Deer
+    Camelid
+    Other ungulate
+    Primate
+      Prosimian
+      New World monkey
+        marmoset, tamarin
+          Squirrel, owl, spider monkey
+          Other New World monkey
+      Old World monkey
+        Macaque
+          Baboon
+          Other Old World monkey
+      Ape
+        Gibbon
+          Great ape
+    Other mammal
+Bird
+  Domestic fowl (Gallus domesticus)
+    Turkey
+    Quail (Coturnix coturnix)
+    Quail (not Coturnix coturnix)
+    Other bird
+Reptile - any reptilian species
+Amphibian - any amphibian species
+Fish - any fish species
+Cephalopod - Octopus vulgaris
+Total
+Increase on 2010
+Percentage change from 2010
+Percentage of total for 2011
+2010 Totals
+  N/A = Not applicable
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1982">
+<col width="408"/>
+<col span="2" width="127"/>
+<col width="117"/>
+<col width="111"/>
+<col width="99"/>
+<col span="3" width="103"/>
+<col width="117"/>
+<col class="x73" width="126"/>
+<col span="7" width="63"/>
+<tr height="28">
+<td class="x74" colspan="7" height="28" width="1092"><a name="Print_Area"><span>Table 1 Scientific procedures by species of animal and primary purpose of the procedure, page 1 of 2</span></a></td>
+<td colspan="11" width="890"></td>
+</tr>
+<tr height="17">
+<td class="x75" colspan="18" height="17"></td>
+</tr>
+<tr height="15">
+<td class="x75" colspan="18" height="15"></td>
+</tr>
+<tr class="x69" height="23">
+<td class="x76" height="23">Great Britain 2011</td>
+<td class="x69" colspan="9"></td>
+<td class="x127" x:str="Number of procedures"><div> Number of procedures </div></td>
+<td class="x69" colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x77" height="25">Species of animal</td>
+<td align="center" class="x78" colspan="9">Primary purpose of the procedure</td>
+<td class="x128" x:str="Total"> Total </td>
+<td colspan="7"></td>
+</tr>
+<tr height="116">
+<td class="x80" height="115"></td>
+<td class="x81">Fundamental biological research</td>
+<td class="x81">Applied studies -human medicine or dentistry</td>
+<td class="x81">Applied studies -veterinary medicine</td>
+<td class="x81">Protection of man, animals or environment</td>
+<td class="x81">Education</td>
+<td class="x81">Training</td>
+<td class="x81">Forensic enquiries</td>
+<td class="x81">Direct diagnosis</td>
+<td class="x81">Breeding of GM or HM animals</td>
+<td class="x129"></td>
+<td class="x130" colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x82" height="26">Mammal</td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td class="x83"></td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Mouse</td>
+<td class="x85" x:num="864182">864,182</td>
+<td class="x85" x:num="318304">318,304</td>
+<td class="x85" x:num="14612">14,612</td>
+<td class="x85" x:num="17776">17,776</td>
+<td class="x85">903</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85" x:num="4433">4,433</td>
+<td class="x85" x:num="1459553">1,459,553</td>
+<td class="x131" x:fmla="=SUM(B8:J8)" x:num="2679763"><span></span> 2,679,763 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Rat</td>
+<td class="x87" x:num="86491">86,491</td>
+<td class="x87" x:num="137751">137,751</td>
+<td class="x87">121</td>
+<td class="x87" x:num="33064">33,064</td>
+<td class="x87">445</td>
+<td class="x87">720</td>
+<td class="x87">0</td>
+<td class="x87">6</td>
+<td class="x87" x:num="12937">12,937</td>
+<td class="x132" x:fmla="=SUM(B9:J9)" x:num="271535"><span></span> 271,535 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Guinea pig</td>
+<td class="x85" x:num="2283">2,283</td>
+<td class="x85" x:num="7811">7,811</td>
+<td class="x85" x:num="1112">1,112</td>
+<td class="x85">122</td>
+<td class="x85">100</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">109</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B10:J10)" x:num="11537"><span></span> 11,537 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Hamster</td>
+<td class="x87">883</td>
+<td class="x87">787</td>
+<td class="x87">118</td>
+<td class="x87">206</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x133" x:fmla="=SUM(B11:J11)" x:num="1994"><span></span> 1,994 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Gerbil</td>
+<td class="x85">508</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B12:J12)" x:num="508"><span></span> 508 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Other rodent</td>
+<td class="x87" x:num="2969">2,969</td>
+<td class="x87">214</td>
+<td class="x87">60</td>
+<td class="x87">653</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B13:J13)" x:num="3896"><span></span> 3,896 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Rabbit</td>
+<td class="x85" x:num="1467">1,467</td>
+<td class="x85" x:num="8346">8,346</td>
+<td class="x85" x:num="2373">2,373</td>
+<td class="x85" x:num="1767">1,767</td>
+<td class="x85">20</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85" x:num="1462">1,462</td>
+<td class="x85">26</td>
+<td class="x131" x:fmla="=SUM(B14:J14)" x:num="15461"><span></span> 15,461 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Cat</td>
+<td class="x87">207</td>
+<td class="x87">0</td>
+<td class="x87">28</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B15:J15)" x:num="235"><span></span> 235 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Dog</td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x131"></td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x88" height="26"><span>     </span>Beagle</td>
+<td class="x87">125</td>
+<td class="x87" x:num="3811">3,811</td>
+<td class="x87">229</td>
+<td class="x87">193</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B17:J17)" x:num="4358"><span></span> 4,358 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x89" height="26"><span>     </span>Greyhound</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B18:J18)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x88" height="26"><span>     </span>Other including cross-bred dogs</td>
+<td class="x87">158</td>
+<td class="x87">0</td>
+<td class="x87">36</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B19:J19)" x:num="194"><span></span> 194 </td>
+<td colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x84" height="26"><span>  </span>Ferret</td>
+<td class="x85">285</td>
+<td class="x85">380</td>
+<td class="x85">4</td>
+<td class="x85">0</td>
+<td class="x85">13</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">9</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B20:J20)" x:num="691"><span></span> 691 </td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Other carnivore</td>
+<td class="x87">565</td>
+<td class="x87">0</td>
+<td class="x87">68</td>
+<td class="x87">162</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B21:J21)" x:num="795"><span></span> 795 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x90" height="26"><span>  </span>Horse and other equids</td>
+<td class="x85">144</td>
+<td class="x85">0</td>
+<td class="x85">308</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85" x:num="7928">7,928</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B22:J22)" x:num="8380"><span></span> 8,380 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Pig</td>
+<td class="x87" x:num="1371">1,371</td>
+<td class="x87">908</td>
+<td class="x87" x:num="1976">1,976</td>
+<td class="x87">24</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">61</td>
+<td class="x132" x:fmla="=SUM(B23:J23)" x:num="4340"><span></span> 4,340 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Goat</td>
+<td class="x85">113</td>
+<td class="x85">5</td>
+<td class="x85">2</td>
+<td class="x85">7</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">69</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B24:J24)" x:num="196"><span></span> 196 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Sheep</td>
+<td class="x87" x:num="4306">4,306</td>
+<td class="x87">699</td>
+<td class="x87" x:num="1263">1,263</td>
+<td class="x87">82</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87" x:num="31183">31,183</td>
+<td class="x87">181</td>
+<td class="x132" x:fmla="=SUM(B25:J25)" x:num="37714"><span></span> 37,714 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Cattle</td>
+<td class="x85" x:num="3410">3,410</td>
+<td class="x85">0</td>
+<td class="x85" x:num="1551">1,551</td>
+<td class="x85">21</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">120</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B26:J26)" x:num="5102"><span></span> 5,102 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x86" height="26"><span>  </span>Deer</td>
+<td class="x87">50</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x87">0</td>
+<td class="x132" x:fmla="=SUM(B27:J27)" x:num="50"><span></span> 50 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x84" height="26"><span>  </span>Camelid</td>
+<td class="x85">257</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x85">0</td>
+<td class="x131" x:fmla="=SUM(B28:J28)" x:num="257"><span></span> 257 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x91" height="25"><span>  </span>Other ungulate</td>
+<td class="x92">12</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x92">0</td>
+<td class="x134" x:fmla="=SUM(B29:J29)" x:num="12"><span></span> 12 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="30">
+<td class="x93" height="30"><span>  </span>Primate</td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x94"></td>
+<td class="x132"></td>
+<td colspan="7"></td>
+</tr>
+<tr height="28">
+<td class="x95" height="28"><span>   </span>Prosimian</td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x131" x:fmla="=SUM(B31:J31)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x97" height="26"><span>   </span>New World monkey</td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x98"></td>
+<td class="x132"></td>
+<td colspan="7"></td>
+</tr>
+<tr class="x69" height="23">
+<td class="x95" height="23"><span>      </span>marmoset, tamarin</td>
+<td class="x96" x:num="154"><span></span> 154 </td>
+<td class="x96" x:num="197"><span></span> 197 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x131" x:fmla="=SUM(B33:J33)" x:num="351"><span></span> 351 </td>
+<td class="x69" colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x99" height="26"><span>      </span>Squirrel, owl, spider monkey</td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x135" x:fmla="=SUM(B34:J34)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr height="33">
+<td class="x100" height="33"><span>      </span>Other New World monkey</td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x131" x:fmla="=SUM(B35:J35)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x101" height="26"><span>   </span>Old World monkey</td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x102"></td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x95" height="26"><span>      </span>Macaque</td>
+<td class="x96" x:num="177"><span></span> 177 </td>
+<td class="x96" x:num="1652"><span></span> 1,652 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="287"><span></span> 287 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="8"><span></span> 8 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B37:J37)" x:num="2124"><span></span> 2,124 </td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x103" height="26"><span>      </span>Baboon</td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x132" x:fmla="=SUM(B38:J38)" x:num="0"><span></span> - </td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x105" height="26"><span>      </span>Other Old World monkey</td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B39:J39)" x:num="0"><span></span> - </td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr class="x70" height="26">
+<td class="x101" height="26"><span>   </span>Ape</td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x137"></td>
+<td class="x70" colspan="7"></td>
+</tr>
+<tr class="x71" height="26">
+<td class="x95" height="26"><span>      </span>Gibbon</td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B41:J41)" x:num="0"><span></span> - </td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x103" height="26"><span>      </span>Great ape</td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x132" x:fmla="=SUM(B42:J42)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x106" height="26"><span>  </span>Other mammal</td>
+<td class="x96" x:num="525"><span></span> 525 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="20"><span></span> 20 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B43:J43)" x:num="545"><span></span> 545 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x82" height="26">Bird</td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x137"></td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x95" height="26"><font class="font2"><span>  </span>Domestic fowl (</font><font class="font29">Gallus domesticus</font><font class="font2">)</font></td>
+<td class="x96" x:num="6234"><span></span> 6,234 </td>
+<td class="x96" x:num="28"><span></span> 28 </td>
+<td class="x96" x:num="140529"><span></span> 140,529 </td>
+<td class="x96" x:num="274"><span></span> 274 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="1377"><span></span> 1,377 </td>
+<td class="x96" x:num="602"><span></span> 602 </td>
+<td class="x136" x:fmla="=SUM(B45:J45)" x:num="149044"><span></span> 149,044 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x103" height="26"><span>  </span>Turkey</td>
+<td class="x104" x:num="460"><span></span> 460 </td>
+<td class="x104" x:num="171"><span></span> 171 </td>
+<td class="x104" x:num="2628"><span></span> 2,628 </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="150"><span></span> 150 </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x137" x:fmla="=SUM(B46:J46)" x:num="3409"><span></span> 3,409 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x95" height="26"><font class="font2"><span>  </span>Quail (</font><font class="font29">Coturnix coturnix</font><font class="font2">)</font></td>
+<td class="x96" x:num="34"><span></span> 34 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B47:J47)" x:num="34"><span></span> 34 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x103" height="26"><font class="font2"><span>  </span>Quail (not </font><font class="font29">Coturnix coturnix</font><font class="font2">)</font></td>
+<td class="x104" x:num="131"><span></span> 131 </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="752"><span></span> 752 </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x104" x:num="0"><span></span> - </td>
+<td class="x137" x:fmla="=SUM(B48:J48)" x:num="883"><span></span> 883 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x95" height="26"><span>  </span>Other bird</td>
+<td class="x96" x:num="6680"><span></span> 6,680 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="2099"><span></span> 2,099 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="469"><span></span> 469 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B49:J49)" x:num="9248"><span></span> 9,248 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x107" height="26"><font class="font8">Reptile </font><font class="font9">- any reptilian species</font></td>
+<td class="x98" x:num="383"><span></span> 383 </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x138" x:fmla="=SUM(B50:J50)" x:num="383"><span></span> 383 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x108" height="26"><font class="font7">Amphibian</font><font class="font2"> - any amphibian species</font></td>
+<td class="x96" x:num="11867"><span></span> 11,867 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="419"><span></span> 419 </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="0"><span></span> - </td>
+<td class="x96" x:num="3629"><span></span> 3,629 </td>
+<td class="x136" x:fmla="=SUM(B51:J51)" x:num="15915"><span></span> 15,915 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x109" height="26"><font class="font7">Fish</font><font class="font2"> - any fish species</font></td>
+<td class="x98" x:num="342442"><span></span> 342,442 </td>
+<td class="x98" x:num="1731"><span></span> 1,731 </td>
+<td class="x98" x:num="19975"><span></span> 19,975 </td>
+<td class="x98" x:num="58908"><span></span> 58,908 </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="23"><span></span> 23 </td>
+<td class="x98" x:num="0"><span></span> - </td>
+<td class="x98" x:num="140824"><span></span> 140,824 </td>
+<td class="x138" x:fmla="=SUM(B52:J52)" x:num="563903"><span></span> 563,903 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x110" height="25"><font class="font7">Cephalopod</font><font class="font2"><span></span> - </font><font class="font29">Octopus vulgaris</font></td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x111" x:num="0"><span></span> - </td>
+<td class="x136" x:fmla="=SUM(B53:J53)" x:num="0"><span></span> - </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x112" height="25">Total</td>
+<td align="right" class="x113" x:fmla="=SUM(B8:B35)+SUM(B36:B53)" x:num="1338873"><span></span> 1,338,873 </td>
+<td align="right" class="x113" x:fmla="=SUM(C7:C35)+SUM(C36:C53)" x:num="482795"><span></span> 482,795 </td>
+<td align="right" class="x113" x:fmla="=SUM(D7:D35)+SUM(D36:D53)" x:num="187013"><span></span> 187,013 </td>
+<td align="right" class="x113" x:fmla="=SUM(E7:E35)+SUM(E36:E53)" x:num="116816"><span></span> 116,816 </td>
+<td align="right" class="x113" x:fmla="=SUM(F7:F35)+SUM(F36:F53)" x:num="1481"><span></span> 1,481 </td>
+<td align="right" class="x113" x:fmla="=SUM(G7:G35)+SUM(G36:G53)" x:num="720"><span></span> 720 </td>
+<td align="right" class="x113" x:fmla="=SUM(H7:H35)+SUM(H36:H53)" x:num="23"><span></span> 23 </td>
+<td align="right" class="x113" x:fmla="=SUM(I7:I35)+SUM(I36:I53)" x:num="47323"><span></span> 47,323 </td>
+<td align="right" class="x113" x:fmla="=SUM(J7:J35)+SUM(J36:J53)" x:num="1617813"><span></span> 1,617,813 </td>
+<td align="right" class="x113" x:fmla="=SUM(K7:K35)+SUM(K36:K53)" x:num="3792857"><span></span> 3,792,857 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x114" height="24">Increase on 2010</td>
+<td class="x115" x:fmla="=SUM(B54-B58)" x:num="44370">44,370 </td>
+<td class="x115" x:fmla="=SUM(C54-C58)" x:num="-40593">-40,593 </td>
+<td class="x115" x:fmla="=SUM(D54-D58)" x:num="26531">26,531 </td>
+<td class="x115" x:fmla="=SUM(E54-E58)" x:num="41019">41,019 </td>
+<td class="x115" x:fmla="=SUM(F54-F58)" x:num="-679">-679 </td>
+<td class="x115" x:fmla="=SUM(G54-G58)" x:num="43">43 </td>
+<td class="x115" x:fmla="=SUM(H54-H58)" x:num="23">23 </td>
+<td class="x115" x:fmla="=SUM(I54-I58)" x:num="616">616 </td>
+<td class="x115" x:fmla="=SUM(J54-J58)" x:num="-3199">-3,199 </td>
+<td class="x115" x:fmla="=SUM(K54-K58)" x:num="68131">68,131 </td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x114" height="24">Percentage change from 2010</td>
+<td class="x116" x:fmla="=(B54-B58)/ABS(B58)" x:num="0.0342757027214305">3%</td>
+<td class="x116" x:fmla="=(C54-C58)/ABS(C58)" x:num="-0.0775581404235481">-8%</td>
+<td class="x116" x:fmla="=(D54-D58)/ABS(D58)" x:num="0.165320721327002">17%</td>
+<td class="x116" x:fmla="=(E54-E58)/ABS(E58)" x:num="0.541169175561038">54%</td>
+<td class="x116" x:fmla="=(F54-F58)/ABS(F58)" x:num="-0.314351851851852">-31%</td>
+<td class="x116" x:fmla="=(G54-G58)/ABS(G58)" x:num="0.0635155096011817">6%</td>
+<td class="x116">N/A</td>
+<td class="x116" x:fmla="=(I54-I58)/ABS(I58)" x:num="0.013188601280322">1%</td>
+<td class="x116" x:fmla="=(J54-J58)/ABS(J58)" x:num="-0.00197345855551964">-0%</td>
+<td class="x116" x:fmla="=(K54-K58)/ABS(K58)" x:num="0.0182915468144502">2%</td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x114" height="24">Percentage of total for 2011</td>
+<td class="x117" x:fmla="=B54/$K54" x:num="0.35299854436906">35%</td>
+<td class="x117" x:fmla="=C54/$K54" x:num="0.127290588598516">13%</td>
+<td class="x117" x:fmla="=D54/$K54" x:num="0.0493066308590068">5%</td>
+<td class="x117" x:fmla="=E54/$K54" x:num="0.0307989465460997">3%</td>
+<td class="x118" x:fmla="=F54/$K54" x:num="0.000390470824499843">0.0%</td>
+<td class="x118" x:fmla="=G54/$K54" x:num="0.000189830515624502">0.0%</td>
+<td class="x117" x:fmla="=H54/$K54" x:num="6.06403036022713E-06">0%</td>
+<td class="x117" x:fmla="=I54/$K54" x:num="0.0124768742929143">1%</td>
+<td class="x117" x:fmla="=J54/$K54" x:num="0.426542049963919">43%</td>
+<td class="x117" x:fmla="=K54/$K54" x:num="1">100%</td>
+<td colspan="7"></td>
+</tr>
+<tr height="26">
+<td class="x119" height="24">2010 Totals</td>
+<td align="right" class="x120" x:num="1294503">1,294,503</td>
+<td align="right" class="x120" x:num="523388">523,388</td>
+<td align="right" class="x120" x:num="160482">160,482</td>
+<td align="right" class="x120" x:num="75797">75,797</td>
+<td align="right" class="x120" x:num="2160">2,160</td>
+<td align="right" class="x120">677</td>
+<td align="right" class="x120">0</td>
+<td align="right" class="x120" x:num="46707">46,707</td>
+<td align="right" class="x120" x:num="1621012">1,621,012</td>
+<td align="right" class="x120" x:num="3724726">3,724,726</td>
+<td colspan="7"></td>
+</tr>
+<tr class="x72" height="26">
+<td class="x121" colspan="18" height="26"></td>
+</tr>
+<tr class="x72" height="49">
+<td class="x123" height="49" x:str="N/A = Not applicable"> N/A = Not applicable </td>
+<td class="x124" colspan="17"></td>
+</tr>
+<tr height="39">
+<td class="x122" colspan="18" height="39"></td>
+</tr>
+<tr height="39">
+<td class="x122" colspan="18" height="39"></td>
+</tr>
+<tr height="39">
+<td class="x122" colspan="18" height="39"></td>
+</tr>
+<tr height="33">
+<td class="x122" colspan="18" height="33"></td>
+</tr>
+<tr height="20">
+<td class="x122" colspan="18" height="20"></td>
+</tr>
+<tr height="2329">
+<td colspan="18" height="17"></td>
+</tr>
+<tr height="23">
+<td colspan="6" height="23"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td colspan="10"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="408"></td>
+<td colspan="2" width="254"></td>
+<td width="117"></td>
+<td width="111"></td>
+<td width="99"></td>
+<td colspan="3" width="309"></td>
+<td width="117"></td>
+<td width="126"></td>
+<td colspan="7" width="441"></td>
+</tr>
+<?endif?>
+</table>

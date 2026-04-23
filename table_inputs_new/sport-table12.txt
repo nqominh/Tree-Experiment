@@ -1,0 +1,175 @@
+[COLUMN STRUCTURE]
+Region
+Sport
+Score
+Option
+
+[ROW STRUCTURE]
+Central
+  All Options
+  Football
+  Cricket
+  Hockey
+  Rugby
+  Golf
+West
+  All Options
+  Football
+  Cricket
+  Hockey
+  Rugby
+  Golf
+North
+  All Options
+  Football
+  Cricket
+  Hockey
+  Rugby
+  Golf
+East
+  All Options
+  Football
+  Cricket
+  Hockey
+  Rugby
+  Golf
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Region</td>
+<td class="column1 style1 s">Sport</td>
+<td class="column2 style1 s">Score</td>
+<td class="column3 style1 s">Option</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style2" rowspan="6">Central</td>
+<td class="column1 style3 s">All Options</td>
+<td class="column2 style3 f">18</td>
+<td class="column3 style3 f">11</td>
+</tr>
+<tr class="row2">
+<td class="column1 style4 s">Football</td>
+<td class="column2 style4 n">5</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row3">
+<td class="column1 style4 s">Cricket</td>
+<td class="column2 style4 n">3</td>
+<td class="column3 style4 n">3</td>
+</tr>
+<tr class="row4">
+<td class="column1 style4 s">Hockey</td>
+<td class="column2 style4 n">4</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row5">
+<td class="column1 style4 s">Rugby</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row6">
+<td class="column1 style4 s">Golf</td>
+<td class="column2 style4 n">5</td>
+<td class="column3 style4 n">4</td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 s style2" rowspan="6">West</td>
+<td class="column1 style3 s">All Options</td>
+<td class="column2 style3 f">14</td>
+<td class="column3 style3 f">9</td>
+</tr>
+<tr class="row8">
+<td class="column1 style4 s">Football</td>
+<td class="column2 style4 n">4</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row9">
+<td class="column1 style4 s">Cricket</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">3</td>
+</tr>
+<tr class="row10">
+<td class="column1 style4 s">Hockey</td>
+<td class="column2 style4 n">2</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row11">
+<td class="column1 style4 s">Rugby</td>
+<td class="column2 style4 n">5</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row12">
+<td class="column1 style4 s">Golf</td>
+<td class="column2 style4 n">2</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 s style2" rowspan="6">North</td>
+<td class="column1 style3 s">All Options</td>
+<td class="column2 style3 f">15</td>
+<td class="column3 style3 f">12</td>
+</tr>
+<tr class="row14">
+<td class="column1 style4 s">Football</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row15">
+<td class="column1 style4 s">Cricket</td>
+<td class="column2 style4 n">3</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row16">
+<td class="column1 style4 s">Hockey</td>
+<td class="column2 style4 n">5</td>
+<td class="column3 style4 n">4</td>
+</tr>
+<tr class="row17">
+<td class="column1 style4 s">Rugby</td>
+<td class="column2 style4 n">5</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row18">
+<td class="column1 style4 s">Golf</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">3</td>
+</tr>
+<tr class="row19">
+<td class="column0 style2 s style2" rowspan="6">East</td>
+<td class="column1 style3 s">All Options</td>
+<td class="column2 style3 f">10</td>
+<td class="column3 style3 f">14</td>
+</tr>
+<tr class="row20">
+<td class="column1 style4 s">Football</td>
+<td class="column2 style4 n">4</td>
+<td class="column3 style4 n">1</td>
+</tr>
+<tr class="row21">
+<td class="column1 style4 s">Cricket</td>
+<td class="column2 style4 n">2</td>
+<td class="column3 style4 n">2</td>
+</tr>
+<tr class="row22">
+<td class="column1 style4 s">Hockey</td>
+<td class="column2 style4 n">2</td>
+<td class="column3 style4 n">5</td>
+</tr>
+<tr class="row23">
+<td class="column1 style4 s">Rugby</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">5</td>
+</tr>
+<tr class="row24">
+<td class="column1 style4 s">Golf</td>
+<td class="column2 style4 n">1</td>
+<td class="column3 style4 n">1</td>
+</tr>
+</tbody>
+</table>

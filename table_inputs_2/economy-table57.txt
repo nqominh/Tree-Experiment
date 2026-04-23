@@ -1,0 +1,1609 @@
+[COLUMN STRUCTURE]
+Month
+  Apr-17
+Consumption
+  AC Charges
+    Generator Running Expenses
+      Insurance
+        Vehicle Parking Charges
+          Bank Commission Charges
+            Conveyance During Tour Expenses
+              Electricity Charges
+                Entertainment Expenses
+                  Membership & Subscription
+                    Miscellaneous Expenses
+                      Office Maintenance
+                        Postage & Courier Charges
+                          Printing & Stationery
+                            Rent Paid
+Amount
+  11,697.00
+    2,000.00
+      477,789.00
+        2,871.00
+          8,792.48
+            9,144.71
+              2,895.00
+                90,240.88
+                  7,186.00
+                    75,042.00
+                      13,976.00
+                        230.00
+                          4,290.00
+                            1,233,692.00
+
+[ROW STRUCTURE]
+Apr-17
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+May-17
+  AC Charges
+  Advertisement
+  Generator Running Expenses
+  Travelling Insurance
+  Vehicle Parking Charges
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Jun-17
+  AC Charges
+  Generator Running Expenses
+  Insurance
+  Loss on Redemption in MT
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Membership & Subscription
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Jul-17
+  AC Charges
+  Aid and Donation
+  Generator Running Expenses
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Aug-17
+  AC Charges
+  Books and Periodicals
+  Generator Running Expenses
+  Insurance
+  Travelling Insurance
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Sep-17
+  AC Charges
+  Generator Running Expenses
+  Insurance
+  Travelling Insurance
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Oct-17
+  AC Charges
+  Generator Running Expenses
+  Travelling Insurance
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Nov-17
+  AC Charges
+  Generator Running Expenses
+  Insurance
+  Loss on Redemption in MT
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Dec-17
+  AC Charges
+  Generator Running Expenses
+  Insurance
+  Travelling Insurance
+  Vehicle Parking Charges
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Membership & Subscription
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Jan-18
+  AC Charges
+  Generator Running Expenses
+  Insurance
+  Travelling Insurance
+  Vehicle Parking Charges
+  Auditor Expenses
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Membership & Subscription
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Feb-18
+  AC Charges
+  Generator Running Expenses
+  Loss on Redemption in MT
+  Travelling Insurance
+  Vehicle Parking Charges
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+Mar-18
+  AC Charges
+  Books and Periodicals
+  Insurance
+  Loss on Redemption in MT
+  Travelling Insurance
+  Vehicle Parking Charges
+  Bank Commission Charges
+  Conveyance During Tour Expenses
+  Electricity Charges
+  Entertainment Expenses
+  Membership & Subscription
+  Miscellaneous Expenses
+  Office Maintenance
+  Postage & Courier Charges
+  Printing & Stationery
+  Rent Paid
+  Repairs & Maintenance
+  Rounded Off
+  Telephone and Communication
+  Travelling And Conveyance
+  Travelling Expenses
+  Vehicle Maintainance
+  Vehicle Running
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style9 s">Month</td>
+<td class="column1 style1 s">Consumption</td>
+<td class="column2 style2 s">Amount</td>
+<td class="column3"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style10 n style12" rowspan="20">Apr-17</td>
+<td class="column1 style4 s">AC Charges</td>
+<td class="column2 style5 n">  11,697.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row2">
+<td class="column1 style4 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row3">
+<td class="column1 style4 s">Insurance</td>
+<td class="column2 style5 n">  477,789.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row4">
+<td class="column1 style4 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  2,871.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row5">
+<td class="column1 style4 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  8,792.48 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row6">
+<td class="column1 style4 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  9,144.71 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row7">
+<td class="column1 style4 s">Electricity Charges</td>
+<td class="column2 style5 n">  2,895.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row8">
+<td class="column1 style4 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  90,240.88 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row9">
+<td class="column1 style4 s">Membership &amp; Subscription</td>
+<td class="column2 style5 n">  7,186.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row10">
+<td class="column1 style4 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  75,042.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row11">
+<td class="column1 style4 s">Office Maintenance</td>
+<td class="column2 style5 n">  13,976.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row12">
+<td class="column1 style4 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  230.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row13">
+<td class="column1 style4 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  4,290.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row14">
+<td class="column1 style4 s">Rent Paid</td>
+<td class="column2 style5 n">  1,233,692.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row15">
+<td class="column1 style4 s">Rounded Off</td>
+<td class="column2 style5 n">  3.20 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row16">
+<td class="column1 style4 s">Telephone and Communication</td>
+<td class="column2 style5 n">  4,057.56 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row17">
+<td class="column1 style4 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  3,010.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row18">
+<td class="column1 style4 s">Travelling Expenses</td>
+<td class="column2 style5 n">  14,417.49 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row19">
+<td class="column1 style4 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  1,405.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row20">
+<td class="column1 style4 s">Vehicle Running</td>
+<td class="column2 style5 n">  11,472.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style10 n style12" rowspan="20">May-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  87,730.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row22">
+<td class="column1 style6 s">Advertisement</td>
+<td class="column2 style5 n">  3,100.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row23">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  1,500.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row24">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  1,091.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row25">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  46,545.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row26">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  4,070.53 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row27">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  41,360.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row28">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  56,764.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row29">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  14,987.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row30">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  6,068.85 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row31">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  10,525.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row32">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  16,906.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row33">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  102,068.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row34">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  309,538.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row35">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  1.25 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row36">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  51,967.11 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row37">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  117,402.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row38">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  238,489.90 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row39">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  7,142.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row40">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  12,229.94 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style10 n style12" rowspan="23">Jun-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  107,245.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row42">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  4,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row43">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  3,294.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row44">
+<td class="column1 style6 s">Loss on Redemption in MT</td>
+<td class="column2 style5 n">  41.60 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row45">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  46,165.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row46">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  29,875.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row47">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  6,437.67 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row48">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  50,762.61 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row49">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  132,840.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row50">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  26,937.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row51">
+<td class="column1 style6 s">Membership &amp; Subscription</td>
+<td class="column2 style5 n">  46,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row52">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  240.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row53">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  518,683.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row54">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  11,556.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row55">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  128,027.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row56">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  928,622.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row57">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  2,800.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row58">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  10.77 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row59">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  62,334.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row60">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  111,737.27 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row61">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  322,794.80 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row62">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  870.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row63">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  14,370.78 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row64">
+<td class="column0 style10 n style12" rowspan="19">Jul-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  96,864.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row65">
+<td class="column1 style6 s">Aid and Donation</td>
+<td class="column2 style5 n">  3,100.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row66">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row67">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  56,047.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row68">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  13,684.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row69">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  50,886.33 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row70">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  24,833.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row71">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  55,127.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row72">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  5,826.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row73">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  215,595.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row74">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  6,272.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row75">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  1,258.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row76">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  656,146.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row77">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  3.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row78">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  58,734.10 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row79">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  87,118.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row80">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  159,287.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row81">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  500.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row82">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  7,350.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row83">
+<td class="column0 style10 n style12" rowspan="23">Aug-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  119,676.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row84">
+<td class="column1 style6 s">Books and Periodicals</td>
+<td class="column2 style5 n">  1,710.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row85">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  1,500.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row86">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  66,814.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row87">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  9,802.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row88">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  51,825.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row89">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  855.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row90">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  590.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row91">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  15,340.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row92">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  125,985.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row93">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  7,814.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row94">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  10,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row95">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  185,345.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row96">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  5,635.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row97">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  49,600.20 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row98">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  856,622.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row99">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  477.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row100">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  1.13 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row101">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  38,447.21 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row102">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  148,733.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row103">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  120,605.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row104">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  14,824.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row105">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  11,304.71 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row106">
+<td class="column0 style10 n style12" rowspan="22">Sep-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  106,559.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row107">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  4,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row108">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  33,773.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row109">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  1,625.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row110">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  111,250.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row111">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  24,308.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row112">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  15,068.11 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row113">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  46,893.07 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row114">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  74,456.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row115">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  13,979.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row116">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  100.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row117">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  183,710.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row118">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  51,731.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row119">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  190,109.75 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row120">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  699,146.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row121">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  12,175.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row122">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  11.79 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row123">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  33,177.24 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row124">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  112,046.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row125">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  441,696.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row126">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  250.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row127">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  7,635.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row128">
+<td class="column0 style10 n style12" rowspan="20">Oct-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  108,539.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row129">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row130">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  835.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row131">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  945.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row132">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  18,898.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row133">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  9,254.98 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row134">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  26,512.77 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row135">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  128,549.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row136">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  12,164.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row137">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  12,100.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row138">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  232,203.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row139">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  17,011.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row140">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  38,970.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row141">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  713,384.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row142">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  0.74 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row143">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  43,803.53 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row144">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  29,692.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row145">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  110,332.49 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row146">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  2,278.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row147">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  18,377.04 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row148">
+<td class="column0 style10 n style12" rowspan="22">Nov-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  100,442.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row149">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row150">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  1,203.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row151">
+<td class="column1 style6 s">Loss on Redemption in MT</td>
+<td class="column2 style5 n">  0.70 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row152">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  57,835.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row153">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  13,163.48 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row154">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  537,132.93 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row155">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  74,287.32 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row156">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  54,247.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row157">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  38,879.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row158">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  1,938.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row159">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  173,731.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row160">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  23,489.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row161">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  60,256.40 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row162">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  806,706.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row163">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  5,950.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row164">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  1.32 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row165">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  142,548.42 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row166">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  146,963.18 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row167">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  630,455.92 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row168">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  4,269.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row169">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  18,913.89 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row170">
+<td class="column0 style10 n style12" rowspan="22">Dec-17</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  94,613.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row171">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row172">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  401,937.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row173">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  801.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row174">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  59,195.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row175">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  11,497.44 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row176">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  45,875.24 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row177">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  99,775.40 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row178">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  46,177.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row179">
+<td class="column1 style6 s">Membership &amp; Subscription</td>
+<td class="column2 style5 n">  1,500.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row180">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  5,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row181">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  307,527.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row182">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  13,295.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row183">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  132,164.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row184">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  759,484.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row185">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  23,026.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row186">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  6.85 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row187">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  66,819.67 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row188">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  100,213.71 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row189">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  641,166.21 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row190">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  1,790.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row191">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  5,350.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row192">
+<td class="column0 style10 n style12" rowspan="23">Jan-18</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  99,550.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row193">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row194">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  169,219.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row195">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  3,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row196">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  62,015.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row197">
+<td class="column1 style6 s">Auditor Expenses</td>
+<td class="column2 style5 n">  23,514.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row198">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  13,028.12 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row199">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  84,652.70 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row200">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  64,009.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row201">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  9,316.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row202">
+<td class="column1 style6 s">Membership &amp; Subscription</td>
+<td class="column2 style5 n">  36,250.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row203">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  405.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row204">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  526,188.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row205">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  16,474.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row206">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  95,061.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row207">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  843,622.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row208">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  5,300.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row209">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  0.20 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row210">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  77,924.51 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row211">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  131,157.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row212">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  497,531.36 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row213">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  22,041.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row214">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  10,880.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row215">
+<td class="column0 style10 n style12" rowspan="21">Feb-18</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  84,283.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row216">
+<td class="column1 style6 s">Generator Running Expenses</td>
+<td class="column2 style5 n">  2,000.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row217">
+<td class="column1 style6 s">Loss on Redemption in MT</td>
+<td class="column2 style5 n">  1.32 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row218">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  5,792.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row219">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  61,730.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row220">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  10,923.89 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row221">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  77,251.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row222">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  111,313.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row223">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  3,490.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row224">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  50.91 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row225">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  208,276.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row226">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  39,931.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row227">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  52,995.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row228">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  666,146.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row229">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  649.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row230">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  23.30 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row231">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  66,982.49 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row232">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  63,501.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row233">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  759,347.01 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row234">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  929.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row235">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  11,885.55 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row236">
+<td class="column0 style10 n style12" rowspan="23">Mar-18</td>
+<td class="column1 style6 s">AC Charges</td>
+<td class="column2 style5 n">  203,291.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row237">
+<td class="column1 style6 s">Books and Periodicals</td>
+<td class="column2 style5 n">  230.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row238">
+<td class="column1 style6 s">Insurance</td>
+<td class="column2 style5 n">  448,441.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row239">
+<td class="column1 style6 s">Loss on Redemption in MT</td>
+<td class="column2 style5 n">  1.69 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row240">
+<td class="column1 style6 s">Travelling Insurance</td>
+<td class="column2 style5 n">  14,418.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row241">
+<td class="column1 style6 s">Vehicle Parking Charges</td>
+<td class="column2 style5 n">  118,925.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row242">
+<td class="column1 style6 s">Bank Commission Charges</td>
+<td class="column2 style5 n">  124,659.86 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row243">
+<td class="column1 style6 s">Conveyance During Tour Expenses</td>
+<td class="column2 style5 n">  161,891.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row244">
+<td class="column1 style6 s">Electricity Charges</td>
+<td class="column2 style5 n">  12,417.30 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row245">
+<td class="column1 style6 s">Entertainment Expenses</td>
+<td class="column2 style5 n">  70,132.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row246">
+<td class="column1 style6 s">Membership &amp; Subscription</td>
+<td class="column2 style5 n">  22,603.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row247">
+<td class="column1 style6 s">Miscellaneous Expenses</td>
+<td class="column2 style5 n">  558.58 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row248">
+<td class="column1 style6 s">Office Maintenance</td>
+<td class="column2 style5 n">  223,300.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row249">
+<td class="column1 style6 s">Postage &amp; Courier Charges</td>
+<td class="column2 style5 n">  47,088.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row250">
+<td class="column1 style6 s">Printing &amp; Stationery</td>
+<td class="column2 style5 n">  223,019.30 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row251">
+<td class="column1 style6 s">Rent Paid</td>
+<td class="column2 style5 n">  799,622.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row252">
+<td class="column1 style6 s">Repairs &amp; Maintenance</td>
+<td class="column2 style5 n">  5,960.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row253">
+<td class="column1 style6 s">Rounded Off</td>
+<td class="column2 style5 n">  51.28 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row254">
+<td class="column1 style6 s">Telephone and Communication</td>
+<td class="column2 style5 n">  108,528.19 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row255">
+<td class="column1 style6 s">Travelling And Conveyance</td>
+<td class="column2 style5 n">  215,193.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row256">
+<td class="column1 style6 s">Travelling Expenses</td>
+<td class="column2 style5 n">  1,576,530.50 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row257">
+<td class="column1 style6 s">Vehicle Maintainance</td>
+<td class="column2 style5 n">  2,087.00 </td>
+<td class="column3"> </td>
+</tr>
+<tr class="row258">
+<td class="column1 style6 s">Vehicle Running</td>
+<td class="column2 style5 n">  8,740.09 </td>
+<td class="column3"> </td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,281 @@
+[COLUMN STRUCTURE]
+All Ages
+Participation
+  General FE College incl Tertiary
+  Sixth form college
+  Special colleges
+  Other Public Funded
+  Schools
+  Private Sector Public Funded
+  Total
+Achievement
+  General FE College incl Tertiary
+  Sixth form college
+  Special colleges
+  Other Public Funded
+  Schools
+  Private Sector Public Funded
+  Total
+
+[ROW STRUCTURE]
+of which EnglishR
+of which mathsR
+of which ESOL (English for Speakers of Other Languages)R
+Total Learners
+Notes
+1) For further information on these tables please see the accompanying notes page.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1720">
+<col class="x80" width="396"/>
+<col class="x80" span="14" width="90"/>
+<col class="x80" width="64"/>
+<tr height="22">
+<td class="x81" colspan="4" height="22" width="666"><a name="Print_Area"><span>Skills for Life Participation and Achievement by Level, Age and Provider Type (2008/09)</span></a></td>
+<td class="x80" colspan="12" width="1054"></td>
+</tr>
+<tr height="22">
+<td class="x81" colspan="16" height="22"></td>
+</tr>
+<tr class="x75" height="20">
+<td class="x82" height="20"></td>
+<td class="x83" colspan="7">Participation</td>
+<td class="x83" colspan="7">Achievement</td>
+<td class="x75"></td>
+</tr>
+<tr class="x75" height="60">
+<td class="x85" height="58">All Ages</td>
+<td class="x84">General FE College incl Tertiary</td>
+<td class="x84">Sixth form college</td>
+<td class="x84">Special colleges</td>
+<td class="x84">Other Public Funded</td>
+<td class="x84">Schools</td>
+<td class="x84">Private Sector Public Funded</td>
+<td class="x105">Total</td>
+<td class="x84">General FE College incl Tertiary</td>
+<td class="x84">Sixth form college</td>
+<td class="x84">Special colleges</td>
+<td class="x84">Other Public Funded</td>
+<td class="x84">Schools</td>
+<td class="x84">Private Sector Public Funded</td>
+<td class="x105">Total</td>
+<td class="x75"></td>
+</tr>
+<tr height="20">
+<td class="x86" height="20"><font class="font6">of which English</font><font class="font30"><sup>R</sup></font></td>
+<td class="x87" x:num="485380">485,380</td>
+<td class="x87" x:num="20300">20,300</td>
+<td class="x87" x:num="17330">17,330</td>
+<td class="x87" x:num="109250">109,250</td>
+<td class="x87">560</td>
+<td class="x87" x:num="332390">332,390</td>
+<td class="x106" x:num="965200">965,200</td>
+<td class="x87" x:num="312950">312,950</td>
+<td class="x87" x:num="15040">15,040</td>
+<td class="x87" x:num="11550">11,550</td>
+<td class="x87" x:num="78710">78,710</td>
+<td class="x87">410</td>
+<td class="x87" x:num="151810">151,810</td>
+<td class="x106" x:num="570500">570,500</td>
+<td class="x80"></td>
+</tr>
+<tr class="x75" height="20">
+<td class="x88" height="20"><font class="font6">of which maths</font><font class="font30"><sup>R</sup></font></td>
+<td class="x89" x:num="385450">385,450</td>
+<td class="x89" x:num="23000">23,000</td>
+<td class="x89" x:num="14080">14,080</td>
+<td class="x89" x:num="81630">81,630</td>
+<td class="x89">610</td>
+<td class="x89" x:num="343200">343,200</td>
+<td class="x107" x:num="848000">848,000</td>
+<td class="x89" x:num="249260">249,260</td>
+<td class="x89" x:num="16880">16,880</td>
+<td class="x89" x:num="9210">9,210</td>
+<td class="x89" x:num="56020">56,020</td>
+<td class="x89">470</td>
+<td class="x89" x:num="156810">156,810</td>
+<td class="x107" x:num="488700">488,700</td>
+<td class="x75"></td>
+</tr>
+<tr height="20">
+<td class="x90" height="19"><font class="font6">of which ESOL (English for Speakers of Other Languages)</font><font class="font30"><sup>R</sup></font></td>
+<td class="x91" x:num="133400">133,400</td>
+<td class="x91" x:num="3920">3,920</td>
+<td class="x91" x:num="6970">6,970</td>
+<td class="x91" x:num="45450">45,450</td>
+<td class="x91">90</td>
+<td class="x91" x:num="13150">13,150</td>
+<td class="x108" x:num="203000">203,000</td>
+<td class="x91" x:num="99920">99,920</td>
+<td class="x91" x:num="2730">2,730</td>
+<td class="x91" x:num="5490">5,490</td>
+<td class="x91" x:num="33060">33,060</td>
+<td class="x91">80</td>
+<td class="x91" x:num="5480">5,480</td>
+<td class="x108" x:num="146700">146,700</td>
+<td class="x80"></td>
+</tr>
+<tr class="x75" height="20">
+<td class="x92" height="18">Total Learners</td>
+<td class="x93" x:num="752240">752,240</td>
+<td class="x93" x:num="37430">37,430</td>
+<td class="x93" x:num="29130">29,130</td>
+<td class="x93" x:num="190050">190,050</td>
+<td class="x93" x:num="1010">1,010</td>
+<td class="x93" x:num="439930">439,930</td>
+<td class="x109" x:num="1449800">1,449,800</td>
+<td class="x93" x:num="535460">535,460</td>
+<td class="x93" x:num="29180">29,180</td>
+<td class="x93" x:num="21170">21,170</td>
+<td class="x93" x:num="141810">141,810</td>
+<td class="x93">800</td>
+<td class="x93" x:num="237520">237,520</td>
+<td class="x109" x:num="965900">965,900</td>
+<td class="x75"></td>
+</tr>
+<tr height="20">
+<td class="x94" height="20">Notes</td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x110"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x87"></td>
+<td class="x110"></td>
+<td class="x80"></td>
+</tr>
+<tr height="20">
+<td class="x95" colspan="15" height="20">1) For further information on these tables please see the accompanying notes page.</td>
+<td class="x80"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="60">
+<td colspan="16" height="60"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="60">
+<td colspan="16" height="60"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="61">
+<td colspan="16" height="61"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x75" height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="16" height="20"></td>
+</tr>
+<tr class="x76" height="20">
+<td colspan="15" height="20"></td>
+<td class="x76"></td>
+</tr>
+<tr height="20">
+<td class="x80" colspan="16" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x77" colspan="16" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x95" colspan="15" height="20"></td>
+<td class="x77"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x96" colspan="15" height="20"></td>
+<td class="x77"></td>
+</tr>
+<tr class="x78" height="20">
+<td class="x97" colspan="15" height="20"></td>
+<td class="x78"></td>
+</tr>
+<tr class="x78" height="20">
+<td class="x98" colspan="15" height="20"></td>
+<td class="x78"></td>
+</tr>
+<tr class="x78" height="20">
+<td class="x98" colspan="15" height="20"></td>
+<td class="x78"></td>
+</tr>
+<tr class="x78" height="40">
+<td class="x99" colspan="15" height="40"></td>
+<td class="x78"></td>
+</tr>
+<tr class="x78" height="20">
+<td class="x97" colspan="9" height="20"></td>
+<td class="x97" colspan="7"></td>
+</tr>
+<tr class="x79" height="60">
+<td class="x101" colspan="15" height="60"></td>
+<td class="x79"></td>
+</tr>
+<tr class="x79" height="40">
+<td class="x102" colspan="15" height="40"></td>
+<td class="x79"></td>
+</tr>
+<tr class="x79" height="40">
+<td class="x99" colspan="15" height="40"></td>
+<td class="x114"></td>
+</tr>
+<tr height="20">
+<td class="x103" colspan="16" height="20"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="396"></td>
+<td colspan="14" width="1260"></td>
+<td width="64"></td>
+</tr>
+<?endif?>
+</table>

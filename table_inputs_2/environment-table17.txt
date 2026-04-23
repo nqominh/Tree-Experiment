@@ -1,0 +1,364 @@
+[COLUMN STRUCTURE]
+Table 2 Scientific procedures by Schedule 2 listed species and source of animals
+
+[ROW STRUCTURE]
+Great Britain 2011
+Species of animal
+  Mouse
+  Rat
+  Guinea pig
+  Hamster
+  Gerbil
+  Rabbit
+  Cat
+  Dog
+  Ferret
+  Pig (genetically modified)
+  Sheep (genetically modified)
+  Primate
+  Quail (Coturnix coturnix)
+  Animals not listed in Schedule 2
+  Total
+Increase on 2010
+Percentage change from 2010
+Percentage of total for 2011
+2010 Totals
+Note. The total number of procedures using animals listed in schedule 2 was 2,988,825.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1678">
+<col width="342"/>
+<col span="8" width="159"/>
+<col mso-width="0" span="4" width="0"/>
+<col width="64"/>
+<tr height="50">
+<td class="x22" colspan="5" height="50" width="978"><a name="Print_Area"><span>Table 2 Scientific procedures by Schedule 2 listed species and source of animals</span></a></td>
+<td colspan="4" width="636"></td>
+<td colspan="4" width="0"></td>
+<td width="64"></td>
+</tr>
+<tr class="x25" height="24">
+<td class="x24" height="24">Great Britain 2011</td>
+<td class="x25" colspan="7"></td>
+<td class="x26"><div>Number of procedures</div></td>
+<td class="x25" colspan="5" id="tc0"></td>
+</tr>
+<tr height="34">
+<td class="x27" height="33">Species of animal</td>
+<td align="center" class="x28" colspan="7">Source</td>
+<td class="x30">Total</td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="174">
+<td class="x31" height="173"></td>
+<td class="x32">Animals acquired from within own designated establishment</td>
+<td class="x32">Animals acquired from another designated breeding or supplying establishment in the UK</td>
+<td class="x32">Animals acquired from non-designated sources in the UK</td>
+<td class="x32">Animals acquired from sources within the EU (outside the UK)</td>
+<td class="x32">Animals acquired from<span>  </span>Council of Europe countries who are signatories<br/>to ETS123</td>
+<td class="x32">Animals acquired from<span>  </span>other sources</td>
+<td class="x32">Animals not listed in Schedule 2</td>
+<td class="x33"></td>
+<td class="x34" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><span>  </span>Mouse</td>
+<td class="x36" x:num="2108970"><span></span> 2,108,970 </td>
+<td class="x36" x:num="551337"><span></span> 551,337 </td>
+<td class="x36" x:num="261"><span></span> 261 </td>
+<td class="x36" x:num="7372"><span></span> 7,372 </td>
+<td class="x36" x:num="155"><span></span> 155 </td>
+<td class="x36" x:num="11668"><span></span> 11,668 </td>
+<td class="x37" x:num="0"><span></span> - </td>
+<td class="x38" x:fmla="=SUM(B5:H5)" x:num="2679763"><span></span> 2,679,763 </td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><span>  </span>Rat</td>
+<td class="x40" x:num="46844"><span></span> 46,844 </td>
+<td class="x40" x:num="223427"><span></span> 223,427 </td>
+<td class="x40" x:num="94"><span></span> 94 </td>
+<td class="x40" x:num="650"><span></span> 650 </td>
+<td class="x40" x:num="1"><span></span> 1 </td>
+<td class="x40" x:num="519"><span></span> 519 </td>
+<td class="x41" x:str="-"><div><span></span> - </div></td>
+<td class="x42" x:fmla="=SUM(B6:H6)" x:num="271535"><span></span> 271,535 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><span>  </span>Guinea pig</td>
+<td class="x43" x:num="222"><span></span> 222 </td>
+<td class="x43" x:num="7589"><span></span> 7,589 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="3726"><span></span> 3,726 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x44" x:str="-"><div><span></span> - </div></td>
+<td class="x45" x:fmla="=SUM(B7:H7)" x:num="11537"><span></span> 11,537 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><span>  </span>Hamster</td>
+<td class="x40" x:num="263"><span></span> 263 </td>
+<td class="x40" x:num="1274"><span></span> 1,274 </td>
+<td class="x40" x:num="0"><span></span> - </td>
+<td class="x40" x:num="457"><span></span> 457 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x41" x:str="-"><div><span></span> - </div></td>
+<td class="x42" x:fmla="=SUM(B8:H8)" x:num="1994"><span></span> 1,994 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><span>  </span>Gerbil</td>
+<td class="x43" x:num="425"><span></span> 425 </td>
+<td class="x43" x:num="5"><span></span> 5 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="0"><span></span> - </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="78"><span></span> 78 </td>
+<td class="x44" x:str="-"><div><span></span> - </div></td>
+<td class="x45" x:fmla="=SUM(B9:H9)" x:num="508"><span></span> 508 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><span>  </span>Rabbit</td>
+<td class="x40" x:num="4650"><span></span> 4,650 </td>
+<td class="x40" x:num="9918"><span></span> 9,918 </td>
+<td class="x40" x:num="3"><span></span> 3 </td>
+<td class="x40" x:num="821"><span></span> 821 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="69"><span></span> 69 </td>
+<td class="x41" x:str="-"><div><span></span> - </div></td>
+<td class="x42" x:fmla="=SUM(B10:H10)" x:num="15461"><span></span> 15,461 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><span>  </span>Cat</td>
+<td class="x43" x:num="73"><span></span> 73 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="11"><span></span> 11 </td>
+<td class="x43" x:num="149"><span></span> 149 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="2"><span></span> 2 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x45" x:fmla="=SUM(B11:H11)" x:num="235"><span></span> 235 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><span>  </span>Dog</td>
+<td class="x40" x:num="1309"><span></span> 1,309 </td>
+<td class="x40" x:num="2481"><span></span> 2,481 </td>
+<td class="x40" x:num="66"><span></span> 66 </td>
+<td class="x40" x:num="428"><span></span> 428 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="268"><span></span> 268 </td>
+<td class="x41" x:str="-"><div><span></span> - </div></td>
+<td class="x42" x:fmla="=SUM(B12:H12)" x:num="4552"><span></span> 4,552 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><span>  </span>Ferret</td>
+<td class="x43" x:num="30"><span></span> 30 </td>
+<td class="x43" x:num="661"><span></span> 661 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x44" x:str="-"><div><span></span> - </div></td>
+<td class="x45" x:fmla="=SUM(B13:H13)" x:num="691"><span></span> 691 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><font class="font4"><span>  </span>Pig</font><font class="font5"> (genetically modified)</font></td>
+<td class="x40" x:num="34"><span></span> 34 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x41" x:num="0"><span></span> - </td>
+<td class="x42" x:fmla="=SUM(B14:H14)" x:num="34"><span></span> 34 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><font class="font4"><span>  </span>Sheep</font><font class="font5"> (genetically modified)</font></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="2"><span></span> 2 </td>
+<td class="x43" x:num="4"><span></span> 4 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x44" x:num="0"><span></span> - </td>
+<td class="x45" x:fmla="=SUM(B15:H15)" x:num="6"><span></span> 6 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x39" height="33"><span>  </span>Primate</td>
+<td class="x40" x:num="647"><span></span> 647 </td>
+<td class="x40" x:num="611"><span></span> 611 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="48"><span></span> 48 </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="1169"><span></span> 1,169 </td>
+<td class="x41" x:str="-"><div><span></span> - </div></td>
+<td class="x42" x:fmla="=SUM(B16:H16)" x:num="2475"><span></span> 2,475 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x35" height="33"><font class="font4"><span>  </span>Quail</font><font class="font7"> </font><font class="font8">(Coturnix coturnix)</font></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:num="34"><span></span> 34 </td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x43" x:str="-"><div><span></span> - </div></td>
+<td class="x44" x:str="-"><div><span></span> - </div></td>
+<td class="x45" x:fmla="=SUM(B17:H17)" x:num="34"><span></span> 34 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x48" height="33"><span>  </span>Animals not listed in Schedule 2</td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="0"><span></span> - </td>
+<td class="x40" x:str="-"><div><span></span> - </div></td>
+<td class="x40" x:num="804032"><span></span> 804,032 </td>
+<td class="x49" x:fmla="=SUM(B18:H18)" x:num="804032"><span></span> 804,032 </td>
+<td class="x23" colspan="2"></td>
+<td colspan="2">% of all procedures</td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x50" height="31"><span>  </span>Total</td>
+<td align="right" class="x51" x:fmla="=SUM(B5:B18)" x:num="2163467"><span></span> 2,163,467 </td>
+<td align="right" class="x51" x:fmla="=SUM(C5:C18)" x:num="797339"><span></span> 797,339 </td>
+<td align="right" class="x51" x:fmla="=SUM(D5:D18)" x:num="439"><span></span> 439 </td>
+<td align="right" class="x51" x:fmla="=SUM(E5:E18)" x:num="13651"><span></span> 13,651 </td>
+<td align="right" class="x51" x:fmla="=SUM(F5:F18)" x:num="156"><span></span> 156 </td>
+<td align="right" class="x51" x:fmla="=SUM(G5:G18)" x:num="13773"><span></span> 13,773 </td>
+<td align="right" class="x51" x:fmla="=SUM(H5:H18)" x:num="804032"><span></span> 804,032 </td>
+<td align="right" class="x52" x:fmla="=SUM(I5:I18)" x:num="3792857"><span></span> 3,792,857 </td>
+<td class="x53">Sch2 total</td>
+<td align="right" class="x47" x:fmla="=SUM(I5:I16)" x:num="2988791"> 2,988,791 </td>
+<td align="right" x:fmla="=K19/I19" x:num="0.788005189755374">0.78800519</td>
+<td></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x54" height="31">Increase on 2010</td>
+<td class="x55" x:fmla="=(B19-B23)" x:num="648">648 </td>
+<td class="x55" x:fmla="=(C19-C23)" x:num="-33192">-33,192 </td>
+<td class="x55" x:fmla="=(D19-D23)" x:num="348">348 </td>
+<td class="x55" x:fmla="=(E19-E23)" x:num="2591">2,591 </td>
+<td class="x55" x:fmla="=(F19-F23)" x:num="-86">-86 </td>
+<td class="x55" x:fmla="=(G19-G23)" x:num="-1363">-1,363 </td>
+<td class="x55" x:fmla="=(H19-H23)" x:num="99185">99,185 </td>
+<td class="x55" x:fmla="=(I19-I23)" x:num="68131">68,131 </td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x54" height="31">Percentage change from 2010</td>
+<td class="x56" x:fmla="=(B19-B23)/ABS(B23)" x:num="0.000299608982536218">0%</td>
+<td class="x56" x:fmla="=(C19-C23)/ABS(C23)" x:num="-0.0399647936079448">-4%</td>
+<td class="x56" x:fmla="=(D19-D23)/ABS(D23)" x:num="3.82417582417582">382%</td>
+<td class="x56" x:fmla="=(E19-E23)/ABS(E23)" x:num="0.234267631103074">23%</td>
+<td class="x56" x:fmla="=(F19-F23)/ABS(F23)" x:num="-0.355371900826446">-36%</td>
+<td class="x56" x:fmla="=(G19-G23)/ABS(G23)" x:num="-0.0900502114164905">-9%</td>
+<td class="x56" x:fmla="=(H19-H23)/ABS(H23)" x:num="0.140718482167052">14%</td>
+<td class="x56" x:fmla="=(I19-I23)/ABS(I23)" x:num="0.0182915468144502">2%</td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x54" height="31">Percentage of total for 2011</td>
+<td class="x57" x:fmla="=B19/$I19" x:num="0.570405633536935">57%</td>
+<td class="x57" x:fmla="=C19/$I19" x:num="0.210221213191006">21%</td>
+<td class="x58" x:fmla="=D19/$I19" x:num="0.000115743883832161">0.0%</td>
+<td class="x58" x:fmla="=E19/$I19" x:num="0.00359913384554176">0.4%</td>
+<td class="x58" x:fmla="=F19/$I19" x:num="4.11299450519753E-05">0.0%</td>
+<td class="x58" x:fmla="=G19/$I19" x:num="0.00363129957180036">0.4%</td>
+<td class="x57" x:fmla="=H19/$I19" x:num="0.211985846025832">21%</td>
+<td class="x57" x:fmla="=I19/$I19" x:num="1">100%</td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x59" height="31">2010 Totals</td>
+<td align="right" class="x60" x:num="2162819"><span></span> 2,162,819 </td>
+<td align="right" class="x60" x:num="830531"><span></span> 830,531 </td>
+<td align="right" class="x60" x:num="91"><span></span> 91 </td>
+<td align="right" class="x60" x:num="11060"><span></span> 11,060 </td>
+<td align="right" class="x60" x:num="242"><span></span> 242 </td>
+<td align="right" class="x60" x:num="15136"><span></span> 15,136 </td>
+<td align="right" class="x60" x:num="704847"><span></span> 704,847 </td>
+<td align="right" class="x60" x:num="3724726"><span></span> 3,724,726 </td>
+<td class="x23" colspan="4"></td>
+<td></td>
+</tr>
+<tr height="33">
+<td class="x61" colspan="4" height="33">Note. The total number of procedures using animals listed in schedule 2 was 2,988,825.</td>
+<td class="x62"></td>
+<td class="x62"></td>
+<td class="x62"></td>
+<td class="x62"></td>
+<td class="x62"></td>
+<td class="x63"></td>
+<td colspan="3"></td>
+<td></td>
+</tr>
+<tr height="17">
+<td colspan="9" height="17"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="476">
+<td colspan="9" height="17"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="17">
+<td colspan="9" height="17"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="2482">
+<td colspan="9" height="17"></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<tr height="23">
+<td colspan="6" height="23"></td>
+<td class="x43"></td>
+<td class="x44"></td>
+<td></td>
+<td colspan="4"></td>
+<td></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="342"></td>
+<td colspan="8" width="1272"></td>
+<td colspan="4" width="0"></td>
+<td width="64"></td>
+</tr>
+<?endif?>
+</table>

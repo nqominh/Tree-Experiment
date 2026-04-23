@@ -1,0 +1,1787 @@
+[COLUMN STRUCTURE]
+Voucher
+Date
+Particulars
+Invoice Amount
+[ AsOnDate to 06/11/2024 ]
+  Balance Amount
+  Due Date
+  Outlet Code
+  Branch Code
+  Branch Name
+  Sales Type Name
+  Employee Name
+  Account Credit Days
+  Account Credit Limit
+  1
+  2
+  3
+  4
+  5
+  6
+  CUSTOMER NAME
+  DAYS
+
+[ROW STRUCTURE]
+DRAGON PVT LTD
+SiVe:2024CBO-31768
+  08/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-32505
+  14/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-32897
+  16/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-33807
+  23/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-33845
+  24/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-33994
+  26/10/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-34567
+  30/10/2024
+    DRAGON PVT LTD
+Sub Total
+G CO PVT
+SiVe:2024LBI-26609
+  09/11/2024
+    G CO PVT
+SiVe:2024LBI-26611
+  09/11/2024
+    G CO PVT
+SiVe:2024LBI-26617
+  09/11/2024
+    G CO PVT
+    LISTON CO
+SiVe:2024LBI-26664
+  09/11/2024
+    G CO PVT
+    LISTON CO
+MY COMPUTER
+SiVe:2024LBI-19757
+  24/08/2024
+    MY COMPUTER
+SiVe:2024LBI-19758
+  24/08/2024
+    MY COMPUTER
+SiVe:2024LBI-19759
+  24/08/2024
+    MY COMPUTER
+SiVe:2024LBI-19760
+  24/08/2024
+    MY COMPUTER
+SiVe:2024LBI-19761
+  24/08/2024
+    MY COMPUTER
+SiVe:2024LBI-19829
+  25/08/2024
+    MY COMPUTER
+SiVe:2024LBI-20545
+  03/09/2024
+    MY COMPUTER
+SiVe:2024LBI-20548
+  03/09/2024
+    MY COMPUTER
+SiVe:2024LBI-20787
+  06/09/2024
+    MY COMPUTER
+SiVe:2024LBI-21078
+  09/09/2024
+    MY COMPUTER
+SiVe:2024LBI-21616
+  15/09/2024
+    MY COMPUTER
+SiVe:2024LBI-21886
+  18/09/2024
+    MY COMPUTER
+SiVe:2024GBH-34969
+  02/11/2024
+    DRAGON PVT LTD
+SiVe:2024GBH-34971
+  02/11/2024
+    DRAGON PVT LTD
+SiVe:2024GBH-34974
+  02/11/2024
+    DRAGON PVT LTD
+SiVe:2024GBH-34977
+  02/11/2024
+    DRAGON PVT LTD
+SiVe:2024CBO-19757
+  24/08/2024
+    MY COMPUTER
+SiVe:2024CBO-19758
+  24/08/2024
+    MY COMPUTER
+SiVe:2024CBO-19759
+  24/08/2024
+    MY COMPUTER
+SiVe:2024IBA-21078
+  09/09/2024
+    MY COMPUTER
+SiVe:2024IBA-21616
+  15/09/2024
+    MY COMPUTER
+SiVe:2024IBA-21886
+  18/09/2024
+    MY COMPUTER
+IGNIC
+SiVe:2024CBO-26617
+  09/11/2024
+    IGNIC
+SiVe:2024CBO-26664
+  09/11/2024
+    IGNIC
+LISTON CO
+SiVe:2024GBH-26617
+  09/11/2024
+    LISTON CO
+SiVe:2024GBH-26664
+  09/11/2024
+    LISTON CO
+G CO PVT -IBA
+SiVe:2024IBA-26617
+  09/11/2024
+    G CO PVT -IBA
+SiVe:2024IBA-26664
+  09/11/2024
+    G CO PVT -IBA
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 s">CAPIK GROUP</td>
+<td class="column6 style2 null"></td>
+<td class="column7 style2 null"></td>
+<td class="column8 style2 null"></td>
+<td class="column9 style2 null"></td>
+<td class="column10 style2 null"></td>
+<td class="column11 style2 null"></td>
+<td class="column12 style2 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style17 n">12/9/2024</td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 null"></td>
+<td class="column5 style11 null"></td>
+<td class="column6 style3 s">Customer listing of outstanding bills</td>
+<td class="column7 style3 null"></td>
+<td class="column8 style3 null"></td>
+<td class="column9 style3 null"></td>
+<td class="column10 style12 null"></td>
+<td class="column11 style12 null"></td>
+<td class="column12 style12 null"></td>
+<td class="column13 style12 null"></td>
+<td class="column14 style12 null"></td>
+<td class="column15 style12 null"></td>
+<td class="column16 style12 null"></td>
+<td class="column17 style12 null"></td>
+<td class="column18 style12 null"></td>
+<td class="column19 style12 null"></td>
+<td class="column20 style12 null"></td>
+<td class="column21"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+<td class="column7 style2 null"></td>
+<td class="column8 style2 null"></td>
+<td class="column9 style2 null"></td>
+<td class="column10 style2 null"></td>
+<td class="column11 style2 null"></td>
+<td class="column12 style2 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 null"></td>
+<td class="column2 style3 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style12 s"> [ AsOnDate to 06/11/2024 ]</td>
+<td class="column5 style12 null"></td>
+<td class="column6 style12 null"></td>
+<td class="column7 style12 null"></td>
+<td class="column8 style12 null"></td>
+<td class="column9 style12 null"></td>
+<td class="column10 style12 null"></td>
+<td class="column11 style12 null"></td>
+<td class="column12 style12 null"></td>
+<td class="column13 style12 null"></td>
+<td class="column14 style12 null"></td>
+<td class="column15 style12 null"></td>
+<td class="column16 style12 null"></td>
+<td class="column17 style12 null"></td>
+<td class="column18 style12 null"></td>
+<td class="column19 style12 null"></td>
+<td class="column20 style12 null"></td>
+<td class="column21"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style4 null"></td>
+<td class="column1 style4 null"></td>
+<td class="column2 style4 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style4 null"></td>
+<td class="column6 style4 null"></td>
+<td class="column7 style4 null"></td>
+<td class="column8 style4 null"></td>
+<td class="column9 style4 null"></td>
+<td class="column10 style4 null"></td>
+<td class="column11 style4 null"></td>
+<td class="column12 style4 null"></td>
+<td class="column13 style4 null"></td>
+<td class="column14 style4 null"></td>
+<td class="column15 style4 null"></td>
+<td class="column16 style4 null"></td>
+<td class="column17 style4 null"></td>
+<td class="column18 style4 null"></td>
+<td class="column19 style4 null"></td>
+<td class="column20 style4 null"></td>
+<td class="column21"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style4 s">Voucher</td>
+<td class="column1 style4 s">Date</td>
+<td class="column2 style4 s">Particulars</td>
+<td class="column3 style4 s">Invoice Amount</td>
+<td class="column4 style13 s">Balance Amount</td>
+<td class="column5 style4 s">Due Date</td>
+<td class="column6 style4 s">Outlet Code</td>
+<td class="column7 style4 s">Branch Code</td>
+<td class="column8 style4 s">Branch Name</td>
+<td class="column9 style4 s">Sales Type Name</td>
+<td class="column10 style4 s">Employee Name</td>
+<td class="column11 style4 s">Account Credit Days</td>
+<td class="column12 style4 s">Account Credit Limit</td>
+<td class="column13 style16 n">1</td>
+<td class="column14 style4 n">2</td>
+<td class="column15 style4 n">3</td>
+<td class="column16 style4 n">4</td>
+<td class="column17 style4 n">5</td>
+<td class="column18 style4 n">6</td>
+<td class="column19 style18 s">CUSTOMER NAME</td>
+<td class="column20 style18 s">DAYS</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style5 s">DRAGON PVT LTD</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style1 s">SiVe:2024CBO-31768</td>
+<td class="column1 style6 n">08/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-93.764</td>
+<td class="column4 style8 n">-93.764</td>
+<td class="column5 style6 n">07/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">62</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style1 s">SiVe:2024CBO-32505</td>
+<td class="column1 style6 n">14/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-15.180</td>
+<td class="column4 style8 n">-15.180</td>
+<td class="column5 style6 n">13/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">56</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style1 s">SiVe:2024CBO-32897</td>
+<td class="column1 style6 n">16/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-48.400</td>
+<td class="column4 style8 n">-48.400</td>
+<td class="column5 style6 n">15/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">54</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style1 s">SiVe:2024CBO-33807</td>
+<td class="column1 style6 n">23/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-8.690</td>
+<td class="column4 style8 n">-8.690</td>
+<td class="column5 style6 n">22/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">47</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style1 s">SiVe:2024CBO-33845</td>
+<td class="column1 style6 n">24/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-8.690</td>
+<td class="column4 style8 n">-8.690</td>
+<td class="column5 style6 n">23/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">46</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style1 s">SiVe:2024CBO-33994</td>
+<td class="column1 style6 n">26/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-50.985</td>
+<td class="column4 style8 n">-50.985</td>
+<td class="column5 style6 n">25/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">44</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style1 s">SiVe:2024CBO-34567</td>
+<td class="column1 style6 n">30/10/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-14.850</td>
+<td class="column4 style8 n">-14.850</td>
+<td class="column5 style6 n">29/11/2024</td>
+<td class="column6 style1 s">SHOP CBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">40</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-240.559</td>
+<td class="column4 style10 n">-240.559</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">210</td>
+<td class="column12 style10 n">4,900.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style5 s">G CO PVT </td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style1 s">SiVe:2024LBI-26609</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT </td>
+<td class="column3 style8 n">-76.601</td>
+<td class="column4 style8 n">-76.601</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Rag</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style1 s">SiVe:2024LBI-26611</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT </td>
+<td class="column3 style8 n">-0.800</td>
+<td class="column4 style8 n">-0.800</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Rag</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style1 s">SiVe:2024LBI-26617</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT </td>
+<td class="column3 style8 n">-20.000</td>
+<td class="column4 style8 n">-20.000</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Rag</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style1 s">SiVe:2024LBI-26664</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT </td>
+<td class="column3 style8 n">-16.817</td>
+<td class="column4 style8 n">-16.817</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Rag</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-114.218</td>
+<td class="column4 style10 n">-114.218</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">120</td>
+<td class="column12 style10 n">1,200.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT </td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style5 s">MY COMPUTER</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style1 s">SiVe:2024LBI-19757</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-195.350</td>
+<td class="column4 style8 n">-28.140</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style1 s">SiVe:2024LBI-19758</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-3.500</td>
+<td class="column4 style8 n">-3.500</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style1 s">SiVe:2024LBI-19759</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-13.860</td>
+<td class="column4 style8 n">-13.860</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style1 s">SiVe:2024LBI-19760</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-16.500</td>
+<td class="column4 style8 n">-16.500</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style1 s">SiVe:2024LBI-19761</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-6.500</td>
+<td class="column4 style8 n">-6.500</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style1 s">SiVe:2024LBI-19829</td>
+<td class="column1 style6 n">25/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-7.700</td>
+<td class="column4 style8 n">-7.700</td>
+<td class="column5 style6 n">19/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">106</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style1 s">SiVe:2024LBI-20545</td>
+<td class="column1 style6 n">03/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-23.100</td>
+<td class="column4 style8 n">-23.100</td>
+<td class="column5 style6 n">28/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">97</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style1 s">SiVe:2024LBI-20548</td>
+<td class="column1 style6 n">03/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-7.000</td>
+<td class="column4 style8 n">-7.000</td>
+<td class="column5 style6 n">28/09/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">97</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style1 s">SiVe:2024LBI-20787</td>
+<td class="column1 style6 n">06/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-1.760</td>
+<td class="column4 style8 n">-1.760</td>
+<td class="column5 style6 n">01/10/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">94</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style1 s">SiVe:2024LBI-21078</td>
+<td class="column1 style6 n">09/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-11.550</td>
+<td class="column4 style8 n">-11.550</td>
+<td class="column5 style6 n">04/10/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">91</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style1 s">SiVe:2024LBI-21616</td>
+<td class="column1 style6 n">15/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-8.350</td>
+<td class="column4 style8 n">-8.350</td>
+<td class="column5 style6 n">10/10/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">85</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style1 s">SiVe:2024LBI-21886</td>
+<td class="column1 style6 n">18/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-16.500</td>
+<td class="column4 style8 n">-16.500</td>
+<td class="column5 style6 n">13/10/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">82</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-311.670</td>
+<td class="column4 style10 n">-144.460</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">300</td>
+<td class="column12 style10 n">3,600.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style5 s">DRAGON PVT LTD</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style1 s">SiVe:2024GBH-34969</td>
+<td class="column1 style6 n">02/11/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-61.001</td>
+<td class="column4 style8 n">-50.501</td>
+<td class="column5 style6 n">27/11/2024</td>
+<td class="column6 style1 s">SHOP GBH</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Hameed</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">37</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style1 s">SiVe:2024GBH-34971</td>
+<td class="column1 style6 n">02/11/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-79.035</td>
+<td class="column4 style8 n">-79.035</td>
+<td class="column5 style6 n">27/11/2024</td>
+<td class="column6 style1 s">SHOP GBH2</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Hameed</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">37</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style1 s">SiVe:2024GBH-34974</td>
+<td class="column1 style6 n">02/11/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-31.778</td>
+<td class="column4 style8 n">-31.778</td>
+<td class="column5 style6 n">27/11/2024</td>
+<td class="column6 style1 s">SHOP GBH</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Hameed</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">37</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style1 s">SiVe:2024GBH-34977</td>
+<td class="column1 style6 n">02/11/2024</td>
+<td class="column2 style7 s">DRAGON PVT LTD</td>
+<td class="column3 style8 n">-127.232</td>
+<td class="column4 style8 n">-127.232</td>
+<td class="column5 style6 n">27/11/2024</td>
+<td class="column6 style1 s">SHOP GBH</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Hameed</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">700.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 n">37</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-299.046</td>
+<td class="column4 style10 n">-288.546</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">120</td>
+<td class="column12 style10 n">2,800.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">DRAGON PVT LTD</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style5 s">MY COMPUTER</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row42">
+<td class="column0 style1 s">SiVe:2024CBO-19757</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-195.350</td>
+<td class="column4 style8 n">-28.140</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPCBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">MARGI</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row43">
+<td class="column0 style1 s">SiVe:2024CBO-19758</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-3.500</td>
+<td class="column4 style8 n">-3.500</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPCBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">MARGI</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row44">
+<td class="column0 style1 s">SiVe:2024CBO-19759</td>
+<td class="column1 style6 n">24/08/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-13.860</td>
+<td class="column4 style8 n">-13.860</td>
+<td class="column5 style6 n">18/09/2024</td>
+<td class="column6 style1 s">SHOPCBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">MARGI</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">107</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row45">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-212.710</td>
+<td class="column4 style10 n">-45.500</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">75</td>
+<td class="column12 style10 n">900.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row46">
+<td class="column0 style5 s">MY COMPUTER</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row47">
+<td class="column0 style1 s">SiVe:2024IBA-21078</td>
+<td class="column1 style6 n">09/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-11.550</td>
+<td class="column4 style8 n">-11.550</td>
+<td class="column5 style6 n">04/10/2024</td>
+<td class="column6 style1 s">SHOPIBA</td>
+<td class="column7 style1 s">IBA</td>
+<td class="column8 style1 s">INTER BRANCH A</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">91</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row48">
+<td class="column0 style1 s">SiVe:2024IBA-21616</td>
+<td class="column1 style6 n">15/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-8.350</td>
+<td class="column4 style8 n">-8.350</td>
+<td class="column5 style6 n">10/10/2024</td>
+<td class="column6 style1 s">SHOPIBA</td>
+<td class="column7 style1 s">IBA</td>
+<td class="column8 style1 s">INTER BRANCH A</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">85</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row49">
+<td class="column0 style1 s">SiVe:2024IBA-21886</td>
+<td class="column1 style6 n">18/09/2024</td>
+<td class="column2 style7 s">MY COMPUTER</td>
+<td class="column3 style8 n">-16.500</td>
+<td class="column4 style8 n">-16.500</td>
+<td class="column5 style6 n">13/10/2024</td>
+<td class="column6 style1 s">SHOPIBA</td>
+<td class="column7 style1 s">IBA</td>
+<td class="column8 style1 s">INTER BRANCH A</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">25</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 n">82</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row50">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-36.400</td>
+<td class="column4 style10 n">-36.400</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">75</td>
+<td class="column12 style10 n">900.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">MY COMPUTER</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row51">
+<td class="column0 style5 s">IGNIC</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">IGNIC</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row52">
+<td class="column0 style1 s">SiVe:2024CBO-26617</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">IGNIC</td>
+<td class="column3 style8 n">-20.000</td>
+<td class="column4 style8 n">-20.000</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPCBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">IGNIC</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row53">
+<td class="column0 style1 s">SiVe:2024CBO-26664</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">IGNIC</td>
+<td class="column3 style8 n">-16.817</td>
+<td class="column4 style8 n">-16.817</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPCBO</td>
+<td class="column7 style1 s">CBO</td>
+<td class="column8 style1 s">CENTERAL BRANCH O</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Manoj</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">IGNIC</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row54">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-36.817</td>
+<td class="column4 style10 n">-36.817</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">60</td>
+<td class="column12 style10 n">600.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">IGNIC</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row55">
+<td class="column0 style5 s">LISTON CO</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row56">
+<td class="column0 style1 s">SiVe:2024GBH-26617</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">LISTON CO</td>
+<td class="column3 style8 n">-20.000</td>
+<td class="column4 style8 n">-20.000</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOP GBH</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Has</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row57">
+<td class="column0 style1 s">SiVe:2024GBH-26664</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">LISTON CO</td>
+<td class="column3 style8 n">-16.817</td>
+<td class="column4 style8 n">-16.817</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOP GBH</td>
+<td class="column7 style1 s">GBH</td>
+<td class="column8 style1 s">GROUND BRANCH H</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Has</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row58">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-36.817</td>
+<td class="column4 style10 n">-36.817</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">60</td>
+<td class="column12 style10 n">600.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row59">
+<td class="column0 style5 s">LISTON CO</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style1 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style1 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row60">
+<td class="column0 style1 s">SiVe:2024LBI-26617</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">LISTON CO</td>
+<td class="column3 style8 n">-20.000</td>
+<td class="column4 style8 n">-20.000</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Has</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row61">
+<td class="column0 style1 s">SiVe:2024LBI-26664</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">LISTON CO</td>
+<td class="column3 style8 n">-16.817</td>
+<td class="column4 style8 n">-16.817</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPLBI</td>
+<td class="column7 style1 s">LBI</td>
+<td class="column8 style1 s">LOWER BRANCH I</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">Has</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row62">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-36.817</td>
+<td class="column4 style10 n">-36.817</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">60</td>
+<td class="column12 style10 n">600.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">LISTON CO</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row63">
+<td class="column0 style5 s">G CO PVT -IBA</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 null"></td>
+<td class="column4 style10 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 null"></td>
+<td class="column12 style10 null"></td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT -IBA</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row64">
+<td class="column0 style1 s">SiVe:2024IBA-26617</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT -IBA</td>
+<td class="column3 style8 n">-612.000</td>
+<td class="column4 style8 n">-550.000</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPIBA</td>
+<td class="column7 style1 s">IBA</td>
+<td class="column8 style1 s">INTER BRANCH A</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT -IBA</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row65">
+<td class="column0 style1 s">SiVe:2024IBA-26664</td>
+<td class="column1 style6 n">09/11/2024</td>
+<td class="column2 style7 s">G CO PVT -IBA</td>
+<td class="column3 style8 n">-16.817</td>
+<td class="column4 style8 n">-16.817</td>
+<td class="column5 style6 n">09/12/2024</td>
+<td class="column6 style1 s">SHOPIBA</td>
+<td class="column7 style1 s">IBA</td>
+<td class="column8 style1 s">INTER BRANCH A</td>
+<td class="column9 style1 s">WHOLE SALES</td>
+<td class="column10 style1 s">TIAGO</td>
+<td class="column11 style14 n">30</td>
+<td class="column12 style8 n">300.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT -IBA</td>
+<td class="column20 style19 n">30</td>
+<td class="column21"> </td>
+</tr>
+<tr class="row66">
+<td class="column0 style9 s">Sub Total</td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style10 n">-628.817</td>
+<td class="column4 style10 n">-566.817</td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style1 null"></td>
+<td class="column8 style1 null"></td>
+<td class="column9 style1 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style1 n">60</td>
+<td class="column12 style10 n">600.000</td>
+<td class="column13 style15 null"></td>
+<td class="column14 style1 null"></td>
+<td class="column15 style1 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style19 s">G CO PVT -IBA</td>
+<td class="column20 style19 s"> </td>
+<td class="column21"> </td>
+</tr>
+</tbody>
+</table>

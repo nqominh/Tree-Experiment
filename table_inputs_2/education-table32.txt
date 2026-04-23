@@ -1,0 +1,1434 @@
+[COLUMN STRUCTURE]
+S.N.
+ADM. N.
+NAME
+FATHER NAME
+CATEGORY
+ATTANDANCE
+MATH
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+HINDI
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+S.S.
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+SCIENCE
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+ENGLISH
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+DRAWING
+  1ST TERM
+  2ND TERM
+  FINAL
+  TOTAL
+  GRAND TOTAL
+  RESULT
+  % marks
+  grade
+  BOY/ GIRL
+  MOTHER'S NAME
+  DATE OF BIRTH
+  RESIDENTIAL ADDRESS
+  HINDU/ MUSLIM
+  ABSENT
+
+[ROW STRUCTURE]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="2602">
+<col span="2" width="74"/>
+<col width="201"/>
+<col width="276"/>
+<col span="2" width="74"/>
+<col span="25" width="46"/>
+<col span="5" width="74"/>
+<col width="87"/>
+<col span="3" width="74"/>
+<tr height="28">
+<td class="x69" colspan="32" height="27" width="1997">M. C. P. CO-ED. SCHOOL, DESU COLONY, NARELA……………ANNUAL RESULT 200…</td>
+<td class="x109" width="74"></td>
+<td class="x109" width="74"></td>
+<td class="x109" width="74"></td>
+<td class="x109" width="74"></td>
+<td class="x109" width="87"></td>
+<td class="x109" width="74"></td>
+<td class="x120" width="74"></td>
+<td class="x120" width="74"></td>
+</tr>
+<tr height="23">
+<td class="x71" height="98" rowspan="2">S.N.</td>
+<td class="x72" height="98" rowspan="2">ADM. N.</td>
+<td class="x71" height="98" rowspan="2">NAME</td>
+<td class="x71" height="98" rowspan="2">FATHER NAME</td>
+<td class="x78" height="98" rowspan="2"><div>CATEGORY</div></td>
+<td class="x78" height="98" rowspan="2"><div>ATTANDANCE</div></td>
+<td class="x79" colspan="4">MATH</td>
+<td class="x88" colspan="4">HINDI</td>
+<td class="x96" colspan="4">S.S.</td>
+<td class="x79" colspan="4">SCIENCE</td>
+<td class="x79" colspan="4">ENGLISH</td>
+<td class="x79" colspan="4">DRAWING</td>
+<td class="x104"></td>
+<td class="x104"></td>
+<td class="x110"></td>
+<td class="x110"></td>
+<td class="x111"></td>
+<td class="x110"></td>
+<td class="x110"></td>
+<td class="x110"></td>
+<td class="x120"></td>
+<td class="x120"></td>
+</tr>
+<tr height="78">
+<td class="x83"><div>1ST TERM</div></td>
+<td class="x84"><div>2ND TERM</div></td>
+<td class="x84"><div>FINAL</div></td>
+<td class="x90"><div>TOTAL</div></td>
+<td class="x91"><div>1ST TERM</div></td>
+<td class="x92"><div>2ND TERM</div></td>
+<td class="x92"><div>FINAL</div></td>
+<td class="x92"><div>TOTAL</div></td>
+<td class="x92"><div>1ST TERM</div></td>
+<td class="x92"><div>2ND TERM</div></td>
+<td class="x92"><div>FINAL</div></td>
+<td class="x92"><div>TOTAL</div></td>
+<td class="x101"><div>1ST TERM</div></td>
+<td class="x102"><div>2ND TERM</div></td>
+<td class="x103"><div>FINAL</div></td>
+<td class="x103"><div>TOTAL</div></td>
+<td class="x103"><div>1ST TERM</div></td>
+<td class="x103"><div>2ND TERM</div></td>
+<td class="x103"><div>FINAL</div></td>
+<td class="x103"><div>TOTAL</div></td>
+<td class="x103"><div>1ST TERM</div></td>
+<td class="x103"><div>2ND TERM</div></td>
+<td class="x103"><div>FINAL</div></td>
+<td class="x103"><div>TOTAL</div></td>
+<td class="x105">GRAND TOTAL</td>
+<td class="x106">RESULT</td>
+<td class="x112"><div>% marks</div></td>
+<td class="x112"><div>grade</div></td>
+<td class="x113">BOY/ GIRL</td>
+<td class="x114">MOTHER'S NAME</td>
+<td class="x113">DATE OF BIRTH</td>
+<td class="x113">RESIDENTIAL ADDRESS</td>
+<td class="x121">HINDU/ MUSLIM</td>
+<td class="x122">ABSENT</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">1</td>
+<td class="x75">2521</td>
+<td class="x76">AMARJEET</td>
+<td class="x76">INDERSAIN CHOUDARY</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">7</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G4:I4)" x:num="15"><span></span> 15 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K4:M4)" x:num="14"><span></span> 14 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O4:Q4)" x:num="17"><span></span> 17 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S4:U4)" x:num="17"><span></span> 17 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W4:Y4)" x:num="13"><span></span> 13 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA4:AC4)" x:num="13"><span></span> 13 </td>
+<td class="x107" x:fmla="=SUM(J4,N4,R4,V4,Z4,AD4)" x:num="89"><span></span> 89 </td>
+<td class="x108" x:fmla='=IF(AE4=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE4=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE4=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE4*100/600" x:num="14.8333333333333">15</td>
+<td class="x116" x:fmla='=IF(AG4&gt;80,"A",IF(AG4&gt;60,"B",IF(AG4&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x117">VIBHA DEVI</td>
+<td class="x123">15/02/2007</td>
+<td class="x124">G.N.3,PIYAU MANIYARI,SNP.HR</td>
+<td class="x125" x:fmla='=IF(E4="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">2</td>
+<td class="x75">2525</td>
+<td class="x76">MINTU</td>
+<td class="x76">AMIRI SHAH</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">8</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G5:I5)" x:num="14"><span></span> 14 </td>
+<td class="x86">4</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K5:M5)" x:num="14"><span></span> 14 </td>
+<td class="x86">7</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O5:Q5)" x:num="16"><span></span> 16 </td>
+<td class="x86">7</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S5:U5)" x:num="16"><span></span> 16 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W5:Y5)" x:num="16"><span></span> 16 </td>
+<td class="x86">5</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA5:AC5)" x:num="15"><span></span> 15 </td>
+<td class="x107" x:fmla="=SUM(J5,N5,R5,V5,Z5,AD5)" x:num="91"><span></span> 91 </td>
+<td class="x108" x:fmla='=IF(AE5=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE5=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE5=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE5*100/600" x:num="15.1666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG5&gt;80,"A",IF(AG5&gt;60,"B",IF(AG5&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">RAJKUMARI DEVI</td>
+<td class="x126" x:num="39357">10/02/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E5="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">3</td>
+<td class="x75">2534</td>
+<td class="x76">PAWAN</td>
+<td class="x76">BALINDER THAKUR</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">7</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G6:I6)" x:num="15"><span></span> 15 </td>
+<td class="x86">6</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K6:M6)" x:num="20"><span></span> 20 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O6:Q6)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S6:U6)" x:num="15"><span></span> 15 </td>
+<td class="x86">4</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W6:Y6)" x:num="15"><span></span> 15 </td>
+<td class="x86">4</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA6:AC6)" x:num="9"><span></span> 9 </td>
+<td class="x107" x:fmla="=SUM(J6,N6,R6,V6,Z6,AD6)" x:num="89"><span></span> 89 </td>
+<td class="x108" x:fmla='=IF(AE6=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE6=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE6=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE6*100/600" x:num="14.8333333333333">15</td>
+<td class="x116" x:fmla='=IF(AG6&gt;80,"A",IF(AG6&gt;60,"B",IF(AG6&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">RADHA DEVI</td>
+<td class="x75">25/03/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E6="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">4</td>
+<td class="x75">2538</td>
+<td class="x76">MUNNI</td>
+<td class="x76">VIJAY MAL</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">5</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G7:I7)" x:num="19"><span></span> 19 </td>
+<td class="x86">5</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K7:M7)" x:num="13"><span></span> 13 </td>
+<td class="x86">8</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O7:Q7)" x:num="22"><span></span> 22 </td>
+<td class="x86">8</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S7:U7)" x:num="22"><span></span> 22 </td>
+<td class="x86">6</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W7:Y7)" x:num="16"><span></span> 16 </td>
+<td class="x86">7</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA7:AC7)" x:num="16"><span></span> 16 </td>
+<td class="x107" x:fmla="=SUM(J7,N7,R7,V7,Z7,AD7)" x:num="108"><span></span> 108 </td>
+<td class="x108" x:fmla='=IF(AE7=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE7=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE7=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>THIRD</td>
+<td class="x115" x:fmla="=AE7*100/600">18</td>
+<td class="x116" x:fmla='=IF(AG7&gt;80,"A",IF(AG7&gt;60,"B",IF(AG7&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">SITA</td>
+<td class="x126" x:num="39115">02/02/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E7="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">5</td>
+<td class="x75">2546</td>
+<td class="x76">MEGHA</td>
+<td class="x76">LACHHMAN MEHTO</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G8:I8)" x:num="14"><span></span> 14 </td>
+<td class="x86">5</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K8:M8)" x:num="17"><span></span> 17 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O8:Q8)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S8:U8)" x:num="15"><span></span> 15 </td>
+<td class="x86">5</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W8:Y8)" x:num="16"><span></span> 16 </td>
+<td class="x86">5</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA8:AC8)" x:num="18"><span></span> 18 </td>
+<td class="x107" x:fmla="=SUM(J8,N8,R8,V8,Z8,AD8)" x:num="95"><span></span> 95 </td>
+<td class="x108" x:fmla='=IF(AE8=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE8=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE8=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE8*100/600" x:num="15.8333333333333">16</td>
+<td class="x116" x:fmla='=IF(AG8&gt;80,"A",IF(AG8&gt;60,"B",IF(AG8&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">PHOOL KUMARI</td>
+<td class="x75">22/05//2005</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E8="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">6</td>
+<td class="x75">2547</td>
+<td class="x76">RIYA</td>
+<td class="x76">RAM KANWAR</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G9:I9)" x:num="20"><span></span> 20 </td>
+<td class="x86">4</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K9:M9)" x:num="16"><span></span> 16 </td>
+<td class="x86">6</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O9:Q9)" x:num="20"><span></span> 20 </td>
+<td class="x86">6</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S9:U9)" x:num="20"><span></span> 20 </td>
+<td class="x86">5</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W9:Y9)" x:num="16"><span></span> 16 </td>
+<td class="x86">8</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA9:AC9)" x:num="18"><span></span> 18 </td>
+<td class="x107" x:fmla="=SUM(J9,N9,R9,V9,Z9,AD9)" x:num="110"><span></span> 110 </td>
+<td class="x108" x:fmla='=IF(AE9=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE9=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE9=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>SECOND</td>
+<td class="x115" x:fmla="=AE9*100/600" x:num="18.3333333333333">18</td>
+<td class="x116" x:fmla='=IF(AG9&gt;80,"A",IF(AG9&gt;60,"B",IF(AG9&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">GEETA</td>
+<td class="x126">16/08/2006</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E9="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">7</td>
+<td class="x75">2557</td>
+<td class="x76">PIYUSH GODYAL</td>
+<td class="x76">MANOJ GODYAL</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G10:I10)" x:num="12"><span></span> 12 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K10:M10)" x:num="16"><span></span> 16 </td>
+<td class="x86">5</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O10:Q10)" x:num="13"><span></span> 13 </td>
+<td class="x86">5</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S10:U10)" x:num="12"><span></span> 12 </td>
+<td class="x86">6</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W10:Y10)" x:num="16"><span></span> 16 </td>
+<td class="x86">9</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA10:AC10)" x:num="19"><span></span> 19 </td>
+<td class="x107" x:fmla="=SUM(J10,N10,R10,V10,Z10,AD10)" x:num="88"><span></span> 88 </td>
+<td class="x108" x:fmla='=IF(AE10=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE10=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE10=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE10*100/600" x:num="14.6666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG10&gt;80,"A",IF(AG10&gt;60,"B",IF(AG10&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">PRIYANKA GODYAL</td>
+<td class="x126">29/07/2006</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E10="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">8</td>
+<td class="x75">2565</td>
+<td class="x76">AJAY</td>
+<td class="x76">AMIT KUMAR</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G11:I11)" x:num="15"><span></span> 15 </td>
+<td class="x86">7</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K11:M11)" x:num="17"><span></span> 17 </td>
+<td class="x86">4</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O11:Q11)" x:num="9"><span></span> 9 </td>
+<td class="x86">4</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S11:U11)" x:num="9"><span></span> 9 </td>
+<td class="x86">4</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W11:Y11)" x:num="13"><span></span> 13 </td>
+<td class="x86">5</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA11:AC11)" x:num="19"><span></span> 19 </td>
+<td class="x107" x:fmla="=SUM(J11,N11,R11,V11,Z11,AD11)" x:num="82"><span></span> 82 </td>
+<td class="x108" x:fmla='=IF(AE11=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE11=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE11=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE11*100/600" x:num="13.6666666666667">14</td>
+<td class="x116" x:fmla='=IF(AG11&gt;80,"A",IF(AG11&gt;60,"B",IF(AG11&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">SAROJNI</td>
+<td class="x126" x:num="38996">10/06/2006</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E11="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">9</td>
+<td class="x75">2578</td>
+<td class="x76">RIMJHIM</td>
+<td class="x76">RAJKUMAR</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G12:I12)" x:num="14"><span></span> 14 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K12:M12)" x:num="13"><span></span> 13 </td>
+<td class="x86">7</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O12:Q12)" x:num="19"><span></span> 19 </td>
+<td class="x86">7</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S12:U12)" x:num="19"><span></span> 19 </td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W12:Y12)" x:num="12"><span></span> 12 </td>
+<td class="x86">7</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA12:AC12)" x:num="14"><span></span> 14 </td>
+<td class="x107" x:fmla="=SUM(J12,N12,R12,V12,Z12,AD12)" x:num="91"><span></span> 91 </td>
+<td class="x108" x:fmla='=IF(AE12=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE12=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE12=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE12*100/600" x:num="15.1666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG12&gt;80,"A",IF(AG12&gt;60,"B",IF(AG12&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">SHANTI</td>
+<td class="x126">20/03/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E12="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">10</td>
+<td class="x75">2581</td>
+<td class="x76">LAXMI</td>
+<td class="x76">RAJARAM SHAH</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G13:I13)" x:num="12"><span></span> 12 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K13:M13)" x:num="13"><span></span> 13 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O13:Q13)" x:num="14"><span></span> 14 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S13:U13)" x:num="14"><span></span> 14 </td>
+<td class="x86">6</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W13:Y13)" x:num="14"><span></span> 14 </td>
+<td class="x86">8</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA13:AC13)" x:num="18"><span></span> 18 </td>
+<td class="x107" x:fmla="=SUM(J13,N13,R13,V13,Z13,AD13)" x:num="85"><span></span> 85 </td>
+<td class="x108" x:fmla='=IF(AE13=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE13=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE13=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE13*100/600" x:num="14.1666666666667">14</td>
+<td class="x116" x:fmla='=IF(AG13&gt;80,"A",IF(AG13&gt;60,"B",IF(AG13&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">MAGNI DEVI</td>
+<td class="x126">14/02/2006</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E13="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">11</td>
+<td class="x75">2594</td>
+<td class="x76">NANDNI</td>
+<td class="x76">PRADEEP GUPTA</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G14:I14)" x:num="15"><span></span> 15 </td>
+<td class="x86">6</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K14:M14)" x:num="17"><span></span> 17 </td>
+<td class="x86">6</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O14:Q14)" x:num="19"><span></span> 19 </td>
+<td class="x86">6</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S14:U14)" x:num="19"><span></span> 19 </td>
+<td class="x86">5</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W14:Y14)" x:num="16"><span></span> 16 </td>
+<td class="x86">9</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA14:AC14)" x:num="21"><span></span> 21 </td>
+<td class="x107" x:fmla="=SUM(J14,N14,R14,V14,Z14,AD14)" x:num="107"><span></span> 107 </td>
+<td class="x108" x:fmla='=IF(AE14=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE14=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE14=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE14*100/600" x:num="17.8333333333333">18</td>
+<td class="x116" x:fmla='=IF(AG14&gt;80,"A",IF(AG14&gt;60,"B",IF(AG14&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">CHANCHAL</td>
+<td class="x126">26/01/2007</td>
+<td class="x76">H-644,PKT-8,SEC-A5,NARELA-40</td>
+<td class="x125" x:fmla='=IF(E14="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">12</td>
+<td class="x75">2597</td>
+<td class="x76">ARJUN</td>
+<td class="x76">HIRA LAL</td>
+<td class="x75">SC</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G15:I15)" x:num="18"><span></span> 18 </td>
+<td class="x86">8</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K15:M15)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O15:Q15)" x:num="17"><span></span> 17 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S15:U15)" x:num="17"><span></span> 17 </td>
+<td class="x86">8</td>
+<td class="x86">14</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W15:Y15)" x:num="22"><span></span> 22 </td>
+<td class="x86">6</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA15:AC15)" x:num="14"><span></span> 14 </td>
+<td class="x107" x:fmla="=SUM(J15,N15,R15,V15,Z15,AD15)" x:num="103"><span></span> 103 </td>
+<td class="x108" x:fmla='=IF(AE15=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE15=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE15=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE15*100/600" x:num="17.1666666666667">17</td>
+<td class="x116" x:fmla='=IF(AG15&gt;80,"A",IF(AG15&gt;60,"B",IF(AG15&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">PARVATI</td>
+<td class="x126">30/01/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E15="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">13</td>
+<td class="x75">2615</td>
+<td class="x76">ANJLI</td>
+<td class="x76">SATISH</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">8</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G16:I16)" x:num="18"><span></span> 18 </td>
+<td class="x86">9</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K16:M16)" x:num="14"><span></span> 14 </td>
+<td class="x86">8</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O16:Q16)" x:num="16"><span></span> 16 </td>
+<td class="x86">8</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S16:U16)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W16:Y16)" x:num="15"><span></span> 15 </td>
+<td class="x86">8</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA16:AC16)" x:num="16"><span></span> 16 </td>
+<td class="x107" x:fmla="=SUM(J16,N16,R16,V16,Z16,AD16)" x:num="94"><span></span> 94 </td>
+<td class="x108" x:fmla='=IF(AE16=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE16=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE16=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE16*100/600" x:num="15.6666666666667">16</td>
+<td class="x116" x:fmla='=IF(AG16&gt;80,"A",IF(AG16&gt;60,"B",IF(AG16&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">MALA</td>
+<td class="x126" x:num="39264">07/01/2007</td>
+<td class="x76">S. F. PIYAU MANIYARI,SNP HR.</td>
+<td class="x125" x:fmla='=IF(E16="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">14</td>
+<td class="x75">2637</td>
+<td class="x76">CHAMAN</td>
+<td class="x76">SHIVKUMAR KASYAP</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">8</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G17:I17)" x:num="16"><span></span> 16 </td>
+<td class="x86">7</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K17:M17)" x:num="14"><span></span> 14 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O17:Q17)" x:num="16"><span></span> 16 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S17:U17)" x:num="17"><span></span> 17 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W17:Y17)" x:num="14"><span></span> 14 </td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA17:AC17)" x:num="12"><span></span> 12 </td>
+<td class="x107" x:fmla="=SUM(J17,N17,R17,V17,Z17,AD17)" x:num="89"><span></span> 89 </td>
+<td class="x108" x:fmla='=IF(AE17=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE17=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE17=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE17*100/600" x:num="14.8333333333333">15</td>
+<td class="x116" x:fmla='=IF(AG17&gt;80,"A",IF(AG17&gt;60,"B",IF(AG17&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">SUNITA </td>
+<td class="x126" x:num="39358">10/03/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E17="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">15</td>
+<td class="x75">2694</td>
+<td class="x76">TANZEER</td>
+<td class="x76">JAHAGEER</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">6</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G18:I18)" x:num="11"><span></span> 11 </td>
+<td class="x86">4</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K18:M18)" x:num="11"><span></span> 11 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O18:Q18)" x:num="13"><span></span> 13 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S18:U18)" x:num="13"><span></span> 13 </td>
+<td class="x86">6</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W18:Y18)" x:num="15"><span></span> 15 </td>
+<td class="x86">5</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA18:AC18)" x:num="12"><span></span> 12 </td>
+<td class="x107" x:fmla="=SUM(J18,N18,R18,V18,Z18,AD18)" x:num="75"><span></span> 75 </td>
+<td class="x108" x:fmla='=IF(AE18=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE18=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE18=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE18*100/600" x:num="12.50">13</td>
+<td class="x116" x:fmla='=IF(AG18&gt;80,"A",IF(AG18&gt;60,"B",IF(AG18&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">SHAHNAZ</td>
+<td class="x126" x:num="38628">10/03/2005</td>
+<td class="x76">H-589,PKT-8,SEC-A5,NARELA-40</td>
+<td class="x125" x:fmla='=IF(E18="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">16</td>
+<td class="x75">2715</td>
+<td class="x76">MOH. ANAS</td>
+<td class="x76">MOH. AKIL</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">8</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G19:I19)" x:num="18"><span></span> 18 </td>
+<td class="x86">8</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K19:M19)" x:num="19"><span></span> 19 </td>
+<td class="x86">7</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O19:Q19)" x:num="13"><span></span> 13 </td>
+<td class="x86">7</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S19:U19)" x:num="13"><span></span> 13 </td>
+<td class="x86">4</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W19:Y19)" x:num="10"><span></span> 10 </td>
+<td class="x86">4</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA19:AC19)" x:num="11"><span></span> 11 </td>
+<td class="x107" x:fmla="=SUM(J19,N19,R19,V19,Z19,AD19)" x:num="84"><span></span> 84 </td>
+<td class="x108" x:fmla='=IF(AE19=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE19=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE19=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE19*100/600">14</td>
+<td class="x116" x:fmla='=IF(AG19&gt;80,"A",IF(AG19&gt;60,"B",IF(AG19&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">NAZRIN</td>
+<td class="x126" x:num="38721">01/04/2006</td>
+<td class="x76">H-243,PKT-8,SEC-A5,NARELA-40</td>
+<td class="x125" x:fmla='=IF(E19="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">17</td>
+<td class="x75">2721</td>
+<td class="x76">MUSKAN BANO</td>
+<td class="x76">SHARIF AHMED</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G20:I20)" x:num="20"><span></span> 20 </td>
+<td class="x86">8</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K20:M20)" x:num="17"><span></span> 17 </td>
+<td class="x86">7</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O20:Q20)" x:num="14"><span></span> 14 </td>
+<td class="x86">7</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S20:U20)" x:num="14"><span></span> 14 </td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W20:Y20)" x:num="12"><span></span> 12 </td>
+<td class="x86">6</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA20:AC20)" x:num="15"><span></span> 15 </td>
+<td class="x107" x:fmla="=SUM(J20,N20,R20,V20,Z20,AD20)" x:num="92"><span></span> 92 </td>
+<td class="x108" x:fmla='=IF(AE20=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE20=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE20=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE20*100/600" x:num="15.3333333333333">15</td>
+<td class="x116" x:fmla='=IF(AG20&gt;80,"A",IF(AG20&gt;60,"B",IF(AG20&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">SHABIRA BANO</td>
+<td class="x126" x:num="38779">03/03/2006</td>
+<td class="x76">H-393,PKT-8,SEC-A5,NARELA-40</td>
+<td class="x125" x:fmla='=IF(E20="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">18</td>
+<td class="x75">2771</td>
+<td class="x76">USHA</td>
+<td class="x76">BHIM BAHADUR</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">6</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G21:I21)" x:num="19"><span></span> 19 </td>
+<td class="x86">5</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K21:M21)" x:num="10"><span></span> 10 </td>
+<td class="x86">5</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O21:Q21)" x:num="12"><span></span> 12 </td>
+<td class="x86">5</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S21:U21)" x:num="12"><span></span> 12 </td>
+<td class="x86">9</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W21:Y21)" x:num="18"><span></span> 18 </td>
+<td class="x86">6</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA21:AC21)" x:num="11"><span></span> 11 </td>
+<td class="x107" x:fmla="=SUM(J21,N21,R21,V21,Z21,AD21)" x:num="82"><span></span> 82 </td>
+<td class="x108" x:fmla='=IF(AE21=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE21=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE21=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE21*100/600" x:num="13.6666666666667">14</td>
+<td class="x116" x:fmla='=IF(AG21&gt;80,"A",IF(AG21&gt;60,"B",IF(AG21&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">MEENA</td>
+<td class="x75">20/03/04</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E21="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">19</td>
+<td class="x75">2780</td>
+<td class="x76">TANU</td>
+<td class="x76">BASANT KUMAR</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">5</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G22:I22)" x:num="13"><span></span> 13 </td>
+<td class="x86">9</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K22:M22)" x:num="17"><span></span> 17 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O22:Q22)" x:num="13"><span></span> 13 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S22:U22)" x:num="13"><span></span> 13 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W22:Y22)" x:num="16"><span></span> 16 </td>
+<td class="x86">8</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA22:AC22)" x:num="16"><span></span> 16 </td>
+<td class="x107" x:fmla="=SUM(J22,N22,R22,V22,Z22,AD22)" x:num="88"><span></span> 88 </td>
+<td class="x108" x:fmla='=IF(AE22=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE22=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE22=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE22*100/600" x:num="14.6666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG22&gt;80,"A",IF(AG22&gt;60,"B",IF(AG22&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">CHANDA DEVI</td>
+<td class="x75">26/10/06</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E22="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">20</td>
+<td class="x75">2791</td>
+<td class="x76">ALPIYA</td>
+<td class="x76">AARIF</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">5</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G23:I23)" x:num="12"><span></span> 12 </td>
+<td class="x86">6</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K23:M23)" x:num="14"><span></span> 14 </td>
+<td class="x86">4</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O23:Q23)" x:num="10"><span></span> 10 </td>
+<td class="x86">4</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S23:U23)" x:num="10"><span></span> 10 </td>
+<td class="x86">5</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W23:Y23)" x:num="18"><span></span> 18 </td>
+<td class="x86">4</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA23:AC23)" x:num="14"><span></span> 14 </td>
+<td class="x107" x:fmla="=SUM(J23,N23,R23,V23,Z23,AD23)" x:num="78"><span></span> 78 </td>
+<td class="x108" x:fmla='=IF(AE23=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE23=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE23=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE23*100/600">13</td>
+<td class="x116" x:fmla='=IF(AG23&gt;80,"A",IF(AG23&gt;60,"B",IF(AG23&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">GUDDI</td>
+<td class="x126" x:num="39358">10/03/2007</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E23="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">21</td>
+<td class="x75">2794</td>
+<td class="x76">MD. YUSUF</td>
+<td class="x76">MD. HAROON</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">5</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G24:I24)" x:num="10"><span></span> 10 </td>
+<td class="x86">8</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K24:M24)" x:num="13"><span></span> 13 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O24:Q24)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S24:U24)" x:num="15"><span></span> 15 </td>
+<td class="x86">8</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W24:Y24)" x:num="20"><span></span> 20 </td>
+<td class="x86">4</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA24:AC24)" x:num="15"><span></span> 15 </td>
+<td class="x107" x:fmla="=SUM(J24,N24,R24,V24,Z24,AD24)" x:num="88"><span></span> 88 </td>
+<td class="x108" x:fmla='=IF(AE24=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE24=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE24=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE24*100/600" x:num="14.6666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG24&gt;80,"A",IF(AG24&gt;60,"B",IF(AG24&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">TARA KHATOON</td>
+<td class="x126" x:num="38788">03/12/2006</td>
+<td class="x76">H. 87,PKT 7,SEC. A6,NARELA</td>
+<td class="x125" x:fmla='=IF(E24="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">22</td>
+<td class="x75">2810</td>
+<td class="x76">SALMA KHATOON</td>
+<td class="x76">LAL MOHMAD</td>
+<td class="x75">MIN</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G25:I25)" x:num="12"><span></span> 12 </td>
+<td class="x86">5</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K25:M25)" x:num="10"><span></span> 10 </td>
+<td class="x86">4</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O25:Q25)" x:num="9"><span></span> 9 </td>
+<td class="x86">4</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S25:U25)" x:num="9"><span></span> 9 </td>
+<td class="x86">8</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W25:Y25)" x:num="15"><span></span> 15 </td>
+<td class="x86">8</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA25:AC25)" x:num="18"><span></span> 18 </td>
+<td class="x107" x:fmla="=SUM(J25,N25,R25,V25,Z25,AD25)" x:num="73"><span></span> 73 </td>
+<td class="x108" x:fmla='=IF(AE25=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE25=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE25=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE25*100/600" x:num="12.1666666666667">12</td>
+<td class="x116" x:fmla='=IF(AG25&gt;80,"A",IF(AG25&gt;60,"B",IF(AG25&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">ANGURA KHATOON</td>
+<td class="x75">20/06/06</td>
+<td class="x76">SURAJ COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E25="MIN","MUSLIM","HINDU")'>MUSLIM</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">23</td>
+<td class="x75">2832</td>
+<td class="x76">JATIN</td>
+<td class="x76">MAHENDER </td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G26:I26)" x:num="12"><span></span> 12 </td>
+<td class="x86">4</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K26:M26)" x:num="10"><span></span> 10 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O26:Q26)" x:num="14"><span></span> 14 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S26:U26)" x:num="14"><span></span> 14 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W26:Y26)" x:num="16"><span></span> 16 </td>
+<td class="x86">4</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA26:AC26)" x:num="10"><span></span> 10 </td>
+<td class="x107" x:fmla="=SUM(J26,N26,R26,V26,Z26,AD26)" x:num="76"><span></span> 76 </td>
+<td class="x108" x:fmla='=IF(AE26=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE26=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE26=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE26*100/600" x:num="12.6666666666667">13</td>
+<td class="x116" x:fmla='=IF(AG26&gt;80,"A",IF(AG26&gt;60,"B",IF(AG26&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">BABY</td>
+<td class="x126" x:num="38236">09/06/2004</td>
+<td class="x76">H320,PKT-8,SEC.A5,NARELA</td>
+<td class="x125" x:fmla='=IF(E26="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">24</td>
+<td class="x75">2892</td>
+<td class="x76">NIKHIL KUMAR</td>
+<td class="x76">ANIL KUMAR</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G27:I27)" x:num="21"><span></span> 21 </td>
+<td class="x86">6</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K27:M27)" x:num="13"><span></span> 13 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O27:Q27)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">6</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S27:U27)" x:num="15"><span></span> 15 </td>
+<td class="x86">5</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W27:Y27)" x:num="15"><span></span> 15 </td>
+<td class="x86">7</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA27:AC27)" x:num="12"><span></span> 12 </td>
+<td class="x107" x:fmla="=SUM(J27,N27,R27,V27,Z27,AD27)" x:num="91"><span></span> 91 </td>
+<td class="x108" x:fmla='=IF(AE27=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE27=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE27=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE27*100/600" x:num="15.1666666666667">15</td>
+<td class="x116" x:fmla='=IF(AG27&gt;80,"A",IF(AG27&gt;60,"B",IF(AG27&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">KRISHNA SHARMA</td>
+<td class="x75">14/05/2006</td>
+<td class="x76">H.NO. 163 JANTA FLATS PKT 1 SEC. A5 NARELA</td>
+<td class="x125" x:fmla='=IF(E27="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">25</td>
+<td class="x75">2899</td>
+<td class="x76">ANKIT<span>  </span></td>
+<td class="x76">GARIBNATH JHA</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">8</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G28:I28)" x:num="17"><span></span> 17 </td>
+<td class="x86">7</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K28:M28)" x:num="14"><span></span> 14 </td>
+<td class="x86">4</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O28:Q28)" x:num="15"><span></span> 15 </td>
+<td class="x86">4</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S28:U28)" x:num="15"><span></span> 15 </td>
+<td class="x86">9</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W28:Y28)" x:num="14"><span></span> 14 </td>
+<td class="x86">6</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA28:AC28)" x:num="14"><span></span> 14 </td>
+<td class="x107" x:fmla="=SUM(J28,N28,R28,V28,Z28,AD28)" x:num="89"><span></span> 89 </td>
+<td class="x108" x:fmla='=IF(AE28=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE28=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE28=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE28*100/600" x:num="14.8333333333333">15</td>
+<td class="x116" x:fmla='=IF(AG28&gt;80,"A",IF(AG28&gt;60,"B",IF(AG28&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">SAVITA JHA</td>
+<td class="x75">31/08/2006</td>
+<td class="x76">NEW SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E28="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">YES</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">26</td>
+<td class="x77">2945</td>
+<td class="x77">PRIYANKA KUMARI</td>
+<td class="x77">RAM BILAS SHARMA</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G29:I29)" x:num="18"><span></span> 18 </td>
+<td class="x86">9</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K29:M29)" x:num="18"><span></span> 18 </td>
+<td class="x86">9</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O29:Q29)" x:num="20"><span></span> 20 </td>
+<td class="x86">9</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S29:U29)" x:num="20"><span></span> 20 </td>
+<td class="x86">5</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W29:Y29)" x:num="13"><span></span> 13 </td>
+<td class="x86">7</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA29:AC29)" x:num="15"><span></span> 15 </td>
+<td class="x107" x:fmla="=SUM(J29,N29,R29,V29,Z29,AD29)" x:num="104"><span></span> 104 </td>
+<td class="x108" x:fmla='=IF(AE29=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE29=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE29=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE29*100/600" x:num="17.3333333333333">17</td>
+<td class="x116" x:fmla='=IF(AG29&gt;80,"A",IF(AG29&gt;60,"B",IF(AG29&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x119">SARITA DEVI</td>
+<td class="x127" x:num="37898">10/04/2003</td>
+<td class="x77"><span>157, SECT</span>-A5, PKT-<span>1, NARELA</span></td>
+<td class="x125" x:fmla='=IF(E29="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">27</td>
+<td class="x77">2928</td>
+<td class="x77">PANKAJ</td>
+<td class="x77">SHANKAR</td>
+<td class="x75">OBC </td>
+<td class="x85"></td>
+<td class="x86">6</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G30:I30)" x:num="19"><span></span> 19 </td>
+<td class="x86">8</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K30:M30)" x:num="15"><span></span> 15 </td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O30:Q30)" x:num="12"><span></span> 12 </td>
+<td class="x86">4</td>
+<td class="x86">8</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S30:U30)" x:num="12"><span></span> 12 </td>
+<td class="x86">8</td>
+<td class="x86">5</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W30:Y30)" x:num="13"><span></span> 13 </td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA30:AC30)" x:num="16"><span></span> 16 </td>
+<td class="x107" x:fmla="=SUM(J30,N30,R30,V30,Z30,AD30)" x:num="87"><span></span> 87 </td>
+<td class="x108" x:fmla='=IF(AE30=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE30=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE30=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE30*100/600" x:num="14.50">15</td>
+<td class="x116" x:fmla='=IF(AG30&gt;80,"A",IF(AG30&gt;60,"B",IF(AG30&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x119">YASHODA</td>
+<td class="x127" x:num="38452">04/10/2005</td>
+<td class="x77"><span>SHIVPURI</span> COLONY,KU<span>NDLI,HR.</span></td>
+<td class="x125" x:fmla='=IF(E30="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">28</td>
+<td class="x77">2946</td>
+<td class="x77">RAHUL KUMAR</td>
+<td class="x77">PARSHURAM SHARMA</td>
+<td class="x75">OBC</td>
+<td class="x85"></td>
+<td class="x86">7</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G31:I31)" x:num="19"><span></span> 19 </td>
+<td class="x86">9</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K31:M31)" x:num="22"><span></span> 22 </td>
+<td class="x86">5</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O31:Q31)" x:num="17"><span></span> 17 </td>
+<td class="x86">5</td>
+<td class="x86">12</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S31:U31)" x:num="17"><span></span> 17 </td>
+<td class="x86">9</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W31:Y31)" x:num="19"><span></span> 19 </td>
+<td class="x86">7</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA31:AC31)" x:num="17"><span></span> 17 </td>
+<td class="x107" x:fmla="=SUM(J31,N31,R31,V31,Z31,AD31)" x:num="111"><span></span> 111 </td>
+<td class="x108" x:fmla='=IF(AE31=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE31=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE31=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>IST</td>
+<td class="x115" x:fmla="=AE31*100/600" x:num="18.50">19</td>
+<td class="x116" x:fmla='=IF(AG31&gt;80,"A",IF(AG31&gt;60,"B",IF(AG31&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x119">BINDU DEVI</td>
+<td class="x127" x:num="38145">06/07/2004</td>
+<td class="x77"><span>171,G.NO.-6,</span> RAJIV CO<span>LONY, NARELA</span></td>
+<td class="x125" x:fmla='=IF(E31="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">29</td>
+<td class="x75">2713</td>
+<td class="x76">KAJAL</td>
+<td class="x76">BHOLA SHAHU</td>
+<td class="x75">GEN</td>
+<td class="x85"></td>
+<td class="x86">9</td>
+<td class="x86">7</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G32:I32)" x:num="16"><span></span> 16 </td>
+<td class="x86">6</td>
+<td class="x86">8</td>
+<td class="x99"></td>
+<td class="x98" x:fmla="=SUM(K32:M32)" x:num="14"><span></span> 14 </td>
+<td class="x86">9</td>
+<td class="x86">9</td>
+<td class="x99"></td>
+<td class="x98" x:fmla="=SUM(O32:Q32)" x:num="18"><span></span> 18 </td>
+<td class="x86">9</td>
+<td class="x86">5</td>
+<td class="x99"></td>
+<td class="x98" x:fmla="=SUM(S32:U32)" x:num="14"><span></span> 14 </td>
+<td class="x86">5</td>
+<td class="x86">10</td>
+<td class="x99"></td>
+<td class="x98" x:fmla="=SUM(W32:Y32)" x:num="15"><span></span> 15 </td>
+<td class="x86">5</td>
+<td class="x86">12</td>
+<td class="x99"></td>
+<td class="x94" x:fmla="=SUM(AA32:AC32)" x:num="17"><span></span> 17 </td>
+<td class="x107" x:fmla="=SUM(J32,N32,R32,V32,Z32,AD32)" x:num="94"><span></span> 94 </td>
+<td class="x108" x:fmla='=IF(AE32=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE32=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE32=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE32*100/600" x:num="15.6666666666667">16</td>
+<td class="x116" x:fmla='=IF(AG32&gt;80,"A",IF(AG32&gt;60,"B",IF(AG32&gt;40,"C","D")))'>D</td>
+<td class="x93">GIRL</td>
+<td class="x118">REKHA DEVI</td>
+<td class="x75">24/09/2005</td>
+<td class="x76">SHIVPURI COLONY,KUNDLI,HR.</td>
+<td class="x125" x:fmla='=IF(E32="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<tr height="40">
+<td class="x75" height="38">30</td>
+<td class="x75">2952</td>
+<td class="x76">ROHAN KUMAR</td>
+<td class="x76">SANJAY SINGH</td>
+<td class="x75">SC</td>
+<td class="x85"></td>
+<td class="x86">4</td>
+<td class="x86">13</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(G33:I33)" x:num="17"><span></span> 17 </td>
+<td class="x86">5</td>
+<td class="x86">11</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(K33:M33)" x:num="16"><span></span> 16 </td>
+<td class="x86">9</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(O33:Q33)" x:num="19"><span></span> 19 </td>
+<td class="x86">9</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(S33:U33)" x:num="19"><span></span> 19 </td>
+<td class="x86">5</td>
+<td class="x86">9</td>
+<td class="x93"></td>
+<td class="x98" x:fmla="=SUM(W33:Y33)" x:num="14"><span></span> 14 </td>
+<td class="x86">6</td>
+<td class="x86">10</td>
+<td class="x93"></td>
+<td class="x94" x:fmla="=SUM(AA33:AC33)" x:num="16"><span></span> 16 </td>
+<td class="x107" x:fmla="=SUM(J33,N33,R33,V33,Z33,AD33)" x:num="101"><span></span> 101 </td>
+<td class="x108" x:fmla='=IF(AE33=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+0),"IST",IF(AE33=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+1),"SECOND",IF(AE33=LARGE(AE:AE,COUNTIF(AE:AE,MAX(AE:AE))+2),"THIRD","PASS")))'>PASS</td>
+<td class="x115" x:fmla="=AE33*100/600" x:num="16.8333333333333">17</td>
+<td class="x116" x:fmla='=IF(AG33&gt;80,"A",IF(AG33&gt;60,"B",IF(AG33&gt;40,"C","D")))'>D</td>
+<td class="x93">BOY</td>
+<td class="x118">SUNITA DEVI</td>
+<td class="x126" x:num="38823">04/16/2006</td>
+<td class="x76">G.NO.-1, SWATANTER NAGAR, NARELA</td>
+<td class="x125" x:fmla='=IF(E33="MIN","MUSLIM","HINDU")'>HINDU</td>
+<td class="x125">NO</td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td colspan="2" width="148"></td>
+<td width="201"></td>
+<td width="276"></td>
+<td colspan="2" width="148"></td>
+<td colspan="25" width="1150"></td>
+<td colspan="5" width="370"></td>
+<td width="87"></td>
+<td colspan="3" width="222"></td>
+</tr>
+<?endif?>
+</table>

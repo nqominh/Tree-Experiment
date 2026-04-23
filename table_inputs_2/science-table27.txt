@@ -1,0 +1,178 @@
+[COLUMN STRUCTURE]
+luminal
+  estrous cycle no.
+  variance
+  error bar
+basal
+  estrous cycle no.
+  variance
+  error bar
+
+[ROW STRUCTURE]
+27.544905845363
+37.951610536803
+21.223322773572
+14.03879411071
+9.8832890006329
+45.80341526717
+23.104812306651
+78.402582322556
+128.815623315356
+74.108914822014
+45.76802417025
+71.020839775655
+56.626361951468
+60.569418629501
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style1" colspan="3">luminal</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style1 s style1" colspan="3">basal</td>
+</tr>
+<tr class="row1">
+<td class="column0 style3 s">estrous cycle no.</td>
+<td class="column1 style3 s">variance</td>
+<td class="column2 style3 s">error bar</td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 s">estrous cycle no.</td>
+<td class="column5 style3 s">variance</td>
+<td class="column6 style3 s">error bar</td>
+</tr>
+<tr class="row2">
+<td class="column0 style2 n">27.544905845363</td>
+<td class="column1 style2 n">0.96726985156525</td>
+<td class="column2 style2 n">0.12090873144566</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">1.0945152351508</td>
+<td class="column5 style2 n">0.33872738366125</td>
+<td class="column6 style2 n">0.10213014889301</td>
+</tr>
+<tr class="row3">
+<td class="column0 style2 n">37.951610536803</td>
+<td class="column1 style2 n">1.7961072689209</td>
+<td class="column2 style2 n">0.63501981479621</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">37.951610536803</td>
+<td class="column5 style2 n">1.1315844092091</td>
+<td class="column6 style2 n">0.34118553672388</td>
+</tr>
+<tr class="row4">
+<td class="column0 style2 n">21.223322773572</td>
+<td class="column1 style2 n">0.57321846049934</td>
+<td class="column2 style2 n">0.11135179734504</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">21.223322773572</td>
+<td class="column5 style2 n">0.58295710725646</td>
+<td class="column6 style2 n">0.088387728500308</td>
+</tr>
+<tr class="row5">
+<td class="column0 style2 n">14.03879411071</td>
+<td class="column1 style2 n">0.75255991963007</td>
+<td class="column2 style2 n">0.19763191711965</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">45.80341526717</td>
+<td class="column5 style2 n">2.2900953065192</td>
+<td class="column6 style2 n">0.74300503029687</td>
+</tr>
+<tr class="row6">
+<td class="column0 style2 n">9.8832890006329</td>
+<td class="column1 style2 n">0.57986904926417</td>
+<td class="column2 style2 n">0.090560330826355</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">23.104812306651</td>
+<td class="column5 style2 n">0.80522503470171</td>
+<td class="column6 style2 n">0.16104500694034</td>
+</tr>
+<tr class="row7">
+<td class="column0 style2 n">45.80341526717</td>
+<td class="column1 style2 n">1.8028076642099</td>
+<td class="column2 style2 n">0.18795569188016</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">45.76802417025</td>
+<td class="column5 style2 n">2.0197658833893</td>
+<td class="column6 style2 n">0.28009113296126</td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 n">23.104812306651</td>
+<td class="column1 style2 n">0.70796335675063</td>
+<td class="column2 style2 n">0.1061281941065</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">71.020839775655</td>
+<td class="column5 style2 n">2.2259836410574</td>
+<td class="column6 style2 n">0.36844743385434</td>
+</tr>
+<tr class="row9">
+<td class="column0 style2 n">78.402582322556</td>
+<td class="column1 style2 n">4.0795863442683</td>
+<td class="column2 style2 n">0.80787847902769</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 n">60.569418629501</td>
+<td class="column5 style2 n">3.9557240721616</td>
+<td class="column6 style2 n">1.6149175900067</td>
+</tr>
+<tr class="row10">
+<td class="column0 style4 s">128.815623315356</td>
+<td class="column1 style2 n">6.2504393367904</td>
+<td class="column2 style2 n">0.92662677744551</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style2 n">74.108914822014</td>
+<td class="column1 style2 n">2.213664831572</td>
+<td class="column2 style2 n">0.40415805433596</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style2 n">45.76802417025</td>
+<td class="column1 style2 n">1.366285746537</td>
+<td class="column2 style2 n">0.1582936164514</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style2 n">71.020839775655</td>
+<td class="column1 style2 n">2.6850694186369</td>
+<td class="column2 style2 n">0.3480943990313</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style2 n">56.626361951468</td>
+<td class="column1 style2 n">2.1519314295153</td>
+<td class="column2 style2 n">0.78577425743324</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style2 n">60.569418629501</td>
+<td class="column1 style2 n">2.0662634282097</td>
+<td class="column2 style2 n">0.56236567480974</td>
+<td class="column3 style2 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style2 null"></td>
+<td class="column6 style2 null"></td>
+</tr>
+</tbody>
+</table>

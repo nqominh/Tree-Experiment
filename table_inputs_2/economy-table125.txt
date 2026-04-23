@@ -1,0 +1,173 @@
+[COLUMN STRUCTURE]
+Category
+Line Item
+Quantity
+Unit
+Unit Price
+Tax
+Total
+
+[ROW STRUCTURE]
+Section
+  Main House
+  Shed
+Flashing
+  Step flashing
+  R&R Chimney flashing - small (24" x 24")
+Underlayment
+  Ice & water shield
+  Roofing felt - 15 lb.
+Edge
+  Valley metal
+  Gravel stop
+  Rake Edge
+Total
+Grand Total
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Category</td>
+<td class="column1 style1 s">Line Item</td>
+<td class="column2 style2 s">Quantity</td>
+<td class="column3 style3 s">Unit</td>
+<td class="column4 style3 s">Unit Price</td>
+<td class="column5 style3 s">Tax</td>
+<td class="column6 style3 s">Total</td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s">Section</td>
+<td class="column1 style4 s">Main House</td>
+<td class="column2 style5 null"></td>
+<td class="column3 style6 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style5 null"></td>
+<td class="column6 style5 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 s">Flashing</td>
+<td class="column1 style7 s">Step flashing</td>
+<td class="column2 style8 n">15</td>
+<td class="column3 style9 s">LF</td>
+<td class="column4 style18 n">8.14</td>
+<td class="column5 style18 n">1.66</td>
+<td class="column6 style18 n">123.76</td>
+</tr>
+<tr class="row3">
+<td class="column0 style10 s">Underlayment</td>
+<td class="column1 style10 s">Ice &amp; water shield</td>
+<td class="column2 style11 n">10</td>
+<td class="column3 style12 s">SF</td>
+<td class="column4 style19 n">1.65</td>
+<td class="column5 style19 n">0.26</td>
+<td class="column6 style19 n">16.75</td>
+</tr>
+<tr class="row4">
+<td class="column0 style10 s">Edge</td>
+<td class="column1 style10 s">Valley metal</td>
+<td class="column2 style11 n">25</td>
+<td class="column3 style12 s">LF</td>
+<td class="column4 style19 n">4.34</td>
+<td class="column5 style19 n">2.76</td>
+<td class="column6 style19 n">111.26</td>
+</tr>
+<tr class="row5">
+<td class="column0 style10 s">Edge</td>
+<td class="column1 style10 s">Gravel stop</td>
+<td class="column2 style11 n">15</td>
+<td class="column3 style12 s">LF</td>
+<td class="column4 style19 n">1.64</td>
+<td class="column5 style19 n">0.64</td>
+<td class="column6 style19 n">25.24</td>
+</tr>
+<tr class="row6">
+<td class="column0 style10 s">Edge</td>
+<td class="column1 style10 s">Rake Edge</td>
+<td class="column2 style11 n">1.5</td>
+<td class="column3 style12 s">LF</td>
+<td class="column4 style19 n">1.84</td>
+<td class="column5 style19 n">0.06</td>
+<td class="column6 style19 n">2.82</td>
+</tr>
+<tr class="row7">
+<td class="column0 style10 s">Flashing</td>
+<td class="column1 style10 s">Step flashing</td>
+<td class="column2 style11 n">23</td>
+<td class="column3 style12 s">LF</td>
+<td class="column4 style19 n">8.14</td>
+<td class="column5 style19 n">2.54</td>
+<td class="column6 style19 n">189.76</td>
+</tr>
+<tr class="row8">
+<td class="column0 style13 s">Total</td>
+<td class="column1 style13 null"></td>
+<td class="column2 style13 null"></td>
+<td class="column3 style13 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style20 n">7.92</td>
+<td class="column6 style20 n">469.60</td>
+</tr>
+<tr class="row9">
+<td class="column0 style14 s">Section</td>
+<td class="column1 style14 s">Shed</td>
+<td class="column2 style5 null"></td>
+<td class="column3 style6 null"></td>
+<td class="column4 style4 null"></td>
+<td class="column5 style5 null"></td>
+<td class="column6 style5 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style10 s">Flashing</td>
+<td class="column1 style10 s">R&amp;R Chimney flashing - small (24" x 24")</td>
+<td class="column2 style11 n">2</td>
+<td class="column3 style12 s">EA</td>
+<td class="column4 style19 n">242.28</td>
+<td class="column5 style19 n">4.15</td>
+<td class="column6 style19 n">488.71</td>
+</tr>
+<tr class="row11">
+<td class="column0 style10 s">Underlayment</td>
+<td class="column1 style10 s">Roofing felt - 15 lb.</td>
+<td class="column2 style11 n">3</td>
+<td class="column3 style12 s">SQ</td>
+<td class="column4 style19 n">25.97</td>
+<td class="column5 style19 n">1.38</td>
+<td class="column6 style19 n">79.29</td>
+</tr>
+<tr class="row12">
+<td class="column0 style13 s">Total</td>
+<td class="column1 style13 null"></td>
+<td class="column2 style13 null"></td>
+<td class="column3 style13 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style20 n">5.53</td>
+<td class="column6 style20 n">568.00</td>
+</tr>
+<tr class="row13">
+<td class="column0 style15 null"></td>
+<td class="column1 style15 null"></td>
+<td class="column2 style16 null"></td>
+<td class="column3 style17 null"></td>
+<td class="column4 style15 null"></td>
+<td class="column5 style16 null"></td>
+<td class="column6 style16 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style13 s">Grand Total</td>
+<td class="column1 style13 null"></td>
+<td class="column2 style13 null"></td>
+<td class="column3 style13 null"></td>
+<td class="column4 style13 null"></td>
+<td class="column5 style20 n">13.45</td>
+<td class="column6 style20 n">1037.60</td>
+</tr>
+</tbody>
+</table>

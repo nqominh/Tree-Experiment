@@ -1,0 +1,201 @@
+[COLUMN STRUCTURE]
+Pr1
+  Area
+  Intensity
+  Intensity/Area
+Pr2
+  Area
+  Intensity
+  Intensity/Area
+Oct1 probe
+  Area
+  Intensity
+  Intensity/Area
+Pr1/Oct1
+  Intensity/Area
+Pr2/Oct1
+  Intensity/Area
+
+[ROW STRUCTURE]
+Set 1
+  LPS 0h
+Set 2
+  LPS 0.5 h
+Set 3
+  LPS 1h
+Set 4
+  LPS 3h
+Set 5
+  LPS 6h
+Set 6
+  LPS 12h
+Set 7
+  LPS 24h
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 s style5" colspan="3">Pr1</td>
+<td class="column5 style2 null"></td>
+<td class="column6 style3 s style5" colspan="3">Pr2</td>
+<td class="column9 style2 null"></td>
+<td class="column10 style16 s style18" colspan="3">Oct1 probe</td>
+<td class="column13 style19 s">Pr1/Oct1</td>
+<td class="column14 style5 s">Pr2/Oct1</td>
+</tr>
+<tr class="row1">
+<td class="column0 style6 null"></td>
+<td class="column1 style7 null"></td>
+<td class="column2 style8 s">Area</td>
+<td class="column3 style9 s">Intensity</td>
+<td class="column4 style10 s">Intensity/Area</td>
+<td class="column5 style7 null"></td>
+<td class="column6 style8 s">Area</td>
+<td class="column7 style9 s">Intensity</td>
+<td class="column8 style10 s">Intensity/Area</td>
+<td class="column9 style7 null"></td>
+<td class="column10 style8 s">Area</td>
+<td class="column11 style9 s">Intensity</td>
+<td class="column12 style10 s">Intensity/Area</td>
+<td class="column13 style7 null"></td>
+<td class="column14 style20 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style6 s">Set 1</td>
+<td class="column1 style7 s">LPS 0h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">40.62</td>
+<td class="column4 style10 f">812.4</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">51.36</td>
+<td class="column8 style10 f">1027.2</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">129.2</td>
+<td class="column12 style10 f">4306.6666666667</td>
+<td class="column13 style9 f">0.18863777089783</td>
+<td class="column14 style10 f">0.23851393188854</td>
+</tr>
+<tr class="row3">
+<td class="column0 style6 s">Set 2</td>
+<td class="column1 style7 s">LPS 0.5 h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">159.34</td>
+<td class="column4 style10 f">3186.8</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">189.37</td>
+<td class="column8 style10 f">3787.4</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">160.36</td>
+<td class="column12 style10 f">5345.3333333333</td>
+<td class="column13 style9 f">0.59618358692941</td>
+<td class="column14 style10 f">0.70854327762534</td>
+</tr>
+<tr class="row4">
+<td class="column0 style6 s">Set 3</td>
+<td class="column1 style7 s">LPS 1h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">189.48</td>
+<td class="column4 style10 f">3789.6</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">186.81</td>
+<td class="column8 style10 f">3736.2</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">108.57</td>
+<td class="column12 style10 f">3619</td>
+<td class="column13 style9 f">1.0471400939486</td>
+<td class="column14 style10 f">1.03238463664</td>
+</tr>
+<tr class="row5">
+<td class="column0 style6 s">Set 4</td>
+<td class="column1 style7 s">LPS 3h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">179.32</td>
+<td class="column4 style10 f">3586.4</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">172.91</td>
+<td class="column8 style10 f">3458.2</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">123.35</td>
+<td class="column12 style10 f">4111.6666666667</td>
+<td class="column13 style9 f">0.87224969598703</td>
+<td class="column14 style10 f">0.84107012565869</td>
+</tr>
+<tr class="row6">
+<td class="column0 style6 s">Set 5</td>
+<td class="column1 style7 s">LPS 6h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">150.8</td>
+<td class="column4 style10 f">3016</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">162.27</td>
+<td class="column8 style10 f">3245.4</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">121.22</td>
+<td class="column12 style10 f">4040.6666666667</td>
+<td class="column13 style9 f">0.74641148325359</td>
+<td class="column14 style10 f">0.80318429302095</td>
+</tr>
+<tr class="row7">
+<td class="column0 style6 s">Set 6</td>
+<td class="column1 style7 s">LPS 12h</td>
+<td class="column2 style8 n">0.05</td>
+<td class="column3 style9 n">109.04</td>
+<td class="column4 style10 f">2180.8</td>
+<td class="column5 style9 null"></td>
+<td class="column6 style8 n">0.05</td>
+<td class="column7 style9 n">105.63</td>
+<td class="column8 style10 f">2112.6</td>
+<td class="column9 style9 null"></td>
+<td class="column10 style8 n">0.03</td>
+<td class="column11 style9 n">115.39</td>
+<td class="column12 style10 f">3846.3333333333</td>
+<td class="column13 style9 f">0.56698154086143</td>
+<td class="column14 style10 f">0.54925036831615</td>
+</tr>
+<tr class="row8">
+<td class="column0 style11 s">Set 7</td>
+<td class="column1 style12 s">LPS 24h</td>
+<td class="column2 style13 n">0.05</td>
+<td class="column3 style14 n">33.77</td>
+<td class="column4 style15 f">675.4</td>
+<td class="column5 style14 null"></td>
+<td class="column6 style13 n">0.05</td>
+<td class="column7 style14 n">61.95</td>
+<td class="column8 style15 f">1239</td>
+<td class="column9 style14 null"></td>
+<td class="column10 style13 n">0.03</td>
+<td class="column11 style14 n">114.32</td>
+<td class="column12 style15 f">3810.6666666667</td>
+<td class="column13 style14 f">0.17723932820154</td>
+<td class="column14 style15 f">0.3251399580126</td>
+</tr>
+</tbody>
+</table>

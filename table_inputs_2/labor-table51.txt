@@ -1,0 +1,308 @@
+[COLUMN STRUCTURE]
+Technical Skills
+  Microsoft Access
+    Microsoft Outlook
+      Microsoft Excel
+        Microsoft Word
+          Microsoft PowerPoint
+            ARGOS
+              SQL
+                Programming (any language)
+                  Graphic design
+                    Application development
+                      Typing
+                        FA Specific Skills and Knowledge
+Score
+  2
+    3
+      2
+        1
+          2
+            0
+              2
+                Score
+Total
+  21
+    3
+      2
+        1
+          2
+            0
+              2
+                Total
+
+[ROW STRUCTURE]
+Multi-tasking (able to do more than one task effectively simultaneously)
+Banner navigation (Banner page memorization and swift, logical navigation)
+Scholarships (Typical LU scholarships and their amounts, GSR, supplimental grants etc.)
+Federal Direct Loans (Subsidized and Unsubsidized Loans, EC/MPN, COD, Processing)
+Federal Plus Loans (Graduate and Parent Plus Loans, processing)
+Private Loans (Sallie Mae, Wells Fargo, Discover, Processing etc.)
+Loan Issues (defaults, aggs, overlaps, Processing etc.)
+Federal Grants (Pell grant, FSEOG, TEACH, Processing)
+State Grants (VTAG)
+Grant issues (PLEU, Overpayment, signatory requirements, etc.)
+SAP (Effect on aid and DCP, appeal process, status', etc. )
+Withdraws (Effect on aid, DCP, completion rate, R2T4 Calculations etc.)
+External Aid (External aid process and common issues)
+Verification (different types, timeframes, documentation types, etc.)
+Compliance (overawards and other COA and budget issues, Processing)
+FAFSA (how to fill it out, rejects such as SSS, SSA, etc. Transactions and matching)
+Communication Skills
+Editing
+Conflict Management
+Negotiating
+Interviewing
+Writing
+Listening
+Coordinating Skills
+Cataloging
+Following up
+Time Management
+Scheduling
+Correcting
+Reporting
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Financial Aid Individual Knowledge and Skills Inventory</td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s">Technical Skills</td>
+<td class="column1 style5 s">Score</td>
+<td class="column2 style6 s">Total</td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 s">Microsoft Access</td>
+<td class="column1 style8 n">2</td>
+<td class="column2 style9 f">21</td>
+</tr>
+<tr class="row3">
+<td class="column0 style10 s">Microsoft Outlook</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style13 s">Microsoft Excel</td>
+<td class="column1 style14 n">3</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style13 s">Microsoft Word</td>
+<td class="column1 style14 n">3</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style13 s">Microsoft PowerPoint</td>
+<td class="column1 style14 n">2</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style13 s">ARGOS</td>
+<td class="column1 style14 n">2</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style13 s">SQL</td>
+<td class="column1 style14 n">1</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style13 s">Programming (any language)</td>
+<td class="column1 style14 n">1</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style13 s">Graphic design</td>
+<td class="column1 style14 n">2</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style13 s">Application development</td>
+<td class="column1 style14 n">0</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style16 s">Typing</td>
+<td class="column1 style17 n">2</td>
+<td class="column2 style18 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style19 null"></td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style1 s">FA Specific Skills and Knowledge</td>
+<td class="column1 style21 s">Score</td>
+<td class="column2 style22 s">Total</td>
+</tr>
+<tr class="row15">
+<td class="column0 style7 s">Multi-tasking (able to do more than one task effectively simultaneously)</td>
+<td class="column1 style8 n">3</td>
+<td class="column2 style9 f">39</td>
+</tr>
+<tr class="row16">
+<td class="column0 style10 s">Banner navigation (Banner page memorization and swift, logical navigation)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style10 s">Scholarships (Typical LU scholarships and their amounts, GSR, supplimental grants etc.)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style10 s">Federal Direct Loans (Subsidized and Unsubsidized Loans, EC/MPN, COD, Processing)</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style10 s">Federal Plus Loans (Graduate and Parent Plus Loans, processing)</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row20">
+<td class="column0 style10 s">Private Loans (Sallie Mae, Wells Fargo, Discover, Processing etc.)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style10 s">Loan Issues (defaults, aggs, overlaps, Processing etc.)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style10 s">Federal Grants (Pell grant, FSEOG, TEACH, Processing)</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row23">
+<td class="column0 style10 s">State Grants (VTAG)</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row24">
+<td class="column0 style10 s">Grant issues (PLEU, Overpayment, signatory requirements, etc.)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row25">
+<td class="column0 style10 s">SAP (Effect on aid and DCP, appeal process, status', etc. )</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row26">
+<td class="column0 style10 s">Withdraws (Effect on aid, DCP, completion rate, R2T4 Calculations etc.)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row27">
+<td class="column0 style10 s">External Aid (External aid process and common issues)</td>
+<td class="column1 style11 n">1</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row28">
+<td class="column0 style10 s">Verification (different types, timeframes, documentation types, etc.)</td>
+<td class="column1 style11 n">3</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row29">
+<td class="column0 style10 s">Compliance (overawards and other COA and budget issues, Processing)</td>
+<td class="column1 style11 n">2</td>
+<td class="column2 style12 null"></td>
+</tr>
+<tr class="row30">
+<td class="column0 style23 s">FAFSA (how to fill it out, rejects such as SSS, SSA, etc. Transactions and matching)</td>
+<td class="column1 style24 n">3</td>
+<td class="column2 style25 null"></td>
+</tr>
+<tr class="row31">
+<td class="column0 style19 null"></td>
+<td class="column1 style26 null"></td>
+<td class="column2 style26 null"></td>
+</tr>
+<tr class="row32">
+<td class="column0 style27 s">Communication Skills</td>
+<td class="column1 style28 s">Score</td>
+<td class="column2 style29 s">Total</td>
+</tr>
+<tr class="row33">
+<td class="column0 style30 s">Editing</td>
+<td class="column1 style31 n">1</td>
+<td class="column2 style32 f">21</td>
+</tr>
+<tr class="row34">
+<td class="column0 style13 s">Conflict Management</td>
+<td class="column1 style14 n">6</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row35">
+<td class="column0 style13 s">Negotiating</td>
+<td class="column1 style14 n">5</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row36">
+<td class="column0 style13 s">Interviewing</td>
+<td class="column1 style14 n">4</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row37">
+<td class="column0 style13 s">Writing</td>
+<td class="column1 style14 n">2</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row38">
+<td class="column0 style16 s">Listening</td>
+<td class="column1 style17 n">3</td>
+<td class="column2 style18 null"></td>
+</tr>
+<tr class="row39">
+<td class="column0 style19 null"></td>
+<td class="column1 style26 null"></td>
+<td class="column2 style26 null"></td>
+</tr>
+<tr class="row40">
+<td class="column0 style33 s">Coordinating Skills</td>
+<td class="column1 style28 s">Score</td>
+<td class="column2 style29 s">Total</td>
+</tr>
+<tr class="row41">
+<td class="column0 style34 s">Cataloging</td>
+<td class="column1 style31 n">1</td>
+<td class="column2 style32 f">21</td>
+</tr>
+<tr class="row42">
+<td class="column0 style35 s">Following up</td>
+<td class="column1 style14 n">5</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row43">
+<td class="column0 style35 s">Time Management</td>
+<td class="column1 style14 n">6</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row44">
+<td class="column0 style35 s">Scheduling</td>
+<td class="column1 style14 n">2</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row45">
+<td class="column0 style35 s">Correcting</td>
+<td class="column1 style14 n">4</td>
+<td class="column2 style15 null"></td>
+</tr>
+<tr class="row46">
+<td class="column0 style36 s">Reporting</td>
+<td class="column1 style17 n">3</td>
+<td class="column2 style18 null"></td>
+</tr>
+</tbody>
+</table>

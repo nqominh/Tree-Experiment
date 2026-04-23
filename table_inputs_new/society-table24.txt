@@ -1,0 +1,458 @@
+[COLUMN STRUCTURE]
+Risk of COVID Transmission
+
+[ROW STRUCTURE]
+Variable
+Current percentage of population that has or has had COVID
+Number of months until country expects to achieve herd immunity
+Proportion of SARS-CoV2 infected population at end of risk period
+Reproduction number for SARS-CoV2
+Increased risk of infection for inpatient stay vs. ambulatory visit (1 day stay vs. 1 outpatient visit)
+Infection rate within household
+Infection fatality rate
+Children (aged <20)
+Adults (aged 20-59)
+Older adults (60+)
+Household Age Distribution
+Average Household Size
+Children (aged <20)
+Adults (aged 20-59)
+Older adults (60+)
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style3 s">Risk of COVID Transmission </td>
+<td class="column1 style4 null"></td>
+<td class="column2 style5 null"></td>
+<td class="column3 style4 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style6 s">Variable</td>
+<td class="column1 style6 s">Mean</td>
+<td class="column2 style6 s">Suggested Range</td>
+<td class="column3 style6 s">Comment</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style7 s">Current percentage of population that has or has had COVID</td>
+<td class="column1 style8 n">2%</td>
+<td class="column2 style31 s">0% - 72%</td>
+<td class="column3 style9 s">Number of COVID cases in 2020 divided by total population</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row3">
+<td class="column0 style7 s">Number of months until country expects to achieve herd immunity</td>
+<td class="column1 style10 n">8</td>
+<td class="column2 style32 s">Original study in June 2020:  5-6 months - more likely at least 1 year</td>
+<td class="column3 style7 s"><span>Length of community spread (in months). After this period, between 40% and 70% of the population will have been infected (corresponds to herd immunity required for R</span><span><sub>0</sub></span><span> between 1.6 and 3.6</span></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row4">
+<td class="column0 style7 s">Proportion of SARS-CoV2 infected population at end of risk period</td>
+<td class="column1 style11 f">33%</td>
+<td class="column2 style11 s">38% - 72%</td>
+<td class="column3 style33 s"><span>Herd immunity calculated based on R</span><span><sub>0:</sub></span><span><br/>
+=1 - 1/R</span><span><sub>0</sub></span></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style7 s">Reproduction number for SARS-CoV2</td>
+<td class="column1 style10 n">1.5</td>
+<td class="column2 style31 s">1.6 - 3.6</td>
+<td class="column3 style9 s"><span>E</span><span>xpected number</span><span> of cases directly generated by one case in a population where all individuals are </span><span>susceptible</span><span> to infection</span></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style12 s">Increased risk of infection for inpatient stay vs. ambulatory visit (1 day stay vs. 1 outpatient visit)</td>
+<td class="column1 style13 n">3</td>
+<td class="column2 style34 s">2-6</td>
+<td class="column3 style14 s">Higher risk of getting infected  due to a) longer stay in a potentially contagious environment, b) contacts with more health care providers, </td>
+<td class="column4 style15 null"></td>
+<td class="column5 style16 null"></td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style12 s">Infection rate within household</td>
+<td class="column1 style17 n">90%</td>
+<td class="column2 style18 null"></td>
+<td class="column3 style7 s">Assumption that if either child or caretaker gets infected they will infect a large percentage of other household members, owing to the high secondary attack rates observed for family gatherings</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style19 s">Infection fatality rate</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style21 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style12 s">Children (aged &lt;20)</td>
+<td class="column1 style22 n">0.00413%</td>
+<td class="column2 style23 null"></td>
+<td class="column3 style24 s style26" rowspan="3">Based on Ghisolfi S, Almås I,Sandefur JC, et al. Predicted<br/>
+COVID-19 fatality rates basedon age, sex, comorbidities<br/>
+and health system capacity.BMJ Global Health 2020;5:<br/>
+e003094. doi:10.1136/bmjgh-2020-003094</td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style12 s">Adults (aged 20-59)</td>
+<td class="column1 style22 n">0.09618%</td>
+<td class="column2 style23 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style12 s">Older adults (60+)</td>
+<td class="column1 style22 n">1.16295%</td>
+<td class="column2 style23 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style19 s">Household Age Distribution</td>
+<td class="column1 style20 null"></td>
+<td class="column2 style20 null"></td>
+<td class="column3 style21 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style12 s">Average Household Size</td>
+<td class="column1 style27 n">6.3</td>
+<td class="column2 style28 null"></td>
+<td class="column3 style29 null"></td>
+<td class="column4 style30 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style12 s">Children (aged &lt;20)</td>
+<td class="column1 style27 n">3.2</td>
+<td class="column2 style28 null"></td>
+<td class="column3 style29 null"></td>
+<td class="column4 style30 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style12 s">Adults (aged 20-59)</td>
+<td class="column1 style27 n">2.8</td>
+<td class="column2 style28 null"></td>
+<td class="column3 style29 null"></td>
+<td class="column4 style30 null"></td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style12 s">Older adults (60+)</td>
+<td class="column1 style27 n">0.3</td>
+<td class="column2 style28 null"></td>
+<td class="column3 style29 null"></td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+<td class="column15"> </td>
+<td class="column16"> </td>
+<td class="column17"> </td>
+<td class="column18"> </td>
+<td class="column19"> </td>
+<td class="column20"> </td>
+<td class="column21"> </td>
+</tr>
+</tbody>
+</table>

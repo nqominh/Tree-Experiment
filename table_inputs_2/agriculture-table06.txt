@@ -1,0 +1,830 @@
+[COLUMN STRUCTURE]
+Regions and States
+  Northeast
+Cropland
+  12,435
+Grassland pasture and range
+  4,808
+Forest-use land
+  64,525
+Special-use areas
+  11,840
+Urban areas
+  13,788
+Miscellaneous other land
+  3,727
+Total land area
+  111,123
+
+[ROW STRUCTURE]
+Maine
+  New Hampshire
+  Vermont
+  Massachusetts
+  Rhode Island
+  Connecticut
+  New York
+  New Jersey
+  Pennsylvania
+  Delaware
+  Maryland
+  District of Columbia
+Lake States
+  Michigan
+  Wisconsin
+  Minnesota
+Corn Belt
+  Ohio
+  Indiana
+  Illinois
+  Iowa
+  Missouri
+Northern Plains
+  North Dakota
+  South Dakota
+  Nebraska
+  Kansas
+Appalachian
+  Virginia
+  West Virginia
+  North Carolina
+  Kentucky
+  Tennessee
+Southeast
+  South Carolina
+  Georgia
+  Florida
+  Alabama
+Delta States
+  Mississippi
+  Arkansas
+  Louisiana
+Southern Plains
+  Oklahoma
+  Texas
+Mountain
+  Montana
+  Idaho
+  Wyoming
+  Colorado
+  New Mexico
+  Arizona
+  Utah
+  Nevada
+Pacific
+  Washington
+  Oregon
+  California
+48 States
+  Alaska
+  Hawaii
+U.S. total
+Note: See documentation for definitions. Distributions may not add to totals due to rounding.
+Source: USDA, Economic Research Service estimates based on data from USDA, National Agricultural Statistics Service, Acreage, Agricultural land: Land values and cash rents, and 2017 Census of Agriculture; USDA, Farm Service Agency, Conservation Reserve Program (CRP), summary and enrollment statistics, fiscal year 2017, and CRP emergency haying and grazing data, fiscal year 2017; USDA, Natural Resources Conservation Service, Summary report: 2017 national resources inventory, 2017 national resources inventory, table F-1 Cropland and pastureland by specific land cover/use and year, Wetland Reserve Program (WRP) cumulative agreement data by State and fiscal year, and Agricultural Conservation Easement Program (ACEP) cumulative agreement data by State and fiscal year; USDA, Forest Service (FS), Grazing statistical summary, fiscal year 2017, Land areas of the National Forest System as of September 30, 2017, and USDA, FS grazing allotments; U.S. Department of Commerce, Bureau of the Census, 2010 Census of Population and Housing, summary population and housing characteristics, United States, 2013 American Housing Survey, and Census urban area national Topologically Integrated Geographic Encoding and Referencing (TIGER)/line shapefile; U.S. Department of Defense, Base structure report fiscal year 2018 Baseline; U.S. Department of the Interior, Bureau of Land Management, Fiscal year 2015 rangeland inventory, monitoring, and evaluation report, and Public land statistics 2017; U.S. Department of the Interior, National Park Service, National Park Service acreage report: Calendar year 2017; U.S. Department of Transportation, Bureau of Transportation Statistics, National Transportation Atlas Databases (NTAD), North American Rail Network (NARN) dataset, and National Transportation Atlas Databases (NTAD), Aviation facilities dataset; U.S. Department of Transportation, Federal Highway Administration, Highway statistics series: Highway statistics 2017; U.S. Department of the Interior, U.S. Geological Survey, Protected Areas Database of the United States (PAD-US); Oswalt, N.S., Smith, W.B., Miles, P.D., & Pugh, S.A. (2019). Forest resources of the United States, 2017: A technical document supporting the Forest Service 2020 RPA Assessment (Report No. General Technical Report WO-97). U.S. Department of Agriculture, Forest Service.; and Smith, J., & Leung, Y.F. (2019). Select metrics describing the operations of America's state park systems. Utah State University, University Libraries. For more information, see Winters-Michaud, C., Haro, A., Callahan, S., & Bigelow, D. P. (2024). Major Uses of Land in the United States, 2017 (Report No. EIB-275). U.S. Department of Agriculture, Economic Research Service.
+Contact: Clayton Winters-Michaud, USDA, Economic Research Service (CLAYTON.MICHAUD@USDA.GOV).
+Data as of September 13, 2024.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="9250">
+<col class="x70" width="131"/>
+<col class="x70" width="103"/>
+<col class="x70" width="180"/>
+<col class="x70" width="107"/>
+<col class="x70" width="129"/>
+<col class="x70" width="103"/>
+<col class="x70" width="163"/>
+<col class="x70" width="106"/>
+<col span="121" width="68"/>
+<tr class="x76" height="21">
+<td class="x71" height="19" width="131">Regions and States</td>
+<td class="x72" width="103">Cropland</td>
+<td class="x73" width="180">Grassland pasture and range</td>
+<td class="x72" width="107">Forest-use land</td>
+<td class="x72" width="129">Special-use areas</td>
+<td class="x72" width="103"><font class="font3">Urban areas</font><font class="font23"><sup></sup><span> </span></font></td>
+<td class="x72" width="163">Miscellaneous other land</td>
+<td class="x72" width="106">Total land area</td>
+<td class="x76" colspan="121" width="8228"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Northeast</td>
+<td align="right" class="x75" x:num="12435">12,435 </td>
+<td align="right" class="x75" x:num="4808">4,808 </td>
+<td align="right" class="x75" x:num="64525">64,525 </td>
+<td align="right" class="x75" x:num="11840">11,840 </td>
+<td align="right" class="x75" x:num="13788">13,788 </td>
+<td align="right" class="x75" x:num="3727">3,727 </td>
+<td align="right" class="x75" x:num="111123">111,123 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Maine </td>
+<td align="right" class="x75" x:num="415">415 </td>
+<td align="right" class="x75" x:num="154">154 </td>
+<td align="right" class="x75" x:num="16778">16,778 </td>
+<td align="right" class="x75" x:num="687">687 </td>
+<td align="right" class="x75" x:num="232">232 </td>
+<td align="right" class="x75" x:num="1474">1,474 </td>
+<td align="right" class="x75" x:num="19739">19,739 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>New Hampshire</td>
+<td align="right" class="x75" x:num="101">101 </td>
+<td align="right" class="x75" x:num="104">104 </td>
+<td align="right" class="x75" x:num="4174">4,174 </td>
+<td align="right" class="x75" x:num="538">538 </td>
+<td align="right" class="x75" x:num="451">451 </td>
+<td align="right" class="x75" x:num="363">363 </td>
+<td align="right" class="x75" x:num="5730">5,730 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Vermont</td>
+<td align="right" class="x75" x:num="435">435 </td>
+<td align="right" class="x75" x:num="320">320 </td>
+<td align="right" class="x75" x:num="4288">4,288 </td>
+<td align="right" class="x75" x:num="447">447 </td>
+<td align="right" class="x75" x:num="104">104 </td>
+<td align="right" class="x75" x:num="305">305 </td>
+<td align="right" class="x75" x:num="5899">5,899 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Massachusetts</td>
+<td align="right" class="x75" x:num="164">164 </td>
+<td align="right" class="x75" x:num="70">70 </td>
+<td align="right" class="x75" x:num="2036">2,036 </td>
+<td align="right" class="x75" x:num="724">724 </td>
+<td align="right" class="x75" x:num="1993">1,993 </td>
+<td align="right" class="x75" x:num="6">6 </td>
+<td align="right" class="x75" x:num="4992">4,992 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Rhode Island</td>
+<td align="right" class="x75" x:num="19">19 </td>
+<td align="right" class="x75" x:num="6">6 </td>
+<td align="right" class="x75" x:num="291">291 </td>
+<td align="right" class="x75" x:num="30">30 </td>
+<td align="right" class="x75" x:num="262">262 </td>
+<td align="right" class="x75" x:num="54">54 </td>
+<td align="right" class="x75" x:num="662">662 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Connecticut</td>
+<td align="right" class="x75" x:num="111">111 </td>
+<td align="right" class="x75" x:num="28">28 </td>
+<td align="right" class="x75" x:num="1421">1,421 </td>
+<td align="right" class="x75" x:num="301">301 </td>
+<td align="right" class="x75" x:num="1200">1,200 </td>
+<td align="right" class="x75" x:num="38">38 </td>
+<td align="right" class="x75" x:num="3099">3,099 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>New York</td>
+<td align="right" class="x75" x:num="4125">4,125 </td>
+<td align="right" class="x75" x:num="2409">2,409 </td>
+<td align="right" class="x75" x:num="15703">15,703 </td>
+<td align="right" class="x75" x:num="5113">5,113 </td>
+<td align="right" class="x75" x:num="2687">2,687 </td>
+<td align="right" class="x75" x:num="123">123 </td>
+<td align="right" class="x75" x:num="30161">30,161 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>New Jersey</td>
+<td align="right" class="x75" x:num="453">453 </td>
+<td align="right" class="x75" x:num="76">76 </td>
+<td align="right" class="x75" x:num="1011">1,011 </td>
+<td align="right" class="x75" x:num="758">758 </td>
+<td align="right" class="x75" x:num="1927">1,927 </td>
+<td align="right" class="x75" x:num="481">481 </td>
+<td align="right" class="x75" x:num="4707">4,707 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Pennsylvania</td>
+<td align="right" class="x75" x:num="4755">4,755 </td>
+<td align="right" class="x75" x:num="1236">1,236 </td>
+<td align="right" class="x75" x:num="16312">16,312 </td>
+<td align="right" class="x75" x:num="2614">2,614 </td>
+<td align="right" class="x75" x:num="3213">3,213 </td>
+<td align="right" class="x75" x:num="507">507 </td>
+<td align="right" class="x75" x:num="28635">28,635 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Delaware</td>
+<td align="right" class="x75" x:num="427">427 </td>
+<td align="right" class="x75" x:num="18">18 </td>
+<td align="right" class="x75" x:num="331">331 </td>
+<td align="right" class="x75" x:num="136">136 </td>
+<td align="right" class="x75" x:num="307">307 </td>
+<td align="right" class="x75" x:num="28">28 </td>
+<td align="right" class="x75" x:num="1247">1,247 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Maryland</td>
+<td align="right" class="x75" x:num="1429">1,429 </td>
+<td align="right" class="x75" x:num="387">387 </td>
+<td align="right" class="x75" x:num="2180">2,180 </td>
+<td align="right" class="x75" x:num="494">494 </td>
+<td align="right" class="x75" x:num="1373">1,373 </td>
+<td align="right" class="x75" x:num="349">349 </td>
+<td align="right" class="x75" x:num="6213">6,213 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>District of Columbia</td>
+<td align="right" class="x75" x:num="0">0 </td>
+<td align="right" class="x75" x:num="0">0 </td>
+<td align="right" class="x75" x:num="0">0 </td>
+<td align="right" class="x75" x:num="0">0 </td>
+<td align="right" class="x75" x:num="39">39 </td>
+<td align="right" class="x75" x:num="0">0 </td>
+<td align="right" class="x75" x:num="39">39 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Lake States</td>
+<td align="right" class="x75" x:num="38913">38,913 </td>
+<td align="right" class="x75" x:num="8239">8,239 </td>
+<td align="right" class="x75" x:num="51375">51,375 </td>
+<td align="right" class="x75" x:num="8013">8,013 </td>
+<td align="right" class="x75" x:num="4936">4,936 </td>
+<td align="right" class="x75" x:num="10331">10,331 </td>
+<td align="right" class="x75" x:num="121807">121,807 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Michigan</td>
+<td align="right" class="x75" x:num="7422">7,422 </td>
+<td align="right" class="x75" x:num="1890">1,890 </td>
+<td align="right" class="x75" x:num="19124">19,124 </td>
+<td align="right" class="x75" x:num="2212">2,212 </td>
+<td align="right" class="x75" x:num="2446">2,446 </td>
+<td align="right" class="x75" x:num="3091">3,091 </td>
+<td align="right" class="x75" x:num="36185">36,185 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Wisconsin</td>
+<td align="right" class="x75" x:num="9646">9,646 </td>
+<td align="right" class="x75" x:num="2812">2,812 </td>
+<td align="right" class="x75" x:num="16548">16,548 </td>
+<td align="right" class="x75" x:num="1837">1,837 </td>
+<td align="right" class="x75" x:num="1312">1,312 </td>
+<td align="right" class="x75" x:num="2507">2,507 </td>
+<td align="right" class="x75" x:num="34661">34,661 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Minnesota<span>  </span></td>
+<td align="right" class="x75" x:num="21845">21,845 </td>
+<td align="right" class="x75" x:num="3537">3,537 </td>
+<td align="right" class="x75" x:num="15703">15,703 </td>
+<td align="right" class="x75" x:num="3964">3,964 </td>
+<td align="right" class="x75" x:num="1179">1,179 </td>
+<td align="right" class="x75" x:num="4733">4,733 </td>
+<td align="right" class="x75" x:num="50961">50,961 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Corn Belt</td>
+<td align="right" class="x75" x:num="89269">89,269 </td>
+<td align="right" class="x75" x:num="17228">17,228 </td>
+<td align="right" class="x75" x:num="34780">34,780 </td>
+<td align="right" class="x75" x:num="6797">6,797 </td>
+<td align="right" class="x75" x:num="9563">9,563 </td>
+<td align="right" class="x75" x:num="6718">6,718 </td>
+<td align="right" class="x75" x:num="164355">164,355 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Ohio</td>
+<td align="right" class="x75" x:num="10819">10,819 </td>
+<td align="right" class="x75" x:num="1913">1,913 </td>
+<td align="right" class="x75" x:num="7734">7,734 </td>
+<td align="right" class="x75" x:num="940">940 </td>
+<td align="right" class="x75" x:num="3020">3,020 </td>
+<td align="right" class="x75" x:num="1726">1,726 </td>
+<td align="right" class="x75" x:num="26151">26,151 </td>
+<td class="x78" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Indiana</td>
+<td align="right" class="x75" x:num="12684">12,684 </td>
+<td align="right" class="x75" x:num="1653">1,653 </td>
+<td align="right" class="x75" x:num="4713">4,713 </td>
+<td align="right" class="x75" x:num="1154">1,154 </td>
+<td align="right" class="x75" x:num="1759">1,759 </td>
+<td align="right" class="x75" x:num="966">966 </td>
+<td align="right" class="x75" x:num="22929">22,929 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Illinois</td>
+<td align="right" class="x75" x:num="23832">23,832 </td>
+<td align="right" class="x75" x:num="1773">1,773 </td>
+<td align="right" class="x75" x:num="4679">4,679 </td>
+<td align="right" class="x75" x:num="1821">1,821 </td>
+<td align="right" class="x75" x:num="2692">2,692 </td>
+<td align="right" class="x75" x:num="736">736 </td>
+<td align="right" class="x75" x:num="35532">35,532 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Iowa</td>
+<td align="right" class="x75" x:num="26728">26,728 </td>
+<td align="right" class="x75" x:num="3085">3,085 </td>
+<td align="right" class="x75" x:num="2804">2,804 </td>
+<td align="right" class="x75" x:num="1381">1,381 </td>
+<td align="right" class="x75" x:num="672">672 </td>
+<td align="right" class="x75" x:num="1079">1,079 </td>
+<td align="right" class="x75" x:num="35749">35,749 </td>
+<td class="x79" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Missouri</td>
+<td align="right" class="x75" x:num="15207">15,207 </td>
+<td align="right" class="x75" x:num="8805">8,805 </td>
+<td align="right" class="x75" x:num="14850">14,850 </td>
+<td align="right" class="x75" x:num="1502">1,502 </td>
+<td align="right" class="x75" x:num="1420">1,420 </td>
+<td align="right" class="x75" x:num="2211">2,211 </td>
+<td align="right" class="x75" x:num="43995">43,995 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Northern Plains</td>
+<td align="right" class="x75" x:num="98588">98,588 </td>
+<td align="right" class="x75" x:num="79450">79,450 </td>
+<td align="right" class="x75" x:num="6085">6,085 </td>
+<td align="right" class="x75" x:num="7029">7,029 </td>
+<td align="right" class="x75" x:num="1344">1,344 </td>
+<td align="right" class="x75" x:num="1677">1,677 </td>
+<td align="right" class="x75" x:num="194173">194,173 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>North Dakota</td>
+<td align="right" class="x75" x:num="27461">27,461 </td>
+<td align="right" class="x75" x:num="13379">13,379 </td>
+<td align="right" class="x75" x:num="490">490 </td>
+<td align="right" class="x75" x:num="1941">1,941 </td>
+<td align="right" class="x75" x:num="135">135 </td>
+<td align="right" class="x75" x:num="756">756 </td>
+<td align="right" class="x75" x:num="44161">44,161 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>South Dakota</td>
+<td align="right" class="x75" x:num="19618">19,618 </td>
+<td align="right" class="x75" x:num="24935">24,935 </td>
+<td align="right" class="x75" x:num="1799">1,799 </td>
+<td align="right" class="x75" x:num="1793">1,793 </td>
+<td align="right" class="x75" x:num="171">171 </td>
+<td align="right" class="x75" x:num="204">204 </td>
+<td align="right" class="x75" x:num="48519">48,519 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Nebraska</td>
+<td align="right" class="x75" x:num="22239">22,239 </td>
+<td align="right" class="x75" x:num="23583">23,583 </td>
+<td align="right" class="x75" x:num="1403">1,403 </td>
+<td align="right" class="x75" x:num="1462">1,462 </td>
+<td align="right" class="x75" x:num="366">366 </td>
+<td align="right" class="x75" x:num="114">114 </td>
+<td align="right" class="x75" x:num="49167">49,167 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Kansas</td>
+<td align="right" class="x75" x:num="29270">29,270 </td>
+<td align="right" class="x75" x:num="17554">17,554 </td>
+<td align="right" class="x75" x:num="2393">2,393 </td>
+<td align="right" class="x75" x:num="1834">1,834 </td>
+<td align="right" class="x75" x:num="672">672 </td>
+<td align="right" class="x75" x:num="603">603 </td>
+<td align="right" class="x75" x:num="52326">52,326 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Appalachian</td>
+<td align="right" class="x75" x:num="19967">19,967 </td>
+<td align="right" class="x75" x:num="12436">12,436 </td>
+<td align="right" class="x75" x:num="70394">70,394 </td>
+<td align="right" class="x75" x:num="7946">7,946 </td>
+<td align="right" class="x75" x:num="8773">8,773 </td>
+<td align="right" class="x75" x:num="3920">3,920 </td>
+<td align="right" class="x75" x:num="123435">123,435 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Virginia</td>
+<td align="right" class="x75" x:num="2837">2,837 </td>
+<td align="right" class="x75" x:num="2505">2,505 </td>
+<td align="right" class="x75" x:num="15389">15,389 </td>
+<td align="right" class="x75" x:num="1423">1,423 </td>
+<td align="right" class="x75" x:num="1839">1,839 </td>
+<td align="right" class="x75" x:num="1281">1,281 </td>
+<td align="right" class="x75" x:num="25274">25,274 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>West Virginia</td>
+<td align="right" class="x75" x:num="829">829 </td>
+<td align="right" class="x75" x:num="1248">1,248 </td>
+<td align="right" class="x75" x:num="11624">11,624 </td>
+<td align="right" class="x75" x:num="627">627 </td>
+<td align="right" class="x75" x:num="444">444 </td>
+<td align="right" class="x75" x:num="613">613 </td>
+<td align="right" class="x75" x:num="15384">15,384 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>North Carolina</td>
+<td align="right" class="x75" x:num="4673">4,673 </td>
+<td align="right" class="x75" x:num="1461">1,461 </td>
+<td align="right" class="x75" x:num="18139">18,139 </td>
+<td align="right" class="x75" x:num="2739">2,739 </td>
+<td align="right" class="x75" x:num="3426">3,426 </td>
+<td align="right" class="x75" x:num="677">677 </td>
+<td align="right" class="x75" x:num="31115">31,115 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Kentucky</td>
+<td align="right" class="x75" x:num="6573">6,573 </td>
+<td align="right" class="x75" x:num="3863">3,863 </td>
+<td align="right" class="x75" x:num="11835">11,835 </td>
+<td align="right" class="x75" x:num="1253">1,253 </td>
+<td align="right" class="x75" x:num="991">991 </td>
+<td align="right" class="x75" x:num="757">757 </td>
+<td align="right" class="x75" x:num="25271">25,271 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Tennessee</td>
+<td align="right" class="x75" x:num="5055">5,055 </td>
+<td align="right" class="x75" x:num="3360">3,360 </td>
+<td align="right" class="x75" x:num="13407">13,407 </td>
+<td align="right" class="x75" x:num="1904">1,904 </td>
+<td align="right" class="x75" x:num="2072">2,072 </td>
+<td align="right" class="x75" x:num="592">592 </td>
+<td align="right" class="x75" x:num="26390">26,390 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Southeast</td>
+<td align="right" class="x75" x:num="12143">12,143 </td>
+<td align="right" class="x75" x:num="10380">10,380 </td>
+<td align="right" class="x75" x:num="73176">73,176 </td>
+<td align="right" class="x75" x:num="11557">11,557 </td>
+<td align="right" class="x75" x:num="12222">12,222 </td>
+<td align="right" class="x75" x:num="3303">3,303 </td>
+<td align="right" class="x75" x:num="122780">122,780 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>South Carolina</td>
+<td align="right" class="x75" x:num="1966">1,966 </td>
+<td align="right" class="x75" x:num="1073">1,073 </td>
+<td align="right" class="x75" x:num="12756">12,756 </td>
+<td align="right" class="x75" x:num="1109">1,109 </td>
+<td align="right" class="x75" x:num="1759">1,759 </td>
+<td align="right" class="x75" x:num="576">576 </td>
+<td align="right" class="x75" x:num="19239">19,239 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Georgia</td>
+<td align="right" class="x75" x:num="4501">4,501 </td>
+<td align="right" class="x75" x:num="1549">1,549 </td>
+<td align="right" class="x75" x:num="24061">24,061 </td>
+<td align="right" class="x75" x:num="1914">1,914 </td>
+<td align="right" class="x75" x:num="3550">3,550 </td>
+<td align="right" class="x75" x:num="1234">1,234 </td>
+<td align="right" class="x75" x:num="36809">36,809 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Florida</td>
+<td align="right" class="x75" x:num="2865">2,865 </td>
+<td align="right" class="x75" x:num="4910">4,910 </td>
+<td align="right" class="x75" x:num="13330">13,330 </td>
+<td align="right" class="x75" x:num="7275">7,275 </td>
+<td align="right" class="x75" x:num="5309">5,309 </td>
+<td align="right" class="x75" x:num="631">631 </td>
+<td align="right" class="x75" x:num="34320">34,320 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Alabama</td>
+<td align="right" class="x75" x:num="2811">2,811 </td>
+<td align="right" class="x75" x:num="2848">2,848 </td>
+<td align="right" class="x75" x:num="23029">23,029 </td>
+<td align="right" class="x75" x:num="1260">1,260 </td>
+<td align="right" class="x75" x:num="1604">1,604 </td>
+<td align="right" class="x75" x:num="862">862 </td>
+<td align="right" class="x75" x:num="32413">32,413 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Delta States</td>
+<td align="right" class="x75" x:num="17757">17,757 </td>
+<td align="right" class="x75" x:num="9117">9,117 </td>
+<td align="right" class="x75" x:num="51822">51,822 </td>
+<td align="right" class="x75" x:num="5277">5,277 </td>
+<td align="right" class="x75" x:num="2971">2,971 </td>
+<td align="right" class="x75" x:num="4040">4,040 </td>
+<td align="right" class="x75" x:num="90984">90,984 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Mississippi</td>
+<td align="right" class="x75" x:num="5116">5,116 </td>
+<td align="right" class="x75" x:num="2567">2,567 </td>
+<td align="right" class="x75" x:num="19179">19,179 </td>
+<td align="right" class="x75" x:num="1046">1,046 </td>
+<td align="right" class="x75" x:num="786">786 </td>
+<td align="right" class="x75" x:num="1337">1,337 </td>
+<td align="right" class="x75" x:num="30031">30,031 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Arkansas</td>
+<td align="right" class="x75" x:num="8018">8,018 </td>
+<td align="right" class="x75" x:num="4217">4,217 </td>
+<td align="right" class="x75" x:num="17936">17,936 </td>
+<td align="right" class="x75" x:num="1993">1,993 </td>
+<td align="right" class="x75" x:num="788">788 </td>
+<td align="right" class="x75" x:num="351">351 </td>
+<td align="right" class="x75" x:num="33303">33,303 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Louisiana</td>
+<td align="right" class="x75" x:num="4624">4,624 </td>
+<td align="right" class="x75" x:num="2333">2,333 </td>
+<td align="right" class="x75" x:num="14707">14,707 </td>
+<td align="right" class="x75" x:num="2238">2,238 </td>
+<td align="right" class="x75" x:num="1397">1,397 </td>
+<td align="right" class="x75" x:num="2351">2,351 </td>
+<td align="right" class="x75" x:num="27650">27,650 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Southern Plains</td>
+<td align="right" class="x75" x:num="40655">40,655 </td>
+<td align="right" class="x75" x:num="122827">122,827 </td>
+<td align="right" class="x75" x:num="21278">21,278 </td>
+<td align="right" class="x75" x:num="9138">9,138 </td>
+<td align="right" class="x75" x:num="7228">7,228 </td>
+<td align="right" class="x75" x:num="9962">9,962 </td>
+<td align="right" class="x75" x:num="211089">211,089 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Oklahoma</td>
+<td align="right" class="x75" x:num="11636">11,636 </td>
+<td align="right" class="x75" x:num="19060">19,060 </td>
+<td align="right" class="x75" x:num="7141">7,141 </td>
+<td align="right" class="x75" x:num="2022">2,022 </td>
+<td align="right" class="x75" x:num="905">905 </td>
+<td align="right" class="x75" x:num="3136">3,136 </td>
+<td align="right" class="x75" x:num="43901">43,901 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Texas</td>
+<td align="right" class="x75" x:num="29019">29,019 </td>
+<td align="right" class="x75" x:num="103767">103,767 </td>
+<td align="right" class="x75" x:num="14137">14,137 </td>
+<td align="right" class="x75" x:num="7116">7,116 </td>
+<td align="right" class="x75" x:num="6323">6,323 </td>
+<td align="right" class="x75" x:num="6826">6,826 </td>
+<td align="right" class="x75" x:num="167188">167,188 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Mountain</td>
+<td align="right" class="x75" x:num="39319">39,319 </td>
+<td align="right" class="x75" x:num="330736">330,736 </td>
+<td align="right" class="x75" x:num="97125">97,125 </td>
+<td align="right" class="x75" x:num="63904">63,904 </td>
+<td align="right" class="x75" x:num="5269">5,269 </td>
+<td align="right" class="x75" x:num="11339">11,339 </td>
+<td align="right" class="x75" x:num="547691">547,691 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Montana</td>
+<td align="right" class="x75" x:num="15341">15,341 </td>
+<td align="right" class="x75" x:num="49871">49,871 </td>
+<td align="right" class="x75" x:num="18568">18,568 </td>
+<td align="right" class="x75" x:num="7553">7,553 </td>
+<td align="right" class="x75" x:num="207">207 </td>
+<td align="right" class="x75" x:num="1610">1,610 </td>
+<td align="right" class="x75" x:num="93149">93,149 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Idaho</td>
+<td align="right" class="x75" x:num="5896">5,896 </td>
+<td align="right" class="x75" x:num="18431">18,431 </td>
+<td align="right" class="x75" x:num="16532">16,532 </td>
+<td align="right" class="x75" x:num="6529">6,529 </td>
+<td align="right" class="x75" x:num="361">361 </td>
+<td align="right" class="x75" x:num="5143">5,143 </td>
+<td align="right" class="x75" x:num="52892">52,892 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Wyoming</td>
+<td align="right" class="x75" x:num="2351">2,351 </td>
+<td align="right" class="x75" x:num="45628">45,628 </td>
+<td align="right" class="x75" x:num="6381">6,381 </td>
+<td align="right" class="x75" x:num="6567">6,567 </td>
+<td align="right" class="x75" x:num="136">136 </td>
+<td align="right" class="x75" x:num="1077">1,077 </td>
+<td align="right" class="x75" x:num="62140">62,140 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Colorado</td>
+<td align="right" class="x75" x:num="10870">10,870 </td>
+<td align="right" class="x75" x:num="31884">31,884 </td>
+<td align="right" class="x75" x:num="14511">14,511 </td>
+<td align="right" class="x75" x:num="7780">7,780 </td>
+<td align="right" class="x75" x:num="1097">1,097 </td>
+<td align="right" class="x75" x:num="190">190 </td>
+<td align="right" class="x75" x:num="66331">66,331 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>New Mexico</td>
+<td align="right" class="x75" x:num="1655">1,655 </td>
+<td align="right" class="x75" x:num="54466">54,466 </td>
+<td align="right" class="x75" x:num="13172">13,172 </td>
+<td align="right" class="x75" x:num="7319">7,319 </td>
+<td align="right" class="x75" x:num="563">563 </td>
+<td align="right" class="x75" x:num="456">456 </td>
+<td align="right" class="x75" x:num="77631">77,631 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Arizona</td>
+<td align="right" class="x75" x:num="1163">1,163 </td>
+<td align="right" class="x75" x:num="44095">44,095 </td>
+<td align="right" class="x75" x:num="13012">13,012 </td>
+<td align="right" class="x75" x:num="11117">11,117 </td>
+<td align="right" class="x75" x:num="1628">1,628 </td>
+<td align="right" class="x75" x:num="1685">1,685 </td>
+<td align="right" class="x75" x:num="72700">72,700 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Utah</td>
+<td align="right" class="x75" x:num="1474">1,474 </td>
+<td align="right" class="x75" x:num="34032">34,032 </td>
+<td align="right" class="x75" x:num="9749">9,749 </td>
+<td align="right" class="x75" x:num="5698">5,698 </td>
+<td align="right" class="x75" x:num="686">686 </td>
+<td align="right" class="x75" x:num="949">949 </td>
+<td align="right" class="x75" x:num="52589">52,589 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Nevada</td>
+<td align="right" class="x75" x:num="569">569 </td>
+<td align="right" class="x75" x:num="52329">52,329 </td>
+<td align="right" class="x75" x:num="5200">5,200 </td>
+<td align="right" class="x75" x:num="11342">11,342 </td>
+<td align="right" class="x75" x:num="591">591 </td>
+<td align="right" class="x75" x:num="228">228 </td>
+<td align="right" class="x75" x:num="70260">70,260 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16">Pacific</td>
+<td align="right" class="x75" x:num="21038">21,038 </td>
+<td align="right" class="x75" x:num="62595">62,595 </td>
+<td align="right" class="x75" x:num="58045">58,045 </td>
+<td align="right" class="x75" x:num="37834">37,834 </td>
+<td align="right" class="x75" x:num="7776">7,776 </td>
+<td align="right" class="x75" x:num="16375">16,375 </td>
+<td align="right" class="x75" x:num="203663">203,663 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Washington</td>
+<td align="right" class="x75" x:num="7504">7,504 </td>
+<td align="right" class="x75" x:num="7387">7,387 </td>
+<td align="right" class="x75" x:num="17794">17,794 </td>
+<td align="right" class="x75" x:num="7846">7,846 </td>
+<td align="right" class="x75" x:num="1635">1,635 </td>
+<td align="right" class="x75" x:num="366">366 </td>
+<td align="right" class="x75" x:num="42532">42,532 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Oregon</td>
+<td align="right" class="x75" x:num="4220">4,220 </td>
+<td align="right" class="x75" x:num="24133">24,133 </td>
+<td align="right" class="x75" x:num="23668">23,668 </td>
+<td align="right" class="x75" x:num="5182">5,182 </td>
+<td align="right" class="x75" x:num="744">744 </td>
+<td align="right" class="x75" x:num="3486">3,486 </td>
+<td align="right" class="x75" x:num="61432">61,432 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>California</td>
+<td align="right" class="x75" x:num="9314">9,314 </td>
+<td align="right" class="x75" x:num="31076">31,076 </td>
+<td align="right" class="x75" x:num="16583">16,583 </td>
+<td align="right" class="x75" x:num="24807">24,807 </td>
+<td align="right" class="x75" x:num="5396">5,396 </td>
+<td align="right" class="x75" x:num="12523">12,523 </td>
+<td align="right" class="x75" x:num="99699">99,699 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x76" height="16">48 States</td>
+<td align="right" class="x75" x:num="390084">390,084 </td>
+<td align="right" class="x75" x:num="657816">657,816 </td>
+<td align="right" class="x75" x:num="528605">528,605 </td>
+<td align="right" class="x75" x:num="169334">169,334 </td>
+<td align="right" class="x75" x:num="73870">73,870 </td>
+<td align="right" class="x75" x:num="71390">71,390 </td>
+<td align="right" class="x75" x:num="1891099">1,891,099 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Alaska</td>
+<td align="right" class="x75" x:num="75">75 </td>
+<td align="right" class="x75" x:num="714">714 </td>
+<td align="right" class="x75" x:num="91996">91,996 </td>
+<td align="right" class="x75" x:num="146950">146,950 </td>
+<td align="right" class="x75" x:num="166">166 </td>
+<td align="right" class="x75" x:num="125308">125,308 </td>
+<td align="right" class="x75" x:num="365210">365,210 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" height="16"><span>  </span>Hawaii</td>
+<td align="right" class="x75" x:num="65">65 </td>
+<td align="right" class="x75" x:num="762">762 </td>
+<td align="right" class="x75" x:num="1344">1,344 </td>
+<td align="right" class="x75" x:num="1376">1,376 </td>
+<td align="right" class="x75" x:num="269">269 </td>
+<td align="right" class="x75" x:num="296">296 </td>
+<td align="right" class="x75" x:num="4110">4,110 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x77" height="16">U.S. total</td>
+<td align="right" class="x75" x:num="390223">390,223 </td>
+<td align="right" class="x75" x:num="659292">659,292 </td>
+<td align="right" class="x75" x:num="621945">621,945 </td>
+<td align="right" class="x75" x:num="317661">317,661 </td>
+<td align="right" class="x75" x:num="74305">74,305 </td>
+<td align="right" class="x75" x:num="196994">196,994 </td>
+<td align="right" class="x75" x:num="2260420">2,260,420 </td>
+<td class="x70" colspan="121"></td>
+</tr>
+<tr height="18">
+<td class="x74" colspan="5" height="18">Note: See documentation for definitions. Distributions may not add to totals due to rounding.</td>
+<td class="x80" colspan="124"></td>
+</tr>
+<tr height="19">
+<td class="x74" colspan="129" height="19">Source: USDA, Economic Research Service estimates based on data from USDA, National Agricultural Statistics Service, Acreage, Agricultural land: Land values and cash rents, and 2017 Census of Agriculture; USDA, Farm Service Agency, Conservation Reserve Program (CRP), summary and enrollment statistics, fiscal year 2017, and CRP emergency haying and grazing data, fiscal year 2017; USDA, Natural Resources Conservation Service, Summary report: 2017 national resources inventory, 2017 national resources inventory, table F-1 Cropland and pastureland by specific land cover/use and year, Wetland Reserve Program (WRP) cumulative agreement data by State and fiscal year, and Agricultural Conservation Easement Program (ACEP) cumulative agreement data by State and fiscal year; USDA, Forest Service (FS), Grazing statistical summary, fiscal year 2017, Land areas of the National Forest System as of September 30, 2017, and USDA, FS grazing allotments; U.S. Department of Commerce, Bureau of the Census, 2010 Census of Population and Housing, summary population and housing characteristics, United States, 2013 American Housing Survey, and Census urban area national Topologically Integrated Geographic Encoding and Referencing (TIGER)/line shapefile; U.S. Department of Defense, Base structure report fiscal year 2018 Baseline; U.S. Department of the Interior, Bureau of Land Management, Fiscal year 2015 rangeland inventory, monitoring, and evaluation report, and Public land statistics 2017; U.S. Department of the Interior, National Park Service, National Park Service acreage report: Calendar year 2017; U.S. Department of Transportation, Bureau of Transportation Statistics, National Transportation Atlas Databases (NTAD), North American Rail Network (NARN) dataset, and National Transportation Atlas Databases (NTAD), Aviation facilities dataset; U.S. Department of Transportation, Federal Highway Administration, Highway statistics series: Highway statistics 2017; U.S. Department of the Interior, U.S. Geological Survey, Protected Areas Database of the United States (PAD-US); Oswalt, N.S., Smith, W.B., Miles, P.D., &amp; Pugh, S.A. (2019). Forest resources of the United States, 2017: A technical document supporting the Forest Service 2020 RPA Assessment (Report No. General Technical Report WO-97). U.S. Department of Agriculture, Forest Service.; and Smith, J., &amp; Leung, Y.F. (2019). Select metrics describing the operations of America's state park systems. Utah State University, University Libraries. For more information, see Winters-Michaud, C., Haro, A., Callahan, S., &amp; Bigelow, D. P. (2024). Major Uses of Land in the United States, 2017 (Report No. EIB-275). U.S. Department of Agriculture, Economic Research Service.</td>
+</tr>
+<tr height="18">
+<td class="x82" colspan="6" height="18">Contact: Clayton Winters-Michaud, USDA, Economic Research Service (CLAYTON.MICHAUD@USDA.GOV).</td>
+<td class="x83" colspan="123"></td>
+</tr>
+<tr height="18">
+<td class="x83" colspan="2" height="18">Data as of September 13, 2024.</td>
+<td class="x83" colspan="127"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="131"></td>
+<td width="103"></td>
+<td width="180"></td>
+<td width="107"></td>
+<td width="129"></td>
+<td width="103"></td>
+<td width="163"></td>
+<td width="106"></td>
+<td colspan="121" width="8228"></td>
+</tr>
+<?endif?>
+</table>

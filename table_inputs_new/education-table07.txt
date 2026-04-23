@@ -1,0 +1,312 @@
+[COLUMN STRUCTURE]
+All Ages
+Participation
+  General FE College incl Tertiary
+  Sixth form college
+  Special colleges
+  Other Public Funded
+  Schools
+  Private Sector Public Funded
+  Unknown
+  Total
+Achievement
+  General FE College incl Tertiary
+  Sixth form college
+  Special colleges
+  Other Public Funded
+  Schools
+  Private Sector Public Funded
+  Unknown
+  Total
+
+[ROW STRUCTURE]
+of which EnglishR
+of which mathsR
+of which ESOL (English for Speakers of Other Languages)R
+Total Learners
+Notes
+1) Employer Training Pilot (ETP) data is not available by provider type and has been included in the Unknown Total.
+2) The grand total contains Employer Training Pilot data. Age was not recorded in this data set and therefore does not appear in the Age split.
+3) The grand total for specialist colleges in the 25 and over category is less than the sum total of the three categories. This is due to miscategorisation of skills for life by some providers
+4) For further information on these tables please see the accompanying notes page.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1836">
+<col class="x83" width="396"/>
+<col class="x83" span="16" width="90"/>
+<tr height="20">
+<td class="x84" colspan="4" height="20" width="666"><a name="Print_Area"><span>Skills for Life Participation and Achievement by Level, Age and Provider Type (2006/07)</span></a></td>
+<td class="x83" colspan="13" width="1170"></td>
+</tr>
+<tr height="20">
+<td class="x84" colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x85" height="20"></td>
+<td class="x86" colspan="8">Participation</td>
+<td class="x86" colspan="8">Achievement</td>
+</tr>
+<tr class="x77" height="60">
+<td class="x88" height="58">All Ages</td>
+<td class="x87">General FE College incl Tertiary</td>
+<td class="x87">Sixth form college</td>
+<td class="x87">Special colleges</td>
+<td class="x87">Other Public Funded</td>
+<td class="x87">Schools</td>
+<td class="x87">Private Sector Public Funded</td>
+<td class="x87">Unknown</td>
+<td class="x112">Total</td>
+<td class="x87">General FE College incl Tertiary</td>
+<td class="x87">Sixth form college</td>
+<td class="x87">Special colleges</td>
+<td class="x87">Other Public Funded</td>
+<td class="x87">Schools</td>
+<td class="x87">Private Sector Public Funded</td>
+<td class="x87">Unknown</td>
+<td class="x112">Total</td>
+</tr>
+<tr height="20">
+<td class="x89" height="20"><font class="font3">of which English</font><font class="font30"><sup>R</sup></font></td>
+<td class="x90" x:num="420560">420,560</td>
+<td class="x90" x:num="20170">20,170</td>
+<td class="x90" x:num="17810">17,810</td>
+<td class="x90" x:num="112520">112,520</td>
+<td class="x90">450</td>
+<td class="x90" x:num="248030">248,030</td>
+<td class="x90">-</td>
+<td class="x113" x:num="819500">819,500</td>
+<td class="x90" x:num="252920">252,920</td>
+<td class="x90" x:num="14810">14,810</td>
+<td class="x90" x:num="10070">10,070</td>
+<td class="x90" x:num="77930">77,930</td>
+<td class="x90">310</td>
+<td class="x90" x:num="120070">120,070</td>
+<td class="x90">-</td>
+<td class="x113" x:num="476100">476,100</td>
+</tr>
+<tr class="x77" height="20">
+<td class="x91" height="20"><font class="font3">of which maths</font><font class="font30"><sup>R</sup></font></td>
+<td class="x92" x:num="334290">334,290</td>
+<td class="x92" x:num="23290">23,290</td>
+<td class="x92" x:num="13550">13,550</td>
+<td class="x92" x:num="71680">71,680</td>
+<td class="x92">450</td>
+<td class="x92" x:num="232040">232,040</td>
+<td class="x92">-</td>
+<td class="x114" x:num="675300">675,300</td>
+<td class="x92" x:num="195940">195,940</td>
+<td class="x92" x:num="16860">16,860</td>
+<td class="x92" x:num="7560">7,560</td>
+<td class="x92" x:num="46580">46,580</td>
+<td class="x92">290</td>
+<td class="x92" x:num="102580">102,580</td>
+<td class="x92">-</td>
+<td class="x114" x:num="369800">369,800</td>
+</tr>
+<tr height="20">
+<td class="x93" height="19"><font class="font3">of which ESOL (English for Speakers of Other Languages)</font><font class="font30"><sup>R</sup></font></td>
+<td class="x94" x:num="155200">155,200</td>
+<td class="x90" x:num="5100">5,100</td>
+<td class="x90" x:num="7600">7,600</td>
+<td class="x90" x:num="50220">50,220</td>
+<td class="x90">260</td>
+<td class="x90" x:num="8670">8,670</td>
+<td class="x90">-</td>
+<td class="x113" x:num="227000">227,000</td>
+<td class="x90" x:num="110230">110,230</td>
+<td class="x90" x:num="3280">3,280</td>
+<td class="x90" x:num="5240">5,240</td>
+<td class="x90" x:num="33670">33,670</td>
+<td class="x90">150</td>
+<td class="x90" x:num="3860">3,860</td>
+<td class="x90">-</td>
+<td class="x113" x:num="156400">156,400</td>
+</tr>
+<tr class="x78" height="20">
+<td class="x95" height="19">Total Learners</td>
+<td class="x96" x:num="702230">702,230</td>
+<td class="x97" x:num="39820">39,820</td>
+<td class="x97" x:num="30150">30,150</td>
+<td class="x97" x:num="204990">204,990</td>
+<td class="x97">990</td>
+<td class="x97" x:num="315610">315,610</td>
+<td class="x97" x:num="4000">4,000</td>
+<td class="x115" x:num="1297800">1,297,800</td>
+<td class="x97" x:num="461690">461,690</td>
+<td class="x97" x:num="29910">29,910</td>
+<td class="x97" x:num="19310">19,310</td>
+<td class="x97" x:num="143500">143,500</td>
+<td class="x97">640</td>
+<td class="x97" x:num="164210">164,210</td>
+<td class="x97" x:num="1830">1,830</td>
+<td class="x115" x:num="821100">821,100</td>
+</tr>
+<tr height="20">
+<td class="x98" height="20">Notes</td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x99"></td>
+<td class="x90"></td>
+<td class="x121"></td>
+</tr>
+<tr height="20">
+<td class="x100" colspan="9" height="20">1) Employer Training Pilot (ETP) data is not available by provider type and has been included in the Unknown Total.</td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td colspan="2"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x100" colspan="9" height="20">2) The grand total contains Employer Training Pilot data. Age was not recorded in this data set and therefore does not appear in the Age split.</td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td class="x90"></td>
+<td colspan="2"></td>
+</tr>
+<tr class="x77" height="60">
+<td class="x100" colspan="7" height="60">3) The grand total for specialist colleges in the 25 and over category is less than the sum total of the three categories. This is due to miscategorisation of skills for life by some providers</td>
+<td class="x111" colspan="10"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x101" colspan="15" height="20">4) For further information on these tables please see the accompanying notes page.</td>
+<td colspan="2"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x79" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="60">
+<td colspan="17" height="60"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x78" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="60">
+<td colspan="17" height="60"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td colspan="17" height="20"></td>
+</tr>
+<tr class="x77" height="20">
+<td class="x77" colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td class="x83" colspan="17" height="20"></td>
+</tr>
+<tr height="20">
+<td class="x83" colspan="17" height="20"></td>
+</tr>
+<tr class="x80" height="23">
+<td class="x80" colspan="17" height="23"></td>
+</tr>
+<tr class="x80" height="20">
+<td class="x80" colspan="17" height="20"></td>
+</tr>
+<tr class="x80" height="20">
+<td class="x102" colspan="15" height="20"></td>
+<td class="x80" colspan="2"></td>
+</tr>
+<tr class="x81" height="20">
+<td class="x103" colspan="9" height="20"></td>
+<td class="x103" colspan="8"></td>
+</tr>
+<tr class="x81" height="20">
+<td class="x104" colspan="9" height="20"></td>
+<td class="x105" colspan="8"></td>
+</tr>
+<tr class="x81" height="20">
+<td class="x104" colspan="9" height="20"></td>
+<td class="x105" colspan="8"></td>
+</tr>
+<tr class="x81" height="40">
+<td class="x105" colspan="9" height="40"></td>
+<td class="x105" colspan="8"></td>
+</tr>
+<tr class="x81" height="20">
+<td class="x103" colspan="9" height="20"></td>
+<td class="x103" colspan="8"></td>
+</tr>
+<tr class="x82" height="60">
+<td class="x107" colspan="15" height="60"></td>
+<td class="x82" colspan="2"></td>
+</tr>
+<tr class="x82" height="40">
+<td class="x108" colspan="15" height="40"></td>
+<td class="x82" colspan="2"></td>
+</tr>
+<tr class="x82" height="40">
+<td class="x105" colspan="15" height="40"></td>
+<td class="x120" colspan="2"></td>
+</tr>
+<tr height="20">
+<td class="x109" colspan="17" height="20"></td>
+</tr>
+<tr class="x81" height="20">
+<td class="x103" colspan="9" height="20"></td>
+<td class="x103" colspan="8"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="396"></td>
+<td colspan="16" width="1440"></td>
+</tr>
+<?endif?>
+</table>

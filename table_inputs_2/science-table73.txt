@@ -1,0 +1,114 @@
+[COLUMN STRUCTURE]
+Expt1
+Expt2
+Exp3
+Mean
+SD
+
+[ROW STRUCTURE]
+Set 1
+  TNF 0h
+Set 2
+  TNF 0.5 h
+Set 3
+  TNF 1h
+Set 4
+  TNF 3h
+Set 5
+  TNF 6h
+Set 6
+  TNF 12h
+Set 7
+  TNF 24h
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style3 s style5" colspan="3">Pr1/Oct-1 (Fold Change) </td>
+<td class="column5 style6 null"></td>
+<td class="column6 style7 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style8 null"></td>
+<td class="column1 style9 null"></td>
+<td class="column2 style10 s">Expt1</td>
+<td class="column3 style11 s">Expt2</td>
+<td class="column4 style12 s">Exp3</td>
+<td class="column5 style11 s">Mean </td>
+<td class="column6 style12 s">SD</td>
+</tr>
+<tr class="row2">
+<td class="column0 style8 s">Set 1</td>
+<td class="column1 style9 s">TNF 0h</td>
+<td class="column2 style13 n">1</td>
+<td class="column3 style14 n">1</td>
+<td class="column4 style15 n">1</td>
+<td class="column5 style14 f">1</td>
+<td class="column6 style15 f">0</td>
+</tr>
+<tr class="row3">
+<td class="column0 style8 s">Set 2</td>
+<td class="column1 style9 s">TNF 0.5 h</td>
+<td class="column2 style13 n">4.212953577789</td>
+<td class="column3 style14 n">3.0242353084034</td>
+<td class="column4 style15 n">3.1189387522827</td>
+<td class="column5 style14 f">3.4520425461584</td>
+<td class="column6 style15 f">0.66066737781847</td>
+</tr>
+<tr class="row4">
+<td class="column0 style8 s">Set 3</td>
+<td class="column1 style9 s">TNF 1h</td>
+<td class="column2 style13 n">4.0718528203574</td>
+<td class="column3 style14 n">3.704542871704</td>
+<td class="column4 style15 n">2.8583591231877</td>
+<td class="column5 style14 f">3.5449182717497</td>
+<td class="column6 style15 f">0.62229554710806</td>
+</tr>
+<tr class="row5">
+<td class="column0 style8 s">Set 4</td>
+<td class="column1 style9 s">TNF 3h</td>
+<td class="column2 style13 n">3.9105212206746</td>
+<td class="column3 style14 n">4.2969669569492</td>
+<td class="column4 style15 n">2.91571014016</td>
+<td class="column5 style14 f">3.7077327725946</td>
+<td class="column6 style15 f">0.71260786165162</td>
+</tr>
+<tr class="row6">
+<td class="column0 style8 s">Set 5</td>
+<td class="column1 style9 s">TNF 6h</td>
+<td class="column2 style13 n">3.8919692243618</td>
+<td class="column3 style14 n">3.8759739993898</td>
+<td class="column4 style15 n">2.7877819898691</td>
+<td class="column5 style14 f">3.5185750712069</td>
+<td class="column6 style15 f">0.63293590323501</td>
+</tr>
+<tr class="row7">
+<td class="column0 style8 s">Set 6</td>
+<td class="column1 style9 s">TNF 12h</td>
+<td class="column2 style13 n">3.017499336955</td>
+<td class="column3 style14 n">3.2019102003418</td>
+<td class="column4 style15 n">2.3612145748699</td>
+<td class="column5 style14 f">2.8602080373889</td>
+<td class="column6 style15 f">0.44186841747438</td>
+</tr>
+<tr class="row8">
+<td class="column0 style16 s">Set 7</td>
+<td class="column1 style17 s">TNF 24h</td>
+<td class="column2 style18 n">1.6351140964977</td>
+<td class="column3 style19 n">2.3257679424721</td>
+<td class="column4 style20 n">2.1605793402458</td>
+<td class="column5 style19 f">2.0404871264052</td>
+<td class="column6 style20 f">0.36064842798586</td>
+</tr>
+</tbody>
+</table>

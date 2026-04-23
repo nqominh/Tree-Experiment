@@ -1,0 +1,3194 @@
+[COLUMN STRUCTURE]
+Item Description
+  Brand
+    Samsung
+      Dell
+        Cisco
+          Lenovo
+            Samsung
+              Lenovo
+  Description
+    Monitor
+      Laptop
+        Router
+          Desktop
+            Monitor
+              Desktop
+  Category
+    Hardware
+  Model No.
+    SD300
+      Dell Latitude 3470
+        Cisco1921
+          M900 Tiny
+            SD300
+              M900 Tiny
+  Serial No.
+    ZZLZH4LHA01700
+      ZZLHZ4LHA02873
+        9GYY2F2
+          FGL20372164
+            PC0D22UG
+              PC0D22U1
+                PC0D22U2
+                  PC0D22TY
+                    ZZLZH4LH510169
+                      ZZLZH4LH510454
+                        ZZLZH4H510999
+                          PC0D22U5
+                            PC0D22TZ
+  ALB Tag #
+    DBN004723F
+      DBN004724F
+        DBN004726F
+          DBN004728F
+            DBN004682F
+              DBN004684F
+                DBN004683F
+                  DBN004686F
+                    DBN004693F
+                      DBN004692F
+                        DBN004691F
+                          DBN004687F
+                            DBN004698F
+  Stock Item
+    Yes
+      No
+        Yes
+          No
+Supplier Details
+  Order Note Date
+    17/May/2017
+      Yes
+        17/May/2017
+          31/Mar/2017
+            No
+              31/Mar/2017
+  Order Note Number
+    31177
+      31192
+        Yes
+          31177
+            31159
+              31059
+                31159
+  Date Delivered
+    06 Jun 2017
+      Yes
+        06 Jun 2017
+          31159
+            31059
+              31159
+  Delivery Note Number
+    06 Jun 2017
+      Yes
+        06 Jun 2017
+          31159
+            31059
+              31159
+  Invoice Date
+    09/Jun/2017
+      06 Jun 2017
+        Yes
+          06/Sep/2017
+            09/Jun/2017
+              31159
+                04/Apr/2017
+  Invoice Number
+    0025155
+      J203902
+        Yes
+          0025155
+            31159
+              J201773
+                J201941
+  Supplier
+    Ekhwesi Business Solutions
+      TCM
+        Dimension Data
+          Ekhwesi Business Solutions
+            TCM
+Quantity and Value
+  Condition
+    New
+  Qty
+    1
+      New
+        1
+  Unit Price
+    R 999.00
+      R 10,500.00
+        New
+          R 8,298.00
+            R 1,059.00
+              R 8,162.00
+  Total Price Ex Vat
+    R 999.00
+      R 10,500.00
+        R-
+          R 8,298.00
+            R 1,059.00
+              R 8,162.00
+  VAT
+    R 139.86
+      R 1,470.00
+        R-
+          R 1,161.72
+            R 148.26
+              R 1,142.68
+  Total Price Inc Vat
+    R 1,138.86
+      R 11,970.00
+        R-
+          R 9,459.72
+            R 1,207.26
+              R 9,304.68
+Requisition Details
+  Requisition by User
+    R 1,138.86
+      R 11,970.00
+        R-
+          Operations
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+  Requsition by Branch
+    R 1,138.86
+      R 11,970.00
+        R-
+          Head Office
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+  Requisition by Department
+    R 1,138.86
+      R 11,970.00
+        R-
+          Operations
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+  Job Title
+    R 1,138.86
+      R 11,970.00
+        R-
+          Operations
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+  Date Requested
+    R 1,138.86
+      R 11,970.00
+        R-
+          Operations
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+  New / Replacement
+    R 1,138.86
+      R 11,970.00
+        R-
+          New
+            R 9,459.72
+              R 1,207.26
+                R 9,304.68
+Current Location
+  Branch3
+    Head Office
+      R 1,207.26
+        R 9,304.68
+  Department
+    Information Technology
+      Operations
+        Information Technology
+          R 1,207.26
+            R 9,304.68
+  Location Code
+    Information Technology
+      1034
+        Information Technology
+          1030
+            R 1,207.26
+              R 9,304.68
+Transfer Details / New Location
+  Date Transferred
+    Information Technology
+      1034
+        Information Technology
+          14-Sep-2017
+            R 1,207.26
+              R 9,304.68
+  New User
+    Information Technology
+      1034
+        Information Technology
+          John Rabello
+            R 1,207.26
+              R 9,304.68
+  Branch2
+    Information Technology
+      1034
+        Information Technology
+          Head Office
+            R 1,207.26
+              R 9,304.68
+                Head Office
+  Department2
+    Information Technology
+      1034
+        Information Technology
+          Trade Division
+            R 1,207.26
+              R 9,304.68
+                Customer Services
+  Stock Item2
+    Information Technology
+      1034
+        Information Technology
+          No
+            R 1,207.26
+              R 9,304.68
+                No
+  Location Code2
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+Technician Details
+  Technician Name
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+  Date Setup
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+  Computer Name
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+  Power on Password
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+  Encryption Password
+    Information Technology
+      1034
+        Information Technology
+          1045
+            R 1,207.26
+              R 9,304.68
+                No
+Asset Disposal
+  Date Disposed
+    Information Technology
+      16-Apr-18
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Disposal Method
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Proceeds of Disposal
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Reason for Disposal
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+License Supplier 1
+  Supplier2
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Order Note Date
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Orde Note No
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Invoice Date3
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Invoice No
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Cost
+    Information Technology
+      Beyond Repair
+        Information Technology
+          1034
+            Information Technology
+              1045
+                R 1,207.26
+                  R 9,304.68
+                    No
+  Microsoft OS
+    0
+  MS Office
+    0
+  MS Project
+    0
+  MS Exchange
+    0
+  Win Server Cal
+    0
+  SQL
+    0
+  Adobe Standard
+    0
+  Office 365
+    0
+License Supplier 2
+  Supplier3
+    0
+  Order Note Date3
+    0
+  Order Note No
+    0
+  Invoice Date2
+    0
+  Invoice No2
+    0
+  Cost2
+    0
+  Microsoft OS2
+    0
+  MS Office2
+    0
+  MS Project2
+    0
+  MS Exchange2
+    0
+  Win Server Cal2
+    0
+  SQL0
+    0
+  Adobe Standard2
+    0
+  Office 3652
+    0
+
+[ROW STRUCTURE]
+Lenovo
+  Desktop
+    Hardware
+      M900 Tiny
+Epson
+  Projector
+    Hardware
+      EX-X31
+      Ex-31
+Dell
+  Laptop
+    Hardware
+      Latitude 3470
+      Latitude 3460
+      Vostro 5568
+      Latitude 3480
+Samsung
+  Monitor
+    Hardware
+      SD300
+Xerox
+  Printer
+    Hardware
+      Wc3655
+Star
+  Printer
+    Hardware
+      Tsp654iibi
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<col class="col15"/>
+<col class="col16"/>
+<col class="col17"/>
+<col class="col18"/>
+<col class="col19"/>
+<col class="col20"/>
+<col class="col21"/>
+<col class="col22"/>
+<col class="col23"/>
+<col class="col24"/>
+<col class="col25"/>
+<col class="col26"/>
+<col class="col27"/>
+<col class="col28"/>
+<col class="col29"/>
+<col class="col30"/>
+<col class="col31"/>
+<col class="col32"/>
+<col class="col33"/>
+<col class="col34"/>
+<col class="col35"/>
+<col class="col36"/>
+<col class="col37"/>
+<col class="col38"/>
+<col class="col39"/>
+<col class="col40"/>
+<col class="col41"/>
+<col class="col42"/>
+<col class="col43"/>
+<col class="col44"/>
+<col class="col45"/>
+<col class="col46"/>
+<col class="col47"/>
+<col class="col48"/>
+<col class="col49"/>
+<col class="col50"/>
+<col class="col51"/>
+<col class="col52"/>
+<col class="col53"/>
+<col class="col54"/>
+<col class="col55"/>
+<col class="col56"/>
+<col class="col57"/>
+<col class="col58"/>
+<col class="col59"/>
+<col class="col60"/>
+<col class="col61"/>
+<col class="col62"/>
+<col class="col63"/>
+<col class="col64"/>
+<col class="col65"/>
+<col class="col66"/>
+<col class="col67"/>
+<col class="col68"/>
+<col class="col69"/>
+<col class="col70"/>
+<col class="col71"/>
+<col class="col72"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style9 s style9" colspan="7">Item Description</td>
+<td class="column7 style10 s style10" colspan="7">Supplier Details</td>
+<td class="column14 style11 s style11" colspan="6">Quantity and Value</td>
+<td class="column20 style12 s style12" colspan="6">Requisition Details</td>
+<td class="column26 style13 s style13" colspan="3">Current Location</td>
+<td class="column29 style14 s style14" colspan="6">Transfer Details / New Location</td>
+<td class="column35 style15 s style15" colspan="5">Technician Details</td>
+<td class="column40 style16 s style16" colspan="4">Asset Disposal</td>
+<td class="column44 style17 s style17" colspan="14">License Supplier 1</td>
+<td class="column58 style18 s style18" colspan="14">License Supplier 2</td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row1">
+<td class="column0 style19 s">Brand</td>
+<td class="column1 style19 s">Description</td>
+<td class="column2 style19 s">Category</td>
+<td class="column3 style19 s">Model No.</td>
+<td class="column4 style20 s">Serial No.</td>
+<td class="column5 style59 s">ALB Tag #</td>
+<td class="column6 style19 s">Stock Item</td>
+<td class="column7 style21 s">Order  Note Date </td>
+<td class="column8 style22 s">Order Note Number</td>
+<td class="column9 style23 s">Date Delivered</td>
+<td class="column10 style24 s">Delivery Note Number</td>
+<td class="column11 style21 s">Invoice Date</td>
+<td class="column12 style22 s">Invoice Number</td>
+<td class="column13 style25 s">Supplier</td>
+<td class="column14 style26 s">Condition</td>
+<td class="column15 style26 s">Qty</td>
+<td class="column16 style27 s">Unit Price</td>
+<td class="column17 style27 s">Total Price Ex Vat</td>
+<td class="column18 style27 s">VAT </td>
+<td class="column19 style27 s">Total Price Inc Vat</td>
+<td class="column20 style28 s">Requisition by User</td>
+<td class="column21 style28 s">Requsition by Branch</td>
+<td class="column22 style28 s">Requisition by Department</td>
+<td class="column23 style28 s">Job Title</td>
+<td class="column24 style29 s">Date Requested</td>
+<td class="column25 style28 s">New / Replacement</td>
+<td class="column26 style30 s">Branch3</td>
+<td class="column27 style30 s">Department</td>
+<td class="column28 style31 s">Location Code</td>
+<td class="column29 style32 s">Date Transferred</td>
+<td class="column30 style33 s">New User</td>
+<td class="column31 style34 s">Branch2</td>
+<td class="column32 style34 s">Department2</td>
+<td class="column33 style34 s">Stock Item2</td>
+<td class="column34 style34 s">Location Code2</td>
+<td class="column35 style35 s">Technician Name</td>
+<td class="column36 style36 s">Date Setup </td>
+<td class="column37 style36 s">Computer Name</td>
+<td class="column38 style36 s">Power on Password</td>
+<td class="column39 style37 s">Encryption Password</td>
+<td class="column40 style38 s">Date Disposed</td>
+<td class="column41 style38 s">Disposal Method</td>
+<td class="column42 style38 s">Proceeds of Disposal</td>
+<td class="column43 style38 s">Reason for Disposal</td>
+<td class="column44 style39 s">Supplier2</td>
+<td class="column45 style39 s">Order Note Date</td>
+<td class="column46 style39 s">Orde Note No</td>
+<td class="column47 style39 s">Invoice Date3</td>
+<td class="column48 style39 s">Invoice No</td>
+<td class="column49 style40 s">Cost</td>
+<td class="column50 style39 s">Microsoft OS</td>
+<td class="column51 style39 s">MS Office</td>
+<td class="column52 style39 s">MS Project</td>
+<td class="column53 style39 s">MS Exchange</td>
+<td class="column54 style39 s">Win Server Cal</td>
+<td class="column55 style39 s">SQL</td>
+<td class="column56 style39 s">Adobe Standard</td>
+<td class="column57 style39 s">Office 365</td>
+<td class="column58 style36 s">Supplier3</td>
+<td class="column59 style36 s">Order Note Date3</td>
+<td class="column60 style36 s">Order Note No</td>
+<td class="column61 style36 s">Invoice Date2</td>
+<td class="column62 style36 s">Invoice No2</td>
+<td class="column63 style36 s">Cost2</td>
+<td class="column64 style36 s">Microsoft OS2</td>
+<td class="column65 style36 s">MS Office2</td>
+<td class="column66 style36 s">MS Project2</td>
+<td class="column67 style36 s">MS Exchange2</td>
+<td class="column68 style36 s">Win Server Cal2</td>
+<td class="column69 style36 s">SQL0</td>
+<td class="column70 style36 s">Adobe Standard2</td>
+<td class="column71 style36 s">Office 3652</td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row2">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4LHA01700</td>
+<td class="column5 style42 s">DBN004723F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 999.00 </td>
+<td class="column17 style49 n"> R 999.00 </td>
+<td class="column18 style49 n"> R 139.86 </td>
+<td class="column19 style50 n"> R 1,138.86 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLHZ4LHA02873</td>
+<td class="column5 style42 s">DBN004724F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 999.00 </td>
+<td class="column17 style49 n"> R 999.00 </td>
+<td class="column18 style49 n"> R 139.86 </td>
+<td class="column19 style50 n"> R 1,138.86 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row4">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Dell Latitude 3470</td>
+<td class="column4 style43 s">9GYY2F2</td>
+<td class="column5 style42 s">DBN004726F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 s">31192</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 s">J203902</td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 10,500.00 </td>
+<td class="column17 style49 n"> R 10,500.00 </td>
+<td class="column18 style49 n"> R 1,470.00 </td>
+<td class="column19 style50 n"> R 11,970.00 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style58 n">16-Apr-18</td>
+<td class="column41 style42 s">Beyond Repair</td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 s">Beyond Repair</td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row5">
+<td class="column0 style41 s">Cisco</td>
+<td class="column1 style42 s">Router</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Cisco1921 </td>
+<td class="column4 style43 s">FGL20372164</td>
+<td class="column5 style42 s">DBN004728F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 s">Dimension Data</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 null"></td>
+<td class="column16 style49 null"></td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row6">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22UG</td>
+<td class="column5 style42 s">DBN004682F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">06/Sep/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,298.00 </td>
+<td class="column17 style49 n"> R 8,298.00 </td>
+<td class="column18 style49 n"> R 1,161.72 </td>
+<td class="column19 style50 n"> R 9,459.72 </td>
+<td class="column20 style50 s"> Operations </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Operations </td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Operations</td>
+<td class="column28 style52 n">1034</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row7">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22U1</td>
+<td class="column5 style42 s">DBN004684F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,298.00 </td>
+<td class="column17 style49 n"> R 8,298.00 </td>
+<td class="column18 style49 n"> R 1,161.72 </td>
+<td class="column19 style50 n"> R 9,459.72 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row8">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22U2</td>
+<td class="column5 style42 s">DBN004683F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,298.00 </td>
+<td class="column17 style49 n"> R 8,298.00 </td>
+<td class="column18 style49 n"> R 1,161.72 </td>
+<td class="column19 style50 n"> R 9,459.72 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row9">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22TY</td>
+<td class="column5 style42 s">DBN004686F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,298.00 </td>
+<td class="column17 style49 n"> R 8,298.00 </td>
+<td class="column18 style49 n"> R 1,161.72 </td>
+<td class="column19 style50 n"> R 9,459.72 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 n">14-Sep-2017</td>
+<td class="column30 style54 s">John Rabello</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Trade Division</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">1045</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row10">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4LH510169</td>
+<td class="column5 style42 s">DBN004693F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 1,059.00 </td>
+<td class="column17 style49 n"> R 1,059.00 </td>
+<td class="column18 style49 n"> R 148.26 </td>
+<td class="column19 style50 n"> R 1,207.26 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row11">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4LH510454</td>
+<td class="column5 style42 s">DBN004692F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 1,059.00 </td>
+<td class="column17 style49 n"> R 1,059.00 </td>
+<td class="column18 style49 n"> R 148.26 </td>
+<td class="column19 style50 n"> R 1,207.26 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row12">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4H510999</td>
+<td class="column5 style42 s">DBN004691F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 1,059.00 </td>
+<td class="column17 style49 n"> R 1,059.00 </td>
+<td class="column18 style49 n"> R 148.26 </td>
+<td class="column19 style50 n"> R 1,207.26 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row13">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22U5</td>
+<td class="column5 style42 s">DBN004687F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 s">31059</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">04/Apr/2017</td>
+<td class="column12 style46 s">J201773</td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,162.00 </td>
+<td class="column17 style49 n"> R 8,162.00 </td>
+<td class="column18 style49 n"> R 1,142.68 </td>
+<td class="column19 style50 n"> R 9,304.68 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row14">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22TZ</td>
+<td class="column5 style42 s">DBN004698F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">04/Apr/2017</td>
+<td class="column12 style46 s">J201941</td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,162.00 </td>
+<td class="column17 style49 n"> R 8,162.00 </td>
+<td class="column18 style49 n"> R 1,142.68 </td>
+<td class="column19 style50 n"> R 9,304.68 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Customer Services</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row15">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22U4</td>
+<td class="column5 style42 s">DBN004688F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">04/Apr/2017</td>
+<td class="column12 style46 s">J201941</td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,162.00 </td>
+<td class="column17 style49 n"> R 8,162.00 </td>
+<td class="column18 style49 n"> R 1,142.68 </td>
+<td class="column19 style50 n"> R 9,304.68 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Customer Services</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row16">
+<td class="column0 style41 s">Lenovo</td>
+<td class="column1 style42 s">Desktop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">M900 Tiny</td>
+<td class="column4 style43 s">PC0D22UE</td>
+<td class="column5 style42 s">DBN004690F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">31/Mar/2017</td>
+<td class="column8 style46 s">31159</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">04/Apr/2017</td>
+<td class="column12 style46 s">J201941</td>
+<td class="column13 style42 s">TCM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 8,162.00 </td>
+<td class="column17 style49 n"> R 8,162.00 </td>
+<td class="column18 style49 n"> R 1,142.68 </td>
+<td class="column19 style50 n"> R 9,304.68 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Customer Services</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row17">
+<td class="column0 style41 s">Epson</td>
+<td class="column1 style42 s">Projector</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">EX-X31</td>
+<td class="column4 style43 s">WE8F740514L</td>
+<td class="column5 style42 s">DBN004714F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">08/Jun/2017</td>
+<td class="column8 style46 s">32355</td>
+<td class="column9 style47 n">05 Jul 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">12/Jun/2017</td>
+<td class="column12 style46 s">473781</td>
+<td class="column13 style42 s">Silvertron Business Technologies</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 10,500.00 </td>
+<td class="column17 style49 n"> R 10,500.00 </td>
+<td class="column18 style49 n"> R 1,470.00 </td>
+<td class="column19 style50 n"> R 11,970.00 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row18">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3470</td>
+<td class="column4 style43 s">9GYY2F2</td>
+<td class="column5 style42 s">DBN004726F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">07/Jul/2017</td>
+<td class="column8 style46 s">32369</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">18/Jul/2017</td>
+<td class="column12 style46 s">23303</td>
+<td class="column13 style42 s">Ehkwesi Business Solution</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 9,690.00 </td>
+<td class="column17 style49 n"> R 9,690.00 </td>
+<td class="column18 style49 n"> R 1,356.60 </td>
+<td class="column19 style50 n"> R 11,046.60 </td>
+<td class="column20 style50 s"> Mohamed Timol </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Corporate </td>
+<td class="column23 style50 s"> Relationship Manager </td>
+<td class="column24 style51 n">22/Jun/2017</td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 null"></td>
+<td class="column27 style42 null"></td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row19">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4LHA01381</td>
+<td class="column5 style42 s">DBN004725F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">17/May/2017</td>
+<td class="column8 style46 s">31177</td>
+<td class="column9 style47 n">06 Jun 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">09/Jun/2017</td>
+<td class="column12 style46 s">0025155</td>
+<td class="column13 style42 s">Ehkwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 999.00 </td>
+<td class="column17 style49 n"> R 999.00 </td>
+<td class="column18 style49 n"> R 139.86 </td>
+<td class="column19 style50 n"> R 1,138.86 </td>
+<td class="column20 style50 s"> Mohamed Shazim Sonpra </td>
+<td class="column21 style50 s"> Fordsburg </td>
+<td class="column22 style50 s"> Sales </td>
+<td class="column23 style50 s"> Sales Admin Assistant </td>
+<td class="column24 style51 n">28/Jul/2017</td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 n">10-Jul-2017</td>
+<td class="column30 style54 s">Mohamed Shazim Sonpra</td>
+<td class="column31 style42 s">Fordsburg</td>
+<td class="column32 style42 s">Sales</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">3001</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row20">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">GG2F3C2</td>
+<td class="column5 style42 s">DBN004670F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">26/Jul/2017</td>
+<td class="column8 style46 s">32381</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">23/Aug/2017</td>
+<td class="column12 style46 s">400929</td>
+<td class="column13 style42 s">First Technology</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 10,108.00 </td>
+<td class="column17 style49 n"> R 10,108.00 </td>
+<td class="column18 style49 n"> R 1,415.12 </td>
+<td class="column19 style50 n"> R 11,523.12 </td>
+<td class="column20 style50 s"> Yunus Paruk </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Marketing </td>
+<td class="column23 style50 s"> Manager    </td>
+<td class="column24 style51 n">20/Jul/2017</td>
+<td class="column25 style50 s"> Replacement </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 n">31-Jul-2017</td>
+<td class="column30 style54 s">Yunus Paruk</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Marketing</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">1033</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row21">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">F47X2F2</td>
+<td class="column5 style42 s">DBN004776F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">15/Aug/2017</td>
+<td class="column8 style46 s">32460</td>
+<td class="column9 style47 n">23 Aug 2017</td>
+<td class="column10 style42 s">GRV33401</td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 s">Ekhwesi Business Solutions</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 9,485.00 </td>
+<td class="column17 style49 n"> R 9,485.00 </td>
+<td class="column18 style49 n"> R 1,327.90 </td>
+<td class="column19 style50 n"> R 10,812.90 </td>
+<td class="column20 style50 s"> Ahmed Ismail </td>
+<td class="column21 style50 s"> Athlone </td>
+<td class="column22 style50 s"> Sales </td>
+<td class="column23 style50 s"> Relationship Consultant </td>
+<td class="column24 style51 n">14/Aug/2017</td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row22">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">1G2F3C2</td>
+<td class="column5 style42 s">DBN004968F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 null"></td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 null"></td>
+<td class="column29 style53 n">23-May-2017</td>
+<td class="column30 style54 s">Musa Zuma</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Shariah</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">1038</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row23">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Vostro 5568</td>
+<td class="column4 style43 s">1JT83G2</td>
+<td class="column5 style42 s">DBN004778F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">24/Aug/2017</td>
+<td class="column8 style46 s">32508</td>
+<td class="column9 style47 n">09 May 2017</td>
+<td class="column10 style42 s">AXZ1837177</td>
+<td class="column11 style45 n">04/Sep/2017</td>
+<td class="column12 style46 s">invp2069906</td>
+<td class="column13 style42 s">First Technology</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 9,100.00 </td>
+<td class="column17 style49 n"> R 9,100.00 </td>
+<td class="column18 style49 n"> R 1,274.00 </td>
+<td class="column19 style50 n"> R 10,374.00 </td>
+<td class="column20 style50 s"> Shahana Ally </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Chief Exec Office </td>
+<td class="column23 style50 s"> PA to Finance Director </td>
+<td class="column24 style51 n">24/Aug/2017</td>
+<td class="column25 style50 s"> Replacement </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 n">19-Sep-2017</td>
+<td class="column30 style54 s">Shahana Ally</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Chief Exec Office</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">1001</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row24">
+<td class="column0 style41 s">Samsung</td>
+<td class="column1 style42 s">Monitor</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">SD300</td>
+<td class="column4 style43 s">ZZLZH4LH902045</td>
+<td class="column5 style42 s">DBN004636F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 null"></td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 n">08-Sep-2017</td>
+<td class="column30 style54 s">Yasmin Khan</td>
+<td class="column31 style42 s">Rosebank Forex</td>
+<td class="column32 style42 s">Rosebank Branch</td>
+<td class="column33 style42 s">Yes</td>
+<td class="column34 style55 n">3014</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row25">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3480</td>
+<td class="column4 style43 s">5K7G6F2</td>
+<td class="column5 style42 s">DBN004779F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">04/Sep/2017</td>
+<td class="column8 style46 s">32475</td>
+<td class="column9 style47 n">06 Sep 2017</td>
+<td class="column10 style42 s">dlv124870</td>
+<td class="column11 style45 n">06/Sep/2017</td>
+<td class="column12 style46 s">IN-9700</td>
+<td class="column13 style42 s">Velocity</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 10,478.00 </td>
+<td class="column17 style49 n"> R 10,478.00 </td>
+<td class="column18 style49 n"> R 1,466.92 </td>
+<td class="column19 style50 n"> R 11,944.92 </td>
+<td class="column20 style50 s"> Zaahirah Sheik Ismail </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Information Technology </td>
+<td class="column23 style50 s"> IT Graduate Assistant </td>
+<td class="column24 style51 n">04/Sep/2017</td>
+<td class="column25 style50 s"> Replacement </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row26">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3480</td>
+<td class="column4 style43 s">1Z9P6F2</td>
+<td class="column5 style42 s">DBN004777F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">25/Aug/2017</td>
+<td class="column8 style46 s">32471</td>
+<td class="column9 style47 n">29 Aug 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">29/Aug/2017</td>
+<td class="column12 style46 s">031639</td>
+<td class="column13 style42 s">CHM</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 16,500.00 </td>
+<td class="column17 style49 n"> R 16,500.00 </td>
+<td class="column18 style49 n"> R 2,310.00 </td>
+<td class="column19 style50 n"> R 18,810.00 </td>
+<td class="column20 style50 s"> Rishaad Bismilla </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Projects </td>
+<td class="column23 style50 s"> Project Manger </td>
+<td class="column24 style51 n">25/Aug/2017</td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Projects</td>
+<td class="column28 style52 n">1035</td>
+<td class="column29 style53 n">05-Sep-2017</td>
+<td class="column30 style54 s">Rishaad Bismilla</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Projects</td>
+<td class="column33 style42 s">No</td>
+<td class="column34 style55 n">1035</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 s">Dimension Data</td>
+<td class="column45 style42 n">32515</td>
+<td class="column46 style42 n">42972</td>
+<td class="column47 style42 n">90437101</td>
+<td class="column48 style42 n">43024</td>
+<td class="column49 style56 n">R3,922.83 </td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">1</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row27">
+<td class="column0 style41 s">Xerox</td>
+<td class="column1 style42 s">Printer</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Wc3655</td>
+<td class="column4 style43 n">3353441471</td>
+<td class="column5 style42 s">ATH00500F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 n">08/Aug/2017</td>
+<td class="column8 style46 s">32457</td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">18/Aug/2017</td>
+<td class="column12 style46 s">CIV0002968</td>
+<td class="column13 style42 s">XDN</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 29,629.00 </td>
+<td class="column17 style49 n"> R 29,629.00 </td>
+<td class="column18 style49 n"> R 4,148.06 </td>
+<td class="column19 style50 n"> R 33,777.06 </td>
+<td class="column20 style50 s"> Cape Town Corporate </td>
+<td class="column21 style50 s"> Athlone </td>
+<td class="column22 style50 s"> Cape Town Corporate </td>
+<td class="column23 style50 s"> Corporate Manager </td>
+<td class="column24 style51 n">26/Jul/2017</td>
+<td class="column25 style50 s"> Replacement </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row28">
+<td class="column0 style41 s">Epson</td>
+<td class="column1 style42 s">Projector</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Ex-31</td>
+<td class="column4 style43 s">VTTK6900299</td>
+<td class="column5 style42 s">DBN004780F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">04/Sep/2017</td>
+<td class="column8 style46 s">32530</td>
+<td class="column9 style47 n">15 Sep 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">11/Sep/2017</td>
+<td class="column12 style46 s">30836</td>
+<td class="column13 style42 s">Silvertron Business Technologies</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 10,500.00 </td>
+<td class="column17 style49 n"> R 10,500.00 </td>
+<td class="column18 style49 n"> R 1,470.00 </td>
+<td class="column19 style50 n"> R 11,970.00 </td>
+<td class="column20 style50 s"> It Department </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Information Technology </td>
+<td class="column23 style50 s"> IT Department </td>
+<td class="column24 style51 n">31/Aug/2017</td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 n">15-Sep-2017</td>
+<td class="column30 style54 s">It Department</td>
+<td class="column31 style42 s">Head Office</td>
+<td class="column32 style42 s">Information Technology</td>
+<td class="column33 style42 s">Yes</td>
+<td class="column34 style55 n">1030</td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row29">
+<td class="column0 style41 s">Star</td>
+<td class="column1 style42 s">Printer</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Tsp654iibi</td>
+<td class="column4 style43 s">2511316030600190 C</td>
+<td class="column5 style42 s">DBN004825F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 n">06/Sep/2017</td>
+<td class="column8 style46 s">32533</td>
+<td class="column9 style47 n">18 Sep 2017</td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 n">28/Aug/2017</td>
+<td class="column12 style46 s">SOQ24563</td>
+<td class="column13 style42 s">Roan System</td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 n"> R 5,986.40 </td>
+<td class="column17 style49 n"> R 5,986.40 </td>
+<td class="column18 style49 n"> R 838.10 </td>
+<td class="column19 style50 n"> R 6,824.50 </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 n">0</td>
+<td class="column51 style42 n">0</td>
+<td class="column52 style42 n">0</td>
+<td class="column53 style42 n">0</td>
+<td class="column54 style57 n">0</td>
+<td class="column55 style42 n">0</td>
+<td class="column56 style42 n">0</td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row30">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">7RT8G</td>
+<td class="column5 style42 s">DBN004941F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 s"> Debtors Clerk </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Finance </td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 b"></td>
+<td class="column51 style42 b"></td>
+<td class="column52 style42 b"></td>
+<td class="column53 style42 b"></td>
+<td class="column54 style57 b"></td>
+<td class="column55 style42 b"></td>
+<td class="column56 style42 b"></td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row31">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">HKYDSJ2</td>
+<td class="column5 style42 s">DBN004988F</td>
+<td class="column6 style44 s">Yes</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 s"> Hamza Goolam Mahomed </td>
+<td class="column21 style50 s"> Head Office </td>
+<td class="column22 style50 s"> Executive </td>
+<td class="column23 style50 s"> PA to COO </td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 s"> New </td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 b"></td>
+<td class="column51 style42 b"></td>
+<td class="column52 style42 b"></td>
+<td class="column53 style42 b"></td>
+<td class="column54 style57 b"></td>
+<td class="column55 style42 b"></td>
+<td class="column56 style42 b"></td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row32">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">JH283C2</td>
+<td class="column5 style42 s">DBN004700F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 s">`</td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 b"></td>
+<td class="column51 style42 b"></td>
+<td class="column52 style42 b"></td>
+<td class="column53 style42 b"></td>
+<td class="column54 style57 b"></td>
+<td class="column55 style42 b"></td>
+<td class="column56 style42 b"></td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row33">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">95Y4VJ2</td>
+<td class="column5 style42 s">DBN004989F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style58 n">17-Jul-18</td>
+<td class="column41 style42 s">Insurance Claim</td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 s">Insurance Claim</td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 b"></td>
+<td class="column51 style42 b"></td>
+<td class="column52 style42 b"></td>
+<td class="column53 style42 b"></td>
+<td class="column54 style57 b"></td>
+<td class="column55 style42 b"></td>
+<td class="column56 style42 b"></td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row34">
+<td class="column0 style41 s">Dell</td>
+<td class="column1 style42 s">Laptop</td>
+<td class="column2 style42 s">Hardware</td>
+<td class="column3 style42 s">Latitude 3460</td>
+<td class="column4 style43 s">BM352F2</td>
+<td class="column5 style42 s">DBN004990F</td>
+<td class="column6 style44 s">No</td>
+<td class="column7 style45 null"></td>
+<td class="column8 style46 null"></td>
+<td class="column9 style47 null"></td>
+<td class="column10 style42 null"></td>
+<td class="column11 style45 null"></td>
+<td class="column12 style46 null"></td>
+<td class="column13 style42 null"></td>
+<td class="column14 style48 s">New</td>
+<td class="column15 style48 n">1</td>
+<td class="column16 style49 s"> R-   </td>
+<td class="column17 style49 s"> R-   </td>
+<td class="column18 style49 s"> R-   </td>
+<td class="column19 style50 s"> R-   </td>
+<td class="column20 style50 null"></td>
+<td class="column21 style50 null"></td>
+<td class="column22 style50 null"></td>
+<td class="column23 style50 null"></td>
+<td class="column24 style51 null"></td>
+<td class="column25 style50 null"></td>
+<td class="column26 style42 s">Head Office</td>
+<td class="column27 style42 s">Information Technology</td>
+<td class="column28 style52 n">1030</td>
+<td class="column29 style53 null"></td>
+<td class="column30 style54 null"></td>
+<td class="column31 style42 null"></td>
+<td class="column32 style42 null"></td>
+<td class="column33 style42 null"></td>
+<td class="column34 style55 null"></td>
+<td class="column35 style42 null"></td>
+<td class="column36 style42 null"></td>
+<td class="column37 style42 null"></td>
+<td class="column38 style42 null"></td>
+<td class="column39 style52 null"></td>
+<td class="column40 style42 null"></td>
+<td class="column41 style42 null"></td>
+<td class="column42 style42 null"></td>
+<td class="column43 style42 null"></td>
+<td class="column44 style42 null"></td>
+<td class="column45 style42 null"></td>
+<td class="column46 style42 null"></td>
+<td class="column47 style42 null"></td>
+<td class="column48 style42 null"></td>
+<td class="column49 style56 null"></td>
+<td class="column50 style42 b"></td>
+<td class="column51 style42 b"></td>
+<td class="column52 style42 b"></td>
+<td class="column53 style42 b"></td>
+<td class="column54 style57 b"></td>
+<td class="column55 style42 b"></td>
+<td class="column56 style42 b"></td>
+<td class="column57 style57 null"></td>
+<td class="column58 style42 null"></td>
+<td class="column59 style42 null"></td>
+<td class="column60 style42 null"></td>
+<td class="column61 style42 null"></td>
+<td class="column62 style42 null"></td>
+<td class="column63 style42 null"></td>
+<td class="column64 style42 null"></td>
+<td class="column65 style42 null"></td>
+<td class="column66 style42 null"></td>
+<td class="column67 style42 null"></td>
+<td class="column68 style42 null"></td>
+<td class="column69 style42 null"></td>
+<td class="column70 style42 null"></td>
+<td class="column71 style42 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+<tr class="row35">
+<td class="column0 style1 null"></td>
+<td class="column1 style1 null"></td>
+<td class="column2 style1 null"></td>
+<td class="column3 style1 null"></td>
+<td class="column4 style2 null"></td>
+<td class="column5 style1 null"></td>
+<td class="column6 style1 null"></td>
+<td class="column7 style3 null"></td>
+<td class="column8 style4 null"></td>
+<td class="column9 style5 null"></td>
+<td class="column10 style1 null"></td>
+<td class="column11 style3 null"></td>
+<td class="column12 style4 null"></td>
+<td class="column13 style1 null"></td>
+<td class="column14 style2 null"></td>
+<td class="column15 style2 null"></td>
+<td class="column16 style1 null"></td>
+<td class="column17 style1 null"></td>
+<td class="column18 style1 null"></td>
+<td class="column19 style1 null"></td>
+<td class="column20 style1 null"></td>
+<td class="column21 style1 null"></td>
+<td class="column22 style1 null"></td>
+<td class="column23 style1 null"></td>
+<td class="column24 style3 null"></td>
+<td class="column25 style1 null"></td>
+<td class="column26 style1 null"></td>
+<td class="column27 style1 null"></td>
+<td class="column28 style2 null"></td>
+<td class="column29 style6 null"></td>
+<td class="column30 style7 null"></td>
+<td class="column31 style7 null"></td>
+<td class="column32 style7 null"></td>
+<td class="column33 style7 null"></td>
+<td class="column34 style1 null"></td>
+<td class="column35 style1 null"></td>
+<td class="column36 style1 null"></td>
+<td class="column37 style1 null"></td>
+<td class="column38 style1 null"></td>
+<td class="column39 style2 null"></td>
+<td class="column40 style1 null"></td>
+<td class="column41 style1 null"></td>
+<td class="column42 style1 null"></td>
+<td class="column43 style1 null"></td>
+<td class="column44 style1 null"></td>
+<td class="column45 style1 null"></td>
+<td class="column46 style1 null"></td>
+<td class="column47 style1 null"></td>
+<td class="column48 style1 null"></td>
+<td class="column49 style8 null"></td>
+<td class="column50 style1 null"></td>
+<td class="column51 style1 null"></td>
+<td class="column52 style1 null"></td>
+<td class="column53 style1 null"></td>
+<td class="column54 style1 null"></td>
+<td class="column55 style1 null"></td>
+<td class="column56 style1 null"></td>
+<td class="column57 style1 null"></td>
+<td class="column58 style1 null"></td>
+<td class="column59 style1 null"></td>
+<td class="column60 style1 null"></td>
+<td class="column61 style1 null"></td>
+<td class="column62 style1 null"></td>
+<td class="column63 style1 null"></td>
+<td class="column64 style1 null"></td>
+<td class="column65 style1 null"></td>
+<td class="column66 style1 null"></td>
+<td class="column67 style1 null"></td>
+<td class="column68 style1 null"></td>
+<td class="column69 style1 null"></td>
+<td class="column70 style1 null"></td>
+<td class="column71 style1 null"></td>
+<td class="column72 style1 null"></td>
+</tr>
+</tbody>
+</table>

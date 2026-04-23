@@ -1,0 +1,99 @@
+[COLUMN STRUCTURE]
+Source
+Device
+Activation Count
+Restart Count
+Crash Count
+% Crash
+% Restart
+
+[ROW STRUCTURE]
+Mobile Department
+  Workstation
+  Register
+  Total
+Other Department
+  Workstation
+  Register
+  Total
+Grand Total
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Source</td>
+<td class="column1 style2 s">Device</td>
+<td class="column2 style3 s">Activation Count</td>
+<td class="column3 style3 s">Restart Count</td>
+<td class="column4 style3 s">Crash Count</td>
+<td class="column5 style3 s">% Crash</td>
+<td class="column6 style16 s">% Restart</td>
+</tr>
+<tr class="row1">
+<td class="column0 style4 s style10" rowspan="3">Mobile Department</td>
+<td class="column1 style5 s">Workstation</td>
+<td class="column2 style6 n">9635</td>
+<td class="column3 style6 n">494</td>
+<td class="column4 style6 n">14</td>
+<td class="column5 style17 f">0.15%</td>
+<td class="column6 style18 f">5.13%</td>
+</tr>
+<tr class="row2">
+<td class="column1 style8 s">Register</td>
+<td class="column2 style9 n">3162</td>
+<td class="column3 style9 n">712</td>
+<td class="column4 style9 n">9</td>
+<td class="column5 style19 f">0.28%</td>
+<td class="column6 style20 f">22.52%</td>
+</tr>
+<tr class="row3">
+<td class="column1 style11 s">Total</td>
+<td class="column2 style12 f">12797</td>
+<td class="column3 style12 f">1206</td>
+<td class="column4 style12 f">23</td>
+<td class="column5 style21 f">0.18%</td>
+<td class="column6 style22 f">9.42%</td>
+</tr>
+<tr class="row4">
+<td class="column0 style13 s style14" rowspan="3">Other Department</td>
+<td class="column1 style5 s">Workstation</td>
+<td class="column2 style6 n">96</td>
+<td class="column3 style6 n">68</td>
+<td class="column4 style6 n">0</td>
+<td class="column5 style17 f">0.00%</td>
+<td class="column6 style18 f">70.83%</td>
+</tr>
+<tr class="row5">
+<td class="column1 style8 s">Register</td>
+<td class="column2 style9 n">664</td>
+<td class="column3 style9 n">997</td>
+<td class="column4 style9 n">2</td>
+<td class="column5 style19 f">0.30%</td>
+<td class="column6 style18 f">150.15%</td>
+</tr>
+<tr class="row6">
+<td class="column1 style11 s">Total</td>
+<td class="column2 style12 f">760</td>
+<td class="column3 style12 f">1065</td>
+<td class="column4 style12 f">2</td>
+<td class="column5 style21 f">0.26%</td>
+<td class="column6 style22 f">140.13%</td>
+</tr>
+<tr class="row7">
+<td class="column0 style15 s style3" colspan="2">Grand Total</td>
+<td class="column2 style3 f">13557</td>
+<td class="column3 style3 f">2271</td>
+<td class="column4 style3 f">25</td>
+<td class="column5 style23 f">0.18%</td>
+<td class="column6 style24 f">16.75%</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,261 @@
+[COLUMN STRUCTURE]
+Field
+  Influenza_Season
+    State
+      CDPH_HAI_HCP_FLU_VACCINATION
+        County
+          Facility_ID
+            Facility_Name
+              Hospital_Type
+                HCP_Total_Number_Vaccinated
+                  HCP_Total_Number_Working
+                    HCP_Percent_Vaccinated
+                      Emp_Number_Vaccinated
+                        Emp_Number_Working
+                          Emp_Percent_Vaccinated
+Format
+  Plain Text
+    Number
+Definition
+  October 01, 2023 through March 31, 2024
+    California
+      California Department of Public Health, Healthcare-Associated Infections Program, Health Care Personnel Influenza Vaccination
+        Reported County
+          Facility_ID is the primary key used to track facility information for all facilities stored in the Electronic Licensing Management System (ELMS) for CDPH Center for Health Care Quality, Licensing and Certification Program.
+            Facility name for facilities reporting to National Healthcare Safety Network (NHSN) healthcare personnel influenza vaccination data for the 2023-24 influenza season, specifically October 1, 2023, through March 31, 2024 for California General Acute Care Hospitals reporting.
+              HAI Program designation for hospital types. These include major teaching, community (<125 beds, 125-250 beds, and >250 beds), pediatric, critical access, long-term acute care (LTAC), and free-standing rehabilitation hospitals.
+                Total number of Health Care Personnel (HCP) vaccinated. HCP include all paid (employee) and unpaid (licensed independent practitioners, other contract personnel and adult students/trainees and volunteers) persons working in health care settings and have the potential to transmit influenza to and from other HCP and patients.
+                  Total number of Health Care Personnel (HCP) working
+                    Percentage of HCP vaccinated.
+                      Total number of hospital employees vaccinated
+                        Total number of hospital employees working
+                          Percentage of hospital employees vaccinated
+
+[ROW STRUCTURE]
+Lip_Number_Vaccinated
+  Number
+    Total number of licensed independent practitioners vaccinated
+Lip_Number_Working
+  Number
+    Total number of licensed independent practitioners working
+Lip_Percent_Vaccinated
+  Number
+    Percentage of licensed independent practitioners vaccinated
+Cont_Number_Vaccinated
+  Number
+    Total number of other contract personnel vaccinated
+Cont_Number_Working
+  Number
+    Total number of other contract personnel working
+Cont_Percent_Vaccinated
+  Number
+    Percentage of contract personnel vaccinated
+StudVol_Number_Vaccinated
+  Number
+    Total number of students, trainees, and volunteers vaccinated
+StudVol_Number_Working
+  Number
+    Total number of students, trainees, and volunteers working
+StudVol_Percent_Vaccinated
+  Number
+    Percentage of students, trainees, and volunteers vaccinated
+Met 2020 goal of 90% (>=90% in 2023-24)
+  Plain Text
+    In 2023-24, hospitals should have achieved at least 90% (Healthy People 2020 goal) HCP vaccination coverage. Did hospital achieve at least 90% HCP vaccination coverage in 2023-24? Yes or No.
+Notes
+  Plain Text
+    “Non-reporter” indicates if hospital did not report data (all data fields are blank); "Reported combined data" indicates when hospital reports consolidated data with another hospital.
+Additional information
+  Inpatient rehabilitation units are excluded, for detailed explanation see Technical Notes.
+Source
+  Influenza Vaccination among Health Care Personnel in California Hospitals, 2022-23 Season. Healthcare-Associated Infections Program, California Department of Public Health.
+  https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1041">
+<col width="234"/>
+<col width="69"/>
+<col width="498"/>
+<col span="4" width="60"/>
+<tr height="23">
+<td class="x69" colspan="3" height="23" width="801">Data Dictionary - HCP Influenza Vaccination by Hospital and County</td>
+<td colspan="4" width="240"></td>
+</tr>
+<tr height="24">
+<td class="x70" height="22">Field</td>
+<td class="x71">Format</td>
+<td class="x71">Definition</td>
+<td colspan="4"></td>
+</tr>
+<tr height="23">
+<td class="x72" height="21">Influenza_Season</td>
+<td class="x72">Plain Text</td>
+<td class="x73">October 01, 2023 through March 31, 2024</td>
+<td class="x74"></td>
+<td colspan="3"></td>
+</tr>
+<tr height="24">
+<td class="x72" height="22">State</td>
+<td class="x72">Plain Text</td>
+<td class="x72">California</td>
+<td colspan="4"></td>
+</tr>
+<tr height="48">
+<td class="x72" height="46">CDPH_HAI_HCP_FLU_VACCINATION</td>
+<td class="x72">Plain Text</td>
+<td class="x75">California Department of Public Health, Healthcare-Associated Infections Program, Health Care Personnel Influenza Vaccination</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x72" height="22">County</td>
+<td class="x72">Plain Text</td>
+<td class="x72">Reported County</td>
+<td colspan="4"></td>
+</tr>
+<tr height="63">
+<td class="x72" height="61">Facility_ID</td>
+<td class="x72">Plain Text</td>
+<td class="x72">Facility_ID is the primary key used to track facility information for all facilities stored in the Electronic Licensing Management System (ELMS) for CDPH Center for Health Care Quality, Licensing and Certification Program. </td>
+<td colspan="4"></td>
+</tr>
+<tr height="94">
+<td class="x72" height="92">Facility_Name</td>
+<td class="x72">Plain Text</td>
+<td class="x72">Facility name for facilities reporting to National Healthcare Safety Network (NHSN) healthcare personnel influenza vaccination data for the 2023-24 influenza season, specifically October 1, 2023, through March 31, 2024 for California General Acute Care Hospitals reporting.<span>  </span></td>
+<td colspan="4"></td>
+</tr>
+<tr height="69">
+<td class="x72" height="67">Hospital_Type</td>
+<td class="x72">Plain Text</td>
+<td class="x72">HAI Program designation for hospital types. These include major teaching, community (&lt;125 beds, 125-250 beds, and &gt;250 beds), pediatric, critical access, long-term acute care (LTAC), and free-standing rehabilitation hospitals.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="117">
+<td class="x76" height="115">HCP_Total_Number_Vaccinated</td>
+<td class="x77">Number</td>
+<td class="x78">Total number of Health Care Personnel (HCP) vaccinated. HCP include all paid (employee) and unpaid (licensed independent practitioners, other contract personnel and adult students/trainees and volunteers) persons working in health care settings and have the potential to transmit influenza to and from other HCP and patients. </td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">HCP_Total_Number_Working</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of Health Care Personnel (HCP) working</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">HCP_Percent_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Percentage of HCP vaccinated.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Emp_Number_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of hospital employees vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Emp_Number_Working</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of hospital employees working</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Emp_Percent_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Percentage of hospital employees vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Lip_Number_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of licensed independent practitioners vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Lip_Number_Working</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of licensed independent practitioners working</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Lip_Percent_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Percentage of licensed independent practitioners vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Cont_Number_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of other contract personnel vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Cont_Number_Working</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of other contract personnel working</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">Cont_Percent_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Percentage of contract personnel vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">StudVol_Number_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of students, trainees, and volunteers vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">StudVol_Number_Working</td>
+<td class="x78">Number</td>
+<td class="x78">Total number of students, trainees, and volunteers working</td>
+<td colspan="4"></td>
+</tr>
+<tr height="24">
+<td class="x76" height="22">StudVol_Percent_Vaccinated</td>
+<td class="x78">Number</td>
+<td class="x78">Percentage of students, trainees, and volunteers vaccinated</td>
+<td colspan="4"></td>
+</tr>
+<tr height="70">
+<td class="x79" height="68">Met 2020 goal of 90% (&gt;=90% in 2023-24)</td>
+<td class="x80">Plain Text</td>
+<td class="x80">In 2023-24, hospitals should have achieved at least 90% (Healthy People 2020 goal) HCP vaccination coverage. Did hospital achieve at least 90% HCP vaccination coverage in 2023-24?<span>  </span>Yes or No.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="68">
+<td class="x79" height="66">Notes</td>
+<td class="x80">Plain Text</td>
+<td class="x80">“Non-reporter” indicates if hospital did not report data (all data fields are blank); "Reported combined data" indicates when hospital reports consolidated data with another hospital.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="56">
+<td class="x81" height="56"></td>
+<td class="x82" colspan="6"></td>
+</tr>
+<tr height="24">
+<td class="x83" height="24">Additional information</td>
+<td class="x84" colspan="2">Inpatient rehabilitation units are excluded, for detailed explanation see Technical Notes.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="49">
+<td class="x84" height="95" rowspan="2">Source</td>
+<td class="x85" colspan="2">Influenza Vaccination among Health Care Personnel in California Hospitals, 2022-23 Season. Healthcare-Associated Infections Program, California Department of Public Health.</td>
+<td colspan="4"></td>
+</tr>
+<tr height="46">
+<td class="x86" colspan="2"><a href="https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx" target="_parent"><span>https://www.cdph.ca.gov/Programs/CHCQ/HAI/Pages/HealthcarePersonnelInfluenzaVaccinationReportingInCA_Hospitals.aspx</span></a></td>
+<td colspan="4"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="234"></td>
+<td width="69"></td>
+<td width="498"></td>
+<td colspan="4" width="240"></td>
+</tr>
+<?endif?>
+</table>

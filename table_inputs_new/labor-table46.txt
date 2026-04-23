@@ -1,0 +1,379 @@
+[COLUMN STRUCTURE]
+To be completed by
+  2016/1/13
+Status
+  Contractor Assigned
+    Rejected
+      Contractor Assigned
+        Work Commenced
+          Needs pre-inspection
+            Contractor Assigned
+              Work Commenced
+                Contractor Finished
+Address
+  Albert Terrace 15, Bacup, OL13 8BJ
+    Altham St 6, Padiham, BB12 8QR
+Job Description
+  Tenant wants bigger bannister, obtained quote £110 and given go ahead.
+    Tenant said brown patch & damp in front bedroom from roof when rains heavy and bathroom wall stained, Leigh to send in report
+      bathroom has previous moisture in walls and told tenant to put dehumidifier on, which she is doing and wash walls down until moisture goes.
+        Leigh also has to go back and check chimney stack on a dry day as there is a definitely a leak on the stack and to seal a gutter which is leaking at the back
+          (Neighbour No 8 complains of damp says coming from under floor to the right of chimney breast in front room ( now vacant) )
+            Water penetrating left front broom ciling, seems from neigbour chimeny number 4
+              Left Front Bedroom window may need replacing
+                Nigel to paint covings
+                  Sent Cash & Carry to replace lino in kitchen.
+                    Electric socket (in front room?) is loose,
+                      Bathroom window not shutting – Needs new handle
+                        Oily substance leaking (in bathroom?) from ceiling.
+                          Bath panel needs repairing / replacing
+                            Needs smoke detectors & co.
+Purpose
+  Repair
+Type
+  UNDECIDED
+    Roofer
+      MONITOR
+        Roofer
+          Joiner
+            Decorator
+              Carpet fitter
+                Electrician
+                  Joiner
+                    Roofer
+                      General
+Suggested
+  UNDECIDED
+    Roofer
+      MONITOR
+        Roofer
+          Joiner
+            Decorator
+              Carpet fitter
+                Electrician
+                  Joiner
+                    Roofer
+                      General
+Manager
+  UNDECIDED
+    managar 1
+
+[ROW STRUCTURE]
+2016/1/13
+  Needs Post-inspection
+    Altham St 6, Padiham, BB12 8QR
+      leak in front bedroom – Leigh has dealt with board in loft but says we need to monitor as next door’s (No 4) chimney is defective
+  Complete
+    Bold St 21, Bacup, LANCS, OL13 9QR
+      Rubbish in bins to be emptied (or to put on road for council to empty)
+      Bath panel to be either replaced or refitted
+      Grout floor tiles to back room
+      Clean window to back room (paint on window)
+2016/1/14
+  Complete
+    Bold St 21, Bacup, LANCS, OL13 9QR
+      Floor boards in bedroom and bathroom need attention (just screwing / fitting)
+      Fit smoke alarms and co detector
+      Replace missing light bulbs
+      Door catch to bedroom door needs fitting (lying on floor)
+      Skirting behind toilet needs painting/cleaning
+      Bathroom needs cleaning.
+  Needs pre-inspection
+    Bold St 21, Bacup, LANCS, OL13 9QR
+      Damp Issues: Rot above front window needs addressing. Gary says water penetrating around window. Damp in rear room near boxed in water pipe needs looking at Damp patches on internal walls between the two downstairs rooms. Damp patches on right hand wall in front living room – Shoshi has visited property together with Tony Bray. Tony Bray has sent a revised quote and we will need to discuss.
+  Contractor Assigned
+    Bold St 21, Bacup, LANCS, OL13 9QR
+      There is currently a debt of over £290 on the Gas Meter – Need to contact EON to sort
+  Rejected
+    Bold St 21, Bacup, LANCS, OL13 9QR
+      Graham to carry out GSC before tenanting
+  Work Commenced
+    Bolton Road 131, Westhoughton, Bolton, BL5 3DY
+      Tenant says base of bath needs siliconing.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">To be completed by</td>
+<td class="column1 style1 s">Status</td>
+<td class="column2 style1 s">Address</td>
+<td class="column3 style1 s">Job Description</td>
+<td class="column4 style1 s">Purpose</td>
+<td class="column5 style1 s">Type</td>
+<td class="column6 style1 s">Suggested</td>
+<td class="column7 style1 s">Manager</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 n style2" rowspan="19">2016/1/13</td>
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Albert Terrace 15, Bacup, OL13 8BJ</td>
+<td class="column3 style5 s">Tenant wants bigger bannister, obtained quote £110 and given go ahead.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">UNDECIDED</td>
+<td class="column6 style8 null"></td>
+<td class="column7 style7 null"></td>
+</tr>
+<tr class="row2">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Albert Terrace 15, Bacup, OL13 8BJ</td>
+<td class="column3 style5 s">Tenant said brown patch &amp; damp in front bedroom from roof when rains heavy and bathroom wall stained, Leigh to send in report </td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Roofer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row3">
+<td class="column1 style3 s">Rejected</td>
+<td class="column2 style4 s">Albert Terrace 15, Bacup, OL13 8BJ</td>
+<td class="column3 style5 s">bathroom has previous moisture in walls and told tenant to put dehumidifier on, which she is doing and wash walls down until moisture goes.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">MONITOR</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row4">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Albert Terrace 15, Bacup, OL13 8BJ</td>
+<td class="column3 style5 s">Leigh also has to go back and check chimney stack on a dry day as there is a definitely a leak on the stack and to seal a gutter which is leaking at the back</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Roofer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row5">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">(Neighbour No 8  complains of damp says coming from under floor to the right of chimney breast in front room ( now vacant) )</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Roofer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row6">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Water penetrating left front broom ciling, seems from neigbour chimeny number 4</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Roofer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row7">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Left Front  Bedroom  window may need replacing</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Joiner</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row8">
+<td class="column1 style3 s">Work Commenced</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Nigel to paint covings</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Decorator</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row9">
+<td class="column1 style3 s">Needs pre-inspection</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Sent Cash &amp; Carry to replace lino in kitchen.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Carpet fitter</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row10">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Electric socket (in front room?) is loose,</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Electrician</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row11">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Bathroom window not shutting – Needs new handle</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Joiner</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row12">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Oily substance leaking  (in bathroom?) from ceiling.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">Roofer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row13">
+<td class="column1 style3 s">Work Commenced</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Bath panel needs repairing / replacing</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row14">
+<td class="column1 style3 s">Contractor Finished</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">Needs smoke detectors &amp; co.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row15">
+<td class="column1 style3 s">Needs Post-inspection</td>
+<td class="column2 style4 s">Altham St 6, Padiham, BB12 8QR</td>
+<td class="column3 style5 s">   leak in front bedroom – Leigh has dealt with board in loft but says we need to monitor as next door’s (No 4) chimney is defective</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">MONITOR</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row16">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Rubbish in bins to be emptied (or to put on road for council to empty)</td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">UNDECIDED</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row17">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Bath panel to be either replaced or refitted </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row18">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Grout floor tiles to back room </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row19">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Clean window to back room (paint on window)</td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row20">
+<td class="column0 style2 n style2" rowspan="10">2016/1/14</td>
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Floor boards in bedroom and bathroom need attention (just screwing / fitting) </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row21">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Fit smoke alarms and co detector </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row22">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Replace missing light bulbs </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row23">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Door catch to bedroom door needs fitting (lying on floor) </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row24">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Skirting behind toilet needs painting/cleaning </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row25">
+<td class="column1 style6 s">Complete</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Bathroom needs cleaning. </td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row26">
+<td class="column1 style3 s">Needs pre-inspection</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s"><span>Damp Issues:  Rot above front window needs addressing. Gary says water penetrating around window. Damp in rear room near boxed in water pipe needs looking at Damp patches on internal walls between the two downstairs</span><span> </span><span>rooms.</span><span> </span><span>Damp patches on right hand wall in front living room – Shoshi has visited property together with Tony Bray. Tony Bray has sent a revised quote and we will need to discuss.</span></td>
+<td class="column4 style5 null"></td>
+<td class="column5 style7 s">UNDECIDED</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row27">
+<td class="column1 style3 s">Contractor Assigned</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">There is currently a debt of over £290 on the Gas Meter – Need to contact EON to sort</td>
+<td class="column4 style5 s">Refurb</td>
+<td class="column5 style7 s">THIRD PARTY</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row28">
+<td class="column1 style3 s">Rejected</td>
+<td class="column2 style4 s">Bold St 21, Bacup, LANCS, OL13 9QR</td>
+<td class="column3 style5 s">Graham to carry out GSC before tenanting</td>
+<td class="column4 style5 s">Refurb</td>
+<td class="column5 style7 s">Gas engineer</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+<tr class="row29">
+<td class="column1 style3 s">Work Commenced</td>
+<td class="column2 style4 s">Bolton Road 131, Westhoughton, Bolton, BL5 3DY</td>
+<td class="column3 style5 s">Tenant says base of bath needs siliconing.</td>
+<td class="column4 style5 s">Repair</td>
+<td class="column5 style7 s">General</td>
+<td class="column6 style7 null"></td>
+<td class="column7 style7 s">managar 1</td>
+</tr>
+</tbody>
+</table>

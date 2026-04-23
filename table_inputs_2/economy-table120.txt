@@ -1,0 +1,325 @@
+[COLUMN STRUCTURE]
+Reference
+  Holiday Inn Docklands
+From
+  To
+    417
+      408
+        307
+          401
+            229
+              402
+                431
+                  234
+                    233
+                      332
+2015-09-21
+  Invoice Number
+    '201509211758303583306'
+      '201509221822548423327'
+        '201509221906146623368'
+          '201509221944242803329'
+            '201509221950206853330'
+              '201509222250044193333'
+                '201509231853127663337'
+                  '201509231857374753338'
+                    '201509231904498113339'
+                      '201509232032417663342'
+to
+  TOTAL
+    Date
+      2015-09-21
+        2015-09-22
+          2015-09-23
+0
+  £411.50
+    Invoice Total
+      £ 21.00
+        £ 19.00
+          £ 16.00
+            £ 19.00
+              £ 24.00
+                £ 22.00
+                  £ 13.00
+                    £ 23.00
+                      £ 20.00
+    Day
+      Monday
+        Tuesday
+          Wednesday
+  &quot;* #,##0&quot;
+    Commissionable
+      &quot;* #,##0&quot;
+  £20.58
+    Commission Amount
+      £1.05
+        £0.95
+          £0.80
+            £0.95
+              £1.20
+                £1.10
+                  £0.65
+                    £1.15
+                      £1.00
+
+[ROW STRUCTURE]
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+Holiday Inn Docklands
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s style14" colspan="8">Customer Invoice Report</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style15" colspan="8">Room Seasons Ltd.</td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 null"></td>
+<td class="column1 style3 f">From</td>
+<td class="column2 style4 f">2015-09-21</td>
+<td class="column3 style5 s">to</td>
+<td class="column4 style16 f">0</td>
+<td class="column5 style16 null"></td>
+<td class="column6 style16 null"></td>
+<td class="column7 style17 null"></td>
+</tr>
+<tr class="row3">
+<td class="column0 style6 null"></td>
+<td class="column1 style6 null"></td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 s">TOTAL</td>
+<td class="column4 style18 f">£411.50</td>
+<td class="column5 style19 null"></td>
+<td class="column6 style20 f"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style18 f">£20.58</td>
+</tr>
+<tr class="row4">
+<td class="column0 style9 s">Reference</td>
+<td class="column1 style10 s">To</td>
+<td class="column2 style10 s">Invoice Number</td>
+<td class="column3 style10 s">Date</td>
+<td class="column4 style10 s">Invoice Total</td>
+<td class="column5 style10 s">Day</td>
+<td class="column6 style10 s">Commissionable</td>
+<td class="column7 style10 s">Commission Amount</td>
+</tr>
+<tr class="row5">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">417</td>
+<td class="column2 style11 s">'201509211758303583306'</td>
+<td class="column3 style13 s">2015-09-21</td>
+<td class="column4 style21 n"> £ 21.00 </td>
+<td class="column5 style22 s">Monday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.05</td>
+</tr>
+<tr class="row6">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">408</td>
+<td class="column2 style11 s">'201509221822548423327'</td>
+<td class="column3 style13 s">2015-09-22</td>
+<td class="column4 style21 n"> £ 19.00 </td>
+<td class="column5 style22 s">Tuesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.95</td>
+</tr>
+<tr class="row7">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">307</td>
+<td class="column2 style11 s">'201509221906146623368'</td>
+<td class="column3 style13 s">2015-09-22</td>
+<td class="column4 style21 n"> £ 16.00 </td>
+<td class="column5 style22 s">Tuesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.80</td>
+</tr>
+<tr class="row8">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">401</td>
+<td class="column2 style11 s">'201509221944242803329'</td>
+<td class="column3 style13 s">2015-09-22</td>
+<td class="column4 style21 n"> £ 19.00 </td>
+<td class="column5 style22 s">Tuesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.95</td>
+</tr>
+<tr class="row9">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">229</td>
+<td class="column2 style11 s">'201509221950206853330'</td>
+<td class="column3 style13 s">2015-09-22</td>
+<td class="column4 style21 n"> £ 19.00 </td>
+<td class="column5 style22 s">Tuesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.95</td>
+</tr>
+<tr class="row10">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">402</td>
+<td class="column2 style11 s">'201509222250044193333'</td>
+<td class="column3 style13 s">2015-09-22</td>
+<td class="column4 style21 n"> £ 24.00 </td>
+<td class="column5 style22 s">Tuesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.20</td>
+</tr>
+<tr class="row11">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">431</td>
+<td class="column2 style11 s">'201509231853127663337'</td>
+<td class="column3 style13 s">2015-09-23</td>
+<td class="column4 style21 n"> £ 22.00 </td>
+<td class="column5 style22 s">Wednesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.10</td>
+</tr>
+<tr class="row12">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">234</td>
+<td class="column2 style11 s">'201509231857374753338'</td>
+<td class="column3 style13 s">2015-09-23</td>
+<td class="column4 style21 n"> £ 13.00 </td>
+<td class="column5 style22 s">Wednesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.65</td>
+</tr>
+<tr class="row13">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">233</td>
+<td class="column2 style11 s">'201509231904498113339'</td>
+<td class="column3 style13 s">2015-09-23</td>
+<td class="column4 style21 n"> £ 23.00 </td>
+<td class="column5 style22 s">Wednesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.15</td>
+</tr>
+<tr class="row14">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">332</td>
+<td class="column2 style11 s">'201509232032417663342'</td>
+<td class="column3 style13 s">2015-09-23</td>
+<td class="column4 style21 n"> £ 20.00 </td>
+<td class="column5 style22 s">Wednesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.00</td>
+</tr>
+<tr class="row15">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">208</td>
+<td class="column2 style11 s">'201509232329109193350'</td>
+<td class="column3 style13 s">2015-09-23</td>
+<td class="column4 style21 n"> £ 19.00 </td>
+<td class="column5 style22 s">Wednesday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.95</td>
+</tr>
+<tr class="row16">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">228</td>
+<td class="column2 style11 s">'201509241712455623378'</td>
+<td class="column3 style13 s">2015-09-24</td>
+<td class="column4 style21 n"> £ 30.50 </td>
+<td class="column5 style22 s">Thursday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.53</td>
+</tr>
+<tr class="row17">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">328</td>
+<td class="column2 style11 s">'201509242024582003385'</td>
+<td class="column3 style13 s">2015-09-24</td>
+<td class="column4 style21 n"> £ 18.00 </td>
+<td class="column5 style22 s">Thursday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.90</td>
+</tr>
+<tr class="row18">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">332</td>
+<td class="column2 style11 s">'201509242151384513390'</td>
+<td class="column3 style13 s">2015-09-24</td>
+<td class="column4 style21 n"> £ 14.50 </td>
+<td class="column5 style22 s">Thursday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.73</td>
+</tr>
+<tr class="row19">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">312</td>
+<td class="column2 style11 s">'201509252044517943407'</td>
+<td class="column3 style13 s">2015-09-25</td>
+<td class="column4 style21 n"> £ 26.00 </td>
+<td class="column5 style22 s">Friday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.30</td>
+</tr>
+<tr class="row20">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">216</td>
+<td class="column2 style11 s">'201509252049563523408'</td>
+<td class="column3 style13 s">2015-09-25</td>
+<td class="column4 style21 n"> £ 22.00 </td>
+<td class="column5 style22 s">Friday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.10</td>
+</tr>
+<tr class="row21">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">127</td>
+<td class="column2 style11 s">'201509261916222443456'</td>
+<td class="column3 style13 s">2015-09-26</td>
+<td class="column4 style21 n"> £ 21.00 </td>
+<td class="column5 style22 s">Saturday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.05</td>
+</tr>
+<tr class="row22">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">115</td>
+<td class="column2 style11 s">'201509262246148573462'</td>
+<td class="column3 style13 s">2015-09-26</td>
+<td class="column4 style21 n"> £ 15.00 </td>
+<td class="column5 style22 s">Saturday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£0.75</td>
+</tr>
+<tr class="row23">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">317</td>
+<td class="column2 style11 s">'20150928195121263486'</td>
+<td class="column3 style13 s">2015-09-28</td>
+<td class="column4 style21 n"> £ 23.00 </td>
+<td class="column5 style22 s">Monday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.15</td>
+</tr>
+<tr class="row24">
+<td class="column0 style11 s">Holiday Inn Docklands</td>
+<td class="column1 style12 n">101</td>
+<td class="column2 style11 s">'201509282351431953491'</td>
+<td class="column3 style13 s">2015-09-28</td>
+<td class="column4 style21 n"> £ 26.50 </td>
+<td class="column5 style22 s">Monday</td>
+<td class="column6 style23 n"> &amp;quot;* #,##0&amp;quot; </td>
+<td class="column7 style24 n">£1.33</td>
+</tr>
+</tbody>
+</table>

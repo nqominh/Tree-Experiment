@@ -1,0 +1,5048 @@
+[COLUMN STRUCTURE]
+Date Rec'd
+IDB
+Name of local Authority
+Forecast
+Total
+Notes
+Update by
+
+[ROW STRUCTURE]
+11/07/2022
+  Ainsty
+  Harrogate Borough Council
+    £ 39,500.00
+  Leeds City Council
+    £ 8,075.00
+  Selby District Council
+    £ 33,352.00
+  City of York Council
+    £ 249,154.00
+    £ 306,750.00
+  Airedale Drainage Commissioners
+  Bradford Metropolitan Council
+    £ 7,229.00
+  Craven District Council
+    £ 12,408.00
+  Beverley and North Holderness
+  East Riding of Yorkshire Council
+    £ 389,786.00
+  Feldale
+  Fenland District Council
+    £ 10,562.11
+    £ 206,634.00
+  Foss
+  East Riding of Yorkshire
+    £ 16,964.00
+  Hambleton District Council
+    £ 981.00
+  Ryedale District Council
+    £ 4,329.00
+  Holmewood and District
+  Huntingdonshire
+    £ 2,277.00
+    £ 579.00
+  Romney Marshes
+  Ashford Borough Council
+    £ 12,073.00
+  Rother District Council
+    £ 504,916.00
+  Folkestone & Hythe District Council
+    £ 137,819.00
+  Whittlesey and District
+  Huntingdonshire District Council
+    £ 122,987.00
+  Woodwalton
+11/15/2022
+  Alconbury and Ellington
+  Huntingdonshire District Council
+    £ 85,295.00
+  Lakenheath
+  West Suffolk Council
+    £ 15,283.00
+11/21/2022
+  Ancholme Internal Drainage Board
+  North Lincolnshire District Council
+    £ 206,609.00
+  West Lindsey District Council
+    £ 18,850.00
+    £ 57,496.00
+  Benwick
+  Fenland District Council
+    £ 27,078.00
+    £ 4,293.00
+  Huntingdonshire District Council
+    £ 2,166.00
+    £ 12,176.00
+  Bluntisham
+  Earby & Salterforth
+  Pendle
+    £ 8,750.00
+  Goole Fields
+  East Riding of Yorkshire Council
+    £ 6,791.00
+    £ 257,414.00
+  Goole & Airmyn
+  Needham and Laddus
+  Borough Council of Kings Lynn & West Norfolk
+    £ 25,941.00
+  River Lugg
+  Herefordshire
+    £ 134,417.00
+  Scunthorpe and Gainsborough WLM Board
+  North Lincolnshire Council
+    £ 255,191.00
+  Sow and Penk
+  Stafford Borough Council
+    £ 108,979.00
+  South Staffordshire District Council
+    £ 3,873.00
+11/10/2022
+  Axe Brue
+  Mendip District Council
+    £ 136,830.00
+    £ 5,843.00
+  North Somerset Unitary Authority
+    £ 17,487.00
+  Sedgemoor District Council
+    £ 928,629.00
+    £ 832,846.00
+  Axeholme & North Notts
+  North Lincolnshire Council
+    £ 752,687.00
+  Bassetlaw District Council
+    £ 135,058.00
+  Doncaster Metropolitan Borough Council
+    £ 1,620.00
+  East Riding of Yorkshire Council
+    £ 11,054.00
+  Lower Medway
+  Canterbury City Council
+    £ 11,083.00
+  Medway Council
+    £ 404,117.00
+  Swale Borough Council
+    £ 906,019.00
+  Tonbridge and Malling Borough Council
+    £ 216,247.00
+  North Somerset Levels
+  North Somerset District Council
+    £ 568,039.00
+  Parrett
+  Taunton Deane District Council
+    £ 34,130.00
+  South Somerset District Council
+    £ 75,175.00
+11/11/2022
+  Bedfordshire and River Ivel
+  Bedford Borough Council
+    £ 611,639.00
+  Central Bedfordshire Council
+    £ 374,393.00
+    £ 280,369.00
+  North Herts District Council
+    £ 5,263.00
+  South Cambs District Council
+    £ 161.00
+  Buckingham and River Ouzel
+  Buckinghamshire CC
+    £ 27,109.00
+  Cherwell District Council
+    £ 90.00
+  Milton Keynes Council
+    £ 351,164.00
+  South Northamptonshire Council
+    £ 14,275.00
+  Doncaster East
+  Doncaster Metropolitan Borough Council
+    £ 866,868.00
+  North Lincolnshire Council
+    £ 16,543.00
+  Bassetlaw District Council
+    £ 13,368.00
+    £ 487,346.00
+  Lindsey Marsh
+  East Lindsey District Council
+    £ 3,148,331.00
+  North East Lincolnshire Council
+    £ 9,965.00
+  Trent Valley
+  Newark & Sherwood
+    £ 666,146.00
+  Rushcliffe District Council
+    £ 327,575.00
+  West Lindsey District Council
+    £ 46,689.00
+  North Kesteven District Council
+    £ 38,956.00
+  Gedling Borough Council
+    £ 27,497.00
+  Melton Borough Council
+    £ 21,130.00
+11/09/2022
+  Black Drain Drainage Board
+  Doncaster Metropolitan Borough Council
+    £ 84,629.00
+    £ 490,157.00
+  East Riding of Yorkshire Council
+    £ 595.00
+    £ 31,954.00
+    £ 776,528.00
+    £ 33,354.00
+  Braunton Marsh
+  North Devon Council
+    £ 28,687.00
+  Danvm Drainage Commissioners
+  Selby District Council
+    £ 478,112.00
+    £ 1,048,230.00
+  Wakefield Metropolitan District Council
+    £ 117,694.00
+  Barnsley Metropolitan Borough Council
+    £ 45,495.00
+  Rotherham Metropolitan Borough Council
+    £ 3,029.00
+  Kyle and Upper Ouse
+  Hambleton District Council
+    £ 16,718.00
+    £ 117,054.00
+  City of York Council
+    £ 128,078.00
+  North Kent Marshes
+  Medway Council
+    £ 49,926.00
+  Gravesham BC
+    £ 44,690.00
+  Ouse and Humber
+  Ramsey
+  Huntingdon District Council
+    £ 31,000.00
+  Reedness and Swinefleet
+  Selby Area
+  Swale and Ure
+  Harrogate Borough Council
+    £ 94,332.00
+  Richmondshire District Council
+    £ 18,426.00
+  Vale of Pickering
+  Ryedale District Council
+    £ 103,679.00
+  Scarborough Borough Council
+    £ 30,857.00
+11/02/2022
+  Black Sluice
+  Boston Borough Council
+    £ 885,734.00
+    £ 67,120.00
+    £ 1,163,420.00
+  South Holland District Council
+    £ 166,133.00
+    £ 166,562.00
+    £ 1,012,257.00
+  North Kesteven District Council
+    £ 75,250.00
+  South Kesteven District Council
+    £ 63,233.00
+    £ 591,532.00
+  North Level District
+  Fenland District Council
+    £ 430,947.00
+  Peterborough City Council
+    £ 385,379.00
+    £ 194,992.00
+  Thorntree
+  East Riding of Yorkshire
+    £ 2,424.00
+  Wellend and Deepings
+  Witham 4th
+  East Lindsey District Council
+    £ 410,190.00
+11/14/2022
+  Broads
+  Broadland District Council
+    £ 186,118.00
+    £ 83,170.00
+    £ 936.00
+  Great Yarmouth Borough Council
+    £ 210,486.00
+  North Norfolk District Council
+    £ 328,021.00
+    £ 110,805.00
+  South Norfolk
+    £ 2,902.00
+  East Suffolk
+  Babergh District Council
+    £ 1,907.00
+  Ipswich Borough Council
+    £ 40,389.00
+  Mid-Suffolk District Council
+    £ 42,954.00
+    £ 17,706.00
+  East Suffolk Council
+    £ 125,533.00
+    £ 26,974.00
+  Kings Lynn
+  Kings Lynn & West Norfolk Borough Council
+    £ 2,037,215.00
+    £ 21,120.00
+  Fenland District Council
+    £ 94,039.00
+  South Holland District Council
+    £ 26,065.00
+    £ 1,461,582.00
+  Norfolk Rivers
+  Breckland District Council
+    £ 55,607.00
+    £ 903.00
+  Norwich City Council
+    £ 6,200.00
+  South Norfolk District Council
+    £ 70,531.00
+    £ 123,763.00
+  Pevensey and Cuckmere
+  Wealden District Council
+    £ 66,411.00
+  Hastings Borough Council
+    £ 12,621.00
+  Rother District Council
+    £ 4,626.00
+  Eastbourne District Council
+    £ 249,351.00
+  South Holland
+  Boston Borough Council
+    £ 1,027.00
+  Waveney, Lower Yare and Lothingland
+  Great Yarmouth District Council
+    £ 64,191.00
+11/17/2022
+  Burnt Fen
+  West Suffolk Council
+    £ 16,180.00
+  East Cambridgeshire District Council
+    £ 26,095.00
+    £ 20,982.00
+    £ 204,120.00
+    £ 39,124.00
+    £ 23,084.00
+  Cawdle Fen
+  Downham & Stow Bardolph
+  Borough council of king's Lynn and West Norfolk
+    £ 61,512.00
+  East of the Ouse, Polver and Nar
+  Borough of Kings Lynn & West Norfolk
+    £ 271,226.00
+  Littleport and Downham
+  King's Lynn and West Norfolk Borough Council
+    £ 28,421.00
+  Northwold
+  Kings Lynn & West Norfolk Borough Council
+    £ 250.00
+    £ 211,062.00
+    £ 45,982.45
+    £ 2,027.00
+  Southery & District
+  Stoke Ferry
+  Stringside
+  Swaffham
+  South Cambridgeshire District Council
+    £ 1,693.00
+  Waterbeach Level
+  South Cambridgeshire
+    £ 136,864.00
+11/22/2022
+  Churchfield and Plawfield
+  Kings Lynn & West Norfolk DC
+    £ 31,858.00
+  Connington & Holme
+  Huntingdonshire District Council
+    £ 6,542.00
+  Curf and Wimblington Combined
+  Fenland District Council
+    £ 9,753.00
+    £ 2,731.00
+    £ 203,629.00
+    £ 36,146.00
+    £ 42,134.00
+    £ 719.00
+    £ 25,829.00
+    £ 4,079.00
+    £ 52,542.00
+  Euixmoor
+  Haddenham Level
+  East Cambridgeshire District Council
+    £ 68,735.00
+    £ 9.00
+  Hundred Foot Washes
+  Borough Council Kings Lynn & West Norfolk
+    £ 151.00
+  Hundred of Wisbech
+  Borough of Kings Lynn & West Norfolk
+    £ 1,194.00
+  Manea & Welney
+  Borough Council of Kings Lynn & West Norfolk
+    £ 21,372.00
+  March West and White Fen
+  March 3rd
+  March 5th
+  March 6th
+  March East
+11/08/2022
+  Cowick and Snaith
+  East Riding of Yorkshire Council
+    £ 73,535.00
+    £ 29,763.00
+    £ 81,148.00
+  Dempster
+  Melverley
+  Shropshire Council
+    £ 8,443.00
+    £ 638.00
+  Middle Level Commissioners
+  Borough Council of Kings Lynn & West Norfolk
+    £ 223,002.00
+  Fenland District Council
+    £ 545,014.00
+  Huntingdonshire District Council
+    £ 226,919.00
+  Ouse and Derwent
+  Selby District Council
+    £ 263,429.00
+  City of York Council
+    £ 139,952.00
+  Rawcliffe
+  Rea Internal Drainage Board
+11/03/2022
+  East Harling
+  Breckland Council
+    £ 23,280.00
+  North East Lindsey
+  North Lincolnshire Council
+    £ 167,388.00
+  North East Lincolnshire Council
+    £ 452,212.00
+  West Lindsey District Council
+    £ 3,554.00
+    £ 51,001.00
+  River Arun
+  Arun District Council
+    £ 65,447.00
+  Horsham District Council
+    £ 717.00
+  Chichester District Council
+    £ 298.00
+  River Stour
+  Ashford Borough Council
+    £ 284,908.00
+  Canterbury City Council
+    £ 137,438.00
+  Dover District Council
+    £ 83,284.00
+  Folkestone & Hythe District Council
+    £ 604.00
+  Thanet District Council
+    £ 98,152.00
+  Upper Witham
+  North Kesteven District Council
+    £ 250,692.00
+  Newark and Sherwood District Council
+    £ 11,827.00
+  South Kesteven District Council
+    £ 148,760.00
+  City of Lincoln Council
+    £ 493,068.00
+11/04/2022
+  Lower Severn IDB (2005)
+  Bristol City Council
+    £ 804,477.00
+  South Gloucestershire Council
+    £ 361,488.00
+  Stroud District Council
+    £ 171,228.00
+  Gloucester City Council
+    £ 77,282.00
+  Forest of Dean Council
+    £ 47,753.00
+  Herefordshire Council
+    £ 13,047.00
+  Tewkesbury Borough Council
+    £ 7,837.00
+  Malvern Hills Council
+    £ 1,789.00
+  South Holderness
+  East Riding of Yorkshire Council
+    £ 6,127,640.00
+  Upper Medway
+  Ashford Borough Council
+    £ 1,140.00
+  Maidstone Borough Council
+    £ 127,990.00
+  Mid Sussex District Council
+    £ 1,032.00
+  Sevenoaks District Council
+    £ 18,232.00
+  Tandridge District Council
+    £ 8,223.00
+  Tonbridge and Malling Borough Council
+    £ 244,769.00
+  Tonbridge Wells Borough Council
+    £ 98,343.00
+  Wealdon District Council
+    £ 19,100.00
+  Witham 1st
+  City of Lincoln Council
+    £ 147,704.00
+    £ 281,925.00
+  North Kesteven District Council
+    £ 279,054.00
+  Witham 3rd
+  East Lindsey District Council
+    £ 382,480.00
+  West Lindsey District Council
+    £ 224,710.00
+11/16/2022
+  Middle Fen and Mere
+  East Cambridgeshire District Council
+    £ 88,321.00
+    £ 74,941.00
+  Mildenhall
+  West Suffolk Council
+    £ 72,790.00
+  Old West
+  South Cambridgeshire District Council
+    £ 40,786.00
+  Padnal and Waterden
+11/23/2022
+  Nightlayers
+  Fenland District Council
+    £ 27,214.00
+    £ 9,249.00
+    £ 21,891.00
+  Nordelph
+  Borough Council Kings Lynn & West Norfolk
+    £ 1,514.00
+  Over and Willingham
+  South Cambridgeshire District Council
+    £ 21,155.00
+  Ramsey 1st (Hollow)
+  Huntingdonshire District Council
+    £ 4,882.00
+    £ 21,689.00
+    £ 35,644.00
+    £ 18,526.00
+  Ramsey 4th (Middlemoor)
+  Ramsey Upwood and Gt Raveley
+  Ransonmoor
+  Sawtry
+  Sutton & Mepal
+  East Cambridgeshire District Council
+    £ 9,861.00
+11/24/2022
+  Swavesey
+  South Cambridgeshire District Council
+    £ 6,927.00
+  Upwell
+  Fenland District Council
+    £ 21,042.00
+    £ 10,986.00
+    £ 5,043.00
+  Borough Council of Kings Lynn & West Norfolk
+    £ 31,675.00
+  Waldersey
+  Warboys, Somersham and Pidley
+  Huntingdonshire District Council
+    £ 14,778.00
+112
+  £ 45,976,943.56
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" width="1313">
+<col class="x70" width="94"/>
+<col class="x71" width="246"/>
+<col class="x72" width="295"/>
+<col class="x71" width="147"/>
+<col class="x73" width="141"/>
+<col class="x71" width="156"/>
+<col class="x71" width="92"/>
+<col class="x71" width="142"/>
+<tr height="45">
+<td class="x74" height="44" width="94">Date Rec'd</td>
+<td class="x75" width="246">IDB</td>
+<td class="x74" width="295">Name of local Authority</td>
+<td class="x76" width="147">Forecast</td>
+<td class="x77" width="141">Total</td>
+<td class="x78" width="156">Notes</td>
+<td class="x79" width="92">Update by</td>
+<td class="x71" width="142"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="102" rowspan="6" x:num="44872">11/07/2022</td>
+<td class="x81">Ainsty</td>
+<td class="x82"></td>
+<td class="x83"></td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Harrogate Borough Council</td>
+<td align="right" class="x86" x:num="39500"> £<span>                  </span>39,500.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Leeds City Council</td>
+<td align="right" class="x86" x:num="8075"> £<span>                    </span>8,075.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Selby District Council</td>
+<td align="right" class="x86" x:num="33352"> £<span>                  </span>33,352.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of York Council</td>
+<td align="right" class="x86" x:num="249154"> £<span>                </span>249,154.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td align="right" class="x87" x:fmla="=SUM(D3:D6)" x:num="330081"> £<span>              </span>330,081.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44872">11/07/2022</td>
+<td class="x89">Airedale Drainage Commissioners</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Bradford Metropolitan Council</td>
+<td align="right" class="x86" x:num="7229"> £<span>                    </span>7,229.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Craven District Council</td>
+<td align="right" class="x86" x:num="12408"> £<span>                  </span>12,408.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM(D9:D10)" x:num="19637"> £<span>                </span>19,637.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44880">11/15/2022</td>
+<td class="x89">Alconbury and Ellington</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="85295"> £<span>                  </span>85,295.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D13:D13)" x:num="85295"> £<span>                </span>85,295.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44886">11/21/2022</td>
+<td class="x89">Ancholme Internal Drainage Board</td>
+<td class="x90"></td>
+<td class="x83"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Lincolnshire District Council</td>
+<td align="right" class="x86" x:num="206609"> £<span>                </span>206,609.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="18850"> £<span>                  </span>18,850.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D16:D17)" x:num="225459"> £<span>              </span>225,459.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44875">11/10/2022</td>
+<td class="x89">Axe Brue</td>
+<td class="x90"></td>
+<td class="x100"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Mendip District Council</td>
+<td align="right" class="x101" x:num="136830"> £<span>                </span>136,830.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Somerset Unitary Authority</td>
+<td align="right" class="x101" x:num="17487"> £<span>                  </span>17,487.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Sedgemoor District Council</td>
+<td align="right" class="x101" x:num="928629"> £<span>                </span>928,629.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x102" x:fmla="=SUM(D20:D22)" x:num="1082946"> £<span>           </span>1,082,946.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44875">11/10/2022</td>
+<td class="x103">Axeholme &amp; North Notts</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">North Lincolnshire Council</td>
+<td align="right" class="x83" x:num="752687"> £<span>                </span>752,687.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Bassetlaw District Council</td>
+<td align="right" class="x83" x:num="135058"> £<span>                </span>135,058.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Doncaster Metropolitan Borough Council</td>
+<td align="right" class="x83" x:num="1620"> £<span>                    </span>1,620.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x83" x:num="11054"> £<span>                  </span>11,054.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM(D25:D28)" x:num="900419"> £<span>              </span>900,419.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44876">11/11/2022</td>
+<td class="x89">Bedfordshire and River Ivel</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Bedford Borough Council</td>
+<td align="right" class="x86" x:num="611639"> £<span>                </span>611,639.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Central Bedfordshire Council</td>
+<td align="right" class="x86" x:num="374393"> £<span>                </span>374,393.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Herts District Council</td>
+<td align="right" class="x86" x:num="5263"> £<span>                    </span>5,263.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Cambs District Council</td>
+<td align="right" class="x86" x:num="161"> £<span>                       </span>161.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x97"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D31:D34)" x:num="991456"> £<span>              </span>991,456.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44886">11/21/2022</td>
+<td class="x89">Benwick</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="27078"> £<span>                  </span>27,078.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="2166"> £<span>                    </span>2,166.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D37:D38)" x:num="29244"> £<span>                </span>29,244.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44872">11/07/2022</td>
+<td class="x89">Beverley and North Holderness</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="389786"> £<span>                </span>389,786.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D41)" x:num="389786"> £<span>              </span>389,786.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44874">11/09/2022</td>
+<td class="x89">Black Drain Drainage Board</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Doncaster Metropolitan Borough Council</td>
+<td align="right" class="x83" x:num="84629"> £<span>                  </span>84,629.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="595"> £<span>                       </span>595.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x106" x:fmla="=SUM('Special levies forecast 2022-23'!D44:D45)" x:num="85224"> £<span>                </span>85,224.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44867">11/02/2022</td>
+<td class="x89">Black Sluice</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Boston Borough Council</td>
+<td align="right" class="x83" x:num="885734"> £<span>                </span>885,734.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Holland District Council</td>
+<td align="right" class="x83" x:num="166133"> £<span>                </span>166,133.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Kesteven District Council</td>
+<td align="right" class="x83" x:num="75250"> £<span>                  </span>75,250.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Kesteven District Council</td>
+<td align="right" class="x86" x:num="63233"> £<span>                  </span>63,233.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x82"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D48:D51)" x:num="1190350"> £<span>           </span>1,190,350.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44886">11/21/2022</td>
+<td class="x89">Bluntisham</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="12176"> £<span>                  </span>12,176.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D54)" x:num="12176"> £<span>                </span>12,176.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44874">11/09/2022</td>
+<td class="x89">Braunton Marsh</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Devon Council</td>
+<td align="right" class="x101" x:num="28687"> £<span>                  </span>28,687.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D57)" x:num="28687"> £<span>                </span>28,687.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44879">11/14/2022</td>
+<td class="x89">Broads</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Broadland District Council</td>
+<td align="right" class="x83" x:num="186118"> £<span>                </span>186,118.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Great Yarmouth Borough Council</td>
+<td align="right" class="x83" x:num="210486"> £<span>                </span>210,486.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Norfolk District Council</td>
+<td align="right" class="x83" x:num="328021"> £<span>                </span>328,021.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Norfolk</td>
+<td align="right" class="x86" x:num="2902"> £<span>                    </span>2,902.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM(D60:D63)" x:num="727527"> £<span>              </span>727,527.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="118" rowspan="7" x:num="44876">11/11/2022</td>
+<td class="x89">Buckingham and River Ouzel</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Buckinghamshire CC</td>
+<td align="right" class="x83" x:num="27109"> £<span>                  </span>27,109.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Central Bedfordshire Council</td>
+<td align="right" class="x83" x:num="280369"> £<span>                </span>280,369.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Cherwell District Council</td>
+<td align="right" class="x83" x:num="90"> £<span>                         </span>90.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Milton Keynes Council</td>
+<td align="right" class="x83" x:num="351164"> £<span>                </span>351,164.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Northamptonshire Council</td>
+<td align="right" class="x83" x:num="14275"> £<span>                  </span>14,275.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM(D66:D70)" x:num="673007"> £<span>              </span>673,007.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44882">11/17/2022</td>
+<td class="x89">Burnt Fen</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">West Suffolk Council</td>
+<td align="right" class="x83" x:num="16180"> £<span>                  </span>16,180.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x101" x:num="26095"> £<span>                  </span>26,095.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x102" x:fmla="=SUM(D73:D74)" x:num="42275"> £<span>                </span>42,275.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x89">Cawdle Fen</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x101" x:num="20982"> £<span>                  </span>20,982.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x108"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D77)" x:num="20982"> £<span>                </span>20,982.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">Churchfield and Plawfield</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk DC</td>
+<td align="right" class="x101" x:num="31858"> £<span>                  </span>31,858.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D80:D80)" x:num="31858"> £<span>                </span>31,858.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">Connington &amp; Holme</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="6542"> £<span>                    </span>6,542.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D83:D83)" x:num="6542"> £<span>                  </span>6,542.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44873">11/08/2022</td>
+<td class="x89">Cowick and Snaith</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="73535"> £<span>                  </span>73,535.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D86)" x:num="73535"> £<span>                </span>73,535.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">Curf and Wimblington Combined</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="9753"> £<span>                    </span>9,753.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x83"></td>
+<td align="right" class="x84" x:fmla="=SUM('Special levies forecast 2022-23'!D89:D89)" x:num="9753"> £<span>                  </span>9,753.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="135" rowspan="8" x:num="44874">11/09/2022</td>
+<td class="x89">Danvm Drainage Commissioners</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x109"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Doncaster Metropolitan Borough Council</td>
+<td align="right" class="x86" x:num="490157"> £<span>                </span>490,157.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="31954"> £<span>                  </span>31,954.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Selby District Council</td>
+<td align="right" class="x86" x:num="478112"> £<span>                </span>478,112.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Wakefield Metropolitan District Council</td>
+<td align="right" class="x86" x:num="117694"> £<span>                </span>117,694.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Barnsley Metropolitan Borough Council</td>
+<td align="right" class="x86" x:num="45495"> £<span>                  </span>45,495.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Rotherham Metropolitan Borough Council</td>
+<td align="right" class="x86" x:num="3029"> £<span>                    </span>3,029.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D92:D97)" x:num="1166441"> £<span>           </span>1,166,441.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44873">11/08/2022</td>
+<td class="x89">Dempster </td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="29763"> £<span>                  </span>29,763.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x97"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D100)" x:num="29763"> £<span>                </span>29,763.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44876">11/11/2022</td>
+<td class="x89">Doncaster East</td>
+<td class="x90"></td>
+<td class="x91"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Doncaster Metropolitan Borough Council</td>
+<td align="right" class="x86" x:num="866868"> £<span>                </span>866,868.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Lincolnshire Council</td>
+<td align="right" class="x86" x:num="16543"> £<span>                  </span>16,543.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Bassetlaw District Council</td>
+<td align="right" class="x86" x:num="13368"> £<span>                  </span>13,368.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82"></td>
+<td class="x111"></td>
+<td align="right" class="x106" x:fmla="=SUM(D103:D105)" x:num="896779"> £<span>              </span>896,779.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x103">Downham &amp; Stow Bardolph</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Borough council of king's Lynn and West Norfolk</td>
+<td align="right" class="x86" x:num="61512"> £<span>                  </span>61,512.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D108)" x:num="61512"> £<span>                </span>61,512.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="51" rowspan="3" x:num="44886">11/21/2022</td>
+<td class="x81">Earby &amp; Salterforth</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Pendle</td>
+<td align="right" class="x86" x:num="8750"> £<span>                    </span>8,750.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D111)" x:num="8750"> £<span>                  </span>8,750.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x112" height="50" rowspan="3" x:num="44868">11/03/2022</td>
+<td class="x113">East Harling</td>
+<td class="x114"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x115"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114">Breckland Council</td>
+<td align="right" class="x86" x:num="23280"> £<span>                  </span>23,280.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D113:D114)" x:num="23280"> £<span>                </span>23,280.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44879">11/14/2022</td>
+<td class="x89">East Suffolk</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x104">Babergh District Council</td>
+<td align="right" class="x86" x:num="1907"> £<span>                    </span>1,907.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Ipswich Borough Council</td>
+<td align="right" class="x86" x:num="40389"> £<span>                  </span>40,389.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Mid-Suffolk District Council</td>
+<td align="right" class="x86" x:num="42954"> £<span>                  </span>42,954.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Suffolk Council</td>
+<td align="right" class="x86" x:num="125533"> £<span>                </span>125,533.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D117:D120)" x:num="210783"> £<span>              </span>210,783.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x118" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x119">East of the Ouse, Polver and Nar</td>
+<td class="x120"></td>
+<td class="x86"></td>
+<td class="x121"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x123"></td>
+<td class="x124">Borough of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="271226"> £<span>                </span>271,226.00 </td>
+<td class="x121"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x126"></td>
+<td class="x127"></td>
+<td class="x111"></td>
+<td align="right" class="x128" x:fmla="=SUM('Special levies forecast 2022-23'!D123:D123)" x:num="271226"> £<span>              </span>271,226.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">Euixmoor</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="2731"> £<span>                    </span>2,731.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D126)" x:num="2731"> £<span>                  </span>2,731.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44872">11/07/2022</td>
+<td class="x89">Feldale</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="10562.11"> £<span>                  </span>10,562.11 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D129)" x:num="10562.11"> £<span>                </span>10,562.11 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44872">11/07/2022</td>
+<td class="x89">Foss</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of York Council</td>
+<td align="right" class="x86" x:num="306750"> £<span>                </span>306,750.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire</td>
+<td align="right" class="x86" x:num="16964"> £<span>                  </span>16,964.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Hambleton District Council</td>
+<td align="right" class="x86" x:num="981"> £<span>                       </span>981.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Ryedale District Council</td>
+<td align="right" class="x86" x:num="4329"> £<span>                    </span>4,329.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D132:D135)" x:num="329024"> £<span>              </span>329,024.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44886">11/21/2022</td>
+<td class="x89">Goole Fields</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="6791"> £<span>                    </span>6,791.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D138)" x:num="6791"> £<span>                  </span>6,791.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44886">11/21/2022</td>
+<td class="x89">Goole &amp; Airmyn</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="257414"> £<span>                </span>257,414.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D141)" x:num="257414"> £<span>              </span>257,414.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">Haddenham Level</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="68735"> £<span>                  </span>68,735.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D144)" x:num="68735"> £<span>                </span>68,735.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44872">11/07/2022</td>
+<td class="x103">Holmewood and District</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire</td>
+<td align="right" class="x86" x:num="2277"> £<span>                    </span>2,277.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D146:D147)" x:num="2277"> £<span>                  </span>2,277.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44887">11/22/2022</td>
+<td class="x89">Hundred Foot Washes</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Borough Council Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="151"> £<span>                       </span>151.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="9"> £<span>                           </span>9.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D150:D151)" x:num="160"> £<span>                     </span>160.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44887">11/22/2022</td>
+<td class="x89">Hundred of Wisbech</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="203629"> £<span>                </span>203,629.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Borough of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="1194"> £<span>                    </span>1,194.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM(D154:D155)" x:num="204823"> £<span>              </span>204,823.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44879">11/14/2022</td>
+<td class="x89">Kings Lynn</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="2037215"> £<span>             </span>2,037,215.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="94039"> £<span>                  </span>94,039.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Holland District Council</td>
+<td align="right" class="x86" x:num="26065"> £<span>                  </span>26,065.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D158:D160)" x:num="2157319"> £<span>           </span>2,157,319.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44874">11/09/2022</td>
+<td class="x89">Kyle and Upper Ouse</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Hambleton District Council</td>
+<td align="right" class="x86" x:num="16718"> £<span>                  </span>16,718.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of York Council</td>
+<td align="right" class="x86" x:num="128078"> £<span>                </span>128,078.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D163:D164)" x:num="144796"> £<span>              </span>144,796.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x129" height="50" rowspan="3" x:num="44880">11/15/2022</td>
+<td class="x113">Lakenheath</td>
+<td class="x114"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114">West Suffolk Council</td>
+<td align="right" class="x86" x:num="15283"> £<span>                  </span>15,283.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D166:D167)" x:num="15283"> £<span>                </span>15,283.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44876">11/11/2022</td>
+<td class="x89">Lindsey Marsh</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Lindsey District Council</td>
+<td align="right" class="x86" x:num="3148331"> £<span>             </span>3,148,331.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North East Lincolnshire Council</td>
+<td align="right" class="x86" x:num="9965"> £<span>                    </span>9,965.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D170:D171)" x:num="3158296"> £<span>           </span>3,158,296.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44882">11/17/2022</td>
+<td class="x89">Littleport and Downham</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="204120"> £<span>                </span>204,120.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">King's Lynn and West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="28421"> £<span>                  </span>28,421.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D174:D175)" x:num="232541"> £<span>              </span>232,541.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44875">11/10/2022</td>
+<td class="x89">Lower Medway</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Canterbury City Council</td>
+<td align="right" class="x86" x:num="11083"> £<span>                  </span>11,083.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Medway Council</td>
+<td align="right" class="x86" x:num="404117"> £<span>                </span>404,117.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Swale Borough Council</td>
+<td align="right" class="x86" x:num="906019"> £<span>                </span>906,019.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Tonbridge and Malling Borough Council</td>
+<td align="right" class="x86" x:num="216247"> £<span>                </span>216,247.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D178:D181)" x:num="1537466"> £<span>           </span>1,537,466.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="169" rowspan="10" x:num="44869">11/04/2022</td>
+<td class="x89">Lower Severn IDB (2005)</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Bristol City Council</td>
+<td align="right" class="x86" x:num="804477"> £<span>                </span>804,477.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Gloucestershire Council</td>
+<td align="right" class="x86" x:num="361488"> £<span>                </span>361,488.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Stroud District Council</td>
+<td align="right" class="x86" x:num="171228"> £<span>                </span>171,228.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Gloucester City Council</td>
+<td align="right" class="x86" x:num="77282"> £<span>                  </span>77,282.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Forest of Dean Council</td>
+<td align="right" class="x86" x:num="47753"> £<span>                  </span>47,753.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Herefordshire Council</td>
+<td align="right" class="x86" x:num="13047"> £<span>                  </span>13,047.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Tewkesbury Borough Council</td>
+<td align="right" class="x86" x:num="7837"> £<span>                    </span>7,837.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Malvern Hills Council</td>
+<td align="right" class="x86" x:num="1789"> £<span>                    </span>1,789.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D184:D191)" x:num="1484901"> £<span>           </span>1,484,901.00 </td>
+<td class="x131"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44887">11/22/2022</td>
+<td class="x89">Manea &amp; Welney</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="36146"> £<span>                  </span>36,146.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Borough Council of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="21372"> £<span>                  </span>21,372.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D194:D195)" x:num="57518"> £<span>                </span>57,518.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">March West and White Fen</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="42134"> £<span>                  </span>42,134.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D198:D198)" x:num="42134"> £<span>                </span>42,134.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">March 3rd</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="719"> £<span>                       </span>719.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D201)" x:num="719"> £<span>                     </span>719.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">March 5th</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="25829"> £<span>                  </span>25,829.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D204:D204)" x:num="25829"> £<span>                </span>25,829.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">March 6th</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="4079"> £<span>                    </span>4,079.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D207:D207)" x:num="4079"> £<span>                  </span>4,079.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44887">11/22/2022</td>
+<td class="x89">March East</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="52542"> £<span>                  </span>52,542.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D210:D210)" x:num="52542"> £<span>                </span>52,542.00 </td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x129" height="50" rowspan="3" x:num="44873">11/08/2022</td>
+<td class="x113">Melverley</td>
+<td class="x114"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114">Shropshire Council</td>
+<td align="right" class="x86" x:num="8443"> £<span>                    </span>8,443.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D213:D213)" x:num="8443"> £<span>                  </span>8,443.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44881">11/16/2022</td>
+<td class="x89">Middle Fen and Mere</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="88321"> £<span>                  </span>88,321.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D216:D216)" x:num="88321"> £<span>                </span>88,321.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44873">11/08/2022</td>
+<td class="x89">Middle Level Commissioners</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Borough Council of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="223002"> £<span>                </span>223,002.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="545014"> £<span>                </span>545,014.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="226919"> £<span>                </span>226,919.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D219:D221)" x:num="994935"> £<span>              </span>994,935.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44881">11/16/2022</td>
+<td class="x89">Mildenhall</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">West Suffolk Council</td>
+<td align="right" class="x86" x:num="72790"> £<span>                  </span>72,790.00 </td>
+<td class="x84"></td>
+<td class="x107"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D224:D224)" x:num="72790"> £<span>                </span>72,790.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44886">11/21/2022</td>
+<td class="x89">Needham and Laddus</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="4293"> £<span>                    </span>4,293.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Borough Council of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="25941"> £<span>                  </span>25,941.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D227:D228)" x:num="30234"> £<span>                </span>30,234.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x89">Nightlayers</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="27214"> £<span>                  </span>27,214.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D231:D231)" x:num="27214"> £<span>                </span>27,214.00 </td>
+<td class="x85"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x103">Nordelph</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Borough Council Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="1514"> £<span>                    </span>1,514.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D234)" x:num="1514"> £<span>                  </span>1,514.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="148" rowspan="8" x:num="44879">11/14/2022</td>
+<td class="x103">Norfolk Rivers</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x109"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Breckland District Council</td>
+<td align="right" class="x86" x:num="55607"> £<span>                  </span>55,607.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Broadland District Council</td>
+<td align="right" class="x86" x:num="83170"> £<span>                  </span>83,170.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="32">
+<td class="x104"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="21120"> £<span>                  </span>21,120.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="16">
+<td class="x104"></td>
+<td class="x82">North Norfolk District Council</td>
+<td align="right" class="x86" x:num="110805"> £<span>                </span>110,805.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="16">
+<td class="x104"></td>
+<td class="x82">Norwich City Council</td>
+<td align="right" class="x86" x:num="6200"> £<span>                    </span>6,200.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">South Norfolk District Council</td>
+<td align="right" class="x86" x:num="70531"> £<span>                  </span>70,531.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D237:D242)" x:num="347433"> £<span>              </span>347,433.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="85" rowspan="5" x:num="44868">11/03/2022</td>
+<td class="x81">North East Lindsey</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x110"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">North Lincolnshire Council</td>
+<td align="right" class="x86" x:num="167388"> £<span>                </span>167,388.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">North East Lincolnshire Council</td>
+<td align="right" class="x86" x:num="452212"> £<span>                </span>452,212.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="3554"> £<span>                    </span>3,554.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x110" x:fmla="=SUM(D245:D247)" x:num="623154"> £<span>              </span>623,154.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44874">11/09/2022</td>
+<td class="x103">North Kent Marshes</td>
+<td class="x120"></td>
+<td class="x86"></td>
+<td class="x109"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x105">Medway Council</td>
+<td align="right" class="x86" x:num="49926"> £<span>                  </span>49,926.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x105">Gravesham BC</td>
+<td align="right" class="x86" x:num="44690"> £<span>                  </span>44,690.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x110" x:fmla="=SUM(D249:D251)" x:num="94616"> £<span>                </span>94,616.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44867">11/02/2022</td>
+<td class="x103">North Level District </td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x109"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="430947"> £<span>                </span>430,947.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Peterborough City Council</td>
+<td align="right" class="x86" x:num="385379"> £<span>                </span>385,379.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">South Holland District Council</td>
+<td align="right" class="x86" x:num="166562"> £<span>                </span>166,562.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D254:D256)" x:num="982888"> £<span>              </span>982,888.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44875">11/10/2022</td>
+<td class="x103">North Somerset Levels</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Somerset District Council</td>
+<td align="right" class="x86" x:num="568039"> £<span>                </span>568,039.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D259:D259)" x:num="568039"> £<span>              </span>568,039.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x89">Northwold</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="250"> £<span>                       </span>250.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x135"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D262:D262)" x:num="250"> £<span>                     </span>250.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44881">11/16/2022</td>
+<td class="x89">Old West</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="40786"> £<span>                  </span>40,786.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x136"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D265:D265)" x:num="40786"> £<span>                </span>40,786.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44873">11/08/2022</td>
+<td class="x89">Ouse and Derwent</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Selby District Council</td>
+<td align="right" class="x86" x:num="263429"> £<span>                </span>263,429.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of York Council</td>
+<td align="right" class="x86" x:num="139952"> £<span>                </span>139,952.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D268:D269)" x:num="403381"> £<span>              </span>403,381.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44874">11/09/2022</td>
+<td class="x89">Ouse and Humber</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="776528"> £<span>                </span>776,528.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D272:D272)" x:num="776528"> £<span>              </span>776,528.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="51" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x81">Over and Willingham</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="21155"> £<span>                  </span>21,155.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x84" x:fmla="=SUM(D275:D275)" x:num="21155"> £<span>                </span>21,155.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44881">11/16/2022</td>
+<td class="x89">Padnal and Waterden</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="74941"> £<span>                  </span>74,941.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D278:D278)" x:num="74941"> £<span>                </span>74,941.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44875">11/10/2022</td>
+<td class="x89">Parrett</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Mendip District Council</td>
+<td align="right" class="x86" x:num="5843"> £<span>                    </span>5,843.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Taunton Deane District Council</td>
+<td align="right" class="x86" x:num="34130"> £<span>                  </span>34,130.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Sedgemoor District Council</td>
+<td align="right" class="x86" x:num="832846"> £<span>                </span>832,846.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Somerset District Council</td>
+<td align="right" class="x86" x:num="75175"> £<span>                  </span>75,175.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D281:D284)" x:num="947994"> £<span>              </span>947,994.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="18">
+<td class="x80" height="103" rowspan="6" x:num="44879">11/14/2022</td>
+<td class="x89">Pevensey and Cuckmere</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x137"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Wealden District Council</td>
+<td align="right" class="x86" x:num="66411"> £<span>                  </span>66,411.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Hastings Borough Council</td>
+<td align="right" class="x86" x:num="12621"> £<span>                  </span>12,621.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Rother District Council</td>
+<td align="right" class="x86" x:num="4626"> £<span>                    </span>4,626.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Eastbourne District Council</td>
+<td align="right" class="x86" x:num="249351"> £<span>                </span>249,351.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D287:D290)" x:num="333009"> £<span>              </span>333,009.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="18">
+<td class="x88" height="51" rowspan="3" x:num="44874">11/09/2022</td>
+<td class="x89">Ramsey</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x137"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdon District Council</td>
+<td align="right" class="x86" x:num="31000"> £<span>                  </span>31,000.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D293)" x:num="31000"> £<span>                </span>31,000.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="51" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x89">Ramsey 1st (Hollow)</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="18">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="4882"> £<span>                    </span>4,882.00 </td>
+<td class="x84"></td>
+<td class="x138"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D296)" x:num="4882"> £<span>                  </span>4,882.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x103">Ramsey 4th (Middlemoor) </td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="21689"> £<span>                  </span>21,689.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D299)" x:num="21689"> £<span>                </span>21,689.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x89">Ramsey Upwood and Gt Raveley</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="35644"> £<span>                  </span>35,644.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D302)" x:num="35644"> £<span>                </span>35,644.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x89">Ransonmoor</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="9249"> £<span>                    </span>9,249.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D305)" x:num="9249"> £<span>                  </span>9,249.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44873">11/08/2022</td>
+<td class="x89">Rawcliffe</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="81148"> £<span>                  </span>81,148.00 </td>
+<td class="x84"></td>
+<td class="x139"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x136"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D308)" x:num="81148"> £<span>                </span>81,148.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="51" rowspan="3" x:num="44873">11/08/2022</td>
+<td class="x81">Rea Internal Drainage Board</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Shropshire Council</td>
+<td align="right" class="x86" x:num="638"> £<span>                       </span>638.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D311)" x:num="638"> £<span>                     </span>638.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44874">11/09/2022</td>
+<td class="x89">Reedness and Swinefleet</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="33354"> £<span>                  </span>33,354.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D314)" x:num="33354"> £<span>                </span>33,354.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x129" height="84" rowspan="5" x:num="44868">11/03/2022</td>
+<td class="x140">River Arun</td>
+<td class="x120"></td>
+<td class="x141"></td>
+<td class="x142"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x105">Arun District Council</td>
+<td align="right" class="x141" x:num="65447"> £<span>                  </span>65,447.00 </td>
+<td class="x143"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x105">Horsham District Council</td>
+<td align="right" class="x141" x:num="717"> £<span>                       </span>717.00 </td>
+<td class="x143"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x105">Chichester District Council</td>
+<td align="right" class="x141" x:num="298"> £<span>                       </span>298.00 </td>
+<td class="x143"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x144"></td>
+<td class="x136"></td>
+<td class="x145"></td>
+<td align="right" class="x87" x:fmla="=SUM(D317:D319)" x:num="66462"> £<span>                </span>66,462.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44886">11/21/2022</td>
+<td class="x89">River Lugg</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Herefordshire</td>
+<td align="right" class="x86" x:num="134417"> £<span>                </span>134,417.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D322)" x:num="134417"> £<span>              </span>134,417.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="118" rowspan="7" x:num="44868">11/03/2022</td>
+<td class="x89">River Stour</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Ashford Borough Council</td>
+<td align="right" class="x86" x:num="284908"> £<span>                </span>284,908.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Canterbury City Council</td>
+<td align="right" class="x86" x:num="137438"> £<span>                </span>137,438.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Dover District Council</td>
+<td align="right" class="x86" x:num="83284"> £<span>                  </span>83,284.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Folkestone &amp; Hythe District Council</td>
+<td align="right" class="x86" x:num="604"> £<span>                       </span>604.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Thanet District Council</td>
+<td align="right" class="x86" x:num="98152"> £<span>                  </span>98,152.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D325:D329)" x:num="604386"> £<span>              </span>604,386.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44872">11/07/2022</td>
+<td class="x89">Romney Marshes</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Ashford Borough Council</td>
+<td align="right" class="x86" x:num="12073"> £<span>                  </span>12,073.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Rother District Council</td>
+<td align="right" class="x86" x:num="504916"> £<span>                </span>504,916.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Folkestone &amp; Hythe District Council</td>
+<td align="right" class="x86" x:num="137819"> £<span>                </span>137,819.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM(D332:D334)" x:num="654808"> £<span>              </span>654,808.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44888">11/23/2022</td>
+<td class="x89">Sawtry</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td class="x86"></td>
+<td align="right" class="x84" x:num="20569"> £<span>                </span>20,569.00 </td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D337)" x:num="0"> £<span>                             </span>-<span>   </span></td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44886">11/21/2022</td>
+<td class="x89" colspan="2">Scunthorpe and Gainsborough WLM Board</td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Lincolnshire Council</td>
+<td align="right" class="x86" x:num="255191"> £<span>                </span>255,191.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="57496"> £<span>                  </span>57,496.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x146" x:fmla="=SUM(D340:D341)" x:num="312687"> £<span>              </span>312,687.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44874">11/09/2022</td>
+<td class="x89">Selby Area</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Selby District Council</td>
+<td align="right" class="x86" x:num="1048230"> £<span>             </span>1,048,230.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D344)" x:num="1048230"> £<span>           </span>1,048,230.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44879">11/14/2022</td>
+<td class="x89">South Holland</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Boston Borough Council</td>
+<td align="right" class="x86" x:num="1027"> £<span>                    </span>1,027.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Holland District Council</td>
+<td align="right" class="x86" x:num="1461582"> £<span>             </span>1,461,582.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x84" x:fmla="=SUM(D347:D348)" x:num="1462609"> £<span>           </span>1,462,609.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x89">Southery &amp; District</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="211062"> £<span>                </span>211,062.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D351)" x:num="211062"> £<span>              </span>211,062.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44869">11/04/2022</td>
+<td class="x89">South Holderness</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire Council</td>
+<td align="right" class="x86" x:num="6127640"> £<span>             </span>6,127,640.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D354)" x:num="6127640"> £<span>           </span>6,127,640.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44886">11/21/2022</td>
+<td class="x89">Sow and Penk</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Stafford Borough Council</td>
+<td align="right" class="x86" x:num="108979"> £<span>                </span>108,979.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x147" x:str="South Staffordshire District Council"> South Staffordshire District Council </td>
+<td align="right" class="x86" x:num="3873"> £<span>                    </span>3,873.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x106" x:fmla="=SUM(D357:D358)" x:num="112852"> £<span>              </span>112,852.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x89">Stoke Ferry</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="45982.45"> £<span>                  </span>45,982.45 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D361:D361)" x:num="45982.45"> £<span>                </span>45,982.45 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="51" rowspan="3" x:num="44882">11/17/2022</td>
+<td class="x89">Stringside</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Kings Lynn &amp; West Norfolk Borough Council</td>
+<td align="right" class="x86" x:num="2027"> £<span>                    </span>2,027.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM('Special levies forecast 2022-23'!D364:D364)" x:num="2027"> £<span>                  </span>2,027.00 </td>
+<td class="x148"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44888">11/23/2022</td>
+<td class="x89">Sutton &amp; Mepal</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="21891"> £<span>                  </span>21,891.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="18526"> £<span>                  </span>18,526.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="9861"> £<span>                    </span>9,861.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D367:D369)" x:num="50278"> £<span>                </span>50,278.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44882">11/17/2022</td>
+<td class="x89">Swaffham</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="39124"> £<span>                  </span>39,124.00 </td>
+<td class="x84"></td>
+<td class="x139"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="1693"> £<span>                    </span>1,693.00 </td>
+<td class="x84"></td>
+<td class="x139"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D372:D373)" x:num="40817"> £<span>                </span>40,817.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="84" rowspan="5" x:num="44874">11/09/2022</td>
+<td class="x89">Swale and Ure</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Hambleton District Council</td>
+<td align="right" class="x86" x:num="117054"> £<span>                </span>117,054.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Harrogate Borough Council</td>
+<td align="right" class="x86" x:num="94332"> £<span>                  </span>94,332.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Richmondshire District Council</td>
+<td align="right" class="x86" x:num="18426"> £<span>                  </span>18,426.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D376:D378)" x:num="229812"> £<span>              </span>229,812.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44889">11/24/2022</td>
+<td class="x103">Swavesey</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">South Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="6927"> £<span>                    </span>6,927.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM('Special levies forecast 2022-23'!D381:D381)" x:num="6927"> £<span>                  </span>6,927.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44867">11/02/2022</td>
+<td class="x89">Thorntree</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Riding of Yorkshire</td>
+<td align="right" class="x86" x:num="2424"> £<span>                    </span>2,424.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x82"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D384:D384)" x:num="2424"> £<span>                  </span>2,424.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="152" rowspan="9" x:num="44876">11/11/2022</td>
+<td class="x89">Trent Valley</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x109"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Newark &amp; Sherwood </td>
+<td align="right" class="x86" x:num="666146"> £<span>                </span>666,146.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">Bassetlaw District Council</td>
+<td align="right" class="x86" x:num="487346"> £<span>                </span>487,346.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">Rushcliffe District Council</td>
+<td align="right" class="x86" x:num="327575"> £<span>                </span>327,575.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="46689"> £<span>                  </span>46,689.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">North Kesteven District Council</td>
+<td align="right" class="x86" x:num="38956"> £<span>                  </span>38,956.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">Gedling Borough Council</td>
+<td align="right" class="x86" x:num="27497"> £<span>                  </span>27,497.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">Melton Borough Council</td>
+<td align="right" class="x86" x:num="21130"> £<span>                  </span>21,130.00 </td>
+<td class="x110"></td>
+<td class="x85"></td>
+<td class="x149"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x136"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D387:D393)" x:num="1615339"> £<span>           </span>1,615,339.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="170" rowspan="10" x:num="44869">11/04/2022</td>
+<td class="x81">Upper Medway</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Ashford Borough Council</td>
+<td align="right" class="x86" x:num="1140"> £<span>                    </span>1,140.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x149"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Maidstone Borough Council</td>
+<td align="right" class="x86" x:num="127990"> £<span>                </span>127,990.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x149"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Mid Sussex District Council</td>
+<td align="right" class="x86" x:num="1032"> £<span>                    </span>1,032.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Sevenoaks District Council</td>
+<td align="right" class="x86" x:num="18232"> £<span>                  </span>18,232.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Tandridge District Council</td>
+<td align="right" class="x86" x:num="8223"> £<span>                    </span>8,223.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Tonbridge and Malling Borough Council</td>
+<td align="right" class="x86" x:num="244769"> £<span>                </span>244,769.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Tonbridge Wells Borough Council</td>
+<td align="right" class="x86" x:num="98343"> £<span>                  </span>98,343.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Wealdon District Council</td>
+<td align="right" class="x86" x:num="19100"> £<span>                  </span>19,100.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82"></td>
+<td class="x111"></td>
+<td align="right" class="x84" x:fmla="=SUM(D396:D403)" x:num="518829"> £<span>              </span>518,829.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="120" rowspan="7" x:num="44868">11/03/2022</td>
+<td class="x89">Upper Witham</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Kesteven District Council</td>
+<td align="right" class="x86" x:num="250692"> £<span>                </span>250,692.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Newark and Sherwood District Council</td>
+<td align="right" class="x86" x:num="11827"> £<span>                  </span>11,827.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Kesteven District Council</td>
+<td align="right" class="x86" x:num="148760"> £<span>                </span>148,760.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="19">
+<td class="x81"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="51001"> £<span>                  </span>51,001.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of Lincoln Council</td>
+<td align="right" class="x86" x:num="493068"> £<span>                </span>493,068.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x106" x:fmla="=SUM(D406:D410)" x:num="955348"> £<span>              </span>955,348.00 </td>
+<td class="x131"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44889">11/24/2022</td>
+<td class="x89">Upwell</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="21042"> £<span>                  </span>21,042.00 </td>
+<td class="x84"></td>
+<td class="x139"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Borough Council of Kings Lynn &amp; West Norfolk</td>
+<td align="right" class="x86" x:num="31675"> £<span>                  </span>31,675.00 </td>
+<td class="x84"></td>
+<td class="x139"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D413:D414)" x:num="52717"> £<span>                </span>52,717.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="68" rowspan="4" x:num="44874">11/09/2022</td>
+<td class="x104">Vale of Pickering</td>
+<td class="x82"></td>
+<td class="x86"></td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Ryedale District Council</td>
+<td align="right" class="x86" x:num="103679"> £<span>                </span>103,679.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Scarborough Borough Council</td>
+<td align="right" class="x86" x:num="30857"> £<span>                  </span>30,857.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82"></td>
+<td class="x111"></td>
+<td align="right" class="x84" x:fmla="=SUM(D417:D418)" x:num="134536"> £<span>              </span>134,536.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44889">11/24/2022</td>
+<td class="x89">Waldersey</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="10986"> £<span>                  </span>10,986.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D421)" x:num="10986"> £<span>                </span>10,986.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44889">11/24/2022</td>
+<td class="x89">Warboys, Somersham and Pidley</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="5043"> £<span>                    </span>5,043.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x104"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="14778"> £<span>                  </span>14,778.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x134"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D424:D425)" x:num="19821"> £<span>                </span>19,821.00 </td>
+<td class="x131"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x130" height="68" rowspan="4" x:num="44882">11/17/2022</td>
+<td class="x113">Waterbeach Level</td>
+<td class="x114"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x93"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114">East Cambridgeshire District Council</td>
+<td align="right" class="x86" x:num="23084"> £<span>                  </span>23,084.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x82">South Cambridgeshire</td>
+<td align="right" class="x86" x:num="136864"> £<span>                </span>136,864.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x114"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM('Special levies forecast 2022-23'!D428:D429)" x:num="159948"> £<span>              </span>159,948.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="135" rowspan="8" x:num="44879">11/14/2022</td>
+<td class="x89">Waveney, Lower Yare and Lothingland</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x92"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Breckland District Council</td>
+<td align="right" class="x86" x:num="903"> £<span>                       </span>903.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Broadland District Council</td>
+<td align="right" class="x86" x:num="936"> £<span>                       </span>936.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Great Yarmouth District Council</td>
+<td align="right" class="x86" x:num="64191"> £<span>                  </span>64,191.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Mid-Suffolk District Council</td>
+<td align="right" class="x86" x:num="17706"> £<span>                  </span>17,706.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Norfolk District Council</td>
+<td align="right" class="x86" x:num="123763"> £<span>                </span>123,763.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Suffolk Council</td>
+<td align="right" class="x86" x:num="26974"> £<span>                  </span>26,974.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D432:D437)" x:num="234473"> £<span>              </span>234,473.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="101" rowspan="6" x:num="44867">11/02/2022</td>
+<td class="x89">Wellend and Deepings</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Holland District Council</td>
+<td align="right" class="x86" x:num="1012257"> £<span>             </span>1,012,257.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">South Kesteven District Council</td>
+<td align="right" class="x86" x:num="591532"> £<span>                </span>591,532.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Boston Borough Council</td>
+<td align="right" class="x86" x:num="67120"> £<span>                  </span>67,120.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Peterborough City Council</td>
+<td align="right" class="x86" x:num="194992"> £<span>                </span>194,992.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D440:D443)" x:num="1865901"> £<span>           </span>1,865,901.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44872">11/07/2022</td>
+<td class="x103">Whittlesey and District</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Fenland District Council</td>
+<td align="right" class="x86" x:num="206634"> £<span>                </span>206,634.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire District Council</td>
+<td align="right" class="x86" x:num="122987"> £<span>                </span>122,987.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D446:D447)" x:num="329621"> £<span>              </span>329,621.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="67" rowspan="4" x:num="44869">11/04/2022</td>
+<td class="x89">Witham 1st</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of Lincoln Council</td>
+<td align="right" class="x86" x:num="147704"> £<span>                </span>147,704.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">North Kesteven District Council</td>
+<td align="right" class="x86" x:num="279054"> £<span>                </span>279,054.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x105"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D450:D451)" x:num="426758"> £<span>              </span>426,758.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="85" rowspan="5" x:num="44869">11/04/2022</td>
+<td class="x89">Witham 3rd</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">City of Lincoln Council</td>
+<td align="right" class="x86" x:num="281925"> £<span>                </span>281,925.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">East Lindsey District Council</td>
+<td align="right" class="x86" x:num="382480"> £<span>                </span>382,480.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">West Lindsey District Council</td>
+<td align="right" class="x86" x:num="224710"> £<span>                </span>224,710.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x99" x:fmla="=SUM(D454:D456)" x:num="889115"> £<span>              </span>889,115.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x80" height="68" rowspan="4" x:num="44867">11/02/2022</td>
+<td class="x113">Witham 4th</td>
+<td class="x150"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x105">Boston Borough Council</td>
+<td align="right" class="x86" x:num="1163420"> £<span>             </span>1,163,420.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x105">East Lindsey District Council</td>
+<td align="right" class="x86" x:num="410190"> £<span>                </span>410,190.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x113"></td>
+<td class="x150"></td>
+<td class="x111"></td>
+<td align="right" class="x87" x:fmla="=SUM(D459:D460)" x:num="1573610"> £<span>           </span>1,573,610.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x88" height="50" rowspan="3" x:num="44872">11/07/2022</td>
+<td class="x89">Woodwalton</td>
+<td class="x90"></td>
+<td class="x86"></td>
+<td class="x98"></td>
+<td class="x85"></td>
+<td class="x85"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x81"></td>
+<td class="x82">Huntingdonshire</td>
+<td align="right" class="x86" x:num="579"> £<span>                       </span>579.00 </td>
+<td class="x84"></td>
+<td class="x85"></td>
+<td class="x85">JB</td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x95"></td>
+<td class="x96"></td>
+<td class="x111"></td>
+<td align="right" class="x102" x:fmla="=SUM(D462:D463)" x:num="579"> £<span>                     </span>579.00 </td>
+<td class="x131"></td>
+<td class="x133"></td>
+<td class="x71"></td>
+</tr>
+<tr height="17">
+<td class="x151" height="16" x:fmla="=COUNT(A2:A464)">112</td>
+<td align="right" class="x140" x:fmla="=COUNTA(B2:B464)">112</td>
+<td class="x90"></td>
+<td align="right" class="x109" x:fmla="=SUM(D2:D464)" x:num="45976943.56"> £<span>           </span>45,976,943.56 </td>
+<td align="right" class="x109" x:fmla="=SUM(E2:E464)" x:num="45997512.56"> £<span>         </span>45,997,512.56 </td>
+<td class="x71" colspan="3"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x72" colspan="7"></td>
+</tr>
+<tr height="34">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x153" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="238">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="6"></td>
+<td class="x71"> </td>
+</tr>
+<tr height="1156">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="2992">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="18">
+<td class="x70" height="18"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="85">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="18">
+<td class="x70" height="18"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="51">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="18">
+<td class="x70" height="18"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="187">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="1071">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="323">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="34">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="255">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<tr height="17">
+<td class="x70" height="17"></td>
+<td class="x71" colspan="7"></td>
+</tr>
+<?if supportMisalignedColumns?>
+<tr height="0">
+<td width="94"></td>
+<td width="246"></td>
+<td width="295"></td>
+<td width="147"></td>
+<td width="141"></td>
+<td width="156"></td>
+<td width="92"></td>
+<td width="142"></td>
+</tr>
+<?endif?>
+</table>

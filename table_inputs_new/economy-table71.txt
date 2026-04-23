@@ -1,0 +1,137 @@
+[COLUMN STRUCTURE]
+Name
+Qty
+Batch
+Pur.Date
+Purch.Cost
+Sale Date
+Sale Value
+Gain
+
+[ROW STRUCTURE]
+BOB
+BOB
+BOB
+BOB
+BOB
+BOB
+BOB
+Carol
+Carol
+Carol
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Name</td>
+<td class="column1 style1 s">Qty</td>
+<td class="column2 style1 s">Batch</td>
+<td class="column3 style1 s">Pur.Date</td>
+<td class="column4 style5 s">Purch.Cost</td>
+<td class="column5 style1 s">Sale Date</td>
+<td class="column6 style5 s">Sale Value</td>
+<td class="column7 style5 s">Gain</td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 s style2" rowspan="7">BOB</td>
+<td class="column1 style3 n">1000</td>
+<td class="column2 style3 s">B-1</td>
+<td class="column3 style4 n">11/11/2010</td>
+<td class="column4 style6 n">  39,593.90 </td>
+<td class="column5 style4 n">6/1/2017</td>
+<td class="column6 style6 n">  89,865.65 </td>
+<td class="column7 style7 f">50,271.75 </td>
+</tr>
+<tr class="row2">
+<td class="column1 style3 n">1000</td>
+<td class="column2 style3 s">B-1</td>
+<td class="column3 style4 n">11/11/2010</td>
+<td class="column4 style6 n">  39,593.90 </td>
+<td class="column5 style4 n">6/2/2017</td>
+<td class="column6 style6 n">  92,019.40 </td>
+<td class="column7 style7 f">52,425.50 </td>
+</tr>
+<tr class="row3">
+<td class="column1 style3 n">300</td>
+<td class="column2 style3 s">B-1</td>
+<td class="column3 style4 n">11/11/2010</td>
+<td class="column4 style6 n">  11,878.17 </td>
+<td class="column5 style4 n">8/24/2017</td>
+<td class="column6 style6 n">  27,909.66 </td>
+<td class="column7 style7 f">16,031.49 </td>
+</tr>
+<tr class="row4">
+<td class="column1 style3 n">700</td>
+<td class="column2 style3 s">B-2</td>
+<td class="column3 style4 n">12/24/2013</td>
+<td class="column4 style6 n">  15,820.00 </td>
+<td class="column5 style8 n">8/24/2017</td>
+<td class="column6 style6 n">  65,122.54 </td>
+<td class="column7 style7 f">49,302.54 </td>
+</tr>
+<tr class="row5">
+<td class="column1 style3 n">1000</td>
+<td class="column2 style3 s">B-2</td>
+<td class="column3 style4 n">12/24/2013</td>
+<td class="column4 style6 n">  22,600.00 </td>
+<td class="column5 style8 n">8/30/2017</td>
+<td class="column6 style6 n">  95,828.80 </td>
+<td class="column7 style7 f">73,228.80 </td>
+</tr>
+<tr class="row6">
+<td class="column1 style3 n">300</td>
+<td class="column2 style3 s">B-2</td>
+<td class="column3 style4 n">12/24/2013</td>
+<td class="column4 style6 n">  6,780.00 </td>
+<td class="column5 style4 n">9/5/2017</td>
+<td class="column6 style6 n">  28,418.76 </td>
+<td class="column7 style7 f">21,638.76 </td>
+</tr>
+<tr class="row7">
+<td class="column1 style3 n">700</td>
+<td class="column2 style3 s">B-3</td>
+<td class="column3 style4 n">12/26/2013</td>
+<td class="column4 style6 n">  15,750.00 </td>
+<td class="column5 style4 n">9/5/2017</td>
+<td class="column6 style6 n">  66,310.44 </td>
+<td class="column7 style7 f">50,560.44 </td>
+</tr>
+<tr class="row8">
+<td class="column0 style2 s style2" rowspan="3">Carol</td>
+<td class="column1 style3 n">850</td>
+<td class="column2 style3 s">B-1</td>
+<td class="column3 style4 n">8/17/2016</td>
+<td class="column4 style6 n">  182,358.15 </td>
+<td class="column5 style4 n">9/6/2017</td>
+<td class="column6 style6 n">  274,904.28 </td>
+<td class="column7 style7 f">92,546.13 </td>
+</tr>
+<tr class="row9">
+<td class="column1 style3 n">150</td>
+<td class="column2 style3 s">B-1</td>
+<td class="column3 style4 n">8/17/2016</td>
+<td class="column4 style6 n">  32,180.85 </td>
+<td class="column5 style4 n">9/7/2017</td>
+<td class="column6 style6 n">  50,054.75 </td>
+<td class="column7 style7 f">17,873.90 </td>
+</tr>
+<tr class="row10">
+<td class="column1 style3 n">350</td>
+<td class="column2 style3 s">B-2</td>
+<td class="column3 style4 n">8/24/2016</td>
+<td class="column4 style6 n">  84,157.74 </td>
+<td class="column5 style4 n">9/7/2017</td>
+<td class="column6 style6 n">  116,794.40 </td>
+<td class="column7 style7 f">32,636.66 </td>
+</tr>
+</tbody>
+</table>

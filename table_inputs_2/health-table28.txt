@@ -1,0 +1,120 @@
+[COLUMN STRUCTURE]
+Females
+BodyLength (m)
+  1.85
+120 Day Fast
+  PoorCondition
+    –
+  AverageCondition
+    50.1
+  ExcellentCondition
+    60.8
+180 Day Fast
+  PoorCondition
+    −/−
+  AverageCondition
+    28.4/29.6
+  ExcellentCondition
+    45.1/45.1
+
+[ROW STRUCTURE]
+Females
+Females
+Males
+Males
+Males
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 s style2" colspan="3">120 Day Fast</td>
+<td class="column5 style2 s style2" colspan="3">180 Day Fast</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row1">
+<td class="column0 style2 null"></td>
+<td class="column1 style2 s">BodyLength (m)</td>
+<td class="column2 style2 s">PoorCondition</td>
+<td class="column3 style2 s">AverageCondition</td>
+<td class="column4 style2 s">ExcellentCondition</td>
+<td class="column5 style2 s">PoorCondition</td>
+<td class="column6 style2 s">AverageCondition</td>
+<td class="column7 style2 s">ExcellentCondition</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row2">
+<td class="column0 style3 s style3" rowspan="3">Females</td>
+<td class="column1 style2 s">1.85</td>
+<td class="column2 style2 s">–</td>
+<td class="column3 style2 s">50.1</td>
+<td class="column4 style2 s">60.8</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">28.4/29.6</td>
+<td class="column7 style2 s">45.1/45.1</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row3">
+<td class="column1 style2 s">2.00</td>
+<td class="column2 style2 s">6.1</td>
+<td class="column3 style2 s">52.5</td>
+<td class="column4 style2 s">62.6</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">32.6/33.0</td>
+<td class="column7 style2 s">47.4/47.5</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row4">
+<td class="column1 style2 s">2.10</td>
+<td class="column2 style2 s">11.0</td>
+<td class="column3 style2 s">53.7</td>
+<td class="column4 style2 s">63.7</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">34.7/34.8</td>
+<td class="column7 style2 s">48.8/49.0</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style3 s style3" rowspan="3">Males</td>
+<td class="column1 style2 s">2.15</td>
+<td class="column2 style2 s">–</td>
+<td class="column3 style2 s">33.0</td>
+<td class="column4 style2 s">47.4</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">11.9/13.2</td>
+<td class="column7 style2 s">32.0/31.8</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row6">
+<td class="column1 style2 s">2.30</td>
+<td class="column2 style2 s">–</td>
+<td class="column3 style2 s">35.8</td>
+<td class="column4 style2 s">49.4</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">16.3/17.0</td>
+<td class="column7 style2 s">34.4/34.3</td>
+<td class="column8"> </td>
+</tr>
+<tr class="row7">
+<td class="column1 style2 s">2.45</td>
+<td class="column2 style2 s">–</td>
+<td class="column3 style2 s">38.1</td>
+<td class="column4 style2 s">51.4</td>
+<td class="column5 style2 s">−/−</td>
+<td class="column6 style2 s">19.7/19.8</td>
+<td class="column7 style2 s">36.7/36.7</td>
+<td class="column8"> </td>
+</tr>
+</tbody>
+</table>

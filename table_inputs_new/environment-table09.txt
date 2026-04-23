@@ -1,0 +1,1065 @@
+[COLUMN STRUCTURE]
+Year
+Contemporary prices
+  All goods (£)
+  Fuel, light & power (£)
+2009 prices
+  All goods (£)
+  Fuel, light & power (£)
+% on fuel, light & power
+  Fuel, light & power (£)
+
+[ROW STRUCTURE]
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+Sources:
+Family Expenditure Survey (pre 2001)/ Expenditure and Food Survey (2001- 2007)/ONS: Living Costs and Food Survey (2008 onwards)
+http://www.statistics.gov.uk/downloads/theme_social/Family-Spending-2008/FamilySpending2009.pdf
+Notes:
+1) UK weekly expenditure figures have been deflated to 2009 prices using the Retail Price Index.
+2) Percentage of expenditure on 'Fuel, light and power' has been calculated by dividing 'Fuel, light and power' figures by 'All goods' (£/week).
+3) Family Expenditure Survey merged into Expenditure and Food Survey in 2001, and is known as Living Costs and Food Survey from 2008 onwards.
+
+[TABLE HTML]
+<table border="0" cellpadding="0" cellspacing="0" class="sheet0 gridlines" id="sheet0">
+<col class="col0"/>
+<col class="col1"/>
+<col class="col2"/>
+<col class="col3"/>
+<col class="col4"/>
+<col class="col5"/>
+<col class="col6"/>
+<col class="col7"/>
+<col class="col8"/>
+<col class="col9"/>
+<col class="col10"/>
+<col class="col11"/>
+<col class="col12"/>
+<col class="col13"/>
+<col class="col14"/>
+<tbody>
+<tr class="row0">
+<td class="column0 style1 s">Table 4f: Average Weekly Expenditure on all Goods and on Fuel, Light and Power (£/wk) - UK figures</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row1">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row2">
+<td class="column0"> </td>
+<td class="column1 style2 null"></td>
+<td class="column2 style2 null"></td>
+<td class="column3 style3 null"></td>
+<td class="column4 style3 null"></td>
+<td class="column5 style19 null"></td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row3">
+<td class="column0"> </td>
+<td class="column1 style4 s">Contemporary prices</td>
+<td class="column2 style4 null"></td>
+<td class="column3 style5 s">2009 prices</td>
+<td class="column4 style5 null"></td>
+<td class="column5 style20 s">% on fuel, light &amp; power</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row4">
+<td class="column0"> </td>
+<td class="column1 style6 null"></td>
+<td class="column2 style7 null"></td>
+<td class="column3 style8 null"></td>
+<td class="column4 style21 null"></td>
+<td class="column5 style22 null"></td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row5">
+<td class="column0 style9 s">Year</td>
+<td class="column1 style10 s">All goods (£)</td>
+<td class="column2 style11 s">Fuel, light &amp; power (£)</td>
+<td class="column3 style8 s">All goods (£)</td>
+<td class="column4 style23 s">Fuel, light &amp; power (£)</td>
+<td class="column5 style22 null"></td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row6">
+<td class="column0 style12 n">1970</td>
+<td class="column1 style13 n">28.57 </td>
+<td class="column2 style14 n">1.79 </td>
+<td class="column3 style15 n">330.02</td>
+<td class="column4 style24 n">20.68</td>
+<td class="column5 style25 n">6.3%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row7">
+<td class="column0 style12 n">1971</td>
+<td class="column1 style13 n">30.99 </td>
+<td class="column2 style14 n">1.85 </td>
+<td class="column3 style15 n">326.24</td>
+<td class="column4 style24 n">19.48</td>
+<td class="column5 style25 n">6.0%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row8">
+<td class="column0 style12 n">1972</td>
+<td class="column1 style13 n">35.06 </td>
+<td class="column2 style14 n">2.06 </td>
+<td class="column3 style15 n">345.27</td>
+<td class="column4 style24 n">20.29</td>
+<td class="column5 style25 n">5.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row9">
+<td class="column0 style12 n">1973</td>
+<td class="column1 style13 n">39.43 </td>
+<td class="column2 style14 n">2.17 </td>
+<td class="column3 style15 n">355.54</td>
+<td class="column4 style24 n">19.57</td>
+<td class="column5 style25 n">5.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row10">
+<td class="column0 style12 n">1974</td>
+<td class="column1 style13 n">46.13 </td>
+<td class="column2 style14 n">2.42 </td>
+<td class="column3 style15 n">358.47</td>
+<td class="column4 style24 n">18.81</td>
+<td class="column5 style25 n">5.2%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row11">
+<td class="column0 style12 n">1975</td>
+<td class="column1 style13 n">54.58 </td>
+<td class="column2 style14 n">2.99 </td>
+<td class="column3 style15 n">341.05</td>
+<td class="column4 style24 n">18.68</td>
+<td class="column5 style25 n">5.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row12">
+<td class="column0 style12 n">1976</td>
+<td class="column1 style13 n">61.70 </td>
+<td class="column2 style14 n">3.53 </td>
+<td class="column3 style15 n">331.29</td>
+<td class="column4 style24 n">18.95</td>
+<td class="column5 style25 n">5.7%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row13">
+<td class="column0 style12 n">1977</td>
+<td class="column1 style13 n">71.84 </td>
+<td class="column2 style14 n">4.38 </td>
+<td class="column3 style15 n">333.02</td>
+<td class="column4 style24 n">20.30</td>
+<td class="column5 style25 n">6.1%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row14">
+<td class="column0 style12 n">1978</td>
+<td class="column1 style13 n">80.26 </td>
+<td class="column2 style14 n">4.76 </td>
+<td class="column3 style15 n">343.03</td>
+<td class="column4 style24 n">20.34</td>
+<td class="column5 style25 n">5.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row15">
+<td class="column0 style12 n">1979</td>
+<td class="column1 style13 n">94.17 </td>
+<td class="column2 style14 n">5.25 </td>
+<td class="column3 style15 n">354.93</td>
+<td class="column4 style24 n">19.79</td>
+<td class="column5 style25 n">5.6%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row16">
+<td class="column0 style12 n">1980</td>
+<td class="column1 style13 n">110.60 </td>
+<td class="column2 style14 n">6.15 </td>
+<td class="column3 style15 n">353.82</td>
+<td class="column4 style24 n">19.67</td>
+<td class="column5 style25 n">5.6%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row17">
+<td class="column0 style12 n">1981</td>
+<td class="column1 style13 n">125.41 </td>
+<td class="column2 style14 n">7.46 </td>
+<td class="column3 style15 n">358.29</td>
+<td class="column4 style24 n">21.31</td>
+<td class="column5 style25 n">5.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row18">
+<td class="column0 style12 n">1982</td>
+<td class="column1 style13 n">133.92 </td>
+<td class="column2 style14 n">8.35 </td>
+<td class="column3 style15 n">352.45</td>
+<td class="column4 style24 n">21.98</td>
+<td class="column5 style25 n">6.2%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row19">
+<td class="column0 style12 n">1983</td>
+<td class="column1 style13 n">142.59 </td>
+<td class="column2 style14 n">9.22 </td>
+<td class="column3 style15 n">358.91</td>
+<td class="column4 style24 n">23.21</td>
+<td class="column5 style25 n">6.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row20">
+<td class="column0 style12 n">1984</td>
+<td class="column1 style13 n">151.92 </td>
+<td class="column2 style14 n">9.42 </td>
+<td class="column3 style15 n">363.96</td>
+<td class="column4 style24 n">22.57</td>
+<td class="column5 style25 n">6.2%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row21">
+<td class="column0 style12 n">1985</td>
+<td class="column1 style13 n">162.50 </td>
+<td class="column2 style14 n">9.95 </td>
+<td class="column3 style15 n">367.09</td>
+<td class="column4 style24 n">22.48</td>
+<td class="column5 style25 n">6.1%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row22">
+<td class="column0 style12 n">1986</td>
+<td class="column1 style13 n">178.10 </td>
+<td class="column2 style14 n">10.43 </td>
+<td class="column3 style15 n">389.16</td>
+<td class="column4 style24 n">22.79</td>
+<td class="column5 style25 n">5.9%</td>
+<td class="column6 style26 null"></td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row23">
+<td class="column0 style12 n">1987</td>
+<td class="column1 style13 n">188.62 </td>
+<td class="column2 style14 n">10.55 </td>
+<td class="column3 style15 n">395.57</td>
+<td class="column4 style24 n">22.13</td>
+<td class="column5 style25 n">5.6%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row24">
+<td class="column0 style12 n">1988</td>
+<td class="column1 style13 n">204.41 </td>
+<td class="column2 style14 n">10.48 </td>
+<td class="column3 style15 n">408.63</td>
+<td class="column4 style24 n">20.95</td>
+<td class="column5 style25 n">5.1%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row25">
+<td class="column0 style12 n">1989</td>
+<td class="column1 style13 n">224.32 </td>
+<td class="column2 style14 n">10.58 </td>
+<td class="column3 style15 n">416.12</td>
+<td class="column4 style24 n">19.63</td>
+<td class="column5 style25 n">4.7%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row26">
+<td class="column0 style12 n">1990</td>
+<td class="column1 style13 n">247.16 </td>
+<td class="column2 style14 n">11.11 </td>
+<td class="column3 style15 n">418.86</td>
+<td class="column4 style24 n">18.83</td>
+<td class="column5 style25 n">4.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row27">
+<td class="column0 style12 n">1991</td>
+<td class="column1 style13 n">259.04 </td>
+<td class="column2 style14 n">12.25 </td>
+<td class="column3 style15 n">414.66</td>
+<td class="column4 style24 n">19.61</td>
+<td class="column5 style25 n">4.7%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row28">
+<td class="column0 style12 n">1992</td>
+<td class="column1 style13 n">271.83 </td>
+<td class="column2 style14 n">13.02 </td>
+<td class="column3 style16 n">419.43</td>
+<td class="column4 style27 n">20.09</td>
+<td class="column5 style25 n">4.8%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row29">
+<td class="column0 style12 n">1993</td>
+<td class="column1 style13 n">276.68 </td>
+<td class="column2 style14 n">13.24 </td>
+<td class="column3 style16 n">420.23</td>
+<td class="column4 style27 n">20.11</td>
+<td class="column5 style25 n">4.8%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row30">
+<td class="column0 style12 n">1994</td>
+<td class="column1 style13 n">283.58 </td>
+<td class="column2 style14 n">12.95 </td>
+<td class="column3 style16 n">420.55</td>
+<td class="column4 style27 n">19.20</td>
+<td class="column5 style25 n">4.6%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row31">
+<td class="column0 style12 n">1995</td>
+<td class="column1 style13 n">289.86 </td>
+<td class="column2 style14 n">12.92 </td>
+<td class="column3 style16 n">415.45</td>
+<td class="column4 style27 n">18.52</td>
+<td class="column5 style25 n">4.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row32">
+<td class="column0 style12 n">1996</td>
+<td class="column1 style13 n">309.07 </td>
+<td class="column2 style14 n">13.35 </td>
+<td class="column3 style16 n">432.54</td>
+<td class="column4 style27 n">18.68</td>
+<td class="column5 style25 n">4.3%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row33">
+<td class="column0 style12 n">1997</td>
+<td class="column1 style13 n">328.78 </td>
+<td class="column2 style14 n">12.66 </td>
+<td class="column3 style16 n">446.10</td>
+<td class="column4 style27 n">17.18</td>
+<td class="column5 style25 n">3.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row34">
+<td class="column0 style12 n">1998</td>
+<td class="column1 style13 n">346.58 </td>
+<td class="column2 style14 n">11.78 </td>
+<td class="column3 style16 n">454.66</td>
+<td class="column4 style27 n">15.45</td>
+<td class="column5 style25 n">3.4%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row35">
+<td class="column0 style12 n">1999</td>
+<td class="column1 style13 n">353.47 </td>
+<td class="column2 style14 n">11.39 </td>
+<td class="column3 style16 n">456.69</td>
+<td class="column4 style27 n">14.72</td>
+<td class="column5 style25 n">3.2%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row36">
+<td class="column0 style12 n">2000</td>
+<td class="column1 style13 n">379.61 </td>
+<td class="column2 style14 n">11.92 </td>
+<td class="column3 style16 n">476.36</td>
+<td class="column4 style27 n">14.96</td>
+<td class="column5 style25 n">3.1%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row37">
+<td class="column0 style12 n">2001</td>
+<td class="column1 style13 n">397.20 </td>
+<td class="column2 style14 n">11.70 </td>
+<td class="column3 style16 n">489.80</td>
+<td class="column4 style27 n">14.43</td>
+<td class="column5 style25 n">2.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row38">
+<td class="column0 style12 n">2002</td>
+<td class="column1 style13 n">406.20 </td>
+<td class="column2 style14 n">11.70 </td>
+<td class="column3 style16 n">492.65</td>
+<td class="column4 style27 n">14.19</td>
+<td class="column5 style25 n">2.9%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row39">
+<td class="column0 style12 n">2003</td>
+<td class="column1 style13 n">441.25 </td>
+<td class="column2 style14 n">12.20 </td>
+<td class="column3 style16 n">520.02</td>
+<td class="column4 style27 n">14.38</td>
+<td class="column5 style25 n">2.8%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row40">
+<td class="column0 style12 n">2004</td>
+<td class="column1 style13 n">457.90 </td>
+<td class="column2 style14 n">12.70 </td>
+<td class="column3 style16 n">524.33</td>
+<td class="column4 style27 n">14.54</td>
+<td class="column5 style25 n">2.8%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row41">
+<td class="column0 style12 n">2005</td>
+<td class="column1 style13 n">465.43 </td>
+<td class="column2 style14 n">13.99 </td>
+<td class="column3 style16 n">518.16</td>
+<td class="column4 style27 n">15.57</td>
+<td class="column5 style25 n">3.0%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row42">
+<td class="column0 style12 n">2006</td>
+<td class="column1 style13 n">455.90 </td>
+<td class="column2 style14 n">15.90 </td>
+<td class="column3 style16 n">491.80</td>
+<td class="column4 style27 n">17.15</td>
+<td class="column5 style25 n">3.5%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row43">
+<td class="column0 style12 n">2007</td>
+<td class="column1 style13 n">459.20 </td>
+<td class="column2 style14 n">17.20 </td>
+<td class="column3 style16 n">475.10</td>
+<td class="column4 style27 n">17.80</td>
+<td class="column5 style25 n">3.7%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row44">
+<td class="column0 style12 n">2008</td>
+<td class="column1 style13 n">470.99 </td>
+<td class="column2 style14 n">18.90 </td>
+<td class="column3 style16 n">468.61</td>
+<td class="column4 style27 n">18.80</td>
+<td class="column5 style25 n">4.0%</td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row45">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row46">
+<td class="column0 style0 s">Sources: </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row47">
+<td class="column0 style0 s">Family Expenditure Survey (pre 2001)/ Expenditure and Food Survey (2001- 2007)/ONS: Living Costs and Food Survey (2008 onwards)</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row48">
+<td class="column0 style0 s">http://www.statistics.gov.uk/downloads/theme_social/Family-Spending-2008/FamilySpending2009.pdf</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row49">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row50">
+<td class="column0 style0 s">Notes:</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row51">
+<td class="column0 style0 s">1) UK weekly expenditure figures have been deflated to 2009 prices using the Retail Price Index.</td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row52">
+<td class="column0 style17 s">2) Percentage of expenditure on 'Fuel, light and power' has been calculated by dividing 'Fuel, light and power' figures by 'All goods' (£/week).</td>
+<td class="column1 style17 null"></td>
+<td class="column2 style17 null"></td>
+<td class="column3 style17 null"></td>
+<td class="column4 style17 null"></td>
+<td class="column5 style17 null"></td>
+<td class="column6 style17 null"></td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row53">
+<td class="column0 style0 s">3) Family Expenditure Survey merged into Expenditure and Food Survey in 2001, and is known as Living Costs and Food Survey from 2008 onwards. </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row54">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row55">
+<td class="column0"> </td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row56">
+<td class="column0 style18 null"></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+<tr class="row57">
+<td class="column0 style18 null"></td>
+<td class="column1"> </td>
+<td class="column2"> </td>
+<td class="column3"> </td>
+<td class="column4"> </td>
+<td class="column5"> </td>
+<td class="column6"> </td>
+<td class="column7"> </td>
+<td class="column8"> </td>
+<td class="column9"> </td>
+<td class="column10"> </td>
+<td class="column11"> </td>
+<td class="column12"> </td>
+<td class="column13"> </td>
+<td class="column14"> </td>
+</tr>
+</tbody>
+</table>

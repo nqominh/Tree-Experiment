@@ -1,0 +1,43 @@
+# DeepInfra Experiment Commands
+# ================================================================
+# Prerequisites:
+#   - Ensure table_inputs_2/ contains the required .txt files
+#   - Ensure .env.deepinfra has DEEPINFRA_API_KEY set
+#   - pip install -r requirements.txt
+#
+# Usage:
+#   .venv\Scripts\python.exe run_experiment_deepinfra.py [args...]
+# ================================================================
+
+# ----------------------------------------------------------------
+# C1 - Vanilla (baseline)
+# ----------------------------------------------------------------
+python run_experiment_deepinfra.py `
+  --questions "tests/questions_725_merged.jsonl" `
+  --prompt-file "run_doc/prompts/C1_Vanilla.md" `
+  --output "score/deepinfra/c1_vanilla_results.csv" `
+  --model "meta-llama/Meta-Llama-3.1-8B-Instruct" `
+  --temperature 0 `
+  --delay 1.5
+
+# ----------------------------------------------------------------
+# C3 - Schema Injection
+# ----------------------------------------------------------------
+python run_experiment_deepinfra.py `
+  --questions "tests/questions_725_merged.jsonl" `
+  --prompt-file "run_doc/prompts/C3_SchemaOnly.md" `
+  --output "score/deepinfra/c3_schema_results.csv" `
+  --model "meta-llama/Meta-Llama-3.1-8B-Instruct" `
+  --temperature 0 `
+  --delay 1.5
+
+# ----------------------------------------------------------------
+# C5 - Full Method (Schema + Reasoning Scaffold)
+# ----------------------------------------------------------------
+python run_experiment_deepinfra.py `
+  --questions "tests/questions_725_merged.jsonl" `
+  --prompt-file "run_doc/prompts/C5_FullMethod.md" `
+  --output "score/deepinfra/c5_fullmethod_results.csv" `
+  --model "meta-llama/Meta-Llama-3.1-8B-Instruct" `
+  --temperature 0 `
+  --delay 1.5

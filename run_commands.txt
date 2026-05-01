@@ -15,6 +15,7 @@
 python run_experiment_deepinfra.py `
   --questions "tests/questions_725_merged.jsonl" `
   --prompt-file "run_doc/prompts/C1_Vanilla.md" `
+  --html-dir "RealHiTBench/html" `
   --output "score/deepinfra/c1_vanilla_results.csv" `
   --model "meta-llama/Meta-Llama-3.1-8B-Instruct" `
   --temperature 0 `

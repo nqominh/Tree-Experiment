@@ -48,7 +48,7 @@ csv.field_size_limit(sys.maxsize)
 
 PROJECT_ROOT   = Path(__file__).resolve().parent
 QUESTIONS_PATH = PROJECT_ROOT / "tests" / "questions_clean_audit copy.jsonl"
-TABLE_INPUTS   = PROJECT_ROOT / "table_inputs_2"
+TABLE_INPUTS   = PROJECT_ROOT / "table_inputs_new"
 TREES_JSON     = PROJECT_ROOT / "trees_json"
 OUTPUT_CSV     = PROJECT_ROOT / "experiment_results.csv"
 DEFAULT_PROMPT = PROJECT_ROOT / "EVIDENCE_PROMPT.md"
